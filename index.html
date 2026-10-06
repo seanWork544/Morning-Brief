@@ -1,3 +1,224 @@
 <!doctype html>
-<html><head><meta charset="utf-8"><title>Morning Brief</title></head>
-<body><p>Morning brief coming online…</p></body></html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Morning Brief</title>
+<meta name="theme-color" content="#060b14">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Rajdhani:wght@500;600;700&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --bg: #060b14;
+    --panel: #0c1524;
+    --panel-2: #101c30;
+    --line: #1c2c46;
+    --text: #e6eef8;
+    --muted: #8ba0bd;
+    --accent: #4fd1ff;
+    --accent-2: #8a7dff;
+    --glow: rgba(79, 209, 255, .18);
+  }
+  * { box-sizing: border-box; }
+  html, body { margin: 0; background: var(--bg); color: var(--text); }
+  body {
+    font: 15px/1.55 Inter, system-ui, sans-serif;
+    background:
+      radial-gradient(900px 500px at 85% -10%, rgba(138,125,255,.12), transparent 60%),
+      radial-gradient(800px 500px at -10% 0%, rgba(79,209,255,.10), transparent 60%),
+      var(--bg);
+    min-height: 100vh;
+  }
+  .wrap { max-width: 760px; margin: 0 auto; padding: 20px 16px 60px; }
+  header { padding: 8px 0 18px; border-bottom: 1px solid var(--line); margin-bottom: 18px; }
+  .eyebrow {
+    font: 600 12px/1 Rajdhani, sans-serif; letter-spacing: .22em; text-transform: uppercase;
+    color: var(--accent); display: flex; align-items: center; gap: 8px;
+  }
+  .eyebrow::before { content: ""; width: 8px; height: 8px; border-radius: 50%; background: var(--accent); box-shadow: 0 0 10px var(--accent); }
+  h1 { font: 700 34px/1.1 Rajdhani, sans-serif; margin: 10px 0 4px; letter-spacing: .01em; }
+  .date { color: var(--muted); font-size: 14px; }
+  .lede { margin: 14px 0 0; font-size: 16px; color: #cfe0f2; }
+  h2 {
+    font: 700 13px/1 Rajdhani, sans-serif; letter-spacing: .2em; text-transform: uppercase;
+    color: var(--muted); margin: 28px 0 10px; display: flex; align-items: center; gap: 10px;
+  }
+  h2::after { content: ""; flex: 1; height: 1px; background: linear-gradient(90deg, var(--line), transparent); }
+  .card {
+    background: linear-gradient(180deg, var(--panel-2), var(--panel));
+    border: 1px solid var(--line); border-radius: 14px; padding: 14px 16px;
+  }
+  /* Weather */
+  .loc { display: flex; justify-content: space-between; align-items: baseline; gap: 10px; margin-bottom: 10px; flex-wrap: wrap; }
+  .loc strong { font: 600 18px/1.2 Rajdhani, sans-serif; }
+  .loc small { color: var(--muted); font-size: 12px; }
+  .days { display: grid; grid-template-columns: repeat(7, 1fr); gap: 6px; margin-bottom: 12px; }
+  .day { text-align: center; background: rgba(255,255,255,.02); border: 1px solid var(--line); border-radius: 10px; padding: 8px 2px; min-width: 0; }
+  .day .d { font: 600 12px/1 Rajdhani, sans-serif; letter-spacing: .08em; color: var(--muted); text-transform: uppercase; }
+  .day .ic { font-size: 20px; margin: 6px 0 4px; }
+  .day .t { font-weight: 600; font-size: 13px; }
+  .day .t span { color: var(--muted); font-weight: 400; }
+  .day .x { font-size: 11px; color: var(--muted); margin-top: 2px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+  .day .x.wet { color: var(--accent); }
+  .windy { width: 100%; height: 440px; border: 0; border-radius: 10px; display: block; background: #0a1220; }
+  .wlinks { display: flex; justify-content: space-between; margin-top: 8px; font-size: 13px; gap: 10px; flex-wrap: wrap; }
+  a { color: var(--accent); text-decoration: none; }
+  a:hover { text-decoration: underline; }
+  button.link { background: none; border: 0; color: var(--accent); font: inherit; padding: 0; cursor: pointer; }
+  /* Upcoming */
+  .up { list-style: none; margin: 0; padding: 0; }
+  .up li { display: grid; grid-template-columns: 84px 1fr; gap: 10px; padding: 7px 0; border-bottom: 1px dashed var(--line); }
+  .up li:last-child { border-bottom: 0; }
+  .up .w { font: 600 13px/1.4 Rajdhani, sans-serif; color: var(--accent); letter-spacing: .04em; }
+  /* News */
+  .item { padding: 12px 0; border-bottom: 1px solid var(--line); }
+  .item:first-child { padding-top: 2px; }
+  .item:last-child { border-bottom: 0; padding-bottom: 2px; }
+  .item h3 { margin: 0 0 4px; font: 600 17px/1.3 Rajdhani, sans-serif; letter-spacing: .01em; }
+  .item p { margin: 0 0 4px; color: #c3d2e4; }
+  .item .src { font-size: 12px; }
+  footer { margin-top: 36px; color: var(--muted); font-size: 12px; text-align: center; }
+  .err { color: var(--muted); }
+  @media (max-width: 480px) {
+    h1 { font-size: 30px; }
+    .days { gap: 4px; }
+    .day { padding: 7px 0; }
+    .day .ic { font-size: 18px; }
+    .day .t { font-size: 12px; }
+    .windy { height: 400px; }
+  }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <div class="eyebrow">Morning Brief</div>
+    <h1 id="greet">Good morning, Seán</h1>
+    <div class="date" id="date">Loading…</div>
+    <p class="lede" id="lede"></p>
+  </header>
+
+  <h2>Weather · next 7 days</h2>
+  <section class="card">
+    <div class="loc">
+      <strong id="place">Finding you…</strong>
+      <small id="locnote"></small>
+    </div>
+    <div class="days" id="days"></div>
+    <iframe class="windy" id="windy" title="Windy forecast" loading="lazy"></iframe>
+    <div class="wlinks">
+      <button class="link" id="relocate" type="button">Use my location</button>
+      <a id="windylink" href="https://www.windy.com" target="_blank" rel="noopener">Open full forecast on Windy →</a>
+    </div>
+  </section>
+
+  <h2>Coming up</h2>
+  <section class="card"><ul class="up" id="upcoming"></ul></section>
+
+  <div id="sections"></div>
+
+  <footer id="foot">Compiled by Claude each morning.</footer>
+</div>
+
+<script>
+const HOME = { lat: 53.99, lon: -7.36, name: "Cavan" };
+
+const WMO = c =>
+  c === 0 ? ["☀️","Clear"] : c <= 2 ? ["🌤️","Partly cloudy"] : c === 3 ? ["☁️","Overcast"] :
+  c <= 48 ? ["🌫️","Fog"] : c <= 57 ? ["🌦️","Drizzle"] : c <= 67 ? ["🌧️","Rain"] :
+  c <= 77 ? ["🌨️","Snow"] : c <= 82 ? ["🌧️","Showers"] : c <= 86 ? ["🌨️","Snow showers"] : ["⛈️","Thunder"];
+
+function esc(s) { const d = document.createElement("div"); d.textContent = s ?? ""; return d.innerHTML; }
+
+function windyEmbed(lat, lon) {
+  const p = new URLSearchParams({
+    lat: lat.toFixed(3), lon: lon.toFixed(3), detailLat: lat.toFixed(3), detailLon: lon.toFixed(3),
+    width: 650, height: 450, zoom: 8, level: "surface", overlay: "wind", product: "ecmwf",
+    menu: "", message: "true", marker: "true", calendar: "now", pressure: "", type: "map",
+    location: "coordinates", detail: "true", metricWind: "km/h", metricTemp: "°C", radarRange: "-1"
+  });
+  return "https://embed.windy.com/embed2.html?" + p.toString();
+}
+
+async function placeName(lat, lon) {
+  try {
+    const r = await fetch(`https://api.bigdatacloud.net/data/reverse-geocode-client?latitude=${lat}&longitude=${lon}&localityLanguage=en`);
+    const j = await r.json();
+    return j.locality || j.city || j.principalSubdivision || null;
+  } catch { return null; }
+}
+
+async function sevenDay(lat, lon) {
+  const box = document.getElementById("days");
+  try {
+    const url = `https://api.open-meteo.com/v1/forecast?latitude=${lat}&longitude=${lon}` +
+      `&daily=weather_code,temperature_2m_max,temperature_2m_min,precipitation_sum,wind_speed_10m_max,wind_gusts_10m_max` +
+      `&wind_speed_unit=kmh&timezone=auto&forecast_days=7`;
+    const d = (await (await fetch(url)).json()).daily;
+    box.innerHTML = d.time.map((t, i) => {
+      const [ic, label] = WMO(d.weather_code[i]);
+      const day = i === 0 ? "Today" : new Date(t + "T12:00").toLocaleDateString("en-IE", { weekday: "short" });
+      const rain = d.precipitation_sum[i];
+      const wet = rain >= 1;
+      return `<div class="day" title="${label}, gusts ${Math.round(d.wind_gusts_10m_max[i])} km/h">
+        <div class="d">${day}</div><div class="ic">${ic}</div>
+        <div class="t">${Math.round(d.temperature_2m_max[i])}° <span>${Math.round(d.temperature_2m_min[i])}°</span></div>
+        <div class="x ${wet ? "wet" : ""}">${wet ? rain.toFixed(0) + "mm" : "dry"}</div>
+        <div class="x">💨${Math.round(d.wind_speed_10m_max[i])}</div></div>`;
+    }).join("");
+  } catch { box.innerHTML = `<div class="err" style="grid-column:1/-1">Quick-view forecast unavailable — Windy below still works.</div>`; }
+}
+
+async function showWeather(lat, lon, label, note) {
+  document.getElementById("windy").src = windyEmbed(lat, lon);
+  document.getElementById("windylink").href = `https://www.windy.com/${lat.toFixed(3)}/${lon.toFixed(3)}?${lat.toFixed(3)},${lon.toFixed(3)},9`;
+  document.getElementById("place").textContent = label;
+  document.getElementById("locnote").textContent = note;
+  sevenDay(lat, lon);
+  if (!label || label === "Your location") {
+    const n = await placeName(lat, lon);
+    if (n) document.getElementById("place").textContent = n;
+  }
+}
+
+function locate() {
+  if (!navigator.geolocation) return showWeather(HOME.lat, HOME.lon, HOME.name, "Location not available — showing home");
+  document.getElementById("place").textContent = "Finding you…";
+  navigator.geolocation.getCurrentPosition(
+    p => showWeather(p.coords.latitude, p.coords.longitude, "Your location", "Current location"),
+    () => showWeather(HOME.lat, HOME.lon, HOME.name, "Location off — showing home"),
+    { enableHighAccuracy: false, timeout: 8000, maximumAge: 30 * 60 * 1000 }
+  );
+}
+document.getElementById("relocate").addEventListener("click", locate);
+locate();
+
+const h = new Date().getHours();
+document.getElementById("greet").textContent =
+  (h < 12 ? "Good morning" : h < 18 ? "Good afternoon" : "Good evening") + ", Seán";
+
+fetch("brief.json?v=" + Date.now()).then(r => r.json()).then(b => {
+  const d = new Date(b.date + "T12:00");
+  document.getElementById("date").textContent =
+    d.toLocaleDateString("en-IE", { weekday: "long", day: "numeric", month: "long", year: "numeric" });
+  document.getElementById("lede").textContent = b.headline || "";
+  document.getElementById("upcoming").innerHTML = (b.upcoming || []).map(u =>
+    `<li><span class="w">${esc(u.when)}</span><span>${esc(u.what)}</span></li>`).join("") ||
+    `<li><span class="w">—</span><span class="err">Nothing flagged.</span></li>`;
+  document.getElementById("sections").innerHTML = (b.sections || []).map(s => `
+    <h2>${esc(s.title)}</h2>
+    <section class="card">${(s.items || []).map(it => `
+      <article class="item">
+        <h3>${esc(it.headline)}</h3>
+        <p>${esc(it.summary)}</p>
+        ${it.url ? `<a class="src" href="${esc(it.url)}" target="_blank" rel="noopener">${esc(it.source || "Source")} →</a>` : ""}
+      </article>`).join("") || `<p class="err">Quiet day here.</p>`}
+    </section>`).join("");
+  if (b.generated) document.getElementById("foot").textContent =
+    "Compiled by Claude · " + new Date(b.generated).toLocaleString("en-IE", { weekday: "short", hour: "2-digit", minute: "2-digit" });
+}).catch(() => {
+  document.getElementById("date").textContent = "Today's brief hasn't loaded — try a refresh.";
+});
+</script>
+</body>
+</html>

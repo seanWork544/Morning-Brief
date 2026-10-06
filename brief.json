@@ -1,0 +1,135 @@
+{
+  "date": "2026-10-06",
+  "generated": "2026-10-06T12:30:00+01:00",
+  "headline": "Verstappen wins at Sepang, Singapore next. UFC Vegas this Saturday, and a monster October for games.",
+  "upcoming": [
+    { "when": "Sat 10 Oct", "what": "UFC Fight Night: Allen vs Duncan — Apex, Las Vegas (main card 01:00 Sun Irish time)" },
+    { "when": "Sun 11 Oct", "what": "F1 Singapore Grand Prix" },
+    { "when": "13 Oct", "what": "Valor Mortis and Planet Zoo 2 release" },
+    { "when": "17–18 Oct", "what": "GT World Challenge Europe Endurance Cup finale — 3 Hours of Portimão" },
+    { "when": "23 Oct", "what": "Call of Duty: Modern Warfare 4 releases" }
+  ],
+  "sections": [
+    {
+      "title": "Motorsport",
+      "items": [
+        {
+          "headline": "Verstappen wins the Bahrain GP — held at Sepang",
+          "summary": "The relocated Bahrain Grand Prix ran at Malaysia's Sepang circuit on Sunday after the April date was postponed. Verstappen took the win from Antonelli, with Hamilton third and Leclerc fourth.",
+          "source": "RacingNews365",
+          "url": "https://racingnews365.com/f1/races/bahrain-gp/results/2026/race"
+        },
+        {
+          "headline": "Russell took Baku before that",
+          "summary": "Russell converted pole into victory in Azerbaijan, holding off Verstappen by two tenths, while Antonelli charged from 16th to fifth.",
+          "source": "Silverstone",
+          "url": "https://www.silverstone.co.uk/news/f1-2026-azerbaijan-grand-prix-results-russell-wins-baku"
+        },
+        {
+          "headline": "Singapore up next, with a sprint this year",
+          "summary": "F1 heads to Marina Bay on 11 October; the 2026 event adds a sprint race to the weekend.",
+          "source": "City Nomads",
+          "url": "https://citynomads.com/the-singapore-grand-prix-2026-is-adding-a-sprint-race-and-a-brand-new-barge-stage/"
+        },
+        {
+          "headline": "GTWC Endurance: Mercedes Mann-Filter lead into Portimão finale",
+          "summary": "Auer, Engel and Stolz hold a big Pro Cup lead heading to the 3 Hours of Portimão (17–18 Oct). AF Corse's #51 Ferrari of Mosca, Nielsen and Rovera won this year's 24 Hours of Spa.",
+          "source": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/2026_GT_World_Challenge_Europe_Endurance_Cup"
+        }
+      ]
+    },
+    {
+      "title": "MMA",
+      "items": [
+        {
+          "headline": "UFC Vegas this Saturday: Allen vs Duncan",
+          "summary": "Brendan Allen meets England's Christian Leroy Duncan in a five-round middleweight main event. Co-main has Jai Herbert against Matheus Camilo; Godinez vs Souza and Fili vs Kamaka also on the main card.",
+          "source": "Next Fight",
+          "url": "https://next-fight.com/en/event/ufc-fight-night-oct-10"
+        },
+        {
+          "headline": "Big fights on the horizon",
+          "summary": "Chatter this week around Volkanovski vs Evloev, Pereira vs Pavlovich, and Oliveira vs Diego Lopes, which Eddie Alvarez calls a BMF-calibre fight. Kevin Vallejos is preparing for Aljamain Sterling.",
+          "source": "MMA Sucka",
+          "url": "https://www.mmasucka.com/"
+        },
+        {
+          "headline": "O'Malley eyes Petr Yan route",
+          "summary": "O'Malley says he may skip Payton Talbott and target Yan if Merab Dvalishvili loses. Elsewhere, Sean Sharaf is still riding his upset win over Gable Steveson at UFC 331.",
+          "source": "MMA Sucka",
+          "url": "https://www.mmasucka.com/"
+        }
+      ]
+    },
+    {
+      "title": "BJJ & Grappling",
+      "items": [
+        {
+          "headline": "ADCC 2026 recap: Pena makes absolute history",
+          "summary": "Felipe Pena became the first two-time ADCC absolute champion in Kraków, choking Roosevelt Sousa in the final. Luke Griffith submitted defending champ Kaynan Duarte to take -99kg.",
+          "source": "MMA Sucka",
+          "url": "https://mmasucka.com/news/felipe-pena-makes-adcc-history-as-kaynan-duarte-loses-title-and-suffers-injury/"
+        },
+        {
+          "headline": "Crevar and Jaworski win ADCC gold",
+          "summary": "ONE Championship grapplers Helena Crevar and Paweł Jaworski both left Kraków as world champions — a home win for Jaworski.",
+          "source": "MMA Sucka",
+          "url": "https://mmasucka.com/news/one-championship-stars-helena-crevar-and-pawel-jaworski-win-gold-at-2026-adcc-worlds/"
+        }
+      ]
+    },
+    {
+      "title": "Gaming",
+      "items": [
+        {
+          "headline": "Star Wars: Galactic Racer is out today",
+          "summary": "A run-based Star Wars racer lands on Steam today, kicking off a packed month.",
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/pc-game-release-dates-october-2026/"
+        },
+        {
+          "headline": "This week: Dragon's Dogma 2 expansion, Car Park Capital",
+          "summary": "Dark Arisen for Dragon's Dogma 2 and the car-culture city builder Car Park Capital both arrive 9 October. Valor Mortis (Napoleonic soulslike) and Planet Zoo 2 follow on the 13th, with Enshrouded hitting 1.0 on the 15th.",
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/pc-game-release-dates-october-2026/"
+        },
+        {
+          "headline": "Later in October: CoD MW4 and Phantom Blade Zero",
+          "summary": "Final Fantasy Resonance (22nd), Call of Duty: Modern Warfare 4 (23rd) and Phantom Blade Zero (28th) round out the month.",
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/pc-game-release-dates-october-2026/"
+        }
+      ]
+    },
+    {
+      "title": "Tech",
+      "items": [
+        {
+          "headline": "OpenAI to watermark ChatGPT text in the EU",
+          "summary": "OpenAI is starting to mark ChatGPT-generated text for users in Europe.",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/"
+        },
+        {
+          "headline": "Reflection launches Beam, an open-weight model",
+          "summary": "Reflection's new open-weight model is pitched as a cost-efficient Western rival to the leading Chinese open models.",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/"
+        },
+        {
+          "headline": "AI chip startup Etched draws $40B+ offers",
+          "summary": "The transformer-ASIC maker is fielding funding offers at a valuation above $40 billion.",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/"
+        },
+        {
+          "headline": "TikTok adds an AI shopping assistant",
+          "summary": "TikTok is rolling out AI shopping help and one-click checkout inside the app.",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/"
+        }
+      ]
+    }
+  ]
+}

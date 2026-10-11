@@ -1,0 +1,135 @@
+{
+  "date": "2026-10-11",
+  "generated": "2026-10-11T06:22:29+01:00",
+  "headline": "Verstappen wins a chaotic, rain-hit Singapore Sprint and starts today's GP from pole, Brendan Allen chokes out Christian Leroy Duncan in the fifth, and GPT-6 rolls out to every ChatGPT user.",
+  "upcoming": [
+    {"when": "Sun 11 Oct", "what": "F1 Singapore Grand Prix, 13:00 Irish time — Verstappen on pole, Leclerc and Hamilton behind"},
+    {"when": "13 Oct", "what": "Battlefield 6 and Valor Mortis join Game Pass; Valor Mortis and Planet Zoo 2 release"},
+    {"when": "16–18 Oct", "what": "WEC 6 Hours of Barcelona"},
+    {"when": "Sat 17 Oct", "what": "GTWC Europe Endurance finale, 3 Hours of Portimão, 17:00–20:00 (same time as Ireland)"},
+    {"when": "Sat 17 Oct", "what": "UFC Fight Night: Buckley vs Malott (Edmonton) — main card in the small hours of Sunday, Irish time"},
+    {"when": "23–25 Oct", "what": "F1 United States Grand Prix, Austin (Irish clocks go back on the 25th)"}
+  ],
+  "sections": [
+    {
+      "title": "Motorsport",
+      "items": [
+        {
+          "headline": "Verstappen wins rain-hit Singapore Sprint; Russell crashes, McLarens collide",
+          "summary": "Russell grabbed the lead at the start and binned it at the final corner of lap one, leaving Max to win from Hamilton, Leclerc and Antonelli. Norris tipped Piastri into a spin and finished eighth, with Oscar a lapped 14th.",
+          "source": "Formula1.com",
+          "url": "https://www.formula1.com/en/latest/article/verstappen-wins-dramatic-rain-hit-singapore-sprint-as-russell-crashes-and-mclarens-collide.4r90mH2skljBa5sinFAsyp"
+        },
+        {
+          "headline": "Verstappen takes GP pole by 0.054s from Leclerc",
+          "summary": "A clean sweep of Saturday for Max: Leclerc and Hamilton make it Ferrari 2-3, with Antonelli fourth and Norris fifth. Russell qualified sixth but drops back with an engine-change grid penalty; lights out at 13:00 Irish time.",
+          "source": "Formula1.com",
+          "url": "https://www.formula1.com/en/latest/article/verstappen-beats-leclerc-to-pole-position-for-the-singapore-gp.7yum1V3S9aSTyj3Zzzs0Y9"
+        },
+        {
+          "headline": "GTWC Europe finale moved to Saturday evening",
+          "summary": "Next weekend's 3 Hours of Portimão title decider now runs 17:00–20:00 on Saturday 17 October, shifted to avoid clashing with the WEC's 6 Hours of Barcelona.",
+          "source": "Pit Debrief",
+          "url": "https://www.pitdebrief.com/post/gtwc-europe-moves-2026-portimao-finale-to-saturday-evening-amidst-wec-clash/"
+        }
+      ]
+    },
+    {
+      "title": "MMA",
+      "items": [
+        {
+          "headline": "Brendan Allen submits Christian Leroy Duncan late in round five",
+          "summary": "Allen took the English middleweight's back and finished him with a rear-naked choke at 2:46 of the fifth (Duncan had lost a point for an eye poke). Allen, now on four straight wins, asked for a title shot and called out Dricus du Plessis.",
+          "source": "Yahoo Sports",
+          "url": "https://sports.yahoo.com/mma/article/ufc-vegas-122-results-brendan-allen-stops-christian-leroy-duncan-with-late-choke-calls-out-ex-champ-030151648.html"
+        },
+        {
+          "headline": "UK win for Jai Herbert; Prado flattens the overweight Bonfim",
+          "summary": "England's Jai Herbert edged Matheus Camilo on all three cards in the co-main. Francisco Prado knocked out Ismael Bonfim (who missed weight by 7.5lb) in round one, and Andre Fili and Otari Tanzilovi both scored head-kick-assisted KOs.",
+          "source": "Combat Press",
+          "url": "https://combatpress.com/2026/10/ufc-vegas-122-allen-vs-duncan-results/"
+        }
+      ]
+    },
+    {
+      "title": "Tech",
+      "items": [
+        {
+          "headline": "GPT-6 rolls out to all ChatGPT users",
+          "summary": "OpenAI is pushing GPT-6 worldwide with an 'Intelligent UI' that can answer with charts, diagrams and forms. Paid tiers get the GPT-6 Sol model; free users get a GPT-6 Luna-based model.",
+          "source": "FileHippo News",
+          "url": "https://news.filehippo.com/2026/10/october-10-tech-news-roundup-gpt-6-with-intelligent-ui-rolls-out-to-chatgpt-users-gta-vi-radio-stations-revealed-windows-search-is-getting-faster/"
+        },
+        {
+          "headline": "Qualcomm to license patents to Huawei for the first time",
+          "summary": "A notable thaw: Qualcomm has reportedly agreed a patent licence with Huawei, pending approval. Separately, Tencent is said to be leasing roughly $7bn of AI compute from Oracle over five years at well below typical H100 rates.",
+          "source": "Tom's Hardware",
+          "url": "https://www.tomshardware.com/tech-industry/this-week-on-toms-hardware-premium-october-10-2026-tencent-grabs-bargain-chips-qualcomm-huawei-ip-deal-groq-lawsuit-and-more"
+        },
+        {
+          "headline": "Windows Search gets a faster, launcher-style rebuild",
+          "summary": "Microsoft is testing a WinUI 3 Windows Search with typo tolerance, inline file previews and quick actions like toggling dark mode — Insiders' Experimental Channel only for now.",
+          "source": "Windows Insider Blog",
+          "url": "https://blogs.windows.com/windows-insider/2026/10/07/from-searching-to-doing-building-a-faster-more-streamlined-windows-search/"
+        }
+      ]
+    },
+    {
+      "title": "Science & Space",
+      "items": [
+        {
+          "headline": "CME hit sparks a strong G3 geomagnetic storm",
+          "summary": "NOAA says a CME arrived mid-afternoon Saturday and pushed the storm to G3 by about 18:00 UTC — the aurora chance flagged yesterday materialised. Activity was expected to ease after midnight, but it's worth a glance north tonight if skies are clear.",
+          "source": "NOAA SWPC",
+          "url": "https://www.spaceweather.gov/news/strong-g3-geomagnetic-storms-expected-10-oct-2026"
+        },
+        {
+          "headline": "Physicists finally observe 'Bethe strings' predicted in 1931",
+          "summary": "An Innsbruck-led team trapped ultracold caesium atoms in thin 1D tubes and directly saw Hans Bethe's bound particle clusters — some of six or more atoms — surviving collisions.",
+          "source": "ScienceDaily",
+          "url": "https://www.sciencedaily.com/releases/2026/10/261006234517.htm"
+        },
+        {
+          "headline": "9-billion-year-old hydrogen signal offers a cheap dark-energy probe",
+          "summary": "Canada's CHIME radio telescope picked up faint emission from hydrogen when the universe was about five billion years old, pointing to a lower-cost way to map cosmic expansion.",
+          "source": "ScienceDaily",
+          "url": "https://www.sciencedaily.com/releases/2026/10/261007042102.htm"
+        }
+      ]
+    },
+    {
+      "title": "Gaming",
+      "items": [
+        {
+          "headline": "GTA VI's radio stations revealed",
+          "summary": "Rockstar has detailed six stations (Latin, country, African, metal, pop and hip-hop) plus on-demand podcasts. Still on track for 19 November on PS5 and Xbox Series X|S — no PC date.",
+          "source": "Rockstar Games",
+          "url": "https://www.rockstargames.com/VI/music"
+        },
+        {
+          "headline": "Forza Horizon 6 on PS5 slips to January 2027",
+          "summary": "Playground confirms the PS5 version now lands 26 January 2027, with Premium early access and the first expansion (all platforms) on 21 January.",
+          "source": "FileHippo News",
+          "url": "https://news.filehippo.com/2026/10/october-10-tech-news-roundup-gpt-6-with-intelligent-ui-rolls-out-to-chatgpt-users-gta-vi-radio-stations-revealed-windows-search-is-getting-faster/"
+        }
+      ]
+    },
+    {
+      "title": "BJJ & Grappling",
+      "items": [
+        {
+          "headline": "Rider Zuchi stripped of IBJJF heavyweight world title",
+          "summary": "His Worlds sample from May came back positive for steroids; USADA gave him a three-year ban (reduced for admitting it). Nicholas Maglicic is promoted to world champion.",
+          "source": "BJJ Eastern Europe",
+          "url": "https://www.bjjee.com/bjj-news/rider-zuchi-stripped-of-ibjjf-world-title-banned-for-three-years/"
+        },
+        {
+          "headline": "FloGrappling boss says UFC BJJ is losing money",
+          "summary": "Flo GM Ben Kovacs reckons the UFC's grappling events don't add up financially given athlete pay demands and likely subscriber numbers — a rival's view, so pinch of salt. Otherwise a quiet weekend for results.",
+          "source": "BJJ Eastern Europe",
+          "url": "https://www.bjjee.com/bjj-news/flograppling-gm-ben-kovacs-says-ufc-bjj-is-losing-money-doesnt-math-out/"
+        }
+      ]
+    }
+  ]
+}

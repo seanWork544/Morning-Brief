@@ -1,53 +1,52 @@
 {
-  "date": "2026-10-11",
-  "generated": "2026-10-11T06:22:29+01:00",
-  "headline": "Verstappen wins a chaotic, rain-hit Singapore Sprint and starts today's GP from pole, Brendan Allen chokes out Christian Leroy Duncan in the fifth, and GPT-6 rolls out to every ChatGPT user.",
+  "date": "2026-10-12",
+  "generated": "2026-10-12T06:22:50+01:00",
+  "headline": "Verstappen converts pole into a second straight Singapore win as Antonelli's lead swells to 102 points with Austin a possible title decider, a nuclear clock that keeps itself in tune, and a quiet fight weekend before UFC Edmonton.",
   "upcoming": [
-    {"when": "Sun 11 Oct", "what": "F1 Singapore Grand Prix, 13:00 Irish time — Verstappen on pole, Leclerc and Hamilton behind"},
-    {"when": "13 Oct", "what": "Battlefield 6 and Valor Mortis join Game Pass; Valor Mortis and Planet Zoo 2 release"},
-    {"when": "16–18 Oct", "what": "WEC 6 Hours of Barcelona"},
-    {"when": "Sat 17 Oct", "what": "GTWC Europe Endurance finale, 3 Hours of Portimão, 17:00–20:00 (same time as Ireland)"},
-    {"when": "Sat 17 Oct", "what": "UFC Fight Night: Buckley vs Malott (Edmonton) — main card in the small hours of Sunday, Irish time"},
-    {"when": "23–25 Oct", "what": "F1 United States Grand Prix, Austin (Irish clocks go back on the 25th)"}
+    {
+      "when": "Tue 13 Oct",
+      "what": "Battlefield 6 and Valor Mortis join Game Pass; Valor Mortis and Planet Zoo 2 release"
+    },
+    {
+      "when": "16–18 Oct",
+      "what": "WEC 6 Hours of Barcelona"
+    },
+    {
+      "when": "Sat 17 Oct",
+      "what": "GTWC Europe Endurance finale, 3 Hours of Portimão, 17:00–20:00 Irish time"
+    },
+    {
+      "when": "Sat 17 Oct",
+      "what": "UFC Fight Night: Buckley vs Malott (Edmonton) — main card in the small hours of Sunday, Irish time"
+    },
+    {
+      "when": "NET 19 Oct",
+      "what": "Starship Flight 15 from Starbase (provisional, not officially confirmed)"
+    },
+    {
+      "when": "23–25 Oct",
+      "what": "F1 United States GP, Austin — Antonelli's first shot at the title (Irish clocks go back on the 25th)"
+    },
+    {
+      "when": "Sat 24 Oct",
+      "what": "UFC 333: Volkanovski vs Evloev, Abu Dhabi"
+    }
   ],
   "sections": [
     {
       "title": "Motorsport",
       "items": [
         {
-          "headline": "Verstappen wins rain-hit Singapore Sprint; Russell crashes, McLarens collide",
-          "summary": "Russell grabbed the lead at the start and binned it at the final corner of lap one, leaving Max to win from Hamilton, Leclerc and Antonelli. Norris tipped Piastri into a spin and finished eighth, with Oscar a lapped 14th.",
-          "source": "Formula1.com",
-          "url": "https://www.formula1.com/en/latest/article/verstappen-wins-dramatic-rain-hit-singapore-sprint-as-russell-crashes-and-mclarens-collide.4r90mH2skljBa5sinFAsyp"
+          "headline": "Verstappen wins Singapore from pole, Leclerc second",
+          "summary": "Max controlled the race through two Virtual Safety Cars to win by 7.3s from Leclerc, with Antonelli third and the McLarens fourth and fifth after a late Piastri puncture. Hamilton faded to sixth on old softs; Bortoleto, Colapinto and Stroll retired.",
+          "source": "F1-Fansite",
+          "url": "https://www.f1-fansite.com/f1-result/race-report-results-2026-singapore-formula-1-grand-prix/"
         },
         {
-          "headline": "Verstappen takes GP pole by 0.054s from Leclerc",
-          "summary": "A clean sweep of Saturday for Max: Leclerc and Hamilton make it Ferrari 2-3, with Antonelli fourth and Norris fifth. Russell qualified sixth but drops back with an engine-change grid penalty; lights out at 13:00 Irish time.",
-          "source": "Formula1.com",
-          "url": "https://www.formula1.com/en/latest/article/verstappen-beats-leclerc-to-pole-position-for-the-singapore-gp.7yum1V3S9aSTyj3Zzzs0Y9"
-        },
-        {
-          "headline": "GTWC Europe finale moved to Saturday evening",
-          "summary": "Next weekend's 3 Hours of Portimão title decider now runs 17:00–20:00 on Saturday 17 October, shifted to avoid clashing with the WEC's 6 Hours of Barcelona.",
-          "source": "Pit Debrief",
-          "url": "https://www.pitdebrief.com/post/gtwc-europe-moves-2026-portimao-finale-to-saturday-evening-amidst-wec-clash/"
-        }
-      ]
-    },
-    {
-      "title": "MMA",
-      "items": [
-        {
-          "headline": "Brendan Allen submits Christian Leroy Duncan late in round five",
-          "summary": "Allen took the English middleweight's back and finished him with a rear-naked choke at 2:46 of the fifth (Duncan had lost a point for an eye poke). Allen, now on four straight wins, asked for a title shot and called out Dricus du Plessis.",
-          "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/mma/article/ufc-vegas-122-results-brendan-allen-stops-christian-leroy-duncan-with-late-choke-calls-out-ex-champ-030151648.html"
-        },
-        {
-          "headline": "UK win for Jai Herbert; Prado flattens the overweight Bonfim",
-          "summary": "England's Jai Herbert edged Matheus Camilo on all three cards in the co-main. Francisco Prado knocked out Ismael Bonfim (who missed weight by 7.5lb) in round one, and Andre Fili and Otari Tanzilovi both scored head-kick-assisted KOs.",
-          "source": "Combat Press",
-          "url": "https://combatpress.com/2026/10/ufc-vegas-122-allen-vs-duncan-results/"
+          "headline": "Antonelli 102 points clear — can clinch in Austin",
+          "summary": "Russell recovered from 19th on the grid to ninth but still lost ground, leaving Antonelli on 340 points to Russell's 238 with six rounds left. Mercedes lead the constructors by 134 over Ferrari.",
+          "source": "F1-Fansite",
+          "url": "https://www.f1-fansite.com/f1-result/race-report-results-2026-singapore-formula-1-grand-prix/"
         }
       ]
     },
@@ -55,79 +54,94 @@
       "title": "Tech",
       "items": [
         {
-          "headline": "GPT-6 rolls out to all ChatGPT users",
-          "summary": "OpenAI is pushing GPT-6 worldwide with an 'Intelligent UI' that can answer with charts, diagrams and forms. Paid tiers get the GPT-6 Sol model; free users get a GPT-6 Luna-based model.",
-          "source": "FileHippo News",
-          "url": "https://news.filehippo.com/2026/10/october-10-tech-news-roundup-gpt-6-with-intelligent-ui-rolls-out-to-chatgpt-users-gta-vi-radio-stations-revealed-windows-search-is-getting-faster/"
+          "headline": "Mistral previews a ~1-trillion-parameter open-weight model",
+          "summary": "Mistral Large 4 is out in public preview at roughly 1.05 trillion parameters, with full weights promised once the preview ends — Europe's biggest open-model swing yet.",
+          "source": "Mistral AI",
+          "url": "https://mistral.ai/news/mistral-large-4/"
         },
         {
-          "headline": "Qualcomm to license patents to Huawei for the first time",
-          "summary": "A notable thaw: Qualcomm has reportedly agreed a patent licence with Huawei, pending approval. Separately, Tencent is said to be leasing roughly $7bn of AI compute from Oracle over five years at well below typical H100 rates.",
-          "source": "Tom's Hardware",
-          "url": "https://www.tomshardware.com/tech-industry/this-week-on-toms-hardware-premium-october-10-2026-tencent-grabs-bargain-chips-qualcomm-huawei-ip-deal-groq-lawsuit-and-more"
+          "headline": "Waymo takes on debt for the first time: a $5bn term loan",
+          "summary": "Alphabet's robotaxi unit has closed a $5 billion loan to fund its expansion, a sign it's being treated more like an operating business than a moonshot.",
+          "source": "Waymo",
+          "url": "https://www.waymo.com/blog/2026/10/waymo-closes-5-billion-debt-financing/"
         },
         {
-          "headline": "Windows Search gets a faster, launcher-style rebuild",
-          "summary": "Microsoft is testing a WinUI 3 Windows Search with typo tolerance, inline file previews and quick actions like toggling dark mode — Insiders' Experimental Channel only for now.",
-          "source": "Windows Insider Blog",
-          "url": "https://blogs.windows.com/windows-insider/2026/10/07/from-searching-to-doing-building-a-faster-more-streamlined-windows-search/"
+          "headline": "Industrial: Schneider Electric agrees to buy PTC for ~$22.6bn",
+          "summary": "The automation giant is paying $205 a share in cash for the CAD/PLM and industrial-IoT software maker, deepening its push into factory software.",
+          "source": "Tech Startups",
+          "url": "https://techstartups.com/2026/10/09/tech-news-weekly-roundup-the-biggest-stories-in-ai-big-tech-startups-and-cybersecurity/"
         }
       ]
     },
     {
       "title": "Science & Space",
+      "summary": "A quiet weekend for launches; the science feeds did the heavy lifting.",
       "items": [
         {
-          "headline": "CME hit sparks a strong G3 geomagnetic storm",
-          "summary": "NOAA says a CME arrived mid-afternoon Saturday and pushed the storm to G3 by about 18:00 UTC — the aurora chance flagged yesterday materialised. Activity was expected to ease after midnight, but it's worth a glance north tonight if skies are clear.",
-          "source": "NOAA SWPC",
-          "url": "https://www.spaceweather.gov/news/strong-g3-geomagnetic-storms-expected-10-oct-2026"
+          "headline": "A nuclear clock that keeps itself stable",
+          "summary": "Vienna researchers report a self-stabilising clock that ticks off a thorium nuclear transition rather than electrons — a step toward timekeepers that could outclass today's atomic clocks.",
+          "source": "ScienceDaily",
+          "url": "https://www.sciencedaily.com/releases/2026/10/261008102701.htm"
         },
         {
-          "headline": "Physicists finally observe 'Bethe strings' predicted in 1931",
-          "summary": "An Innsbruck-led team trapped ultracold caesium atoms in thin 1D tubes and directly saw Hans Bethe's bound particle clusters — some of six or more atoms — surviving collisions.",
+          "headline": "Fusion shortcut: heat first, then pack the plasma",
+          "summary": "Princeton Plasma Physics Lab work suggests reversing the usual order — raising plasma density after heating — could be a more efficient route to fusion conditions.",
           "source": "ScienceDaily",
-          "url": "https://www.sciencedaily.com/releases/2026/10/261006234517.htm"
+          "url": "https://www.sciencedaily.com/releases/2026/10/261008005242.htm"
         },
         {
-          "headline": "9-billion-year-old hydrogen signal offers a cheap dark-energy probe",
-          "summary": "Canada's CHIME radio telescope picked up faint emission from hydrogen when the universe was about five billion years old, pointing to a lower-cost way to map cosmic expansion.",
-          "source": "ScienceDaily",
-          "url": "https://www.sciencedaily.com/releases/2026/10/261007042102.htm"
+          "headline": "Hubble hints at a planet born after its star died",
+          "summary": "Odd niobium levels around the white dwarf HS 2331 point to a 'second-generation' planet that formed from debris after the star's death.",
+          "source": "Universe Today",
+          "url": "https://www.universetoday.com/articles/astronomers-detect-potential-second-generation-planet-around-dying-stellar-white-dwarf"
+        },
+        {
+          "headline": "Artemis II's preliminary lunar science report is out",
+          "summary": "The crew's photos, spoken observations and sketches from their lunar flyby are now published as a first science record of the mission.",
+          "source": "Universe Today",
+          "url": "https://www.universetoday.com/articles/the-preliminary-lunar-science-report-for-artemis-ii-is-out"
         }
       ]
     },
     {
       "title": "Gaming",
+      "summary": "Quiet weekend, and nothing new on the watchlist (Witcher 4, Cyberpunk 2, Witcher 3, Borderlands).",
       "items": [
         {
-          "headline": "GTA VI's radio stations revealed",
-          "summary": "Rockstar has detailed six stations (Latin, country, African, metal, pop and hip-hop) plus on-demand podcasts. Still on track for 19 November on PS5 and Xbox Series X|S — no PC date.",
-          "source": "Rockstar Games",
-          "url": "https://www.rockstargames.com/VI/music"
+          "headline": "Busy week ahead: Battlefield 6 hits Game Pass tomorrow",
+          "summary": "Tuesday brings Battlefield 6 and Valor Mortis to Game Pass alongside Planet Zoo 2's launch; PC Gamer's October list has the rest of a packed month.",
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/pc-game-release-dates-october-2026/"
         },
         {
-          "headline": "Forza Horizon 6 on PS5 slips to January 2027",
-          "summary": "Playground confirms the PS5 version now lands 26 January 2027, with Premium early access and the first expansion (all platforms) on 21 January.",
-          "source": "FileHippo News",
-          "url": "https://news.filehippo.com/2026/10/october-10-tech-news-roundup-gpt-6-with-intelligent-ui-rolls-out-to-chatgpt-users-gta-vi-radio-stations-revealed-windows-search-is-getting-faster/"
+          "headline": "Watchlist: quiet",
+          "summary": "Nothing new on The Witcher 4, Cyberpunk 2, Witcher 3 or Borderlands since last week — no padding today.",
+          "source": "VGTimes",
+          "url": "https://vgtimes.com/games/the-witcher-4/news/"
         }
       ]
     },
     {
       "title": "BJJ & Grappling",
+      "summary": "Genuinely quiet weekend at the top level — no major events.",
       "items": [
         {
-          "headline": "Rider Zuchi stripped of IBJJF heavyweight world title",
-          "summary": "His Worlds sample from May came back positive for steroids; USADA gave him a three-year ban (reduced for admitting it). Nicholas Maglicic is promoted to world champion.",
-          "source": "BJJ Eastern Europe",
-          "url": "https://www.bjjee.com/bjj-news/rider-zuchi-stripped-of-ibjjf-world-title-banned-for-three-years/"
-        },
+          "headline": "Quiet weekend on the mats",
+          "summary": "No major black-belt events this weekend after last week's No-Gi Pans, where Pawel Jaworski doubled up at 85kg and absolute and Sarah Galvão took the women's open.",
+          "source": "BJJ Heroes",
+          "url": "https://www.bjjheroes.com/bjj-news/2026-ibjjf-pan-american-no-gi-championship-results"
+        }
+      ]
+    },
+    {
+      "title": "MMA",
+      "summary": "UFC off-week; attention turns to Edmonton on Saturday.",
+      "items": [
         {
-          "headline": "FloGrappling boss says UFC BJJ is losing money",
-          "summary": "Flo GM Ben Kovacs reckons the UFC's grappling events don't add up financially given athlete pay demands and likely subscriber numbers — a rival's view, so pinch of salt. Otherwise a quiet weekend for results.",
-          "source": "BJJ Eastern Europe",
-          "url": "https://www.bjjee.com/bjj-news/flograppling-gm-ben-kovacs-says-ufc-bjj-is-losing-money-doesnt-math-out/"
+          "headline": "Next up: Buckley vs Malott headlines UFC Edmonton",
+          "summary": "A pivotal welterweight scrap with Canada's Mike Malott at home against Joaquin Buckley on Saturday; the main card lands in the early hours of Sunday, Irish time.",
+          "source": "UFC.com",
+          "url": "https://www.ufc.com/news/pivotal-welterweight-bout-between-joaquin-buckley-and-mike-malott-headlines-ufc-return"
         }
       ]
     }

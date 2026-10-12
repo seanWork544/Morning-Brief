@@ -1,0 +1,149 @@
+{
+  "date": "2026-10-12",
+  "generated": "2026-10-12T06:22:50+01:00",
+  "headline": "Verstappen converts pole into a second straight Singapore win as Antonelli's lead swells to 102 points with Austin a possible title decider, a nuclear clock that keeps itself in tune, and a quiet fight weekend before UFC Edmonton.",
+  "upcoming": [
+    {
+      "when": "Tue 13 Oct",
+      "what": "Battlefield 6 and Valor Mortis join Game Pass; Valor Mortis and Planet Zoo 2 release"
+    },
+    {
+      "when": "16–18 Oct",
+      "what": "WEC 6 Hours of Barcelona"
+    },
+    {
+      "when": "Sat 17 Oct",
+      "what": "GTWC Europe Endurance finale, 3 Hours of Portimão, 17:00–20:00 Irish time"
+    },
+    {
+      "when": "Sat 17 Oct",
+      "what": "UFC Fight Night: Buckley vs Malott (Edmonton) — main card in the small hours of Sunday, Irish time"
+    },
+    {
+      "when": "NET 19 Oct",
+      "what": "Starship Flight 15 from Starbase (provisional, not officially confirmed)"
+    },
+    {
+      "when": "23–25 Oct",
+      "what": "F1 United States GP, Austin — Antonelli's first shot at the title (Irish clocks go back on the 25th)"
+    },
+    {
+      "when": "Sat 24 Oct",
+      "what": "UFC 333: Volkanovski vs Evloev, Abu Dhabi"
+    }
+  ],
+  "sections": [
+    {
+      "title": "Motorsport",
+      "items": [
+        {
+          "headline": "Verstappen wins Singapore from pole, Leclerc second",
+          "summary": "Max controlled the race through two Virtual Safety Cars to win by 7.3s from Leclerc, with Antonelli third and the McLarens fourth and fifth after a late Piastri puncture. Hamilton faded to sixth on old softs; Bortoleto, Colapinto and Stroll retired.",
+          "source": "F1-Fansite",
+          "url": "https://www.f1-fansite.com/f1-result/race-report-results-2026-singapore-formula-1-grand-prix/"
+        },
+        {
+          "headline": "Antonelli 102 points clear — can clinch in Austin",
+          "summary": "Russell recovered from 19th on the grid to ninth but still lost ground, leaving Antonelli on 340 points to Russell's 238 with six rounds left. Mercedes lead the constructors by 134 over Ferrari.",
+          "source": "F1-Fansite",
+          "url": "https://www.f1-fansite.com/f1-result/race-report-results-2026-singapore-formula-1-grand-prix/"
+        }
+      ]
+    },
+    {
+      "title": "Tech",
+      "items": [
+        {
+          "headline": "Mistral previews a ~1-trillion-parameter open-weight model",
+          "summary": "Mistral Large 4 is out in public preview at roughly 1.05 trillion parameters, with full weights promised once the preview ends — Europe's biggest open-model swing yet.",
+          "source": "Mistral AI",
+          "url": "https://mistral.ai/news/mistral-large-4/"
+        },
+        {
+          "headline": "Waymo takes on debt for the first time: a $5bn term loan",
+          "summary": "Alphabet's robotaxi unit has closed a $5 billion loan to fund its expansion, a sign it's being treated more like an operating business than a moonshot.",
+          "source": "Waymo",
+          "url": "https://www.waymo.com/blog/2026/10/waymo-closes-5-billion-debt-financing/"
+        },
+        {
+          "headline": "Industrial: Schneider Electric agrees to buy PTC for ~$22.6bn",
+          "summary": "The automation giant is paying $205 a share in cash for the CAD/PLM and industrial-IoT software maker, deepening its push into factory software.",
+          "source": "Tech Startups",
+          "url": "https://techstartups.com/2026/10/09/tech-news-weekly-roundup-the-biggest-stories-in-ai-big-tech-startups-and-cybersecurity/"
+        }
+      ]
+    },
+    {
+      "title": "Science & Space",
+      "summary": "A quiet weekend for launches; the science feeds did the heavy lifting.",
+      "items": [
+        {
+          "headline": "A nuclear clock that keeps itself stable",
+          "summary": "Vienna researchers report a self-stabilising clock that ticks off a thorium nuclear transition rather than electrons — a step toward timekeepers that could outclass today's atomic clocks.",
+          "source": "ScienceDaily",
+          "url": "https://www.sciencedaily.com/releases/2026/10/261008102701.htm"
+        },
+        {
+          "headline": "Fusion shortcut: heat first, then pack the plasma",
+          "summary": "Princeton Plasma Physics Lab work suggests reversing the usual order — raising plasma density after heating — could be a more efficient route to fusion conditions.",
+          "source": "ScienceDaily",
+          "url": "https://www.sciencedaily.com/releases/2026/10/261008005242.htm"
+        },
+        {
+          "headline": "Hubble hints at a planet born after its star died",
+          "summary": "Odd niobium levels around the white dwarf HS 2331 point to a 'second-generation' planet that formed from debris after the star's death.",
+          "source": "Universe Today",
+          "url": "https://www.universetoday.com/articles/astronomers-detect-potential-second-generation-planet-around-dying-stellar-white-dwarf"
+        },
+        {
+          "headline": "Artemis II's preliminary lunar science report is out",
+          "summary": "The crew's photos, spoken observations and sketches from their lunar flyby are now published as a first science record of the mission.",
+          "source": "Universe Today",
+          "url": "https://www.universetoday.com/articles/the-preliminary-lunar-science-report-for-artemis-ii-is-out"
+        }
+      ]
+    },
+    {
+      "title": "Gaming",
+      "summary": "Quiet weekend, and nothing new on the watchlist (Witcher 4, Cyberpunk 2, Witcher 3, Borderlands).",
+      "items": [
+        {
+          "headline": "Busy week ahead: Battlefield 6 hits Game Pass tomorrow",
+          "summary": "Tuesday brings Battlefield 6 and Valor Mortis to Game Pass alongside Planet Zoo 2's launch; PC Gamer's October list has the rest of a packed month.",
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/pc-game-release-dates-october-2026/"
+        },
+        {
+          "headline": "Watchlist: quiet",
+          "summary": "Nothing new on The Witcher 4, Cyberpunk 2, Witcher 3 or Borderlands since last week — no padding today.",
+          "source": "VGTimes",
+          "url": "https://vgtimes.com/games/the-witcher-4/news/"
+        }
+      ]
+    },
+    {
+      "title": "BJJ & Grappling",
+      "summary": "Genuinely quiet weekend at the top level — no major events.",
+      "items": [
+        {
+          "headline": "Quiet weekend on the mats",
+          "summary": "No major black-belt events this weekend after last week's No-Gi Pans, where Pawel Jaworski doubled up at 85kg and absolute and Sarah Galvão took the women's open.",
+          "source": "BJJ Heroes",
+          "url": "https://www.bjjheroes.com/bjj-news/2026-ibjjf-pan-american-no-gi-championship-results"
+        }
+      ]
+    },
+    {
+      "title": "MMA",
+      "summary": "UFC off-week; attention turns to Edmonton on Saturday.",
+      "items": [
+        {
+          "headline": "Next up: Buckley vs Malott headlines UFC Edmonton",
+          "summary": "A pivotal welterweight scrap with Canada's Mike Malott at home against Joaquin Buckley on Saturday; the main card lands in the early hours of Sunday, Irish time.",
+          "source": "UFC.com",
+          "url": "https://www.ufc.com/news/pivotal-welterweight-bout-between-joaquin-buckley-and-mike-malott-headlines-ufc-return"
+        }
+      ]
+    }
+  ]
+}

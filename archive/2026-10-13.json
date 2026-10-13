@@ -1,0 +1,166 @@
+{
+  "date": "2026-10-13",
+  "generated": "2026-10-13T06:15:17+01:00",
+  "headline": "Hackers cook French supermarket fridges to 50°C, Dragon hauls the ISS its last new solar arrays this morning, Battlefield 6 lands on Game Pass, and Mercedes plots Russell's next engine penalty as Antonelli eyes Austin.",
+  "upcoming": [
+    {
+      "when": "Tue 13 Oct",
+      "what": "SpaceX CRS-35 cargo Dragon launches to the ISS, 11:33 Irish time; Battlefield 6 joins Game Pass with Season 5"
+    },
+    {
+      "when": "Thu 15 Oct",
+      "what": "Castlevania: Belmont's Curse launches on PS5, Xbox and PC"
+    },
+    {
+      "when": "Sat 17 Oct",
+      "what": "GTWC Europe Endurance finale, 3 Hours of Portimão, 17:00–20:00 Irish time; UFC Edmonton: Buckley vs Malott (main card small hours of Sunday, Irish time)"
+    },
+    {
+      "when": "Sun 18 Oct",
+      "what": "WEC 6 Hours of Barcelona, 11:00 Irish time, penultimate round"
+    },
+    {
+      "when": "23–25 Oct",
+      "what": "F1 United States GP, Austin; Antonelli's first shot at the title (Irish clocks go back on the 25th)"
+    },
+    {
+      "when": "Fri 23 Oct",
+      "what": "Call of Duty: Modern Warfare 4 releases (pre-order campaign early access from 16 Oct)"
+    },
+    {
+      "when": "Sat 24 Oct",
+      "what": "UFC 333: Volkanovski vs Evloev, Abu Dhabi"
+    }
+  ],
+  "sections": [
+    {
+      "title": "Tech",
+      "items": [
+        {
+          "headline": "Hackers hijack refrigeration at ~300 French supermarkets",
+          "summary": "Overnight on 11–12 October, attackers forced fridge defrost cycles to a 50°C setpoint at Intermarché, U and other stores, mostly via remotely supervised Danfoss controllers; Paris cybercrime prosecutors are investigating. It's a nasty example of exposed industrial controls, and no one has been named as responsible yet.",
+          "source": "LeBigData",
+          "url": "https://www.lebigdata.fr/cyberattaque-choc-en-france-300-supermarches-ravages-les-frigos-pirates-a-50-c"
+        },
+        {
+          "headline": "Networking: IonQ to buy segmentation firm Elisity for up to $1.3bn",
+          "summary": "The quantum company is buying the network-segmentation and identity-based access specialist in an all-stock deal, with up to $150m tied to performance.",
+          "source": "Tech Startups",
+          "url": "https://techstartups.com/2026/10/12/top-tech-news-today-october-12-2026-amazon-anthropic-amd-google-ionq-microsoft-tencent-more/"
+        },
+        {
+          "headline": "Amazon reportedly in talks to buy Decart for ~$7bn",
+          "summary": "The WSJ reports Amazon is negotiating for Decart, whose software helps AI workloads run across different chip types. Nothing is signed yet.",
+          "source": "Tech Startups",
+          "url": "https://techstartups.com/2026/10/12/top-tech-news-today-october-12-2026-amazon-anthropic-amd-google-ionq-microsoft-tencent-more/"
+        }
+      ]
+    },
+    {
+      "title": "Science & Space",
+      "items": [
+        {
+          "headline": "Today: CRS-35 Dragon carries the ISS's final new solar arrays",
+          "summary": "Falcon 9 is due to lift off from Cape Canaveral at 11:33 Irish time with the last pair of roll-out solar arrays, plus the failed Canadarm2 joint's return kit and experiments on artificial retinas and 3D heart tissue. Docking is planned for Thursday.",
+          "source": "Spaceflight Now",
+          "url": "https://spaceflightnow.com/2026/10/13/live-coverage-nasa-spacex-to-launch-new-solar-arrays-6300-pounds-of-cargo-to-the-space-station/"
+        },
+        {
+          "headline": "A small star caught slowly eating a brown dwarf",
+          "summary": "MIT astronomers found a star about 300 light-years away siphoning material off a close brown dwarf companion, a rare look at that kind of system.",
+          "source": "ScienceDaily",
+          "url": "https://www.sciencedaily.com/releases/2026/10/261008005240.htm"
+        },
+        {
+          "headline": "An injectable device that controls nerves without wires or batteries",
+          "summary": "Researchers built a tiny implant that can be injected rather than surgically placed and modulates nerve activity, which could open a new route to treating chronic pain.",
+          "source": "ScienceDaily",
+          "url": "https://www.sciencedaily.com/releases/2026/10/261008005253.htm"
+        }
+      ]
+    },
+    {
+      "title": "Gaming",
+      "summary": "Release week. Nothing new on the watchlist (Witcher 4, Cyberpunk 2, Witcher 3, Borderlands).",
+      "items": [
+        {
+          "headline": "Battlefield 6 hits Game Pass today alongside Season 5",
+          "summary": "It joins Ultimate and PC Game Pass the same day Season 5 lands, which brings a Las Vegas setting, new maps and weapons, a Halloween event and a server browser. That's well timed before Modern Warfare 4 on the 23rd.",
+          "source": "Windows Central",
+          "url": "https://www.windowscentral.com/gaming/xbox/battlefield-6-aims-to-take-on-call-of-duty-modern-warfare-4-as-the-former-comes-to-xbox-game-pass-just-a-few-days-before-the-latters-launch"
+        },
+        {
+          "headline": "Packed week: Boltgun 2 tomorrow, Castlevania on Thursday",
+          "summary": "Planet Zoo 2 and Valor Mortis are out today, Warhammer 40,000: Boltgun 2 and Jackbox 12 follow on Wednesday, and Castlevania: Belmont's Curse arrives Thursday.",
+          "source": "DLCompare",
+          "url": "https://www.dlcompare.com/gaming-news/this-week-s-video-game-releases-october-2026-week-42"
+        }
+      ]
+    },
+    {
+      "title": "BJJ & Grappling",
+      "summary": "No major events this week; a big week for the business side instead.",
+      "items": [
+        {
+          "headline": "Windows signs the Ruotolo twins",
+          "summary": "Microsoft's Windows brand has sponsored Kade and Tye Ruotolo in what could be one of jiu-jitsu's biggest sponsorship deals. Terms weren't disclosed, so the rumoured seven-figure value is unconfirmed.",
+          "source": "BJJEE",
+          "url": "https://www.bjjee.com/bjj-news/windows-signs-kade-tye-ruotolo-in-what-may-be-one-of-bjjs-biggest-sponsorship-deals-ever/"
+        },
+        {
+          "headline": "FloGrappling boss says UFC BJJ is losing money",
+          "summary": "Flo GM Ben Kovacs argued that the UFC's grappling series doesn't add up financially. That's a rival's view, but it adds to the debate about whether pro grappling pays.",
+          "source": "BJJEE",
+          "url": "https://www.bjjee.com/bjj-news/flograppling-gm-ben-kovacs-says-ufc-bjj-is-losing-money-doesnt-math-out/"
+        }
+      ]
+    },
+    {
+      "title": "MMA",
+      "summary": "Fight week for UFC Edmonton.",
+      "items": [
+        {
+          "headline": "Fight week: Buckley vs Malott, Blanchfield vs Jasudavicius",
+          "summary": "Saturday's Rogers Place card has Joaquin Buckley against hometown-region favourite Mike Malott at welterweight, with the rebooked Erin Blanchfield vs Jasmine Jasudavicius flyweight bout as co-main.",
+          "source": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/UFC_Fight_Night:_Buckley_vs._Malott"
+        },
+        {
+          "headline": "UK: Pimblett's 2026 return looks unlikely",
+          "summary": "Paddy Pimblett gave a frank update on his comeback that suggests he won't fight again this year, even as talk of Topuria or McGregor bouts continues.",
+          "source": "Bloody Elbow",
+          "url": "https://bloodyelbow.com/2026/10/12/i-can-get-fat-paddy-pimblett-shares-honest-return-update-as-his-2026-fight-hopes-fade/"
+        },
+        {
+          "headline": "Tsarukyan to face Neiman Gracie at RAF Abu Dhabi",
+          "summary": "The UFC lightweight contender has been booked against Neiman Gracie on the Real American Freestyle card in Abu Dhabi.",
+          "source": "BJJEE",
+          "url": "https://www.bjjee.com/bjj-news/arman-tsarukyan-set-to-face-neiman-gracie-at-raf-abu-dhabi/"
+        }
+      ]
+    },
+    {
+      "title": "Motorsport",
+      "items": [
+        {
+          "headline": "Mercedes weigh another Russell engine penalty, ideally in Vegas",
+          "summary": "After Russell went from the back to ninth in Singapore, Mercedes would prefer to take any further power-unit penalty at Las Vegas, where overtaking is easier. They also confirmed Antonelli's upgraded W17 was the quicker spec.",
+          "source": "Grande Prêmio",
+          "url": "https://grandepremio.com/en/f1/f1-today-verstappen-puts-mercedes-on-alert-as-antonelli-closes-in-on-title/"
+        },
+        {
+          "headline": "Qatar and Abu Dhabi finale still undecided",
+          "summary": "F1 still hasn't ruled on the security-hit Gulf rounds. An 'oven-ready' Imola is on standby for 6 December, and about $180m in fees and freight is at stake.",
+          "source": "PlanetF1",
+          "url": "https://www.planetf1.com/news/f1-2026-imola-qatar-abu-dhabi-replacement"
+        },
+        {
+          "headline": "WEC heads to Barcelona with Toyota in control",
+          "summary": "The #8 Toyota leads the Hypercar standings by 10 points from the sister #7, with BMW 23 points behind in the manufacturers' title, ahead of Sunday's first-ever WEC race at Catalunya. Alex Lynn returns at Cadillac.",
+          "source": "Pit Debrief",
+          "url": "https://www.pitdebrief.com/post/2026-wec-6-hours-of-barcelona-preview/"
+        }
+      ]
+    }
+  ]
+}

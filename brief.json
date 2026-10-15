@@ -1,11 +1,11 @@
 {
-  "date": "2026-10-14",
-  "generated": "2026-10-14T06:31:07+01:00",
-  "headline": "Apple goes all-in on the smart home, Character.AI files for bankruptcy with Disney circling, Dragon is on its way to the ISS, and Verstappen swaps his F1 car for a Mercedes GT3 at Portimão this Saturday.",
+  "date": "2026-10-15",
+  "generated": "2026-10-15T06:24:00+01:00",
+  "headline": "ASML posts a record quarter, Microsoft ships a monster patch drop, Ubisoft keeps cutting, and F1 confirms it's heading back to Africa with a Rwanda Grand Prix.",
   "upcoming": [
     {
       "when": "Thu 15 Oct",
-      "what": "CRS-35 Dragon docks at the ISS around 16:00 Irish time; Castlevania: Belmont's Curse launches"
+      "what": "CRS-35 Dragon docks at the ISS around 16:00 Irish time"
     },
     {
       "when": "Sat 17 Oct",
@@ -13,7 +13,7 @@
     },
     {
       "when": "Sat 17 Oct",
-      "what": "UFC Edmonton: Buckley vs Malott. Main card 01:00 Irish time (Sunday morning), prelims 22:00"
+      "what": "UFC Edmonton: Buckley vs Malott. Prelims 22:00, main card 01:00 Irish time (Sunday morning)"
     },
     {
       "when": "Sun 18 Oct",
@@ -25,7 +25,7 @@
     },
     {
       "when": "23–25 Oct",
-      "what": "F1 United States GP, Austin; MW4 releases on the 23rd; UFC 333 Volkanovski vs Evloev on the 24th (Irish clocks go back on the 25th)"
+      "what": "F1 United States GP, Austin (Antonelli's first title shot); UFC 333 Volkanovski vs Evloev on the 24th; Irish clocks go back on the 25th"
     }
   ],
   "sections": [
@@ -33,28 +33,28 @@
       "title": "Tech",
       "items": [
         {
-          "headline": "Apple's 'Welcome home' event: HomeView hub, new Apple TV and HomePod mini 2",
-          "summary": "The $299 HomeView is a 7-inch touchscreen hub for the counter or wall, and the A19 Apple TV 4K also climbs to $299. Both ship 13 November; the $149 HomePod mini 2 lands 30 October. No Macs or iPads this time.",
-          "source": "Tom's Guide",
-          "url": "https://www.tomsguide.com/news/live/apple-homeview-event-october-13-live-updates"
+          "headline": "ASML posts a record quarter and raises the bar for Q4",
+          "summary": "Q3 revenue hit €11.7bn with €5bn net profit, and it shipped 113 lithography systems (up from 86). Q4 guidance of €14.2–15.2bn suggests AI chip demand is holding up despite this week's chip-stock wobble.",
+          "source": "Tech Startups",
+          "url": "https://techstartups.com/2026/10/14/top-tech-news-today-october-14-2026-apple-asml-google-openai-microsoft-nvidia-more/"
         },
         {
-          "headline": "Character.AI files for bankruptcy, Disney bids $20m for its assets",
-          "summary": "The chatbot startup has gone into Chapter 11 and agreed to sell assets to Disney, whose opening bid is $20m. A wider sale is expected to wrap up by around December.",
+          "headline": "Patch Tuesday: Microsoft fixes 1,400+ bugs, one already exploited",
+          "summary": "The October drop covers 1,413 vulnerabilities, including an actively exploited Windows Mark-of-the-Web bypass (CVE-2026-96951). Ivanti Connect Secure VPNs also have an exploited auth-bypass zero-day, so network kit wants attention too.",
           "source": "Tech Startups",
-          "url": "https://techstartups.com/2026/10/13/character-ai-files-for-bankruptcy-as-disney-moves-to-buy-ai-startups-assets-for-20-million"
+          "url": "https://techstartups.com/2026/10/14/top-tech-news-today-october-14-2026-apple-asml-google-openai-microsoft-nvidia-more/"
         },
         {
-          "headline": "Patch now: max-severity GitLab flaw allows unauthenticated code execution",
-          "summary": "CVE-2026-97229 sits in the CI/CD regex compiler; fixes are in 19.2.8, 19.3.4 and 19.4.2. GitLab hasn't seen widespread exploitation yet. Separately, grocery giant Ahold Delhaize took systems offline after a cyberattack.",
+          "headline": "Gemini 4 Argon goes broadly available",
+          "summary": "Google's new model is now open to everyone, with introductory API pricing of $2 per million input tokens and $10 per million output. Separately, OpenAI and Anthropic backed binding AI safety rules at a UK parliamentary hearing.",
           "source": "Tech Startups",
-          "url": "https://techstartups.com/2026/10/13/top-tech-news-today-october-13-2026-character-ai-bankruptcy-metas-muse-wonder-amd-ai-chips-apples-smart-home-push-and-cybersecurity-threats/"
+          "url": "https://techstartups.com/2026/10/14/top-tech-news-today-october-14-2026-apple-asml-google-openai-microsoft-nvidia-more/"
         },
         {
-          "headline": "Asian chip stocks slide; the IMF warns on AI valuations",
-          "summary": "Korea's Kospi fell about 6%, with SK Hynix down 10%, after reports of a Chinese DRAM advance and cooler AI comments from Broadcom's CEO. The IMF says a sharp AI-stock correction could rattle global finance.",
+          "headline": "Japan puts up to $21bn into GlobalFoundries fabs in New York",
+          "summary": "Two new chip plants will be jointly owned by Japanese interests and the US government, whose GlobalFoundries stake rises to about 7%. Renesas and Apple are tipped as customers, though nothing is signed.",
           "source": "Tech Startups",
-          "url": "https://techstartups.com/2026/10/13/top-tech-news-today-october-13-2026-character-ai-bankruptcy-metas-muse-wonder-amd-ai-chips-apples-smart-home-push-and-cybersecurity-threats/"
+          "url": "https://techstartups.com/2026/10/14/top-tech-news-today-october-14-2026-apple-asml-google-openai-microsoft-nvidia-more/"
         }
       ]
     },
@@ -62,16 +62,28 @@
       "title": "Science & Space",
       "items": [
         {
-          "headline": "CRS-35 is up: Dragon heads to the ISS with its final new solar arrays",
-          "summary": "Falcon 9 lifted off from Cape Canaveral at 11:35 Irish time yesterday, and its twilight exhaust plume put on a 'space jellyfish' show along the US East Coast. Docking is due Thursday at about 16:00 Irish time.",
-          "source": "Space.com",
-          "url": "https://space.com/space-exploration/launches-spacecraft/spacex-rocket-launch-creates-incredible-space-jellyfish-visible-throughout-us-east-coast-photos"
+          "headline": "Webb finds an unusually dense, dark-matter-heavy galaxy cluster",
+          "summary": "JWST observations reveal a massive early structure packed more tightly with dark matter than models comfortably allow, adding to the list of 'too big, too early' puzzles.",
+          "source": "ScienceDaily",
+          "url": "https://www.sciencedaily.com/releases/2026/10/261012185021.htm"
         },
         {
-          "headline": "A Jurassic swimmer shows an early step towards suckling milk",
-          "summary": "In a Nature paper, researchers describe Megacauda sungei, a 165-million-year-old aquatic mammal relative about 50cm long. Its soft palate let it breathe while swallowing, a key step on the road to nursing.",
+          "headline": "Light caught spinning and twisting in empty space",
+          "summary": "Physicists report light beams developing self-twisting structure as they travel through free space, with no material needed to shape them — potentially useful for optical communications and trapping particles.",
           "source": "ScienceDaily",
-          "url": "https://sciencedaily.com/releases/2026/10/261012185005.htm"
+          "url": "https://www.sciencedaily.com/releases/2026/10/261011211615.htm"
+        },
+        {
+          "headline": "Fossils reveal a giant prehistoric snake from India",
+          "summary": "Researchers describe a newly identified giant snake from Indian fossil beds, another heavyweight from the era when snakes rivalled today's anacondas.",
+          "source": "ScienceDaily",
+          "url": "https://www.sciencedaily.com/releases/2026/10/261014001406.htm"
+        },
+        {
+          "headline": "Dragon arrives at the ISS this afternoon",
+          "summary": "CRS-35, carrying the station's final iROSA solar arrays and a batch of experiments, is due to dock around 16:00 Irish time.",
+          "source": "NASASpaceflight",
+          "url": "https://www.nasaspaceflight.com/2026/10/crs-35-launch/"
         }
       ]
     },
@@ -80,34 +92,34 @@
       "summary": "Nothing new on the watchlist (Witcher 4, Cyberpunk 2, Witcher 3, Borderlands).",
       "items": [
         {
-          "headline": "Report: GTA VI on PC in Q1 2027",
-          "summary": "GamesBeat's sources say the PC version follows the 19 November console launch within a few months, a much shorter wait than GTA V had. Rockstar hasn't confirmed it.",
+          "headline": "Ubisoft proposes closing RedLynx and cuts 70 in Singapore",
+          "summary": "The Trials studio in Finland faces closure, and voluntary departures are now on offer at the German teams behind Anno and The Settlers too.",
           "source": "This Week in Videogames",
-          "url": "https://thisweekinvideogames.com/news/grand-theft-auto-vi-pc-version-arriving-in-first-quarter-of-2027-report/"
+          "url": "https://thisweekinvideogames.com/news/ubisoft-proposes-redlynx-closure-announces-cuts-at-ubisoft-singapore/"
         },
         {
-          "headline": "No Man's Sky is coming to iPhone and iPad",
-          "summary": "Hello Games says the iOS port will carry almost everything from the PC and console versions.",
+          "headline": "Rockstar: future games won't take as long as GTA VI",
+          "summary": "A senior developer says the next projects will move faster than GTA VI's roughly eight-year cycle, and the publishing head says staff can unionise if they want to.",
           "source": "This Week in Videogames",
-          "url": "https://thisweekinvideogames.com/news/hello-games-announces-no-mans-sky-ios-port-for-apple-devices/"
+          "url": "https://thisweekinvideogames.com/news/future-rockstar-projects-will-be-made-more-quickly-than-gta-vi-senior-dev-says/"
         },
         {
-          "headline": "Epic reportedly bans hand-written code on its Star Wars/Marvel shooter",
-          "summary": "Bloomberg says the delayed, unannounced project now requires generative AI tools for code and art. Also new: an ID@Xbox showcase on 20 October.",
+          "headline": "Xbox launches 'Xbox Labs' to try out new ideas",
+          "summary": "A new team for experimental projects arrives as CEO Asha Sharma reportedly told staff Xbox can't survive on reviving old franchises alone.",
           "source": "This Week in Videogames",
-          "url": "https://thisweekinvideogames.com/news/epic-mandates-no-more-hand-written-code-for-unannounced-star-wars-and-marvel-shooter/"
+          "url": "https://thisweekinvideogames.com/news/xbox-announces-xbox-labs-a-new-team-aimed-at-experimenting-with-emerging-ideas/"
         }
       ]
     },
     {
       "title": "BJJ & Grappling",
-      "summary": "A quiet week: only regional opens (ADCC New Jersey and Callao, F2W 328) before the weekend. Here's last week's UFC BJJ card in case you missed it.",
+      "summary": "Quiet on the mats: no major events or big news in the last 48 hours.",
       "items": [
         {
-          "headline": "Catch-up: Cassia Moura becomes UFC BJJ's first double champ, on a disputed card",
-          "summary": "At UFC BJJ 12 on 8 October, Moura took a split decision over Adele Fornarino, who had dominated the first round with leg locks. Renato Canuto won the lightweight belt, and Gilbert Burns was submitted early by Gabriel Almeida.",
-          "source": "SB Nation via Yahoo Sports",
-          "url": "https://sports.yahoo.com/articles/controversy-cassia-moura-survives-fornarino-040415697.html"
+          "headline": "Quiet week on the mats",
+          "summary": "Only regional opens are on before the weekend, with no major pro cards or headline signings in the last two days. Last week's UFC BJJ 12 recap is in yesterday's archive.",
+          "source": "FloGrappling",
+          "url": "https://www.flograppling.com/"
         }
       ]
     },
@@ -116,16 +128,22 @@
       "summary": "Fight week in Edmonton; little else breaking.",
       "items": [
         {
-          "headline": "UFC Edmonton: Malott a slight favourite at home against Buckley",
-          "summary": "Malott opens around -140 against Buckley at +120. Blanchfield vs Jasudavicius is the co-main, and Barriault and Landwehr are also on a Canada-heavy main card. That card starts at 01:00 Irish time on Sunday.",
-          "source": "Central Oregon Daily",
-          "url": "https://www.centraloregondaily.com/sports/ufc-edmonton-how-to-watch-joaquin-buckley-vs-mike-malott-lineup-odds-more/article_233e608e-4d83-59f7-9ab6-1dce99021233.html"
+          "headline": "UFC Edmonton fight week: Buckley vs Malott on Saturday",
+          "summary": "Home favourite Malott faces Buckley, who's looking to snap a losing run; Blanchfield vs Jasudavicius is the co-main. The main card starts at 01:00 Irish time Sunday.",
+          "source": "UFC.com",
+          "url": "https://www.ufc.com/news/fight-by-fight-preview-ufc-edmonton-buckley-malott"
         },
         {
-          "headline": "McGregor's 'mega announcement'... is a TikTok account",
-          "summary": "Conor teased something big and it turned out to be his TikTok debut, goat in hand. There's still no fight news.",
+          "headline": "Pimblett's 2026 return looks unlikely",
+          "summary": "Liverpool's Paddy Pimblett says he's in no rush back after the Gaethje loss and is eyeing a Topuria fight next year, with his 2026 hopes fading.",
           "source": "Bloody Elbow",
-          "url": "https://bloodyelbow.com/2026/10/13/conor-mcgregor-makes-mega-announcement-ufc-legend-holds-a-goat-as-he-debuts-on-tiktok/"
+          "url": "https://bloodyelbow.com/2026/10/12/i-can-get-fat-paddy-pimblett-shares-honest-return-update-as-his-2026-fight-hopes-fade/"
+        },
+        {
+          "headline": "Volkanovski and Evloev trade warnings ahead of UFC 333",
+          "summary": "The featherweight title fight headlines on 24 October; Volkanovski says Evloev's wrestling-heavy game plan will fade after a round or two.",
+          "source": "LowKick MMA",
+          "url": "https://www.lowkickmma.com/alexander-volkanovski-movsar-evloev-win-ufc-333/"
         }
       ]
     },
@@ -133,22 +151,22 @@
       "title": "Motorsport",
       "items": [
         {
-          "headline": "Verstappen makes his GT World Challenge debut at Portimão on Saturday",
-          "summary": "He'll share the #3 Mercedes-AMG GT3 of his own Team Verstappen Racing with Ben Barnicoat and Chris Lulham in the 3-hour finale, 17:00–20:00 Irish time. Engel, Auer and Stolz have already wrapped up the Endurance Cup.",
-          "source": "Motorsport.com via Yahoo Sports",
-          "url": "https://sports.yahoo.com/articles/gt-world-challenge-portimao-know-162339326.html"
+          "headline": "F1 is going back to Africa: Rwanda lands a 10-year deal",
+          "summary": "A purpose-built circuit at Bugesera, near Kigali, will host an African Grand Prix from the early 2030s, the first F1 race on the continent since 1993.",
+          "source": "RACER",
+          "url": "https://racer.com/2026/10/13/africa-set-for-f1-return-with-rwanda-grand-prix"
         },
         {
-          "headline": "What Antonelli needs to win the title in Austin",
-          "summary": "He leads Russell by 102 points. To clinch at COTA he has to win, with Russell 9th or lower and Hamilton 5th or lower. Russell's engine penalty now looks set for later in the season, so Mexico or Brazil is the likelier decider.",
-          "source": "Sky Sports",
-          "url": "https://www.skysports.com/f1/news/13597654/kimi-antonelli-f1-title-permutations-how-mercedes-driver-could-clinch-world-championship-at-united-states-gp"
+          "headline": "McLaren to hold more Norris–Piastri talks after Singapore clash",
+          "summary": "The team confirmed further discussions with both drivers after their collision in Singapore, and is also reviewing Piastri's unusual puncture.",
+          "source": "PlanetF1",
+          "url": "https://www.planetf1.com/news/mclaren-oscar-piastri-lando-norris-talks-f1-2026-singapore-grand-prix"
         },
         {
-          "headline": "Russell: Red Bull are now 'the team to beat'",
-          "summary": "After Verstappen's back-to-back wins in Malaysia and Singapore, Russell says Mercedes' upgrades are delivering the expected numbers but not the lap times.",
-          "source": "Motorsport Week",
-          "url": "https://www.motorsportweek.com/2026/10/13/george-russell-red-bull-favourites/"
+          "headline": "Verstappen's GT debut entry list is out",
+          "summary": "The full field for Saturday's GTWC Europe finale at Portimão is confirmed, with Max sharing Team Verstappen Racing's Mercedes-AMG GT3. Racing is 17:00–20:00 Irish time.",
+          "source": "PlanetF1",
+          "url": "https://www.planetf1.com/news/max-verstappen-gt-world-challenge-portimao-full-entry-list"
         }
       ]
     }

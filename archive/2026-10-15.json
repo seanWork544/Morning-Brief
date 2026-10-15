@@ -1,0 +1,174 @@
+{
+  "date": "2026-10-15",
+  "generated": "2026-10-15T06:24:00+01:00",
+  "headline": "ASML posts a record quarter, Microsoft ships a monster patch drop, Ubisoft keeps cutting, and F1 confirms it's heading back to Africa with a Rwanda Grand Prix.",
+  "upcoming": [
+    {
+      "when": "Thu 15 Oct",
+      "what": "CRS-35 Dragon docks at the ISS around 16:00 Irish time"
+    },
+    {
+      "when": "Sat 17 Oct",
+      "what": "GTWC Europe finale, 3 Hours of Portimão, 17:00–20:00 Irish time, with Max Verstappen making his series debut"
+    },
+    {
+      "when": "Sat 17 Oct",
+      "what": "UFC Edmonton: Buckley vs Malott. Prelims 22:00, main card 01:00 Irish time (Sunday morning)"
+    },
+    {
+      "when": "Sun 18 Oct",
+      "what": "WEC 6 Hours of Barcelona, 11:00 Irish time"
+    },
+    {
+      "when": "Tue 20 Oct",
+      "what": "ID@Xbox indie showcase, broadcast by IGN"
+    },
+    {
+      "when": "23–25 Oct",
+      "what": "F1 United States GP, Austin (Antonelli's first title shot); UFC 333 Volkanovski vs Evloev on the 24th; Irish clocks go back on the 25th"
+    }
+  ],
+  "sections": [
+    {
+      "title": "Tech",
+      "items": [
+        {
+          "headline": "ASML posts a record quarter and raises the bar for Q4",
+          "summary": "Q3 revenue hit €11.7bn with €5bn net profit, and it shipped 113 lithography systems (up from 86). Q4 guidance of €14.2–15.2bn suggests AI chip demand is holding up despite this week's chip-stock wobble.",
+          "source": "Tech Startups",
+          "url": "https://techstartups.com/2026/10/14/top-tech-news-today-october-14-2026-apple-asml-google-openai-microsoft-nvidia-more/"
+        },
+        {
+          "headline": "Patch Tuesday: Microsoft fixes 1,400+ bugs, one already exploited",
+          "summary": "The October drop covers 1,413 vulnerabilities, including an actively exploited Windows Mark-of-the-Web bypass (CVE-2026-96951). Ivanti Connect Secure VPNs also have an exploited auth-bypass zero-day, so network kit wants attention too.",
+          "source": "Tech Startups",
+          "url": "https://techstartups.com/2026/10/14/top-tech-news-today-october-14-2026-apple-asml-google-openai-microsoft-nvidia-more/"
+        },
+        {
+          "headline": "Gemini 4 Argon goes broadly available",
+          "summary": "Google's new model is now open to everyone, with introductory API pricing of $2 per million input tokens and $10 per million output. Separately, OpenAI and Anthropic backed binding AI safety rules at a UK parliamentary hearing.",
+          "source": "Tech Startups",
+          "url": "https://techstartups.com/2026/10/14/top-tech-news-today-october-14-2026-apple-asml-google-openai-microsoft-nvidia-more/"
+        },
+        {
+          "headline": "Japan puts up to $21bn into GlobalFoundries fabs in New York",
+          "summary": "Two new chip plants will be jointly owned by Japanese interests and the US government, whose GlobalFoundries stake rises to about 7%. Renesas and Apple are tipped as customers, though nothing is signed.",
+          "source": "Tech Startups",
+          "url": "https://techstartups.com/2026/10/14/top-tech-news-today-october-14-2026-apple-asml-google-openai-microsoft-nvidia-more/"
+        }
+      ]
+    },
+    {
+      "title": "Science & Space",
+      "items": [
+        {
+          "headline": "Webb finds an unusually dense, dark-matter-heavy galaxy cluster",
+          "summary": "JWST observations reveal a massive early structure packed more tightly with dark matter than models comfortably allow, adding to the list of 'too big, too early' puzzles.",
+          "source": "ScienceDaily",
+          "url": "https://www.sciencedaily.com/releases/2026/10/261012185021.htm"
+        },
+        {
+          "headline": "Light caught spinning and twisting in empty space",
+          "summary": "Physicists report light beams developing self-twisting structure as they travel through free space, with no material needed to shape them — potentially useful for optical communications and trapping particles.",
+          "source": "ScienceDaily",
+          "url": "https://www.sciencedaily.com/releases/2026/10/261011211615.htm"
+        },
+        {
+          "headline": "Fossils reveal a giant prehistoric snake from India",
+          "summary": "Researchers describe a newly identified giant snake from Indian fossil beds, another heavyweight from the era when snakes rivalled today's anacondas.",
+          "source": "ScienceDaily",
+          "url": "https://www.sciencedaily.com/releases/2026/10/261014001406.htm"
+        },
+        {
+          "headline": "Dragon arrives at the ISS this afternoon",
+          "summary": "CRS-35, carrying the station's final iROSA solar arrays and a batch of experiments, is due to dock around 16:00 Irish time.",
+          "source": "NASASpaceflight",
+          "url": "https://www.nasaspaceflight.com/2026/10/crs-35-launch/"
+        }
+      ]
+    },
+    {
+      "title": "Gaming",
+      "summary": "Nothing new on the watchlist (Witcher 4, Cyberpunk 2, Witcher 3, Borderlands).",
+      "items": [
+        {
+          "headline": "Ubisoft proposes closing RedLynx and cuts 70 in Singapore",
+          "summary": "The Trials studio in Finland faces closure, and voluntary departures are now on offer at the German teams behind Anno and The Settlers too.",
+          "source": "This Week in Videogames",
+          "url": "https://thisweekinvideogames.com/news/ubisoft-proposes-redlynx-closure-announces-cuts-at-ubisoft-singapore/"
+        },
+        {
+          "headline": "Rockstar: future games won't take as long as GTA VI",
+          "summary": "A senior developer says the next projects will move faster than GTA VI's roughly eight-year cycle, and the publishing head says staff can unionise if they want to.",
+          "source": "This Week in Videogames",
+          "url": "https://thisweekinvideogames.com/news/future-rockstar-projects-will-be-made-more-quickly-than-gta-vi-senior-dev-says/"
+        },
+        {
+          "headline": "Xbox launches 'Xbox Labs' to try out new ideas",
+          "summary": "A new team for experimental projects arrives as CEO Asha Sharma reportedly told staff Xbox can't survive on reviving old franchises alone.",
+          "source": "This Week in Videogames",
+          "url": "https://thisweekinvideogames.com/news/xbox-announces-xbox-labs-a-new-team-aimed-at-experimenting-with-emerging-ideas/"
+        }
+      ]
+    },
+    {
+      "title": "BJJ & Grappling",
+      "summary": "Quiet on the mats: no major events or big news in the last 48 hours.",
+      "items": [
+        {
+          "headline": "Quiet week on the mats",
+          "summary": "Only regional opens are on before the weekend, with no major pro cards or headline signings in the last two days. Last week's UFC BJJ 12 recap is in yesterday's archive.",
+          "source": "FloGrappling",
+          "url": "https://www.flograppling.com/"
+        }
+      ]
+    },
+    {
+      "title": "MMA",
+      "summary": "Fight week in Edmonton; little else breaking.",
+      "items": [
+        {
+          "headline": "UFC Edmonton fight week: Buckley vs Malott on Saturday",
+          "summary": "Home favourite Malott faces Buckley, who's looking to snap a losing run; Blanchfield vs Jasudavicius is the co-main. The main card starts at 01:00 Irish time Sunday.",
+          "source": "UFC.com",
+          "url": "https://www.ufc.com/news/fight-by-fight-preview-ufc-edmonton-buckley-malott"
+        },
+        {
+          "headline": "Pimblett's 2026 return looks unlikely",
+          "summary": "Liverpool's Paddy Pimblett says he's in no rush back after the Gaethje loss and is eyeing a Topuria fight next year, with his 2026 hopes fading.",
+          "source": "Bloody Elbow",
+          "url": "https://bloodyelbow.com/2026/10/12/i-can-get-fat-paddy-pimblett-shares-honest-return-update-as-his-2026-fight-hopes-fade/"
+        },
+        {
+          "headline": "Volkanovski and Evloev trade warnings ahead of UFC 333",
+          "summary": "The featherweight title fight headlines on 24 October; Volkanovski says Evloev's wrestling-heavy game plan will fade after a round or two.",
+          "source": "LowKick MMA",
+          "url": "https://www.lowkickmma.com/alexander-volkanovski-movsar-evloev-win-ufc-333/"
+        }
+      ]
+    },
+    {
+      "title": "Motorsport",
+      "items": [
+        {
+          "headline": "F1 is going back to Africa: Rwanda lands a 10-year deal",
+          "summary": "A purpose-built circuit at Bugesera, near Kigali, will host an African Grand Prix from the early 2030s, the first F1 race on the continent since 1993.",
+          "source": "RACER",
+          "url": "https://racer.com/2026/10/13/africa-set-for-f1-return-with-rwanda-grand-prix"
+        },
+        {
+          "headline": "McLaren to hold more Norris–Piastri talks after Singapore clash",
+          "summary": "The team confirmed further discussions with both drivers after their collision in Singapore, and is also reviewing Piastri's unusual puncture.",
+          "source": "PlanetF1",
+          "url": "https://www.planetf1.com/news/mclaren-oscar-piastri-lando-norris-talks-f1-2026-singapore-grand-prix"
+        },
+        {
+          "headline": "Verstappen's GT debut entry list is out",
+          "summary": "The full field for Saturday's GTWC Europe finale at Portimão is confirmed, with Max sharing Team Verstappen Racing's Mercedes-AMG GT3. Racing is 17:00–20:00 Irish time.",
+          "source": "PlanetF1",
+          "url": "https://www.planetf1.com/news/max-verstappen-gt-world-challenge-portimao-full-entry-list"
+        }
+      ]
+    }
+  ]
+}

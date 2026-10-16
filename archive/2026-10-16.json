@@ -1,0 +1,62 @@
+{
+  "date": "2026-10-16",
+  "generated": "2026-10-16T06:20:00+01:00",
+  "headline": "TSMC smashes another record as AI demand outruns supply, GTA VI drops its final launch trailer, Haas hands Rafael Camara a 2027 F1 seat, and the Orionids are warming up for next week.",
+  "upcoming": [
+    {"when": "Sat 17 Oct", "what": "GTWC Europe finale, 3 Hours of Portimão, 17:00–20:00 Irish time, with Max Verstappen making his series debut"},
+    {"when": "Sat 17 Oct", "what": "UFC Edmonton: Buckley vs Malott. Prelims 22:00, main card 01:00 Irish time (Sunday morning)"},
+    {"when": "Sun 18 Oct", "what": "WEC 6 Hours of Barcelona, 11:00 Irish time"},
+    {"when": "Tue 20 Oct", "what": "ID@Xbox indie showcase, broadcast by IGN"},
+    {"when": "Wed 21 Oct", "what": "Orionid meteor shower peaks (~20/hr); best after midnight, though a waxing gibbous Moon will wash out the faint ones"},
+    {"when": "23–25 Oct", "what": "F1 United States GP, Austin; UFC 333 Volkanovski vs Evloev on the 24th; Irish clocks go back on the 25th"}
+  ],
+  "sections": [
+    {
+      "title": "Tech",
+      "items": [
+        {"headline": "TSMC posts a record quarter and lifts spending again", "summary": "Q3 net profit jumped 69% to about $24bn on $46bn revenue, and 2026 capex is now $60–64bn. The chairman says AI compute demand still exceeds what TSMC can make, echoing ASML's numbers earlier in the week.", "source": "Tech Startups", "url": "https://techstartups.com/2026/10/15/top-tech-news-today-october-15-2026-anthropic-cisco-gartner-google-openai-ramp-tsmc-more/"},
+        {"headline": "Gartner warns $3.5tn of AI infrastructure could be written down by 2030", "summary": "Its projection is that data-centre owners would need far more AI revenue than is likely to materialise, and that most specialised 'neocloud' providers won't survive independently. A forecast, not a loss yet, but a notable counterweight to the chipmaker euphoria.", "source": "Tech Startups", "url": "https://techstartups.com/2026/10/15/top-tech-news-today-october-15-2026-anthropic-cisco-gartner-google-openai-ramp-tsmc-more/"},
+        {"headline": "Regulators circle OpenAI and Anthropic", "summary": "Eight US states filed consumer-protection suits against OpenAI over alleged harms to minors, while the FTC has sent broad investigative demands to both OpenAI and Anthropic on safety, privacy and marketing claims. The FTC step is fact-finding, not a finding of wrongdoing.", "source": "Tech Startups", "url": "https://techstartups.com/2026/10/15/top-tech-news-today-october-15-2026-anthropic-cisco-gartner-google-openai-ramp-tsmc-more/"},
+        {"headline": "Ramp hits a $60bn valuation after a $1.85bn raise", "summary": "The corporate-card and spend-management fintech is pouring the money into AI agents for finance teams, making it one of the most valuable private fintechs around.", "source": "Tech Startups", "url": "https://techstartups.com/2026/10/15/ramp-valuation-jumps-to-60-billion-after-raising-1-85-billion-as-fintech-startup-doubles-down-on-ai/"}
+      ]
+    },
+    {
+      "title": "Science & Space",
+      "items": [
+        {"headline": "Far-side Moon rocks may explain why its two faces differ", "summary": "Using Chang'e-6 samples, researchers argue uneven tidal heating from Earth stirred the early magma ocean and piled a thicker crust onto the far side. It's a neat test of a decades-old lunar puzzle with real far-side material.", "source": "ScienceDaily", "url": "https://www.sciencedaily.com/releases/2026/10/261012185019.htm"},
+        {"headline": "Orionids and Taurids light up late October", "summary": "The Orionids peak around 21 October at roughly 20 meteors an hour, and the fireball-prone Taurids follow into November, possibly enhanced this year. Clear Irish skies after midnight are your best bet.", "source": "Universe Today", "url": "https://www.universetoday.com/articles/orionid-taurid-meteors-haunt-october-skies"},
+        {"headline": "SPHEREx fingerprints brown dwarfs across our neighbourhood", "summary": "NASA's all-sky mapper has taken spectra of many nearby 'failed stars', giving a census of their chemistry that should sharpen where the line between big planets and small stars sits.", "source": "Universe Today", "url": "https://www.universetoday.com/articles/spherex-just-took-the-fingerprints-of-failed-stars-across-our-cosmic-neighborhood"},
+        {"headline": "A century-old museum fossil turns out to be a new clawed dinosaur", "summary": "A 120-million-year-old specimen that sat in a collection for nearly 100 years has been described as a new predator with oversized claws.", "source": "ScienceDaily", "url": "https://www.sciencedaily.com/releases/2026/10/261014015457.htm"}
+      ]
+    },
+    {
+      "title": "Gaming",
+      "items": [
+        {"headline": "GTA VI's launch trailer is out", "summary": "Rockstar's final pre-release trailer is mostly cinematic Jason-and-Lucia footage, captured on a base PS5, with a score by Justice. Launch is now just over a month away; PC is still unconfirmed.", "source": "T3", "url": "https://www.t3.com/tech/gaming/new-trailer-for-gta-6-is-here-and-entirely-captured-on-ps5-not-even-ps5-pro"},
+        {"headline": "Witcher 3 Remastered hotfix targets PS5 crashes", "summary": "Hotfix 5.01b (~500MB, PS5/PS5 Pro only) fixes crashes in the Songs of the Past fight with Reinald and a Keira Metz quest, plus general crashes after repeated save loads.", "source": "Push Square", "url": "https://www.pushsquare.com/news/2026/10/the-witcher-3-remastered-patch-specifically-targets-ps5-ps5-pro-problems"}
+      ]
+    },
+    {
+      "title": "BJJ & Grappling",
+      "items": [
+        {"headline": "Still quiet on the mats", "summary": "No major grappling results or announcements surfaced in the last 48 hours. Nothing new on the watch today; the next big cards will appear in Upcoming once confirmed.", "source": "Morning Brief", "url": "https://www.flograppling.com/"}
+      ]
+    },
+    {
+      "title": "MMA",
+      "items": [
+        {"headline": "UFC Edmonton: Buckley vs Malott this Saturday", "summary": "Joaquin Buckley meets Canadian welterweight Mike Malott, riding a four-fight win streak, in front of a home crowd. Main card starts 01:00 Irish time Sunday.", "source": "UFC", "url": "https://www.ufc.com/news/pivotal-welterweight-bout-between-joaquin-buckley-and-mike-malott-headlines-ufc-return"},
+        {"headline": "White teases Rakhmonov vs Morales for 2027", "summary": "Both welterweights are 19-0; Dana White only said it 'could be'. There's also a report the UFC is eyeing Makhachev vs Prates for UFC 336 in Toronto on 30 January, not yet announced.", "source": "The Body Lock", "url": "https://thebodylockmma.com/ufc/news-ufc/rakhmonov-vs-morales-white-says-major-announcements-are-coming-soon"},
+        {"headline": "Busy weekend beyond the UFC", "summary": "PFL Chicago (Carmouche vs Bishop) is tonight, and Saturday brings Cage Warriors 211, OKTAGON 95 and BKFC 95 among others.", "source": "MMA Junkie via Yahoo", "url": "https://sports.yahoo.com/articles/ufc-veterans-combat-sports-action-125030081.html"}
+      ]
+    },
+    {
+      "title": "Motorsport",
+      "items": [
+        {"headline": "Haas signs Rafael Camara for 2027", "summary": "The Ferrari junior and F2 front-runner gets a full-time F1 seat, effectively taking Esteban Ocon's spot. The 2027 grid is now close to complete.", "source": "RacingNews365", "url": "https://racingnews365.com/who-is-rafael-camara-the-low-down-on-new-haas-driver-for-2027"},
+        {"headline": "Why Verstappen and Red Bull are suddenly winning again", "summary": "An explainer on Red Bull's late-season resurgence ahead of Austin, as Verstappen also prepares for his GT World Challenge debut at Portimão on Saturday.", "source": "RacingNews365", "url": "https://racingnews365.com/why-max-verstappen-and-red-bull-are-suddenly-dominating-again-explained"},
+        {"headline": "F2 insists the Middle East finale will go ahead", "summary": "F2's boss is confident F1 will race in Qatar and Abu Dhabi to close 2026, though the finale is still flagged as at risk.", "source": "RacingNews365", "url": "https://racingnews365.com/f2-provide-clear-calendar-update-despite-f1-middle-east-finale-still-at-risk"}
+      ]
+    }
+  ]
+}

@@ -33,7 +33,7 @@
       "items": [
         {"headline": "Dragon delivers the ISS's final roll-out solar arrays", "summary": "SpaceX's CRS-35 cargo Dragon docked on Thursday with over 2.8 tonnes of supplies, the last set of new solar arrays, and experiments ranging from artificial retina manufacturing to brain organoids.", "source": "NASA", "url": "https://www.nasa.gov/blogs/spacestation/2026/10/15/spacex-dragon-docks-with-science-supplies-and-roll-out-solar-arrays/"},
         {"headline": "Diamondiyne: a carbon form predicted decades ago is finally made", "summary": "Gothenburg researchers built this porous 3D carbon, made of tetrahedral units joined by triple bonds, without the crushing pressures diamond needs. So far its crystal structure is confirmed only in tiny patches.", "source": "SciTechDaily", "url": "https://scitechdaily.com/scientists-discover-a-new-cousin-of-diamond-that-was-thought-to-exist-only-in-theory/"},
-        {"headline": "Diamond electrons nudge a levitating device", "summary": "Physicists used spins inside a diamond to give a quantum push to a centimetre-scale floating object. It's a step towards experiments probing where quantum mechanics meets gravity.", "source": "SciTechDaily", "url": "https://scitechdaily.com/a-quantum-breakthrough-inside-a-diamond-could-help-solve-one-of-einsteins-greatest-mysteries/"},
+        {"headline": "Diamond electrons nudge a levitating device", "summary": "Physicists used electrons inside a diamond to give a quantum push to a centimetre-scale floating object. It's a step towards experiments probing where quantum mechanics meets gravity.", "source": "SciTechDaily", "url": "https://scitechdaily.com/a-quantum-breakthrough-inside-a-diamond-could-help-solve-one-of-einsteins-greatest-mysteries/"},
         {"headline": "A star seen exploding in 1181 is still going", "summary": "Sharper observations of the remnant Pa 30 show about ten times more glowing filaments than previously seen, deepening the mystery of a 'zombie' star that survived its own supernova.", "source": "SciTechDaily", "url": "https://scitechdaily.com/a-star-exploded-850-years-ago-somehow-its-still-alive/"}
       ]
     },
@@ -55,7 +55,7 @@
       "title": "MMA",
       "items": [
         {"headline": "UFC Edmonton: all 26 fighters on weight", "summary": "Buckley and Malott both came in at 170.5 for tonight's five-round welterweight main event, and the whole card made weight without a miss. No Irish or UK fighters on this one.", "source": "MiddleEasy", "url": "https://middleeasy.com/mma-news/ufc-edmonton-weigh-in-results-buckley-malott"},
-        {"headline": "Blanchfield vs Jasudavicius is the co-main", "summary": "A meaningful women's flyweight fight: Erin Blanchfield, a former title challenger, faces home favourite Jasmine Jasudavicius. Main card from 01:00 Irish time.", "source": "Yahoo Sports", "url": "https://sports.yahoo.com/articles/ufc-edmonton-weigh-results-headliners-161909110.html"}
+        {"headline": "Blanchfield vs Jasudavicius is the co-main", "summary": "A meaningful women's flyweight fight: flyweight contender Erin Blanchfield faces home favourite Jasmine Jasudavicius. Main card from 01:00 Irish time.", "source": "Yahoo Sports", "url": "https://sports.yahoo.com/articles/ufc-edmonton-weigh-results-headliners-161909110.html"}
       ]
     }
   ]

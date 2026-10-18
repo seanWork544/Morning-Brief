@@ -3,57 +3,144 @@
   "generated": "2026-10-18T06:18:00+01:00",
   "headline": "Malott folds Buckley with a knee in Edmonton, Verstappen charges from 24th to ninth on his GT3 debut, Genesis pinches WEC pole from Toyota, and GTA 6's launch trailer is out a month before release.",
   "upcoming": [
-    {"when": "Sun 18 Oct", "what": "WEC 6 Hours of Barcelona, 11:00–17:00 Irish time. Genesis on pole, title-leading #8 Toyota alongside"},
-    {"when": "Tue 20 Oct", "what": "ID@Xbox indie showcase, broadcast by IGN"},
-    {"when": "Wed 21 Oct", "what": "Orionid meteor shower peaks; best after midnight, though moonlight will hide the faint ones"},
-    {"when": "23–25 Oct", "what": "F1 United States GP, Austin (sprint weekend); Irish clocks go back on Sunday 25th"},
-    {"when": "Sat 24 Oct", "what": "UFC 333: Volkanovski vs Evloev"},
-    {"when": "Thu 5 Nov", "what": "Ocarina of Time remake launches on Switch 2"}
+    {
+      "when": "Sun 18 Oct",
+      "what": "WEC 6 Hours of Barcelona, 11:00–17:00 Irish time. Genesis on pole, title-leading #8 Toyota alongside"
+    },
+    {
+      "when": "Tue 20 Oct",
+      "what": "ID@Xbox indie showcase, broadcast by IGN"
+    },
+    {
+      "when": "Wed 21 Oct",
+      "what": "Orionid meteor shower peaks; best after midnight, though moonlight will hide the faint ones"
+    },
+    {
+      "when": "23–25 Oct",
+      "what": "F1 United States GP, Austin (sprint weekend); Irish clocks go back on Sunday 25th"
+    },
+    {
+      "when": "Sat 24 Oct",
+      "what": "UFC 333: Volkanovski vs Evloev"
+    },
+    {
+      "when": "Thu 5 Nov",
+      "what": "Ocarina of Time remake launches"
+    }
   ],
   "sections": [
     {
       "title": "Motorsport",
       "items": [
-        {"headline": "Verstappen recovers to ninth after penalty in Portimão GT3 debut", "summary": "A drive-through for Lulham's Turn 8 contact with a Winward Mercedes dropped the #3 Verstappen.com Racing AMG to 24th, but Max's closing stint hauled it back to ninth. GetSpeed's #17 Mercedes (Aron, Götz, Schiller) won the GTWC Europe finale.", "source": "GT Report", "url": "https://www.gt-report.com/2026/10/18/getspeed-wins-dramatic-portimao-race-as-verstappen-storms-through-the-field/"},
-        {"headline": "Genesis takes a maiden WEC pole in Barcelona", "summary": "Mathys Jaubert put the Genesis on pole by 0.17s from Hirakawa's title-leading #8 Toyota, in the team's first season. Both BMWs missed Hyperpole and start 14th and 16th; the six-hour race starts at 11:00 Irish time today.", "source": "Yahoo Sports", "url": "https://sports.yahoo.com/articles/wec-barcelona-genesis-secures-maiden-145508989.html"},
-        {"headline": "McLaren grabs LMGT3 pole despite missing practice", "summary": "Fleming beat the leading Porsche by about a tenth to put McLaren at the front of the GT class for today's race.", "source": "Grande Prêmio", "url": "https://grandepremio.com/en/endurance/wec/mclaren-steals-barcelona-wec-pole-as-fleming-beats-porsche-by-0-122s-despite-missing-practice/"}
+        {
+          "headline": "Verstappen recovers to ninth after penalty in Portimão GT3 debut",
+          "summary": "A drive-through for Lulham's Turn 8 contact with a Winward Mercedes dropped the #3 Verstappen.com Racing AMG to 24th, but Max's closing stint hauled it back to ninth. GetSpeed's #17 Mercedes (Aron, Götz, Schiller) won the GTWC Europe finale.",
+          "source": "GT Report",
+          "url": "https://www.gt-report.com/2026/10/18/getspeed-wins-dramatic-portimao-race-as-verstappen-storms-through-the-field/"
+        },
+        {
+          "headline": "Genesis takes a maiden WEC pole in Barcelona",
+          "summary": "Mathys Jaubert put the Genesis on pole by 0.17s from Hirakawa's title-leading #8 Toyota, in the team's first season. Both BMWs missed Hyperpole and start 14th and 16th; the six-hour race starts at 11:00 Irish time today.",
+          "source": "Yahoo Sports",
+          "url": "https://sports.yahoo.com/articles/wec-barcelona-genesis-secures-maiden-145508989.html"
+        }
       ]
     },
     {
       "title": "MMA",
       "items": [
-        {"headline": "Malott flattens Buckley with a knee in Edmonton", "summary": "Canada's Mike Malott timed a knee and follow-up punch to stop Joaquin Buckley at 2:32 of round two, an instant Knockout of the Year contender in front of a home crowd.", "source": "Yahoo Sports", "url": "https://sports.yahoo.com/mma/article/ufc-edmonton-results-mike-malott-viciously-folds-joaquin-buckley-jasmine-jasudavicius-shocks-erin-blanchfield-032744371.html"},
-        {"headline": "Jasudavicius upsets Blanchfield", "summary": "Jasmine Jasudavicius took a clean 29-28 sweep over Erin Blanchfield in the co-main, a big flyweight statement. Elsewhere, Barriault, Perez and Nallo all won inside the distance.", "source": "CBS Sports", "url": "https://www.cbssports.com/ufc/news/ufc-fight-night-results-live-updates-joaquin-buckley-mike-malott/live/"}
+        {
+          "headline": "Malott flattens Buckley with a knee in Edmonton",
+          "summary": "Canada's Mike Malott timed a knee and follow-up punch to stop Joaquin Buckley at 2:32 of round two, an instant Knockout of the Year contender in front of a home crowd.",
+          "source": "Yahoo Sports",
+          "url": "https://sports.yahoo.com/mma/article/ufc-edmonton-results-mike-malott-viciously-folds-joaquin-buckley-jasmine-jasudavicius-shocks-erin-blanchfield-032744371.html"
+        },
+        {
+          "headline": "Jasudavicius upsets Blanchfield",
+          "summary": "Jasmine Jasudavicius took a clean 29-28 sweep over Erin Blanchfield in the co-main, a big flyweight statement. Elsewhere, Barriault, Perez and Nallo all won inside the distance.",
+          "source": "CBS Sports",
+          "url": "https://www.cbssports.com/ufc/news/ufc-fight-night-results-live-updates-joaquin-buckley-mike-malott/live/"
+        }
       ]
     },
     {
       "title": "Tech",
       "items": [
-        {"headline": "Anthropic leases a C$10bn data centre campus in Nova Scotia", "summary": "A 20-year deal with EverWind Fuels gives Anthropic its first Canadian data centre, with the first phase targeted for late 2027.", "source": "The Star", "url": "https://www.thestar.com.my/tech/tech-news/2026/10/17/anthropic-signs-lease-for-first-canadian-data-center"},
-        {"headline": "DeepSeek opens V4.1-Flash with built-in web search", "summary": "The MIT-licensed 552B sparse mixture-of-experts model comes with new Search and Fetch APIs for live retrieval.", "source": "AI Weekly", "url": "https://aiweekly.co/alerts/deepseek-opens-v41-flash-1017-weights-and-075-search-api"},
-        {"headline": "Korean startup DeepX starts mass-producing its NPU", "summary": "The DX-M1 edge AI chip is now in production on Samsung's 5nm process, with a 2nm successor due to tape out this month. One for the industrial-edge crowd.", "source": "KuCoin News", "url": "https://www.kucoin.com/news/flash/south-korean-ai-chip-startup-deepx-expands-global-ai-market-strategy"},
-        {"headline": "Leak claims Amazon tool scores UK warehouses on union risk", "summary": "openDemocracy says Amazon's Atlas system rates sites including two in the UK by unionisation risk. Amazon says Atlas isn't currently used in the UK.", "source": "openDemocracy", "url": "https://www.opendemocracy.net/amazon-ai-surveillance-monitor-union-activity-uk-warehouses-birmingham-coventry-atlas-sutton-coldfield/"}
+        {
+          "headline": "Anthropic leases a C$10bn data centre campus in Nova Scotia",
+          "summary": "A 20-year deal with EverWind Fuels gives Anthropic its first Canadian data centre, with the first phase targeted for late 2027.",
+          "source": "The Star",
+          "url": "https://www.thestar.com.my/tech/tech-news/2026/10/17/anthropic-signs-lease-for-first-canadian-data-center"
+        },
+        {
+          "headline": "DeepSeek opens V4.1-Flash with built-in web search",
+          "summary": "The MIT-licensed 552B sparse mixture-of-experts model comes with new Search and Fetch APIs for live retrieval.",
+          "source": "AI Weekly",
+          "url": "https://aiweekly.co/alerts/deepseek-opens-v41-flash-1017-weights-and-075-search-api"
+        },
+        {
+          "headline": "Korean startup DeepX starts mass-producing its NPU",
+          "summary": "The DX-M1 edge AI chip is now in production on Samsung's 5nm process, with a 2nm successor due to tape out this month. One for the industrial-edge crowd.",
+          "source": "KuCoin News",
+          "url": "https://www.kucoin.com/news/flash/south-korean-ai-chip-startup-deepx-expands-global-ai-market-strategy"
+        },
+        {
+          "headline": "Leak claims Amazon tool scores UK warehouses on union risk",
+          "summary": "openDemocracy says Amazon's Atlas system rates sites including two in the UK by unionisation risk. Amazon says Atlas isn't currently used in the UK.",
+          "source": "openDemocracy",
+          "url": "https://www.opendemocracy.net/amazon-ai-surveillance-monitor-union-activity-uk-warehouses-birmingham-coventry-atlas-sutton-coldfield/"
+        }
       ]
     },
     {
       "title": "Science & Space",
       "items": [
-        {"headline": "One rule may govern black hole jets of every size", "summary": "Astronomers found that black holes from stellar-mass to supermassive appear to launch their eruptions under the same underlying relationship.", "source": "ScienceDaily", "url": "https://www.sciencedaily.com/releases/2026/10/261014015507.htm"},
-        {"headline": "Farside samples may explain the Moon's two faces", "summary": "Analysis of rock returned from the lunar farside offers a fresh explanation for why the two hemispheres look so different.", "source": "ScienceDaily", "url": "https://www.sciencedaily.com/releases/2026/10/261012185019.htm"},
-        {"headline": "Webb finds an ancient cluster with oddly dense dark matter", "summary": "An early galaxy cluster seems to pack more dark matter than models expect for its age. A quieter weekend for launches otherwise; Orionids peak on Wednesday.", "source": "ScienceDaily", "url": "https://www.sciencedaily.com/releases/2026/10/261012185021.htm"}
+        {
+          "headline": "One rule may govern black hole jets of every size",
+          "summary": "Astronomers found that black holes from stellar-mass to supermassive appear to launch their eruptions under the same underlying relationship.",
+          "source": "ScienceDaily",
+          "url": "https://www.sciencedaily.com/releases/2026/10/261014015507.htm"
+        },
+        {
+          "headline": "Farside samples may explain the Moon's two faces",
+          "summary": "Analysis of rock returned from the lunar farside offers a fresh explanation for why the two hemispheres look so different.",
+          "source": "ScienceDaily",
+          "url": "https://www.sciencedaily.com/releases/2026/10/261012185019.htm"
+        },
+        {
+          "headline": "Webb finds an ancient cluster with oddly dense dark matter",
+          "summary": "An early galaxy cluster seems to pack more dark matter than models expect for its age. A quieter weekend for launches otherwise; Orionids peak on Wednesday.",
+          "source": "ScienceDaily",
+          "url": "https://www.sciencedaily.com/releases/2026/10/261012185021.htm"
+        }
       ]
     },
     {
       "title": "Gaming",
       "items": [
-        {"headline": "GTA 6 launch trailer drops ahead of 19 November", "summary": "Rockstar's in-engine PS5 trailer leans into heists, chases and the Keys, set to new Justice music, though it reveals little new.", "source": "Insider Gaming", "url": "https://insider-gaming.com/gta-6-gameplay-launch-trailer-dropped-by-rockstar-games"},
-        {"headline": "CDPR says Project Hadar is its biggest undertaking yet", "summary": "Alongside The Witcher 4 and Cyberpunk 2, the studio says its new IP's world is now built. No new Witcher 4 or Orion dates this week.", "source": "GamesRadar+", "url": "https://www.gamesradar.com/games/on-top-of-the-witcher-4-and-cyberpunk-2-cd-projekt-red-boss-says-project-hadar-is-the-studios-biggest-undertaking-to-date-and-theyve-finally-finished-building-its-world/"}
+        {
+          "headline": "GTA 6 launch trailer drops ahead of 19 November",
+          "summary": "Rockstar's in-engine PS5 trailer leans into heists, chases and the Keys, set to new Justice music, though it reveals little new.",
+          "source": "Insider Gaming",
+          "url": "https://insider-gaming.com/gta-6-gameplay-launch-trailer-dropped-by-rockstar-games"
+        },
+        {
+          "headline": "CDPR says Project Hadar is its biggest undertaking yet",
+          "summary": "Alongside The Witcher 4 and Cyberpunk 2, the studio says its new IP's world is now built. No new Witcher 4 or Orion dates this week.",
+          "source": "GamesRadar+",
+          "url": "https://www.gamesradar.com/games/on-top-of-the-witcher-4-and-cyberpunk-2-cd-projekt-red-boss-says-project-hadar-is-the-studios-biggest-undertaking-to-date-and-theyve-finally-finished-building-its-world/"
+        }
       ]
     },
     {
       "title": "BJJ & Grappling",
       "items": [
-        {"headline": "A quiet open-circuit weekend", "summary": "Fight to Win 328 ran Friday and ADCC opens in New Jersey and Peru filled Saturday, but no major headline results. The Crown on 8 November is the next big one.", "source": "FloGrappling via Yahoo Sports", "url": "https://sports.yahoo.com/articles/whats-streaming-flograppling-week-oct-163433873.html"}
+        {
+          "headline": "A quiet open-circuit weekend",
+          "summary": "Fight to Win 328 ran Friday and ADCC opens in New Jersey and Peru filled Saturday, but no major headline results. The Crown on 8 November is the next big one.",
+          "source": "FloGrappling via Yahoo Sports",
+          "url": "https://sports.yahoo.com/articles/whats-streaming-flograppling-week-oct-163433873.html"
+        }
       ]
     }
   ]

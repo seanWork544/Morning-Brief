@@ -1,0 +1,129 @@
+{
+  "date": "2026-10-19",
+  "generated": "2026-10-19T06:12:00+01:00",
+  "headline": "Toyota crush Barcelona to wrap up the WEC makers' title as Genesis fade from pole, Antonelli heads to Austin with a title in reach, China moves to put export curbs on its top AI models, and UFC 333 week begins in Abu Dhabi.",
+  "upcoming": [
+    {"when": "Tue 20 Oct", "what": "ID@Xbox indie showcase, broadcast by IGN"},
+    {"when": "Wed 21 Oct", "what": "Orionid meteor shower peaks; best after midnight, though moonlight will wash out the faint ones"},
+    {"when": "23–25 Oct", "what": "F1 United States GP, Austin (standard weekend). Qualifying Sat 22:00, race Sun 20:00 Irish time. Antonelli could clinch the title"},
+    {"when": "Sat 24 Oct", "what": "UFC 333, Abu Dhabi: Volkanovski vs Evloev, Yan vs Dvalishvili 3. Prelims ~15:00, main card ~19:00 Irish time"},
+    {"when": "Sun 25 Oct", "what": "Irish clocks go back an hour"},
+    {"when": "Thu 5 Nov", "what": "Ocarina of Time remake launches on Switch 2"}
+  ],
+  "sections": [
+    {
+      "title": "Motorsport",
+      "items": [
+        {
+          "headline": "Toyota 1-2 in Barcelona seals an eighth WEC manufacturers' title",
+          "summary": "The #8 of Buemi, Hartley and Hirakawa beat the sister #7 by just over half a second. The drivers' crown is now a straight fight between the two Toyota crews at the Monza finale.",
+          "source": "Motorsport Week",
+          "url": "https://www.motorsportweek.com/2026/10/18/toyota-wec-6-hours-of-barcelona-success/"
+        },
+        {
+          "headline": "Genesis collapse from pole; Manthey Porsche wins LMGT3",
+          "summary": "Juncadella ran wide at Turn 5 on the opening lap, and offs plus penalties left the Genesis cars 11th and 16th. In GT3 the #92 Manthey Porsche took its first class win of the year, cutting the TF Sport Corvette's lead to 18 points.",
+          "source": "Grande Prêmio",
+          "url": "https://grandepremio.com/en/endurance/wec/toyota-crushes-wec-rivals-with-barcelona-1-2-to-seal-world-title-as-genesis-collapses-from-pole/"
+        },
+        {
+          "headline": "Antonelli can be champion in Austin this weekend",
+          "summary": "With a 102-point lead over Russell and six races left, Antonelli clinches if he wins and Russell finishes ninth or lower and Hamilton fifth or lower. Correction to yesterday: Austin is a standard weekend, not a sprint.",
+          "source": "GrandPrix.com",
+          "url": "https://www.grandprix.com/news/how-antonelli-can-clinch-the-2026-title-in-austin.html"
+        }
+      ]
+    },
+    {
+      "title": "MMA",
+      "items": [
+        {
+          "headline": "UFC 333 fight week: Volkanovski vs Evloev in Abu Dhabi",
+          "summary": "Volkanovski defends featherweight gold against unbeaten Evloev on Saturday, with the Yan–Dvalishvili trilogy as co-main. Losene Keita steps in for Arnold Allen against Aaron Pico, and England's Lone'er Kavanagh faces Ramazan Temirov.",
+          "source": "The National",
+          "url": "https://www.thenationalnews.com/sport/combat-sports/2026/10/17/ufc-333-fight-card-abu-dhabi-showdown-week-and-all-you-need-to-know/"
+        },
+        {
+          "headline": "Volkanovski promises to finish Evloev",
+          "summary": "The champion says he'll stop Evloev inside five rounds, a pointed jab at a contender known for grinding out decisions.",
+          "source": "BJPenn.com",
+          "url": "https://www.bjpenn.com/mma-news/ufc/alexander-volkanovski-predicts-finish-over-movsar-evloev-at-ufc-333-im-saying-ill-finish-him-inside-the-five-rounds-for-sure/"
+        }
+      ]
+    },
+    {
+      "title": "Tech",
+      "items": [
+        {
+          "headline": "China proposes export controls on its top AI models",
+          "summary": "A draft list of 40 technologies includes 23 AI items, among them frontier-scale models, agents, chip designs and compute clusters, with open-source work exempt. Firms must already register before exporting listed items; comments close 15 November.",
+          "source": "The Next Web",
+          "url": "https://thenextweb.com/news/china-ai-export-controls-draft"
+        },
+        {
+          "headline": "Germany set to unveil an industrial AI deal with Nvidia this week",
+          "summary": "Government sources say the partnership, backed by federal funding, will focus on industrial uses like robotics and autonomous vehicles. Details are still to come.",
+          "source": "The Next Web",
+          "url": "https://thenextweb.com/news/germany-nvidia-ai-partnership-next-week"
+        }
+      ]
+    },
+    {
+      "title": "Science & Space",
+      "items": [
+        {
+          "headline": "A tiny mirror tweak makes NASA's Roman telescope 30% better than planned",
+          "summary": "Engineers nudged a mirror by a minute amount and the observatory now outperforms its design expectations.",
+          "source": "ScienceDaily",
+          "url": "https://www.sciencedaily.com/releases/2026/10/261016070630.htm"
+        },
+        {
+          "headline": "Webb spots surprisingly orderly weather on a world 20 light-years away",
+          "summary": "Despite a turbulent environment, the planet shows an organised weather pattern, a neat test of how alien atmospheres behave.",
+          "source": "ScienceDaily",
+          "url": "https://www.sciencedaily.com/releases/2026/10/261015073215.htm"
+        },
+        {
+          "headline": "Altermagnetism, the 'third magnetism', takes a physics prize",
+          "summary": "The newly recognised form of magnetism could underpin faster, more efficient computer memory. Orionids peak on Wednesday night.",
+          "source": "ScienceDaily",
+          "url": "https://www.sciencedaily.com/releases/2026/10/261017230035.htm"
+        }
+      ]
+    },
+    {
+      "title": "Gaming",
+      "items": [
+        {
+          "headline": "PS6 memory alone could cost over $680 per console, insider claims",
+          "summary": "With RAM prices soaring, a hardware insider reckons next-gen consoles could top $1,000. Treat it as a claim, not a price.",
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/playstation-6s-memory-costs-alone-exceed-680-per-console-its-claimed/"
+        },
+        {
+          "headline": "Samson studio Liquid Swords reportedly bankrupt",
+          "summary": "The Swedish developer behind the open-world brawler has reportedly been declared bankrupt after months of unpaid wages.",
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/samson-developer-liquid-swords-is-facing-bankruptcy/"
+        },
+        {
+          "headline": "BioWare veteran warns CDPR's big sequels put it in a risky spot",
+          "summary": "Anthem's former lead says ballooning budgets and sales expectations for The Witcher 4 and Cyberpunk 2 put real pressure on the studio. No new Witcher 3 or Borderlands news this weekend.",
+          "source": "GamesRadar+",
+          "url": "https://www.gamesradar.com/games/rpg/big-rpgs-like-the-witcher-4-and-cyberpunk-2-have-cd-projekt-red-in-a-dangerous-place-warns-bioware-veteran-with-costs-and-sales-expectations-exploding/"
+        }
+      ]
+    },
+    {
+      "title": "BJJ & Grappling",
+      "items": [
+        {
+          "headline": "Quiet weekend on the mats",
+          "summary": "No major pro grappling results since Friday. The Crown on 8 November remains the next big date.",
+          "source": "FloGrappling via Yahoo Sports",
+          "url": "https://sports.yahoo.com/articles/whats-streaming-flograppling-week-oct-163433873.html"
+        }
+      ]
+    }
+  ]
+}

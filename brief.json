@@ -1,48 +1,36 @@
 {
-  "date": "2026-10-18",
-  "generated": "2026-10-18T06:18:00+01:00",
-  "headline": "Malott folds Buckley with a knee in Edmonton, Verstappen charges from 24th to ninth on his GT3 debut, Genesis pinches WEC pole from Toyota, and GTA 6's launch trailer is out a month before release.",
+  "date": "2026-10-19",
+  "generated": "2026-10-19T06:12:00+01:00",
+  "headline": "Toyota crush Barcelona to wrap up the WEC makers' title as Genesis fade from pole, Antonelli heads to Austin with a title in reach, China moves to put export curbs on its top AI models, and UFC 333 week begins in Abu Dhabi.",
   "upcoming": [
-    {
-      "when": "Sun 18 Oct",
-      "what": "WEC 6 Hours of Barcelona, 11:00–17:00 Irish time. Genesis on pole, title-leading #8 Toyota alongside"
-    },
-    {
-      "when": "Tue 20 Oct",
-      "what": "ID@Xbox indie showcase, broadcast by IGN"
-    },
-    {
-      "when": "Wed 21 Oct",
-      "what": "Orionid meteor shower peaks; best after midnight, though moonlight will hide the faint ones"
-    },
-    {
-      "when": "23–25 Oct",
-      "what": "F1 United States GP, Austin (sprint weekend); Irish clocks go back on Sunday 25th"
-    },
-    {
-      "when": "Sat 24 Oct",
-      "what": "UFC 333: Volkanovski vs Evloev"
-    },
-    {
-      "when": "Thu 5 Nov",
-      "what": "Ocarina of Time remake launches"
-    }
+    {"when": "Tue 20 Oct", "what": "ID@Xbox indie showcase, broadcast by IGN"},
+    {"when": "Wed 21 Oct", "what": "Orionid meteor shower peaks; best after midnight, though moonlight will wash out the faint ones"},
+    {"when": "23–25 Oct", "what": "F1 United States GP, Austin (standard weekend). Qualifying Sat 22:00, race Sun 20:00 Irish time. Antonelli could clinch the title"},
+    {"when": "Sat 24 Oct", "what": "UFC 333, Abu Dhabi: Volkanovski vs Evloev, Yan vs Dvalishvili 3. Prelims ~15:00, main card ~19:00 Irish time"},
+    {"when": "Sun 25 Oct", "what": "Irish clocks go back an hour"},
+    {"when": "Thu 5 Nov", "what": "Ocarina of Time remake launches on Switch 2"}
   ],
   "sections": [
     {
       "title": "Motorsport",
       "items": [
         {
-          "headline": "Verstappen recovers to ninth after penalty in Portimão GT3 debut",
-          "summary": "A drive-through for Lulham's Turn 8 contact with a Winward Mercedes dropped the #3 Verstappen.com Racing AMG to 24th, but Max's closing stint hauled it back to ninth. GetSpeed's #17 Mercedes (Aron, Götz, Schiller) won the GTWC Europe finale.",
-          "source": "GT Report",
-          "url": "https://www.gt-report.com/2026/10/18/getspeed-wins-dramatic-portimao-race-as-verstappen-storms-through-the-field/"
+          "headline": "Toyota 1-2 in Barcelona seals an eighth WEC manufacturers' title",
+          "summary": "The #8 of Buemi, Hartley and Hirakawa beat the sister #7 by just over half a second. The drivers' crown is now a straight fight between the two Toyota crews at the Monza finale.",
+          "source": "Motorsport Week",
+          "url": "https://www.motorsportweek.com/2026/10/18/toyota-wec-6-hours-of-barcelona-success/"
         },
         {
-          "headline": "Genesis takes a maiden WEC pole in Barcelona",
-          "summary": "Mathys Jaubert put the Genesis on pole by 0.17s from Hirakawa's title-leading #8 Toyota, in the team's first season. Both BMWs missed Hyperpole and start 14th and 16th; the six-hour race starts at 11:00 Irish time today.",
-          "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/articles/wec-barcelona-genesis-secures-maiden-145508989.html"
+          "headline": "Genesis collapse from pole; Manthey Porsche wins LMGT3",
+          "summary": "Juncadella ran wide at Turn 5 on the opening lap, and offs plus penalties left the Genesis cars 11th and 16th. In GT3 the #92 Manthey Porsche took its first class win of the year, cutting the TF Sport Corvette's lead to 18 points.",
+          "source": "Grande Prêmio",
+          "url": "https://grandepremio.com/en/endurance/wec/toyota-crushes-wec-rivals-with-barcelona-1-2-to-seal-world-title-as-genesis-collapses-from-pole/"
+        },
+        {
+          "headline": "Antonelli can be champion in Austin this weekend",
+          "summary": "With a 102-point lead over Russell and six races left, Antonelli clinches if he wins and Russell finishes ninth or lower and Hamilton fifth or lower. Correction to yesterday: Austin is a standard weekend, not a sprint.",
+          "source": "GrandPrix.com",
+          "url": "https://www.grandprix.com/news/how-antonelli-can-clinch-the-2026-title-in-austin.html"
         }
       ]
     },
@@ -50,16 +38,16 @@
       "title": "MMA",
       "items": [
         {
-          "headline": "Malott flattens Buckley with a knee in Edmonton",
-          "summary": "Canada's Mike Malott timed a knee and follow-up punch to stop Joaquin Buckley at 2:32 of round two, an instant Knockout of the Year contender in front of a home crowd.",
-          "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/mma/article/ufc-edmonton-results-mike-malott-viciously-folds-joaquin-buckley-jasmine-jasudavicius-shocks-erin-blanchfield-032744371.html"
+          "headline": "UFC 333 fight week: Volkanovski vs Evloev in Abu Dhabi",
+          "summary": "Volkanovski defends featherweight gold against unbeaten Evloev on Saturday, with the Yan–Dvalishvili trilogy as co-main. Losene Keita steps in for Arnold Allen against Aaron Pico, and England's Lone'er Kavanagh faces Ramazan Temirov.",
+          "source": "The National",
+          "url": "https://www.thenationalnews.com/sport/combat-sports/2026/10/17/ufc-333-fight-card-abu-dhabi-showdown-week-and-all-you-need-to-know/"
         },
         {
-          "headline": "Jasudavicius upsets Blanchfield",
-          "summary": "Jasmine Jasudavicius took a clean 29-28 sweep over Erin Blanchfield in the co-main, a big flyweight statement. Elsewhere, Barriault, Perez and Nallo all won inside the distance.",
-          "source": "CBS Sports",
-          "url": "https://www.cbssports.com/ufc/news/ufc-fight-night-results-live-updates-joaquin-buckley-mike-malott/live/"
+          "headline": "Volkanovski promises to finish Evloev",
+          "summary": "The champion says he'll stop Evloev inside five rounds, a pointed jab at a contender known for grinding out decisions.",
+          "source": "BJPenn.com",
+          "url": "https://www.bjpenn.com/mma-news/ufc/alexander-volkanovski-predicts-finish-over-movsar-evloev-at-ufc-333-im-saying-ill-finish-him-inside-the-five-rounds-for-sure/"
         }
       ]
     },
@@ -67,28 +55,16 @@
       "title": "Tech",
       "items": [
         {
-          "headline": "Anthropic leases a C$10bn data centre campus in Nova Scotia",
-          "summary": "A 20-year deal with EverWind Fuels gives Anthropic its first Canadian data centre, with the first phase targeted for late 2027.",
-          "source": "The Star",
-          "url": "https://www.thestar.com.my/tech/tech-news/2026/10/17/anthropic-signs-lease-for-first-canadian-data-center"
+          "headline": "China proposes export controls on its top AI models",
+          "summary": "A draft list of 40 technologies includes 23 AI items, among them frontier-scale models, agents, chip designs and compute clusters, with open-source work exempt. Firms must already register before exporting listed items; comments close 15 November.",
+          "source": "The Next Web",
+          "url": "https://thenextweb.com/news/china-ai-export-controls-draft"
         },
         {
-          "headline": "DeepSeek opens V4.1-Flash with built-in web search",
-          "summary": "The MIT-licensed 552B sparse mixture-of-experts model comes with new Search and Fetch APIs for live retrieval.",
-          "source": "AI Weekly",
-          "url": "https://aiweekly.co/alerts/deepseek-opens-v41-flash-1017-weights-and-075-search-api"
-        },
-        {
-          "headline": "Korean startup DeepX starts mass-producing its NPU",
-          "summary": "The DX-M1 edge AI chip is now in production on Samsung's 5nm process, with a 2nm successor due to tape out this month. One for the industrial-edge crowd.",
-          "source": "KuCoin News",
-          "url": "https://www.kucoin.com/news/flash/south-korean-ai-chip-startup-deepx-expands-global-ai-market-strategy"
-        },
-        {
-          "headline": "Leak claims Amazon tool scores UK warehouses on union risk",
-          "summary": "openDemocracy says Amazon's Atlas system rates sites including two in the UK by unionisation risk. Amazon says Atlas isn't currently used in the UK.",
-          "source": "openDemocracy",
-          "url": "https://www.opendemocracy.net/amazon-ai-surveillance-monitor-union-activity-uk-warehouses-birmingham-coventry-atlas-sutton-coldfield/"
+          "headline": "Germany set to unveil an industrial AI deal with Nvidia this week",
+          "summary": "Government sources say the partnership, backed by federal funding, will focus on industrial uses like robotics and autonomous vehicles. Details are still to come.",
+          "source": "The Next Web",
+          "url": "https://thenextweb.com/news/germany-nvidia-ai-partnership-next-week"
         }
       ]
     },
@@ -96,22 +72,22 @@
       "title": "Science & Space",
       "items": [
         {
-          "headline": "One rule may govern black hole jets of every size",
-          "summary": "Astronomers found that black holes from stellar-mass to supermassive appear to launch their eruptions under the same underlying relationship.",
+          "headline": "A tiny mirror tweak makes NASA's Roman telescope 30% better than planned",
+          "summary": "Engineers nudged a mirror by a minute amount and the observatory now outperforms its design expectations.",
           "source": "ScienceDaily",
-          "url": "https://www.sciencedaily.com/releases/2026/10/261014015507.htm"
+          "url": "https://www.sciencedaily.com/releases/2026/10/261016070630.htm"
         },
         {
-          "headline": "Farside samples may explain the Moon's two faces",
-          "summary": "Analysis of rock returned from the lunar farside offers a fresh explanation for why the two hemispheres look so different.",
+          "headline": "Webb spots surprisingly orderly weather on a world 20 light-years away",
+          "summary": "Despite a turbulent environment, the planet shows an organised weather pattern, a neat test of how alien atmospheres behave.",
           "source": "ScienceDaily",
-          "url": "https://www.sciencedaily.com/releases/2026/10/261012185019.htm"
+          "url": "https://www.sciencedaily.com/releases/2026/10/261015073215.htm"
         },
         {
-          "headline": "Webb finds an ancient cluster with oddly dense dark matter",
-          "summary": "An early galaxy cluster seems to pack more dark matter than models expect for its age. A quieter weekend for launches otherwise; Orionids peak on Wednesday.",
+          "headline": "Altermagnetism, the 'third magnetism', takes a physics prize",
+          "summary": "The newly recognised form of magnetism could underpin faster, more efficient computer memory. Orionids peak on Wednesday night.",
           "source": "ScienceDaily",
-          "url": "https://www.sciencedaily.com/releases/2026/10/261012185021.htm"
+          "url": "https://www.sciencedaily.com/releases/2026/10/261017230035.htm"
         }
       ]
     },
@@ -119,16 +95,22 @@
       "title": "Gaming",
       "items": [
         {
-          "headline": "GTA 6 launch trailer drops ahead of 19 November",
-          "summary": "Rockstar's in-engine PS5 trailer leans into heists, chases and the Keys, set to new Justice music, though it reveals little new.",
-          "source": "Insider Gaming",
-          "url": "https://insider-gaming.com/gta-6-gameplay-launch-trailer-dropped-by-rockstar-games"
+          "headline": "PS6 memory alone could cost over $680 per console, insider claims",
+          "summary": "With RAM prices soaring, a hardware insider reckons next-gen consoles could top $1,000. Treat it as a claim, not a price.",
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/playstation-6s-memory-costs-alone-exceed-680-per-console-its-claimed/"
         },
         {
-          "headline": "CDPR says Project Hadar is its biggest undertaking yet",
-          "summary": "Alongside The Witcher 4 and Cyberpunk 2, the studio says its new IP's world is now built. No new Witcher 4 or Orion dates this week.",
+          "headline": "Samson studio Liquid Swords reportedly bankrupt",
+          "summary": "The Swedish developer behind the open-world brawler has reportedly been declared bankrupt after months of unpaid wages.",
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/samson-developer-liquid-swords-is-facing-bankruptcy/"
+        },
+        {
+          "headline": "BioWare veteran warns CDPR's big sequels put it in a risky spot",
+          "summary": "Anthem's former lead says ballooning budgets and sales expectations for The Witcher 4 and Cyberpunk 2 put real pressure on the studio. No new Witcher 3 or Borderlands news this weekend.",
           "source": "GamesRadar+",
-          "url": "https://www.gamesradar.com/games/on-top-of-the-witcher-4-and-cyberpunk-2-cd-projekt-red-boss-says-project-hadar-is-the-studios-biggest-undertaking-to-date-and-theyve-finally-finished-building-its-world/"
+          "url": "https://www.gamesradar.com/games/rpg/big-rpgs-like-the-witcher-4-and-cyberpunk-2-have-cd-projekt-red-in-a-dangerous-place-warns-bioware-veteran-with-costs-and-sales-expectations-exploding/"
         }
       ]
     },
@@ -136,8 +118,8 @@
       "title": "BJJ & Grappling",
       "items": [
         {
-          "headline": "A quiet open-circuit weekend",
-          "summary": "Fight to Win 328 ran Friday and ADCC opens in New Jersey and Peru filled Saturday, but no major headline results. The Crown on 8 November is the next big one.",
+          "headline": "Quiet weekend on the mats",
+          "summary": "No major pro grappling results since Friday. The Crown on 8 November remains the next big date.",
           "source": "FloGrappling via Yahoo Sports",
           "url": "https://sports.yahoo.com/articles/whats-streaming-flograppling-week-oct-163433873.html"
         }

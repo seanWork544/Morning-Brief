@@ -1,0 +1,135 @@
+{
+  "date": "2026-10-20",
+  "generated": "2026-10-20T06:19:10+01:00",
+  "headline": "Germany signs its industrial AI pact with Nvidia, Anthropic is reportedly lining up $45bn of compute with Nscale, Cyberpunk: Edgerunners 2 drops on Netflix today, and UFC 333 and Austin loom at the weekend.",
+  "upcoming": [
+    {
+      "when": "Wed 21 Oct",
+      "what": "Orionid meteor shower peaks overnight; best after midnight, moonlight permitting"
+    },
+    {
+      "when": "Fri 23 Oct",
+      "what": "Call of Duty: Modern Warfare 4 launches on PS5, Xbox Series X|S, Switch 2 and PC"
+    },
+    {
+      "when": "Sat 24 Oct",
+      "what": "UFC 333, Abu Dhabi: Volkanovski vs Evloev, Yan vs Dvalishvili 3. Early prelims 15:00, prelims 17:00, main card 19:00 Irish time"
+    },
+    {
+      "when": "23–25 Oct",
+      "what": "F1 United States GP, Austin. Qualifying Sat 22:00, race Sun 20:00 Irish time (clocks go back that morning). Antonelli can clinch the title"
+    },
+    {
+      "when": "Thu 5 Nov",
+      "what": "Ocarina of Time remake launches on Switch 2"
+    },
+    {
+      "when": "Sun 8 Nov",
+      "what": "IBJJF The Crown, Long Beach: invitation-only, eight-athlete brackets across six divisions"
+    }
+  ],
+  "sections": [
+    {
+      "title": "Tech",
+      "items": [
+        {
+          "headline": "Germany signs its industrial AI deal with Nvidia",
+          "summary": "Announced at a Berlin investment summit on Monday, the pact aims to build industrial AI models trained on German data and manufacturing know-how. It's the deal flagged last week, now official.",
+          "source": "Insider Paper",
+          "url": "https://insiderpaper.com/german-government-partnering-with-nvidia-on-industrial-ai-statement/"
+        },
+        {
+          "headline": "Nscale reportedly in talks on a ~$45bn compute deal with Anthropic",
+          "summary": "Per Bloomberg, the capacity would come from a second facility at Nscale's Monarch campus in West Virginia. Nothing is signed yet.",
+          "source": "MarketScreener / MT Newswires",
+          "url": "https://www.marketscreener.com/news/nscale-in-talks-for-45-billion-anthropic-computing-deal-ce785cdbdf8dfe2c"
+        }
+      ]
+    },
+    {
+      "title": "Science & Space",
+      "items": [
+        {
+          "headline": "SpaceX retries its Bandwagon-5 rideshare this morning",
+          "summary": "After Monday's weather scrub, the launch from Cape Canaveral is targeted for 11:30 Irish time today. It carries 31 customer payloads plus another flight of SpaceX's Starfall reentry capsule, a small orbital lab that brings experiments back to Earth.",
+          "source": "Spaceflight Now",
+          "url": "https://spaceflightnow.com/2026/10/18/live-coverage-spacex-to-launch-starfall-reentry-capsule-31-customer-payloads-on-bandwagon-5-rideshare-mission/"
+        },
+        {
+          "headline": "Alaska landslide tsunami ran 1,580 feet up a mountainside",
+          "summary": "Researchers have reconstructed a landslide-triggered wave that ranks as the second-highest tsunami ever recorded.",
+          "source": "ScienceDaily",
+          "url": "https://www.sciencedaily.com/releases/2026/10/261018205047.htm"
+        },
+        {
+          "headline": "Astronomers find the first white dwarf that looks green",
+          "summary": "A survey turned up white dwarfs glowing in unexpected colours, including one that appears green, a first for any known star.",
+          "source": "ScienceDaily",
+          "url": "https://www.sciencedaily.com/releases/2026/10/261017230018.htm"
+        }
+      ]
+    },
+    {
+      "title": "Gaming",
+      "items": [
+        {
+          "headline": "Cyberpunk: Edgerunners 2 lands on Netflix today",
+          "summary": "Ten episodes, a standalone story with a new crew in Night City. Hideo Kojima reportedly turns up in a cameo. No news today on Cyberpunk 2 or The Witcher 4 themselves.",
+          "source": "Netflix Tudum",
+          "url": "https://www.netflix.com/tudum/articles/cyberpunk-edgerunners-2-release-date-news"
+        },
+        {
+          "headline": "Big release week: Modern Warfare 4 arrives Friday",
+          "summary": "Call of Duty: Modern Warfare 4 headlines the week on Friday. Earlier in the week there's Final Fantasy Resonance, the console edition of Peak, and Fatal Fury: City of the Wolves on Switch 2.",
+          "source": "Instant Gaming News",
+          "url": "https://news.instant-gaming.com/en/articles/22528-this-week-s-releases-from-october-19-to-25-2026"
+        }
+      ]
+    },
+    {
+      "title": "BJJ & Grappling",
+      "items": [
+        {
+          "headline": "Still quiet on the mats; Tsarukyan vs Neiman Gracie on the horizon",
+          "summary": "No major pro grappling results this week. The next notable dates are The Crown on 8 November and Arman Tsarukyan against Neiman Gracie at Real American Freestyle in Abu Dhabi on 14 November.",
+          "source": "BJJEE",
+          "url": "https://www.bjjee.com/bjj-news/arman-tsarukyan-set-to-face-neiman-gracie-at-raf-abu-dhabi/"
+        }
+      ]
+    },
+    {
+      "title": "MMA",
+      "items": [
+        {
+          "headline": "UFC 333 card locked in for Saturday",
+          "summary": "The main card is Volkanovski vs Evloev, Yan vs Dvalishvili 3, England's Lone'er Kavanagh vs Ramazan Temirov, Volkov vs Kuniev, and Pico vs Keita. It's an early start: main card at 19:00 Irish time.",
+          "source": "UFC.com",
+          "url": "https://www.ufc.com/news/fight-fight-preview-ufc-333-volkanovski-vs-evloev"
+        },
+        {
+          "headline": "Ian Machado Garry expected back before year's end",
+          "summary": "A report says the Irish welterweight's next fight is set to be announced soon for later in 2026. No opponent is confirmed yet.",
+          "source": "Bloody Elbow",
+          "url": "https://bloodyelbow.com/2026/10/19/ian-machado-garry-set-to-fight-again-in-2026-with-announcement-seemingly-imminent-according-to-report/"
+        }
+      ]
+    },
+    {
+      "title": "Motorsport",
+      "items": [
+        {
+          "headline": "Austin storylines: Mercedes upgrade, Verstappen's surge, Hamilton–Ferrari friction",
+          "summary": "Mercedes' upgrade package faces its real test after a poor Malaysia showing. Verstappen arrives on two straight wins and sits 8 points behind Hamilton, who is under scrutiny after ignoring a pit call in Singapore.",
+          "source": "Sky Sports",
+          "url": "https://www.skysports.com/f1/news/13599548/united-states-gp-lewis-hamilton-and-lando-norris-moving-on-from-singapore-woes-among-talking-points-for-austin-race"
+        },
+        {
+          "headline": "McLaren's slump puts Norris under the spotlight",
+          "summary": "After summer wins in Hungary and the Netherlands, Norris's best in the last triple-header was fourth, and his clash with Piastri in a sprint cost both drivers points.",
+          "source": "Sky Sports",
+          "url": "https://www.skysports.com/f1/news/13599548/united-states-gp-lewis-hamilton-and-lando-norris-moving-on-from-singapore-woes-among-talking-points-for-austin-race"
+        }
+      ]
+    }
+  ]
+}

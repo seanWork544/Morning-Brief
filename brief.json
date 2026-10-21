@@ -1,135 +1,75 @@
 {
-  "date": "2026-10-20",
-  "generated": "2026-10-20T06:19:10+01:00",
-  "headline": "Germany signs its industrial AI pact with Nvidia, Anthropic is reportedly lining up $45bn of compute with Nscale, Cyberpunk: Edgerunners 2 drops on Netflix today, and UFC 333 and Austin loom at the weekend.",
+  "date": "2026-10-21",
+  "generated": "2026-10-21T06:11:48+01:00",
+  "headline": "SpaceX's Starfall capsule is back in orbit, Nvidia ships new open agent models, ID@Xbox brings a Wolf Among Us remaster, and it's fight week for UFC 333 and Austin.",
   "upcoming": [
-    {
-      "when": "Wed 21 Oct",
-      "what": "Orionid meteor shower peaks overnight; best after midnight, moonlight permitting"
-    },
-    {
-      "when": "Fri 23 Oct",
-      "what": "Call of Duty: Modern Warfare 4 launches on PS5, Xbox Series X|S, Switch 2 and PC"
-    },
-    {
-      "when": "Sat 24 Oct",
-      "what": "UFC 333, Abu Dhabi: Volkanovski vs Evloev, Yan vs Dvalishvili 3. Early prelims 15:00, prelims 17:00, main card 19:00 Irish time"
-    },
-    {
-      "when": "23–25 Oct",
-      "what": "F1 United States GP, Austin. Qualifying Sat 22:00, race Sun 20:00 Irish time (clocks go back that morning). Antonelli can clinch the title"
-    },
-    {
-      "when": "Thu 5 Nov",
-      "what": "Ocarina of Time remake launches on Switch 2"
-    },
-    {
-      "when": "Sun 8 Nov",
-      "what": "IBJJF The Crown, Long Beach: invitation-only, eight-athlete brackets across six divisions"
-    }
+    {"when": "Tonight, Wed 21 Oct", "what": "Orionid meteor shower peaks overnight; best after midnight, moonlight permitting"},
+    {"when": "Fri 23 Oct", "what": "Call of Duty: Modern Warfare 4 launches on PS5, Xbox Series X|S, Switch 2 and PC"},
+    {"when": "Sat 24 Oct", "what": "UFC 333, Abu Dhabi: Volkanovski vs Evloev, Yan vs Dvalishvili 3. Main card 19:00 Irish time"},
+    {"when": "23–25 Oct", "what": "F1 United States GP, Austin (standard format). FP1 Fri 17:30, Quali Sat 22:00, race Sun 20:00 Irish time (clocks go back Sunday morning)"},
+    {"when": "Thu 29 Oct", "what": "The Wolf Among Us Remastered launches digitally on Xbox"},
+    {"when": "Sun 8 Nov", "what": "IBJJF The Crown, Long Beach: invitation-only, eight-athlete brackets"}
   ],
   "sections": [
-    {
-      "title": "Tech",
-      "items": [
-        {
-          "headline": "Germany signs its industrial AI deal with Nvidia",
-          "summary": "Announced at a Berlin investment summit on Monday, the pact aims to build industrial AI models trained on German data and manufacturing know-how. It's the deal flagged last week, now official.",
-          "source": "Insider Paper",
-          "url": "https://insiderpaper.com/german-government-partnering-with-nvidia-on-industrial-ai-statement/"
-        },
-        {
-          "headline": "Nscale reportedly in talks on a ~$45bn compute deal with Anthropic",
-          "summary": "Per Bloomberg, the capacity would come from a second facility at Nscale's Monarch campus in West Virginia. Nothing is signed yet.",
-          "source": "MarketScreener / MT Newswires",
-          "url": "https://www.marketscreener.com/news/nscale-in-talks-for-45-billion-anthropic-computing-deal-ce785cdbdf8dfe2c"
-        }
-      ]
-    },
-    {
-      "title": "Science & Space",
-      "items": [
-        {
-          "headline": "SpaceX retries its Bandwagon-5 rideshare this morning",
-          "summary": "After Monday's weather scrub, the launch from Cape Canaveral is targeted for 11:30 Irish time today. It carries 31 customer payloads plus another flight of SpaceX's Starfall reentry capsule, a small orbital lab that brings experiments back to Earth.",
-          "source": "Spaceflight Now",
-          "url": "https://spaceflightnow.com/2026/10/18/live-coverage-spacex-to-launch-starfall-reentry-capsule-31-customer-payloads-on-bandwagon-5-rideshare-mission/"
-        },
-        {
-          "headline": "Alaska landslide tsunami ran 1,580 feet up a mountainside",
-          "summary": "Researchers have reconstructed a landslide-triggered wave that ranks as the second-highest tsunami ever recorded.",
-          "source": "ScienceDaily",
-          "url": "https://www.sciencedaily.com/releases/2026/10/261018205047.htm"
-        },
-        {
-          "headline": "Astronomers find the first white dwarf that looks green",
-          "summary": "A survey turned up white dwarfs glowing in unexpected colours, including one that appears green, a first for any known star.",
-          "source": "ScienceDaily",
-          "url": "https://www.sciencedaily.com/releases/2026/10/261017230018.htm"
-        }
-      ]
-    },
-    {
-      "title": "Gaming",
-      "items": [
-        {
-          "headline": "Cyberpunk: Edgerunners 2 lands on Netflix today",
-          "summary": "Ten episodes, a standalone story with a new crew in Night City. Hideo Kojima reportedly turns up in a cameo. No news today on Cyberpunk 2 or The Witcher 4 themselves.",
-          "source": "Netflix Tudum",
-          "url": "https://www.netflix.com/tudum/articles/cyberpunk-edgerunners-2-release-date-news"
-        },
-        {
-          "headline": "Big release week: Modern Warfare 4 arrives Friday",
-          "summary": "Call of Duty: Modern Warfare 4 headlines the week on Friday. Earlier in the week there's Final Fantasy Resonance, the console edition of Peak, and Fatal Fury: City of the Wolves on Switch 2.",
-          "source": "Instant Gaming News",
-          "url": "https://news.instant-gaming.com/en/articles/22528-this-week-s-releases-from-october-19-to-25-2026"
-        }
-      ]
-    },
-    {
-      "title": "BJJ & Grappling",
-      "items": [
-        {
-          "headline": "Still quiet on the mats; Tsarukyan vs Neiman Gracie on the horizon",
-          "summary": "No major pro grappling results this week. The next notable dates are The Crown on 8 November and Arman Tsarukyan against Neiman Gracie at Real American Freestyle in Abu Dhabi on 14 November.",
-          "source": "BJJEE",
-          "url": "https://www.bjjee.com/bjj-news/arman-tsarukyan-set-to-face-neiman-gracie-at-raf-abu-dhabi/"
-        }
-      ]
-    },
-    {
-      "title": "MMA",
-      "items": [
-        {
-          "headline": "UFC 333 card locked in for Saturday",
-          "summary": "The main card is Volkanovski vs Evloev, Yan vs Dvalishvili 3, England's Lone'er Kavanagh vs Ramazan Temirov, Volkov vs Kuniev, and Pico vs Keita. It's an early start: main card at 19:00 Irish time.",
-          "source": "UFC.com",
-          "url": "https://www.ufc.com/news/fight-fight-preview-ufc-333-volkanovski-vs-evloev"
-        },
-        {
-          "headline": "Ian Machado Garry expected back before year's end",
-          "summary": "A report says the Irish welterweight's next fight is set to be announced soon for later in 2026. No opponent is confirmed yet.",
-          "source": "Bloody Elbow",
-          "url": "https://bloodyelbow.com/2026/10/19/ian-machado-garry-set-to-fight-again-in-2026-with-announcement-seemingly-imminent-according-to-report/"
-        }
-      ]
-    },
-    {
-      "title": "Motorsport",
-      "items": [
-        {
-          "headline": "Austin storylines: Mercedes upgrade, Verstappen's surge, Hamilton–Ferrari friction",
-          "summary": "Mercedes' upgrade package faces its real test after a poor Malaysia showing. Verstappen arrives on two straight wins and sits 8 points behind Hamilton, who is under scrutiny after ignoring a pit call in Singapore.",
-          "source": "Sky Sports",
-          "url": "https://www.skysports.com/f1/news/13599548/united-states-gp-lewis-hamilton-and-lando-norris-moving-on-from-singapore-woes-among-talking-points-for-austin-race"
-        },
-        {
-          "headline": "McLaren's slump puts Norris under the spotlight",
-          "summary": "After summer wins in Hungary and the Netherlands, Norris's best in the last triple-header was fourth, and his clash with Piastri in a sprint cost both drivers points.",
-          "source": "Sky Sports",
-          "url": "https://www.skysports.com/f1/news/13599548/united-states-gp-lewis-hamilton-and-lando-norris-moving-on-from-singapore-woes-among-talking-points-for-austin-race"
-        }
-      ]
-    }
+    {"title": "Tech", "items": [
+      {"headline": "Nvidia launches Nemotron 3.5 open models for agents",
+       "summary": "The 120B-parameter Nemotron 3.5 Super VL targets enterprise agents, and two smaller 'Bolt' models are built to run locally on RTX AI PCs and DGX Spark. Salesforce, EY and CrowdStrike are named as early customers.",
+       "source": "TechCrunch",
+       "url": "https://techcrunch.com/2026/10/19/nvidia-launches-new-open-models-to-run-agents-in-the-enterprise-and-on-pcs/"},
+      {"headline": "AI labs build their own rulebook as Washington steps back",
+       "summary": "Anthropic, OpenAI and Google are putting together a voluntary self-policing system, while also debating how to share the wealth AI may create. The White House still insists on mandatory incident reporting.",
+       "source": "Axios",
+       "url": "https://axios.com/2026/10/20/ai-govern-anthropic-openai"},
+      {"headline": "Why the Anthropic–Nscale talks matter for Nvidia",
+       "summary": "This follows up yesterday's report of a possible ~$45bn compute deal: the capacity would mean a large order of Nvidia hardware. Nothing has been signed yet.",
+       "source": "The Motley Fool",
+       "url": "https://fool.com/investing/2026/10/20/anthropic-is-in-talks-for-another-45-billion-ai-deal-nvidia-could-be-a-big-winner"}
+    ]},
+    {"title": "Science & Space", "items": [
+      {"headline": "Bandwagon-5 launches: SpaceX's Starfall capsule flies again",
+       "summary": "After Monday's weather scrub, Falcon 9 got away from Cape Canaveral on Tuesday with 31 customer payloads. It also carried the second flight of Starfall, SpaceX's uncrewed reentry capsule that brings experiments back to Earth.",
+       "source": "AIAA",
+       "url": "https://aiaa.org/2026/10/20/spacex-sends-second-starfall-reentry-vehicle-into-orbit/"},
+      {"headline": "Orionids peak tonight",
+       "summary": "Halley's Comet debris peaks tonight into tomorrow morning. With clear Irish skies, look east to south-east after midnight for up to roughly 20 meteors an hour.",
+       "source": "Spaceflight Now (launch schedule)",
+       "url": "https://spaceflightnow.com/tag/bandwagon-5/"}
+    ]},
+    {"title": "Gaming", "items": [
+      {"headline": "ID@Xbox showcase: Wolf Among Us remaster and Shrek 2",
+       "summary": "The Wolf Among Us Remastered arrives digitally on 29 October, and Shrek 2 Remastered on 10 November. Also shown: ZERO PARADES: Director's Cut on 3 November, plus the co-op A Game About Digging A Hole Together on Game Pass on 4 December.",
+       "source": "Xbox Wire",
+       "url": "https://news.xbox.com/en-us/2026/10/20/id-xbox-ign-showcase-october-2026"},
+      {"headline": "Modern Warfare 4 arrives Friday; watchlist quiet",
+       "summary": "Call of Duty: Modern Warfare 4 launches on Friday. There's nothing new on The Witcher 4, Cyberpunk 2, Witcher 3 or Borderlands since yesterday.",
+       "source": "Instant Gaming News",
+       "url": "https://news.instant-gaming.com/en/articles/22528-this-week-s-releases-from-october-19-to-25-2026"}
+    ]},
+    {"title": "BJJ & Grappling", "items": [
+      {"headline": "Quiet week; The Crown and Tsarukyan vs Neiman Gracie ahead",
+       "summary": "No major pro grappling results today. Next up are IBJJF's The Crown on 8 November, then Arman Tsarukyan against Neiman Gracie at RAF Abu Dhabi on 14 November.",
+       "source": "BJJEE",
+       "url": "https://www.bjjee.com/bjj-news/arman-tsarukyan-set-to-face-neiman-gracie-at-raf-abu-dhabi/"}
+    ]},
+    {"title": "MMA", "items": [
+      {"headline": "UFC 333 fight week underway in Abu Dhabi",
+       "summary": "There are two title fights: Volkanovski defends against Evloev, and Yan meets Dvalishvili for a third time. England's Lone'er Kavanagh faces Ramazan Temirov on the main card, which starts at 19:00 Irish time on Saturday.",
+       "source": "The National",
+       "url": "https://www.thenationalnews.com/sport/combat-sports/2026/10/17/ufc-333-fight-card-abu-dhabi-showdown-week-and-all-you-need-to-know/"},
+      {"headline": "Volkanovski on dismantling Evloev's game plan",
+       "summary": "The featherweight champion says he expects to take away Evloev's usual wrestling-heavy approach.",
+       "source": "MMA Sucka",
+       "url": "https://mmasucka.com/news/alexander-volkanovski-warns-movsar-evloev-about-neutralizing-usual-gameplan-at-ufc-333/"}
+    ]},
+    {"title": "Motorsport", "items": [
+      {"headline": "Austin: Antonelli leads by 102 heading into round 19",
+       "summary": "Antonelli (340) leads Russell (238), Hamilton (229) and Verstappen (221) with the title in sight. COTA runs a standard weekend: qualifying at 22:00 Saturday and the race at 20:00 Sunday, Irish time.",
+       "source": "GPBlog",
+       "url": "https://www.gpblog.com/en/news/f1-heads-to-austin-why-the-cota-weekends-schedule-is-worth-checking-twice"},
+      {"headline": "Austin talking points: Mercedes upgrade, Verstappen's form, Hamilton–Ferrari friction",
+       "summary": "Mercedes need their upgrade to work after a poor Malaysia. Verstappen comes in on two straight wins, and McLaren and Norris are trying to stop a slide.",
+       "source": "Sky Sports",
+       "url": "https://www.skysports.com/f1/news/13599548/united-states-gp-lewis-hamilton-and-lando-norris-moving-on-from-singapore-woes-among-talking-points-for-austin-race"}
+    ]}
   ]
 }

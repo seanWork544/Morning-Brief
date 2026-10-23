@@ -1,0 +1,171 @@
+{
+  "date": "2026-10-23",
+  "generated": "2026-10-23T06:22:02+01:00",
+  "headline": "Austin practice gets under way tonight with Antonelli calling a title there 'a dream', AI-spending jitters knock the Nasdaq down 2.6%, and new supernova data adds to the evidence that dark energy might not be constant.",
+  "upcoming": [
+    {
+      "when": "Today, Fri 23 Oct",
+      "what": "Call of Duty: Modern Warfare 4 launches. Also, NASA's live Artemis III and lunar-landing update"
+    },
+    {
+      "when": "23–25 Oct",
+      "what": "F1 United States GP, Austin (no sprint). FP1 Fri 18:30, FP2 22:00, Quali Sat 22:00, race Sun 20:00 Irish time. Clocks go back early Sunday, and there's a 50% chance of rain for the race"
+    },
+    {
+      "when": "Sat 24 Oct",
+      "what": "UFC 333, Abu Dhabi: Volkanovski vs Evloev and Yan vs Dvalishvili 3. Prelims 17:00, main card 19:00 Irish time"
+    },
+    {
+      "when": "28 Oct–1 Nov",
+      "what": "IBJJF No-Gi European Championships, Rome (FloGrappling)"
+    },
+    {
+      "when": "30 Oct–1 Nov",
+      "what": "F1 Mexico City GP, the next shot at the title for Antonelli"
+    },
+    {
+      "when": "6–8 Nov",
+      "what": "WEC season finale, 6 Hours of Monza"
+    }
+  ],
+  "sections": [
+    {
+      "title": "Tech",
+      "items": [
+        {
+          "headline": "AI-spending jitters sink chip stocks; Nasdaq down 2.6%",
+          "summary": "Worries about runaway AI capex and the cost of borrowing hit semiconductors on Thursday. Lam Research fell about 9%, CoreWeave 10% and Nvidia around 2%, and IBM's boss said some clients fear AI spending is 'out of control'.",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-october-22-dow-sp-500-nasdaq-tesla-meta-112217857.html"
+        },
+        {
+          "headline": "Meta's post-earnings pop turns into a 7% drop",
+          "summary": "Q3 revenue rose 26% to $64.6bn and Meta announced a 2-for-1 split that gives holders non-voting Class C shares. But full-year capex guidance of up to $145bn worried investors, and the stock closed down about 7% on Thursday.",
+          "source": "Forbes",
+          "url": "https://www.forbes.com/sites/antoniopequenoiv/2026/10/21/meta-posts-64-billion-in-revenue-and-announces-stock-split-in-q3-earnings/"
+        },
+        {
+          "headline": "Fine print on Tesla's quarter: operating income down 56%",
+          "summary": "Beneath the headline beat, R&D spending rose 69% to about $2.8bn as Tesla puts money into AI and Optimus. It also flagged heavier spending in 2027–28 on Optimus, Cybercab and its 'Terafab', and the shares slipped 3%.",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-october-22-dow-sp-500-nasdaq-tesla-meta-112217857.html"
+        },
+        {
+          "headline": "Fun one: a tiny AI model that pretends to be a terminal",
+          "summary": "An indie developer fine-tuned a 360M-parameter model to imitate a full terminal session, vim, tmux and snake included, with no real shell underneath.",
+          "source": "simedw.com",
+          "url": "https://simedw.com/2026/10/21/world-model-terminal/"
+        }
+      ]
+    },
+    {
+      "title": "Science & Space",
+      "items": [
+        {
+          "headline": "Almost 3,000 supernovae hint that dark energy changes over time",
+          "summary": "A University of Queensland-led team combined three decades of Type Ia supernova data with CMB and galaxy maps. They found more signs that dark energy isn't constant, which fits with earlier hints from DESI. The work is a preprint and hasn't been peer-reviewed yet.",
+          "source": "ScienceDaily",
+          "url": "https://www.sciencedaily.com/releases/2026/10/261021231244.htm"
+        },
+        {
+          "headline": "ESA's Space Rider comes down hard in a drop test",
+          "summary": "Europe's reusable mini-shuttle crashed during a drop test, a setback for ESA's uncrewed return-vehicle programme.",
+          "source": "Space.com",
+          "url": "https://www.space.com/space-exploration/launches-spacecraft/europes-space-rider-vehicle-comes-crashing-down-during-drop-test"
+        },
+        {
+          "headline": "Ukraine plans its own satcom network with ICEYE and Nokia",
+          "summary": "After disruptions to Starshield, Ukraine's military has signed a letter of intent to study a sovereign satellite communications system. NASA also gives a live Artemis III and lunar lander update today.",
+          "source": "Space.com",
+          "url": "https://www.space.com/space-exploration/satellites/after-starshield-interruption-ukraine-wants-to-build-its-own-satellite-communication-network-with-iceye-and-nokia"
+        },
+        {
+          "headline": "Cambridge's $10 chip aims to put a medical lab on your wrist",
+          "summary": "Cambridge engineers have built a cheap sensor chip that they say could bring lab-style health tests to a wearable.",
+          "source": "ScienceDaily",
+          "url": "https://www.sciencedaily.com/releases/2026/10/261022081312.htm"
+        }
+      ]
+    },
+    {
+      "title": "Gaming",
+      "items": [
+        {
+          "headline": "Watchlist: Witcher 3 Remastered update 5.01 is live",
+          "summary": "The patch adds new bloom, light-shaft and depth-of-field options, adjusts ray and path tracing, and fixes combat, stamina and save bugs. Switch 2 gets sharper visuals. There's no fresh news on Witcher 4, Cyberpunk 2 or Borderlands.",
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/the-witcher-3-remastereds-latest-update-is-now-live-here-are-the-full-patch-notes"
+        },
+        {
+          "headline": "BioWare's last Mass Effect trailer leaks",
+          "summary": "A day after EA closed the studio, footage of the cancelled 'Mass Effect Universe' project has appeared online. Separately, Amazon's Mass Effect TV series is reportedly still in production.",
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/mass-effect-universe-trailer-leaks-online-showcases-what-bioware-was-working-on-before-being-shut-down/"
+        },
+        {
+          "headline": "Capcom breach hits more than 11 million Capcom ID accounts",
+          "summary": "Capcom says card details weren't exposed, but it's worth changing your password if you have an account.",
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/capcom-says-a-data-breach-affected-more-than-11-million-capcom-id-accounts-credit-card-details-unaffected/"
+        },
+        {
+          "headline": "Rockstar is quietly turning real Miami into Vice City",
+          "summary": "Fans are spotting in-universe GTA 6 branding around Miami, a sign the marketing is ramping up. Modern Warfare 4 is out today.",
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/rockstar-is-quietly-transforming-the-real-miami-into-gta-6s-vice-city/"
+        }
+      ]
+    },
+    {
+      "title": "BJJ & Grappling",
+      "items": [
+        {
+          "headline": "Garry Tonon returns to jiu-jitsu at Polaris 40",
+          "summary": "The 'Lion Killer' has his first grappling superfight in nearly six years, a rematch with Sam McNally, who beat him on points at ADCC 2022. The event is on 21 November. It's otherwise a quiet week ahead of next week's No-Gi Europeans.",
+          "source": "FloGrappling",
+          "url": "https://www.flograppling.com/articles/16275000-garry-tonon-to-compete-in-jiu-jitsu-at-polaris-40"
+        }
+      ]
+    },
+    {
+      "title": "MMA",
+      "items": [
+        {
+          "headline": "UFC 333 fight week: Dvalishvili wants a '25-minute war'",
+          "summary": "Merab is up for the trilogy with Petr Yan after 10 months out, and Yan is promising a decisive win. Volkanovski, now 38, could break Aldo's record for featherweight title wins if he beats the unbeaten Evloev (20-0).",
+          "source": "Arab News",
+          "url": "https://www.arabnews.pk/sport/im-ready-for-a-25-minute-war-dvalishvili-relishing-ufc-333-trilogy-with-yan-in-abu-dhabi-3003770"
+        },
+        {
+          "headline": "Full card: Kavanagh on the main card, Volkov chases a title shot",
+          "summary": "England's Lone'er Kavanagh faces Ramazan Temirov on the main card, and Volkov meets Kuniev in a heavyweight bout that could put him in line for a title shot. Pico vs Keita and Reyes vs Murzakanov are also on the card. Weigh-ins are today.",
+          "source": "UFC.com",
+          "url": "https://www.ufc.com/news/fight-fight-preview-ufc-333-volkanovski-vs-evloev"
+        }
+      ]
+    },
+    {
+      "title": "Motorsport",
+      "items": [
+        {
+          "headline": "Antonelli: an Austin title 'would be a dream'",
+          "summary": "Speaking at media day, the 20-year-old said he would need a perfect weekend and is ignoring the maths. A title in Austin would make him F1's youngest first-time champion, ahead of Vettel. He leads Russell by 102 points.",
+          "source": "Formula1.com",
+          "url": "https://formula1.com/en/latest/article/it-would-be-a-dream-antonelli-targets-perfect-weekend-in-austin-to-claim-maiden-f1-title.39LQkTCcrGsLcfcPGgd4ud"
+        },
+        {
+          "headline": "Heat, then a coin-flip on rain for Sunday",
+          "summary": "Forecasts show temperatures above 30°C all weekend, with showers possible and a 50% chance of rain during the race, which could unsettle a title-deciding Sunday. It's a standard format with no sprint, and McLaren are bringing more upgrades.",
+          "source": "Sky Sports",
+          "url": "https://www.skysports.com/f1/news/13599576/united-states-gp-2026-dates-schedule-austin-weather-uk-start-time-and-how-to-watch-or-stream-f1-race-at-cota-live-on-sky-sports"
+        },
+        {
+          "headline": "Haas signs F2 leader Rafael Camara for 2027",
+          "summary": "Camara joins Bearman on a multi-year deal, leaving Racing Bulls as the only team without a confirmed 2027 line-up.",
+          "source": "Formula1.com",
+          "url": "https://www.formula1.com/en/latest/article/its-race-week-5-storylines-were-excited-about-ahead-of-the-2026-united-states-grand-prix.4utgT1kLqHM2HAM98YP4TW"
+        }
+      ]
+    }
+  ]
+}

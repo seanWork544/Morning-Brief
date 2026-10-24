@@ -1,19 +1,19 @@
 {
-  "date": "2026-10-23",
-  "generated": "2026-10-23T06:22:02+01:00",
-  "headline": "Austin practice gets under way tonight with Antonelli calling a title there 'a dream', AI-spending jitters knock the Nasdaq down 2.6%, and new supernova data adds to the evidence that dark energy might not be constant.",
+  "date": "2026-10-24",
+  "generated": "2026-10-24T06:10:57+01:00",
+  "headline": "Leclerc tops both Austin practices ahead of qualifying tonight, all four UFC 333 title fighters make weight in Abu Dhabi, and Microsoft reports that a China-linked group used agentic AI in a supply-chain hack.",
   "upcoming": [
     {
-      "when": "Today, Fri 23 Oct",
-      "what": "Call of Duty: Modern Warfare 4 launches. Also, NASA's live Artemis III and lunar-landing update"
-    },
-    {
-      "when": "23–25 Oct",
-      "what": "F1 United States GP, Austin (no sprint). FP1 Fri 18:30, FP2 22:00, Quali Sat 22:00, race Sun 20:00 Irish time. Clocks go back early Sunday, and there's a 50% chance of rain for the race"
-    },
-    {
-      "when": "Sat 24 Oct",
+      "when": "Today, Sat 24 Oct",
       "what": "UFC 333, Abu Dhabi: Volkanovski vs Evloev and Yan vs Dvalishvili 3. Prelims 17:00, main card 19:00 Irish time"
+    },
+    {
+      "when": "Tonight, Sat 24 Oct",
+      "what": "F1 United States GP qualifying, 22:00 Irish time"
+    },
+    {
+      "when": "Sun 25 Oct",
+      "what": "F1 United States GP race, 20:00 Irish time. Clocks go back at 02:00 that morning, and rain is possible"
     },
     {
       "when": "28 Oct–1 Nov",
@@ -21,7 +21,7 @@
     },
     {
       "when": "30 Oct–1 Nov",
-      "what": "F1 Mexico City GP, the next shot at the title for Antonelli"
+      "what": "F1 Mexico City GP"
     },
     {
       "when": "6–8 Nov",
@@ -33,28 +33,28 @@
       "title": "Tech",
       "items": [
         {
-          "headline": "AI-spending jitters sink chip stocks; Nasdaq down 2.6%",
-          "summary": "Worries about runaway AI capex and the cost of borrowing hit semiconductors on Thursday. Lam Research fell about 9%, CoreWeave 10% and Nvidia around 2%, and IBM's boss said some clients fear AI spending is 'out of control'.",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-october-22-dow-sp-500-nasdaq-tesla-meta-112217857.html"
+          "headline": "Microsoft: China-linked hackers used agentic AI in the ConnectWise breach",
+          "summary": "Microsoft's threat team says the group it tracks as Storm-0940 used an automated 'agentic' pen-testing system. The tool ran much of the attack and abused app credentials across Microsoft 365 tenants after a supply-chain compromise.",
+          "source": "Microsoft Security Blog",
+          "url": "https://www.microsoft.com/en-us/security/blog/2026/10/21/storm-0940-uses-artex-agentic-ai-connectwise-supply-chain-compromise/"
         },
         {
-          "headline": "Meta's post-earnings pop turns into a 7% drop",
-          "summary": "Q3 revenue rose 26% to $64.6bn and Meta announced a 2-for-1 split that gives holders non-voting Class C shares. But full-year capex guidance of up to $145bn worried investors, and the stock closed down about 7% on Thursday.",
-          "source": "Forbes",
-          "url": "https://www.forbes.com/sites/antoniopequenoiv/2026/10/21/meta-posts-64-billion-in-revenue-and-announces-stock-split-in-q3-earnings/"
+          "headline": "Microsoft's diagnosis AI beats GPs on hard cases, per a study in Science",
+          "summary": "The system works through a diagnosis step by step, ordering tests as it goes, and was more than twice as accurate as general physicians on complex cases. Critics note that much of the gain may come from the underlying models.",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/10/22/microsofts-mustafa-suleyman-says-its-ai-outperforms-doctors-on-hard-cases-as-he-chases-medical-superintelligence/"
         },
         {
-          "headline": "Fine print on Tesla's quarter: operating income down 56%",
-          "summary": "Beneath the headline beat, R&D spending rose 69% to about $2.8bn as Tesla puts money into AI and Optimus. It also flagged heavier spending in 2027–28 on Optimus, Cybercab and its 'Terafab', and the shares slipped 3%.",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-october-22-dow-sp-500-nasdaq-tesla-meta-112217857.html"
+          "headline": "AI safety evaluators find holes in OpenAI's internal agent monitoring",
+          "summary": "METR and Redwood Research spent three weeks embedded at OpenAI testing the systems that watch its internal agents. One flaw could have let an agent hide hundreds of actions from the monitors.",
+          "source": "Reuters",
+          "url": "https://www.reuters.com/business/ai-safety-group-metr-finds-flaws-openais-internal-monitoring-system-2026-10-22/"
         },
         {
-          "headline": "Fun one: a tiny AI model that pretends to be a terminal",
-          "summary": "An indie developer fine-tuned a 360M-parameter model to imitate a full terminal session, vim, tmux and snake included, with no real shell underneath.",
-          "source": "simedw.com",
-          "url": "https://simedw.com/2026/10/21/world-model-terminal/"
+          "headline": "Tech sell-off rolls into Friday as the AI-spending story flips",
+          "summary": "Stocks fell again, with the Dow down about 1.2%. The worry has shifted from AI overspending to the risk that the spending slows. SpaceX shares rose after a profitable quarter and huge Q4 capex guidance.",
+          "source": "TheStreet",
+          "url": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-oct-23-2026"
         }
       ]
     },
@@ -62,28 +62,28 @@
       "title": "Science & Space",
       "items": [
         {
-          "headline": "Almost 3,000 supernovae hint that dark energy changes over time",
-          "summary": "A University of Queensland-led team combined three decades of Type Ia supernova data with CMB and galaxy maps. They found more signs that dark energy isn't constant, which fits with earlier hints from DESI. The work is a preprint and hasn't been peer-reviewed yet.",
-          "source": "ScienceDaily",
-          "url": "https://www.sciencedaily.com/releases/2026/10/261021231244.htm"
-        },
-        {
-          "headline": "ESA's Space Rider comes down hard in a drop test",
-          "summary": "Europe's reusable mini-shuttle crashed during a drop test, a setback for ESA's uncrewed return-vehicle programme.",
+          "headline": "Giant black holes ruled out as a major share of dark matter",
+          "summary": "A new study finds that 'stupendously large' black holes, heavier than their host galaxies, can account for only a small fraction of dark matter. That closes off one of the more exotic explanations.",
           "source": "Space.com",
-          "url": "https://www.space.com/space-exploration/launches-spacecraft/europes-space-rider-vehicle-comes-crashing-down-during-drop-test"
+          "url": "https://www.space.com/astronomy/dark-universe/stupendously-large-black-holes-arent-a-major-component-of-dark-matter-study-finds"
         },
         {
-          "headline": "Ukraine plans its own satcom network with ICEYE and Nokia",
-          "summary": "After disruptions to Starshield, Ukraine's military has signed a letter of intent to study a sovereign satellite communications system. NASA also gives a live Artemis III and lunar lander update today.",
+          "headline": "AI-assisted proof cracks the 31-year-old KLS conjecture",
+          "summary": "A Microsoft researcher and a collaborator have proved the Kannan–Lovász–Simonovits conjecture, a major open problem in high-dimensional geometry. AI explored candidate approaches while the humans steered and refined them.",
+          "source": "Unite.AI",
+          "url": "https://www.unite.ai/microsoft-researcher-and-collaborator-prove-31-year-old-kls-conjecture/"
+        },
+        {
+          "headline": "Astrobotic's Griffin lander passes key tests before its Moon flight",
+          "summary": "The private Griffin lander has cleared a series of critical tests ahead of a first lunar mission planned for later this year. Separately, Rocket Lab flew its 19th mission of 2026, launching three signals-intelligence 'Hawk' satellites.",
           "source": "Space.com",
-          "url": "https://www.space.com/space-exploration/satellites/after-starshield-interruption-ukraine-wants-to-build-its-own-satellite-communication-network-with-iceye-and-nokia"
+          "url": "https://www.space.com/space-exploration/private-griffin-moon-lander-gets-put-to-the-test-space-photo-of-the-day-for-oct-23-2026"
         },
         {
-          "headline": "Cambridge's $10 chip aims to put a medical lab on your wrist",
-          "summary": "Cambridge engineers have built a cheap sensor chip that they say could bring lab-style health tests to a wearable.",
-          "source": "ScienceDaily",
-          "url": "https://www.sciencedaily.com/releases/2026/10/261022081312.htm"
+          "headline": "Sky tip: Orionid meteors are still flying",
+          "summary": "The Orionids, made of debris from Halley's Comet, have just passed their peak, but stragglers are still worth a look before dawn if Irish skies clear.",
+          "source": "Space.com",
+          "url": "https://www.space.com/stargazing/meteor-showers/halleys-comet-dazzles-from-afar-in-spectacular-astrophoto-of-orionid-meteor-shower"
         }
       ]
     },
@@ -91,28 +91,28 @@
       "title": "Gaming",
       "items": [
         {
-          "headline": "Watchlist: Witcher 3 Remastered update 5.01 is live",
-          "summary": "The patch adds new bloom, light-shaft and depth-of-field options, adjusts ray and path tracing, and fixes combat, stamina and save bugs. Switch 2 gets sharper visuals. There's no fresh news on Witcher 4, Cyberpunk 2 or Borderlands.",
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/the-witcher-3-remastereds-latest-update-is-now-live-here-are-the-full-patch-notes"
+          "headline": "Watchlist: CDPR is said to have hired many modders to write Cyberpunk 2 quests",
+          "summary": "Reports this week say CD Projekt Red has taken on a lot of community modders for quest design on the Cyberpunk 2077 sequel. There's no fresh news on The Witcher 4, and nothing new on Witcher 3 since Thursday's 5.01 patch.",
+          "source": "iXBT Games",
+          "url": "https://ixbt.games/en/news/2026/10/22/kvesty-dlia-sikvela-cyberpunk-2077-delaiut-moddery-cdpr-naniala-ocen-mnogo-entuziastov.html"
         },
         {
-          "headline": "BioWare's last Mass Effect trailer leaks",
-          "summary": "A day after EA closed the studio, footage of the cancelled 'Mass Effect Universe' project has appeared online. Separately, Amazon's Mass Effect TV series is reportedly still in production.",
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/mass-effect-universe-trailer-leaks-online-showcases-what-bioware-was-working-on-before-being-shut-down/"
+          "headline": "Ace Combat Zero becomes a standalone Steam app",
+          "summary": "Bandai Namco has split the PS2 classic out from Ace Combat 8, so PC players no longer launch it from inside the new game. It's still only available to people who pre-ordered.",
+          "source": "Simulation Daily",
+          "url": "https://simulationdaily.com/news/ace-combat-zero-steam-standalone/"
         },
         {
-          "headline": "Capcom breach hits more than 11 million Capcom ID accounts",
-          "summary": "Capcom says card details weren't exposed, but it's worth changing your password if you have an account.",
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/capcom-says-a-data-breach-affected-more-than-11-million-capcom-id-accounts-credit-card-details-unaffected/"
+          "headline": "Creative Assembly owns up over AI art in Shogun 2 Complete Edition",
+          "summary": "The studio has taken responsibility for AI-generated art in the re-release and says it rejects using it.",
+          "source": "Simulation Daily",
+          "url": "https://simulationdaily.com/news/creative-assembly-total-war-shogun-2-ce/"
         },
         {
-          "headline": "Rockstar is quietly turning real Miami into Vice City",
-          "summary": "Fans are spotting in-universe GTA 6 branding around Miami, a sign the marketing is ramping up. Modern Warfare 4 is out today.",
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/rockstar-is-quietly-transforming-the-real-miami-into-gta-6s-vice-city/"
+          "headline": "What to play this weekend",
+          "summary": "Game Informer's staff share their weekend picks. Modern Warfare 4 arrived yesterday if you need something louder.",
+          "source": "Game Informer",
+          "url": "https://gameinformer.com/opinion/2026/10/23/the-video-games-and-more-you-should-play-this-weekend-october-23-2026"
         }
       ]
     },
@@ -120,10 +120,10 @@
       "title": "BJJ & Grappling",
       "items": [
         {
-          "headline": "Garry Tonon returns to jiu-jitsu at Polaris 40",
-          "summary": "The 'Lion Killer' has his first grappling superfight in nearly six years, a rematch with Sam McNally, who beat him on points at ADCC 2022. The event is on 21 November. It's otherwise a quiet week ahead of next week's No-Gi Europeans.",
+          "headline": "Quiet day before the IBJJF No-Gi Euros",
+          "summary": "No major grappling results or signings in the last 24 hours. The IBJJF No-Gi European Championships start in Rome on Wednesday, and Garry Tonon's return at Polaris 40 is still the biggest recent story.",
           "source": "FloGrappling",
-          "url": "https://www.flograppling.com/articles/16275000-garry-tonon-to-compete-in-jiu-jitsu-at-polaris-40"
+          "url": "https://www.flograppling.com/"
         }
       ]
     },
@@ -131,16 +131,22 @@
       "title": "MMA",
       "items": [
         {
-          "headline": "UFC 333 fight week: Dvalishvili wants a '25-minute war'",
-          "summary": "Merab is up for the trilogy with Petr Yan after 10 months out, and Yan is promising a decisive win. Volkanovski, now 38, could break Aldo's record for featherweight title wins if he beats the unbeaten Evloev (20-0).",
-          "source": "Arab News",
-          "url": "https://www.arabnews.pk/sport/im-ready-for-a-25-minute-war-dvalishvili-relishing-ufc-333-trilogy-with-yan-in-abu-dhabi-3003770"
+          "headline": "UFC 333 is on: both title fights official",
+          "summary": "Volkanovski (144.5) and Evloev (145) made weight, as did Yan and Dvalishvili (both 135). The only miss was Nicolle Caliari, 4.5lb over for her strawweight bout with Iasmin Lucindo; she forfeits 30% and the fight goes ahead at catchweight.",
+          "source": "Yahoo Sports",
+          "url": "https://sports.yahoo.com/mma/live/ufc-333-weigh-in-results-video-title-bouts-set-undercard-fighter-badly-misses-weight-071551485.html"
         },
         {
-          "headline": "Full card: Kavanagh on the main card, Volkov chases a title shot",
-          "summary": "England's Lone'er Kavanagh faces Ramazan Temirov on the main card, and Volkov meets Kuniev in a heavyweight bout that could put him in line for a title shot. Pico vs Keita and Reyes vs Murzakanov are also on the card. Weigh-ins are today.",
-          "source": "UFC.com",
-          "url": "https://www.ufc.com/news/fight-fight-preview-ufc-333-volkanovski-vs-evloev"
+          "headline": "UK watch: Lone'er Kavanagh on weight for the main card",
+          "summary": "The English flyweight weighed in at 125.5 for Ramazan Temirov (126). Main card at 19:00 Irish time.",
+          "source": "Yahoo Sports",
+          "url": "https://sports.yahoo.com/mma/live/ufc-333-weigh-in-results-video-title-bouts-set-undercard-fighter-badly-misses-weight-071551485.html"
+        },
+        {
+          "headline": "Final faceoffs: Volkanovski and Yan set the tone",
+          "summary": "The last staredowns in Abu Dhabi were intense, setting up a featherweight defence for Volkanovski and a trilogy decider at bantamweight.",
+          "source": "Yahoo Sports",
+          "url": "https://sports.yahoo.com/mma/article/ufc-333-final-faceoffs-alex-volkanovski-petr-yan-set-the-stage-with-intense-last-staredowns-165316930.html"
         }
       ]
     },
@@ -148,22 +154,22 @@
       "title": "Motorsport",
       "items": [
         {
-          "headline": "Antonelli: an Austin title 'would be a dream'",
-          "summary": "Speaking at media day, the 20-year-old said he would need a perfect weekend and is ignoring the maths. A title in Austin would make him F1's youngest first-time champion, ahead of Vettel. He leads Russell by 102 points.",
-          "source": "Formula1.com",
-          "url": "https://formula1.com/en/latest/article/it-would-be-a-dream-antonelli-targets-perfect-weekend-in-austin-to-claim-maiden-f1-title.39LQkTCcrGsLcfcPGgd4ud"
+          "headline": "Leclerc fastest in FP2, just ahead of Antonelli and Verstappen",
+          "summary": "Leclerc did a 1:35.291, less than 0.05s clear of title-chasing Antonelli, with Verstappen about 0.2s back. Russell was shown a warning flag for forcing Leclerc off, Norris went off at Turn 15, and Antonelli lost time with a loose seat.",
+          "source": "The Race",
+          "url": "https://www.the-race.com/formula-1/what-happened-f1-2026-us-gp-fp2-leclerc-ferrari-fastest/"
         },
         {
-          "headline": "Heat, then a coin-flip on rain for Sunday",
-          "summary": "Forecasts show temperatures above 30°C all weekend, with showers possible and a 50% chance of rain during the race, which could unsettle a title-deciding Sunday. It's a standard format with no sprint, and McLaren are bringing more upgrades.",
-          "source": "Sky Sports",
-          "url": "https://www.skysports.com/f1/news/13599576/united-states-gp-2026-dates-schedule-austin-weather-uk-start-time-and-how-to-watch-or-stream-f1-race-at-cota-live-on-sky-sports"
+          "headline": "Leclerc also topped FP1, after Verstappen lost a lap",
+          "summary": "Ferrari swept Friday, although Verstappen's quicker FP1 time was deleted for track limits. Qualifying is at 22:00 Irish time tonight.",
+          "source": "Formula 1",
+          "url": "https://www.formula1.com/en/latest/article/fp2-leclerc-sets-the-pace-from-antonelli-and-verstappen-in-second-practice-at-united-states-grand-prix.4lRGhApoylA3exqOxagIqx"
         },
         {
-          "headline": "Haas signs F2 leader Rafael Camara for 2027",
-          "summary": "Camara joins Bearman on a multi-year deal, leaving Racing Bulls as the only team without a confirmed 2027 line-up.",
-          "source": "Formula1.com",
-          "url": "https://www.formula1.com/en/latest/article/its-race-week-5-storylines-were-excited-about-ahead-of-the-2026-united-states-grand-prix.4utgT1kLqHM2HAM98YP4TW"
+          "headline": "Grid penalties for Lindblad, Colapinto and Bortoleto",
+          "summary": "All three will start further back on Sunday after taking new power unit components.",
+          "source": "Formula 1",
+          "url": "https://www.formula1.com/en/latest/article/lindblad-colapinto-and-bortoleto-to-take-grid-penalties-for-united-states-grand-prix.4qjn84W4zOmwNXeELFWn0k"
         }
       ]
     }

@@ -1,0 +1,177 @@
+{
+  "date": "2026-10-24",
+  "generated": "2026-10-24T06:10:57+01:00",
+  "headline": "Leclerc tops both Austin practices ahead of qualifying tonight, all four UFC 333 title fighters make weight in Abu Dhabi, and Microsoft reports that a China-linked group used agentic AI in a supply-chain hack.",
+  "upcoming": [
+    {
+      "when": "Today, Sat 24 Oct",
+      "what": "UFC 333, Abu Dhabi: Volkanovski vs Evloev and Yan vs Dvalishvili 3. Prelims 17:00, main card 19:00 Irish time"
+    },
+    {
+      "when": "Tonight, Sat 24 Oct",
+      "what": "F1 United States GP qualifying, 22:00 Irish time"
+    },
+    {
+      "when": "Sun 25 Oct",
+      "what": "F1 United States GP race, 20:00 Irish time. Clocks go back at 02:00 that morning, and rain is possible"
+    },
+    {
+      "when": "28 Oct–1 Nov",
+      "what": "IBJJF No-Gi European Championships, Rome (FloGrappling)"
+    },
+    {
+      "when": "30 Oct–1 Nov",
+      "what": "F1 Mexico City GP"
+    },
+    {
+      "when": "6–8 Nov",
+      "what": "WEC season finale, 6 Hours of Monza"
+    }
+  ],
+  "sections": [
+    {
+      "title": "Tech",
+      "items": [
+        {
+          "headline": "Microsoft: China-linked hackers used agentic AI in the ConnectWise breach",
+          "summary": "Microsoft's threat team says the group it tracks as Storm-0940 used an automated 'agentic' pen-testing system. The tool ran much of the attack and abused app credentials across Microsoft 365 tenants after a supply-chain compromise.",
+          "source": "Microsoft Security Blog",
+          "url": "https://www.microsoft.com/en-us/security/blog/2026/10/21/storm-0940-uses-artex-agentic-ai-connectwise-supply-chain-compromise/"
+        },
+        {
+          "headline": "Microsoft's diagnosis AI beats GPs on hard cases, per a study in Science",
+          "summary": "The system works through a diagnosis step by step, ordering tests as it goes, and was more than twice as accurate as general physicians on complex cases. Critics note that much of the gain may come from the underlying models.",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/10/22/microsofts-mustafa-suleyman-says-its-ai-outperforms-doctors-on-hard-cases-as-he-chases-medical-superintelligence/"
+        },
+        {
+          "headline": "AI safety evaluators find holes in OpenAI's internal agent monitoring",
+          "summary": "METR and Redwood Research spent three weeks embedded at OpenAI testing the systems that watch its internal agents. One flaw could have let an agent hide hundreds of actions from the monitors.",
+          "source": "Reuters",
+          "url": "https://www.reuters.com/business/ai-safety-group-metr-finds-flaws-openais-internal-monitoring-system-2026-10-22/"
+        },
+        {
+          "headline": "Tech sell-off rolls into Friday as the AI-spending story flips",
+          "summary": "Stocks fell again, with the Dow down about 1.2%. The worry has shifted from AI overspending to the risk that the spending slows. SpaceX shares rose after a profitable quarter and huge Q4 capex guidance.",
+          "source": "TheStreet",
+          "url": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-oct-23-2026"
+        }
+      ]
+    },
+    {
+      "title": "Science & Space",
+      "items": [
+        {
+          "headline": "Giant black holes ruled out as a major share of dark matter",
+          "summary": "A new study finds that 'stupendously large' black holes, heavier than their host galaxies, can account for only a small fraction of dark matter. That closes off one of the more exotic explanations.",
+          "source": "Space.com",
+          "url": "https://www.space.com/astronomy/dark-universe/stupendously-large-black-holes-arent-a-major-component-of-dark-matter-study-finds"
+        },
+        {
+          "headline": "AI-assisted proof cracks the 31-year-old KLS conjecture",
+          "summary": "A Microsoft researcher and a collaborator have proved the Kannan–Lovász–Simonovits conjecture, a major open problem in high-dimensional geometry. AI explored candidate approaches while the humans steered and refined them.",
+          "source": "Unite.AI",
+          "url": "https://www.unite.ai/microsoft-researcher-and-collaborator-prove-31-year-old-kls-conjecture/"
+        },
+        {
+          "headline": "Astrobotic's Griffin lander passes key tests before its Moon flight",
+          "summary": "The private Griffin lander has cleared a series of critical tests ahead of a first lunar mission planned for later this year. Separately, Rocket Lab flew its 19th mission of 2026, launching three signals-intelligence 'Hawk' satellites.",
+          "source": "Space.com",
+          "url": "https://www.space.com/space-exploration/private-griffin-moon-lander-gets-put-to-the-test-space-photo-of-the-day-for-oct-23-2026"
+        },
+        {
+          "headline": "Sky tip: Orionid meteors are still flying",
+          "summary": "The Orionids, made of debris from Halley's Comet, have just passed their peak, but stragglers are still worth a look before dawn if Irish skies clear.",
+          "source": "Space.com",
+          "url": "https://www.space.com/stargazing/meteor-showers/halleys-comet-dazzles-from-afar-in-spectacular-astrophoto-of-orionid-meteor-shower"
+        }
+      ]
+    },
+    {
+      "title": "Gaming",
+      "items": [
+        {
+          "headline": "Watchlist: CDPR is said to have hired many modders to write Cyberpunk 2 quests",
+          "summary": "Reports this week say CD Projekt Red has taken on a lot of community modders for quest design on the Cyberpunk 2077 sequel. There's no fresh news on The Witcher 4, and nothing new on Witcher 3 since Thursday's 5.01 patch.",
+          "source": "iXBT Games",
+          "url": "https://ixbt.games/en/news/2026/10/22/kvesty-dlia-sikvela-cyberpunk-2077-delaiut-moddery-cdpr-naniala-ocen-mnogo-entuziastov.html"
+        },
+        {
+          "headline": "Ace Combat Zero becomes a standalone Steam app",
+          "summary": "Bandai Namco has split the PS2 classic out from Ace Combat 8, so PC players no longer launch it from inside the new game. It's still only available to people who pre-ordered.",
+          "source": "Simulation Daily",
+          "url": "https://simulationdaily.com/news/ace-combat-zero-steam-standalone/"
+        },
+        {
+          "headline": "Creative Assembly owns up over AI art in Shogun 2 Complete Edition",
+          "summary": "The studio has taken responsibility for AI-generated art in the re-release and says it rejects using it.",
+          "source": "Simulation Daily",
+          "url": "https://simulationdaily.com/news/creative-assembly-total-war-shogun-2-ce/"
+        },
+        {
+          "headline": "What to play this weekend",
+          "summary": "Game Informer's staff share their weekend picks. Modern Warfare 4 arrived yesterday if you need something louder.",
+          "source": "Game Informer",
+          "url": "https://gameinformer.com/opinion/2026/10/23/the-video-games-and-more-you-should-play-this-weekend-october-23-2026"
+        }
+      ]
+    },
+    {
+      "title": "BJJ & Grappling",
+      "items": [
+        {
+          "headline": "Quiet day before the IBJJF No-Gi Euros",
+          "summary": "No major grappling results or signings in the last 24 hours. The IBJJF No-Gi European Championships start in Rome on Wednesday, and Garry Tonon's return at Polaris 40 is still the biggest recent story.",
+          "source": "FloGrappling",
+          "url": "https://www.flograppling.com/"
+        }
+      ]
+    },
+    {
+      "title": "MMA",
+      "items": [
+        {
+          "headline": "UFC 333 is on: both title fights official",
+          "summary": "Volkanovski (144.5) and Evloev (145) made weight, as did Yan and Dvalishvili (both 135). The only miss was Nicolle Caliari, 4.5lb over for her strawweight bout with Iasmin Lucindo; she forfeits 30% and the fight goes ahead at catchweight.",
+          "source": "Yahoo Sports",
+          "url": "https://sports.yahoo.com/mma/live/ufc-333-weigh-in-results-video-title-bouts-set-undercard-fighter-badly-misses-weight-071551485.html"
+        },
+        {
+          "headline": "UK watch: Lone'er Kavanagh on weight for the main card",
+          "summary": "The English flyweight weighed in at 125.5 for Ramazan Temirov (126). Main card at 19:00 Irish time.",
+          "source": "Yahoo Sports",
+          "url": "https://sports.yahoo.com/mma/live/ufc-333-weigh-in-results-video-title-bouts-set-undercard-fighter-badly-misses-weight-071551485.html"
+        },
+        {
+          "headline": "Final faceoffs: Volkanovski and Yan set the tone",
+          "summary": "The last staredowns in Abu Dhabi were intense, setting up a featherweight defence for Volkanovski and a trilogy decider at bantamweight.",
+          "source": "Yahoo Sports",
+          "url": "https://sports.yahoo.com/mma/article/ufc-333-final-faceoffs-alex-volkanovski-petr-yan-set-the-stage-with-intense-last-staredowns-165316930.html"
+        }
+      ]
+    },
+    {
+      "title": "Motorsport",
+      "items": [
+        {
+          "headline": "Leclerc fastest in FP2, just ahead of Antonelli and Verstappen",
+          "summary": "Leclerc did a 1:35.291, less than 0.05s clear of title-chasing Antonelli, with Verstappen about 0.2s back. Russell was shown a warning flag for forcing Leclerc off, Norris went off at Turn 15, and Antonelli lost time with a loose seat.",
+          "source": "The Race",
+          "url": "https://www.the-race.com/formula-1/what-happened-f1-2026-us-gp-fp2-leclerc-ferrari-fastest/"
+        },
+        {
+          "headline": "Leclerc also topped FP1, after Verstappen lost a lap",
+          "summary": "Ferrari swept Friday, although Verstappen's quicker FP1 time was deleted for track limits. Qualifying is at 22:00 Irish time tonight.",
+          "source": "Formula 1",
+          "url": "https://www.formula1.com/en/latest/article/fp2-leclerc-sets-the-pace-from-antonelli-and-verstappen-in-second-practice-at-united-states-grand-prix.4lRGhApoylA3exqOxagIqx"
+        },
+        {
+          "headline": "Grid penalties for Lindblad, Colapinto and Bortoleto",
+          "summary": "All three will start further back on Sunday after taking new power unit components.",
+          "source": "Formula 1",
+          "url": "https://www.formula1.com/en/latest/article/lindblad-colapinto-and-bortoleto-to-take-grid-penalties-for-united-states-grand-prix.4qjn84W4zOmwNXeELFWn0k"
+        }
+      ]
+    }
+  ]
+}

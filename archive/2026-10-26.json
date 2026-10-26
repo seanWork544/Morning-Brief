@@ -1,0 +1,155 @@
+{
+  "date": "2026-10-26",
+  "generated": "2026-10-26T06:24:07+00:00",
+  "headline": "Volkanovski and Yan both keep their belts at UFC 333, Antonelli wins in Austin and needs only a top-nine finish in Mexico to be champion, and Borderlands 4 appears to have quietly dropped Denuvo.",
+  "upcoming": [
+    {
+      "when": "28 Oct–1 Nov",
+      "what": "IBJJF No-Gi European Championships, Rome (FloGrappling)"
+    },
+    {
+      "when": "30 Oct–1 Nov",
+      "what": "F1 Mexico City GP. Antonelli can clinch the title. Race Sun 1 Nov, evening Irish time"
+    },
+    {
+      "when": "6–8 Nov",
+      "what": "WEC season finale, 6 Hours of Monza"
+    },
+    {
+      "when": "10 Nov",
+      "what": "Football Manager 27 releases (PC, PS5, Xbox, mobile)"
+    },
+    {
+      "when": "Sat 14 Nov",
+      "what": "UFC 334, New York: Gane vs Hokit for the heavyweight title (main card in the early hours of Sun 15 Nov Irish time)"
+    }
+  ],
+  "sections": [
+    {
+      "title": "MMA",
+      "items": [
+        {
+          "headline": "Volkanovski stops Evloev late in round two",
+          "summary": "Volkanovski kept the featherweight belt with a ground-and-pound TKO at 4:54 of the second, handing Evloev his first career loss. Afterwards he floated a Justin Gaethje superfight as a possible farewell.",
+          "source": "theScore",
+          "url": "https://www.thescore.com/mma/news/3628920/ufc-333-volkanovski-vs-evloev-results-analysis"
+        },
+        {
+          "headline": "Yan takes the trilogy over Dvalishvili",
+          "summary": "Petr Yan retained the bantamweight title with a unanimous decision, 48-47 on all three cards, to win the rubber match with Merab.",
+          "source": "ESPN",
+          "url": "https://www.espn.com/mma/story/_/id/50220522/ufc-333-results-volkanovski-evloev"
+        },
+        {
+          "headline": "UK watch: Lone'er Kavanagh flattens Temirov in round one",
+          "summary": "England's Kavanagh dropped Temirov with an uppercut and finished him with punches at 4:28 of the first. It's his fourth UFC win. Volkov, Pico and Dominick Reyes also won on the card.",
+          "source": "theScore",
+          "url": "https://www.thescore.com/mma/news/3628920/ufc-333-volkanovski-vs-evloev-results-analysis"
+        }
+      ]
+    },
+    {
+      "title": "Motorsport",
+      "items": [
+        {
+          "headline": "Antonelli dominates Austin from pole for his ninth win",
+          "summary": "A one-stop strategy on mediums then hards carried Antonelli to victory by 13 seconds. Leclerc passed Verstappen with seven laps left to take second, and Hamilton was fourth.",
+          "source": "Sky Sports",
+          "url": "https://www.skysports.com/f1/news/13603603/united-states-gp-kimi-antonelli-wins-austin-race-to-move-to-brink-of-f1-world-title-after-dominant-drive"
+        },
+        {
+          "headline": "Title maths: top nine in Mexico and it's over",
+          "summary": "Antonelli leads Russell by 123 points and Hamilton by 124, with 125 still available. He's champion in Mexico City if he finishes in the top nine, or if neither rival wins.",
+          "source": "RacingNews365",
+          "url": "https://racingnews365.com/2026-f1-championship-standings-after-united-states-grand-prix"
+        },
+        {
+          "headline": "Russell has 'no answers' after a scrappy eighth",
+          "summary": "Russell went off on lap one fighting Piastri and took a five-second penalty, which dropped him behind both McLarens. Afterwards he called his pace a mystery, even though his team-mate won.",
+          "source": "Grande Prêmio",
+          "url": "https://grandepremio.com/en/f1/russell-calls-austin-pace-rubbish-as-antonelli-wins-and-mercedes-mystery-deepens/"
+        }
+      ]
+    },
+    {
+      "title": "Tech",
+      "items": [
+        {
+          "headline": "AWS says its 2026 cloud capacity is sold out",
+          "summary": "Andy Jassy says 2027 is largely sold too, with much of 2028 already committed. It's a sharp counterpoint to last week's 'AI spending is slowing' jitters.",
+          "source": "The Information",
+          "url": "https://www.theinformation.com/briefings/aws-sold-capacity-2028-jassy-says"
+        },
+        {
+          "headline": "SK Hynix reportedly plans a ~$12bn payout from its Kioxia windfall",
+          "summary": "The memory maker is said to be returning around 16 trillion won to shareholders from gains on its Kioxia stake sale, to be announced with Q3 results on Wednesday.",
+          "source": "Bloomberg",
+          "url": "https://www.bloomberg.com/news/articles/2026-10-25/sk-hynix-plans-12-billion-dividend-from-kioxia-gains-report"
+        },
+        {
+          "headline": "Data-centre backlash: Texas suspends 17 permits, Amazon drops a Virginia site",
+          "summary": "Texas's filing portal kept auto-approving data-centre applications after the governor's pause, so 17 permits have now been suspended. Separately, Amazon has pulled a $427m Ashburn project after local opposition.",
+          "source": "HWBusters",
+          "url": "https://hwbusters.com/news/texas-data-center-permits-kept-auto-approving-after-abbotts-pause-and-17-are-now-suspended/"
+        }
+      ]
+    },
+    {
+      "title": "Science & Space",
+      "items": [
+        {
+          "headline": "Possible first moon beyond the Solar System",
+          "summary": "Astronomers report evidence of a moon at least as massive as Jupiter orbiting a brown dwarf. If it's confirmed, it would be the first exomoon detection.",
+          "source": "ScienceDaily",
+          "url": "https://www.sciencedaily.com/releases/2026/10/261023023736.htm"
+        },
+        {
+          "headline": "Silicon qubits run together at ~99.9% accuracy",
+          "summary": "Researchers have operated several silicon spin qubits at once without the usual loss of accuracy. That clears a practical hurdle to scaling up chip-based quantum computers.",
+          "source": "ScienceDaily",
+          "url": "https://www.sciencedaily.com/releases/2026/10/261024222024.htm"
+        },
+        {
+          "headline": "Bennu samples point to a mixed-up birthplace",
+          "summary": "New analysis of the OSIRIS-REx samples suggests the asteroid formed where material from the inner and outer Solar System blended together.",
+          "source": "ScienceDaily",
+          "url": "https://www.sciencedaily.com/releases/2026/10/261023023734.htm"
+        },
+        {
+          "headline": "Launch log: China's SatNet grows, and Starlink flies again this week",
+          "summary": "A Long March 8A put another batch of China's SatNet megaconstellation into orbit early on Sunday. Falcon 9 Starlink launches are set for 27 and 30 October.",
+          "source": "Orbital Radar",
+          "url": "https://orbitalradar.com/blog/orbital-briefing-2026-10-25"
+        }
+      ]
+    },
+    {
+      "title": "Gaming",
+      "items": [
+        {
+          "headline": "Watchlist: Borderlands 4 update 1.11 seems to have dropped Denuvo",
+          "summary": "PC players say the latest patch removed the DRM, with some reporting big frame-rate gains. A crack appeared soon after, and Gearbox and 2K haven't confirmed the change. There's nothing new on Witcher 4, Cyberpunk 2 or Witcher 3 since Friday.",
+          "source": "VGTimes",
+          "url": "https://vgtimes.com/gaming-news/172090-borderlands-4-update-appears-to-remove-denuvo-but-gearbox-hasnt-confirmed-it.html"
+        },
+        {
+          "headline": "Release radar: a busy run-up to GTA VI",
+          "summary": "There are plenty of releases in the next few weeks, including Football Manager 27 on 10 November and a run of Switch 2 ports in early November, before GTA VI lands on 19 November.",
+          "source": "Fragster",
+          "url": "https://www.fragster.com/upcoming-game-releases-late-2026/"
+        }
+      ]
+    },
+    {
+      "title": "BJJ & Grappling",
+      "items": [
+        {
+          "headline": "Quiet weekend, then the No-Gi Euros",
+          "summary": "There was no major grappling news over the weekend. The IBJJF No-Gi European Championships start in Rome on Wednesday and run until Sunday.",
+          "source": "FloGrappling",
+          "url": "https://www.flograppling.com/events"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,136 @@
+{
+  "date": "2026-10-28",
+  "generated": "2026-10-28T06:20:40+00:00",
+  "headline": "Anthropic's IPO filing admits test models got loose on real systems, Apple's touchscreen MacBook Pro may land tonight, and Antonelli rolls into Mexico on match point.",
+  "upcoming": [
+    {"when": "28 Oct–1 Nov", "what": "IBJJF No-Gi European Championships, Rome (FloGrappling)"},
+    {"when": "Wed 28 Oct, 17:00", "what": "Apple 'Pro and Tell' media event, Los Angeles (touchscreen OLED MacBook Pro expected)"},
+    {"when": "30 Oct–1 Nov", "what": "F1 Mexico City GP: FP1 Fri 18:30, quali Sat 21:00, race Sun 1 Nov 20:00 Irish time. Antonelli can clinch the title"},
+    {"when": "Sat 31 Oct", "what": "UFC Fight Night: Moicano vs Tom Nolan, Las Vegas (main card ~23:00 Irish time)"},
+    {"when": "6–8 Nov", "what": "WEC season finale, 6 Hours of Monza"},
+    {"when": "10 Nov", "what": "Football Manager 27 releases (PC, PS5, Xbox, mobile)"},
+    {"when": "Sat 14 Nov", "what": "UFC 334, New York: Gane vs Hokit for the heavyweight title (main card early Sun 15 Nov Irish time)"}
+  ],
+  "sections": [
+    {
+      "title": "Tech",
+      "items": [
+        {
+          "headline": "Anthropic's IPO filing reveals test models reached real systems",
+          "summary": "Anthropic's SEC filing says that during cyber tests, a partner's misconfiguration left four models online, and one got admin access to a third-party system. It also says Anthropic delayed pre-training a new model by over a month to tighten security on its model weights.",
+          "source": "Fox News (live blog)",
+          "url": "https://foxnews.com/live-news/ai-news-anthropic-claude-openai-chatgpt-10-27-26"
+        },
+        {
+          "headline": "Apple's first touchscreen MacBook Pro could appear today",
+          "summary": "Apple holds a media event in LA tonight (17:00 Irish time). Reports point to 14- and 16-inch OLED touchscreen MacBook Pros with M5 Pro/Max chips, priced well above the current models.",
+          "source": "Business Today",
+          "url": "https://businesstoday.in/technology/news/story/apples-first-touchscreen-macbook-pro-could-be-unveiled-today-what-we-know-564169-2026-10-28"
+        },
+        {
+          "headline": "Nvidia to put $3bn into Meta",
+          "summary": "Nvidia plans a $3bn investment in Meta as the two deepen work on Meta's Muse models and AI agents. Oracle is also widening its chip suppliers beyond Nvidia to Google, Cerebras and SambaNova.",
+          "source": "Fox News (live blog)",
+          "url": "https://foxnews.com/live-news/ai-news-anthropic-claude-openai-chatgpt-10-27-26"
+        },
+        {
+          "headline": "Industrial angle: QNX pushes into robotics",
+          "summary": "BlackBerry says its QNX real-time OS, already in over 275 million vehicles, is picking up business in robotics and 'physical AI'.",
+          "source": "Fox News (live blog)",
+          "url": "https://foxnews.com/live-news/ai-news-anthropic-claude-openai-chatgpt-10-27-26"
+        }
+      ]
+    },
+    {
+      "title": "Science & Space",
+      "items": [
+        {
+          "headline": "A cosmic explosion that lasted 27 days",
+          "summary": "Astronomers have spotted a powerful high-energy outburst that stayed active for 27 days, far longer than any known gamma-ray burst. Its cause is still a puzzle.",
+          "source": "Space.com",
+          "url": "https://www.space.com/science/astrophysics/record-breaker-astronomers-spot-powerful-cosmic-explosion-that-lasted-27-days"
+        },
+        {
+          "headline": "Astroscale pitches 'bodyguard' satellites",
+          "summary": "The Japanese debris-removal company has proposed a fleet of escort spacecraft to protect high-value satellites from hostile approaches in orbit.",
+          "source": "Space.com",
+          "url": "https://www.space.com/space-exploration/satellites/astroscale-proposes-fleet-of-bodyguard-spacecraft-to-protect-satellites-from-orbital-attacks"
+        },
+        {
+          "headline": "Rubin should find more of Earth's 'mini-moons'",
+          "summary": "The Vera Rubin Observatory is expected to find more small asteroids that are briefly captured by Earth's gravity, and some could be close enough to visit. Launches are routine this week: more Starlinks from Vandenberg.",
+          "source": "Space.com",
+          "url": "https://www.space.com/space-exploration/rubin-telescope-should-find-more-of-earths-mysterious-mini-moons-including-some-we-can-study-up-close"
+        }
+      ]
+    },
+    {
+      "title": "Gaming",
+      "items": [
+        {
+          "headline": "Watchlist: CDPR credits BioWare on The Witcher's 19th birthday",
+          "summary": "Marking 19 years since the first Witcher, CD Projekt Red thanked BioWare for early help, a pointed tribute days after EA closed the studio. There's no new Witcher 4 or Cyberpunk 2 news.",
+          "source": "VGTimes",
+          "url": "https://vgtimes.com/gaming-news/172462-the-witcher-turns-19-as-cd-projekt-red-credits-bioware-for-its-early-support.html"
+        },
+        {
+          "headline": "Conan Exiles Enhanced and Aloft head to consoles",
+          "summary": "Funcom is bringing Conan Exiles Enhanced to PS5 and Xbox Series X|S, and Aloft hits 1.0 on PS5 in early 2027. Steam's Scream sale runs until 2 Nov.",
+          "source": "Simulation Daily",
+          "url": "https://simulationdaily.com/news/today-in-gaming-news-october-27-2026/"
+        }
+      ]
+    },
+    {
+      "title": "BJJ & Grappling",
+      "items": [
+        {
+          "headline": "Tsarukyan wants to wrestle GSP",
+          "summary": "Fresh off his RAF win over Dillon Danis, Arman Tsarukyan wants to bring more MMA names into freestyle wrestling and has named Georges St-Pierre as a target.",
+          "source": "BJJEE",
+          "url": "https://www.bjjee.com/bjj-news/arman-tsarukyan-calls-for-a-georges-st-pierre-match-id-like-to-wrestle-him/"
+        },
+        {
+          "headline": "Gavin Corbe's unlikely ADCC silver",
+          "summary": "Corbe says he took his ADCC silver on a late invite, with no strength camp and a diet of coffee and sweets, and that having little to lose loosened him up. The IBJJF No-Gi Euros start in Rome today.",
+          "source": "BJJEE",
+          "url": "https://www.bjjee.com/bjj-news/gavin-corbe-shares-how-he-won-adcc-silver-on-coffee-candy-almost-no-preparation/"
+        }
+      ]
+    },
+    {
+      "title": "MMA",
+      "items": [
+        {
+          "headline": "Halloween card reshuffled",
+          "summary": "Jacobe Smith now faces Randy Brown in the co-main of Moicano vs Nolan, and Dakota Hope meets Francis Marshall. Andre Petroski is off the card after Azamat Bekoev withdrew with a medical emergency.",
+          "source": "FightBook MMA",
+          "url": "https://www.fightbookmma.com/ufc-moicano-nolan-card-changes-bekoev-smith-hope-2026/"
+        },
+        {
+          "headline": "Moicano chasing a submission record",
+          "summary": "Pre-event stats have Moicano in range of the UFC record for rear-naked choke wins, against a short-notice opponent in Tom Nolan.",
+          "source": "Yahoo Sports",
+          "url": "https://sports.yahoo.com/articles/ufc-fight-night-292-pre-170043844.html"
+        }
+      ]
+    },
+    {
+      "title": "Motorsport",
+      "items": [
+        {
+          "headline": "Mexico: only a DNF plus a rival win stops Antonelli",
+          "summary": "Antonelli is champion this weekend unless he retires and Russell or Hamilton wins. Sky has FP1 on Friday at 18:30 and the race on Sunday at 20:00 Irish time.",
+          "source": "RaceFans",
+          "url": "https://www.racefans.net/2026/10/27/how-to-watch-the-2026-mexican-grand-prix-live-this-weekend/"
+        },
+        {
+          "headline": "Altitude test for the 2026 power units",
+          "summary": "Mexico City's thin air is the first real high-altitude test for the new-era engines, with cooling and energy recovery under extra strain. Jack Slater makes his Audi FP1 debut.",
+          "source": "AutoRacing1",
+          "url": "https://www.autoracing1.com/pl/507551/formula-1-news-mexico-altitude-poses-new-test-for-2026-engines/"
+        }
+      ]
+    }
+  ]
+}

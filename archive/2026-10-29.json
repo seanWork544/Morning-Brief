@@ -1,0 +1,43 @@
+{
+  "date": "2026-10-29",
+  "generated": "2026-10-29T06:12:44+00:00",
+  "headline": "Apple finally puts touch on a Mac, Rubin spots a possible new dwarf planet, and Antonelli needs only a top-nine finish in Mexico to be champion.",
+  "upcoming": [
+    {"when": "28 Oct–1 Nov", "what": "IBJJF No-Gi European Championships, Rome (FloGrappling); black belts at the weekend"},
+    {"when": "30 Oct–1 Nov", "what": "F1 Mexico City GP: FP1 Fri 18:30, quali Sat 21:00, race Sun 1 Nov 20:00 Irish time. Antonelli clinches with a top-nine finish"},
+    {"when": "Sat 31 Oct", "what": "UFC Fight Night: Moicano vs Tom Nolan, Las Vegas (main card ~23:00 Irish time)"},
+    {"when": "Fri 6 Nov", "what": "Touchscreen OLED MacBook Pro and M6 MacBook Pro start shipping"},
+    {"when": "6–8 Nov", "what": "WEC season finale, 6 Hours of Monza"},
+    {"when": "10 Nov", "what": "Football Manager 27 releases (PC, PS5, Xbox, mobile)"},
+    {"when": "Sat 14 Nov", "what": "UFC 334, New York: Gane vs Hokit for the heavyweight title (main card early Sun 15 Nov Irish time)"}
+  ],
+  "sections": [
+    {"title": "Tech", "items": [
+      {"headline": "Apple launches its first touchscreen MacBook Pro", "summary": "The new 14- and 16-inch MacBook Pros get an OLED 'PROLED XDR' touchscreen, with M5 Pro/Max chips and a Dynamic Island. They start at $2,899, orders are open now and the first units ship on 6 November. macOS gains touch gestures like pinch-to-zoom.", "source": "Geo News", "url": "https://www.geo.tv/latest/688763-apple-unveils-first-touchscreen-macbook-pro-at-pro-and-tell-event-see-full-details"},
+      {"headline": "The rest of Apple's launch week: M6 iMac, M6 MacBook Pro, OLED iPad mini", "summary": "Apple also launched the OLED iPad mini 8 with IP67 water resistance ($699), an M6 iMac ($1,499) and a 14-inch M6 MacBook Pro ($1,999). Pages, Keynote and Numbers are getting an AI assistant.", "source": "Tom's Guide (live blog)", "url": "https://www.tomsguide.com/news/live/apple-touchscreen-macbook-pro-pro-and-tell-event-ipad-mini-8-imac-m6-live-updates"},
+      {"headline": "OpenAI reportedly lining up Google TPUs", "summary": "Reports say OpenAI plans to buy Google's AI chips, which would loosen its dependence on Nvidia, though no deal is confirmed. Microsoft also reported its quarterly results yesterday.", "source": "24/7 Wall St.", "url": "https://247wallst.com/investing/2026/10/28/openai-is-buying-googles-ai-chips-a-hit-to-nvidias-biggest-customer-bond/"},
+      {"headline": "Google DeepMind releases Genie 4; Cloudflare AI bug leaks data", "summary": "Genie 4 is an interactive 'world model' that generates playable environments with real-time physics. Separately, a Cloudflare Workers AI bug sent 155 responses containing other customers' cached data.", "source": "The Neuron", "url": "https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-wednesday-october-28-2026/"}
+    ]},
+    {"title": "Science & Space", "items": [
+      {"headline": "Rubin Observatory finds its first dwarf planet candidate", "summary": "The new candidate, 2026 ED138, could be up to about 1,500 km across if it is confirmed. That would be a big early find for the observatory's sky survey.", "source": "Universe Today", "url": "https://www.universetoday.com/"},
+      {"headline": "Betelgeuse is being pulled out of shape by its companion", "summary": "A close companion star appears to stretch the red supergiant into an egg shape, which may help explain its odd brightness changes.", "source": "Universe Today", "url": "https://www.universetoday.com/"},
+      {"headline": "NASA commits to UVEX ultraviolet telescope for 2031", "summary": "UVEX should be about 100 times more powerful than the old GALEX mission. Virgin Galactic has also moved its next-generation spaceplane to a new home, and it has a new name.", "source": "Universe Today", "url": "https://www.universetoday.com/"}
+    ]},
+    {"title": "Gaming", "items": [
+      {"headline": "Watchlist: Cyberpunk 2 job ad stirs multiplayer talk", "summary": "CDPR is hiring a Lead Quest Programmer for its Boston team. The listing has prompted multiplayer speculation, but nothing is confirmed. There's no new Witcher 4 news; it's still aimed at 2028.", "source": "VGTimes", "url": "https://vgtimes.com/gaming-news/172550-cyberpunk-2-job-listing-hints-at-multiplayer-but-doesnt-confirm-a-mode.html"},
+      {"headline": "Genie 4 hints at AI-generated playable worlds", "summary": "DeepMind's new world model lets users explore generated environments in real time. It's a research tool for now, but it's worth watching for game development. Otherwise it's a quiet day for gaming news.", "source": "The Neuron", "url": "https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-wednesday-october-28-2026/"}
+    ]},
+    {"title": "BJJ & Grappling", "items": [
+      {"headline": "Record-sized No-Gi Euros under way in Rome", "summary": "More than 2,960 athletes are entered over five days in the final No-Gi Grand Slam event of the season. Black-belt names to watch include Gabi Pessanha, Mayssa Bastos, Elisabeth Clay, Pawel Jaworski, Tarik Hopstock and Shay Montague.", "source": "IBJJF", "url": "https://ibjjf.com/news/2026-european-no-gi-event-guide-storylines"}
+    ]},
+    {"title": "MMA", "items": [
+      {"headline": "Salkilld vs Saint-Denis to headline UFC Sydney", "summary": "Rising Australian lightweight Quillan Salkilld faces Benoit Saint-Denis in the main event in Sydney on 6 February. Some fans were unhappy the card isn't headlined by a title fight.", "source": "Yahoo Sports", "url": "https://sports.yahoo.com/articles/ufc-unveils-massive-main-event-150026209.html"},
+      {"headline": "Halloween night: Moicano vs Nolan", "summary": "Renato Moicano meets Australian Tom Nolan at the UFC Apex on Saturday, with the main card from about 23:00 Irish time.", "source": "Cageside Press", "url": "https://cagesidepress.com/2026/09/14/brian-ortega-out-renato-moicano-gets-tom-nolan-in-ufc-vegas-123/"}
+    ]},
+    {"title": "Motorsport", "items": [
+      {"headline": "Antonelli's Mexico maths: top nine and he's champion", "summary": "A top-nine finish makes Kimi Antonelli the youngest world champion in F1 history. Even outside that, only a George Russell win (or a Hamilton win with Kimi outside the top ten) would delay it.", "source": "Formula1.com", "url": "https://www.formula1.com/en/latest/article/its-race-week-5-storylines-were-excited-about-ahead-of-the-2026-mexico-city-grand-prix.3qhXiCGvBjL6deUeE7qpvT"},
+      {"headline": "Red Bull and McLaren dead level on 355", "summary": "The fight for second in the constructors' standings is tied, with Red Bull ahead on countback. Verstappen has six straight podiums, and McLaren looked quick in Austin.", "source": "Formula1.com", "url": "https://www.formula1.com/en/latest/article/its-race-week-5-storylines-were-excited-about-ahead-of-the-2026-mexico-city-grand-prix.3qhXiCGvBjL6deUeE7qpvT"},
+      {"headline": "Pérez hits 300 starts at home, signs Cadillac extension", "summary": "Checo makes his 300th F1 start in Mexico City and is now signed with Cadillac to at least 2029. Rookies Tsolov and Slater get FP1 outings.", "source": "Formula1.com", "url": "https://www.formula1.com/en/latest/article/its-race-week-5-storylines-were-excited-about-ahead-of-the-2026-mexico-city-grand-prix.3qhXiCGvBjL6deUeE7qpvT"}
+    ]}
+  ]
+}

@@ -1,42 +1,151 @@
 {
-  "date": "2026-10-30",
-  "generated": "2026-10-30T06:19:21+00:00",
-  "headline": "Antonelli's crowning weekend opens with a virus, Google ships a cyber-defence Gemini, and GTA 6 review codes are out three weeks before launch.",
+  "date": "2026-10-31",
+  "generated": "2026-10-31T06:15:42+00:00",
+  "headline": "Antonelli is fit and fast in Mexico, Intel has its worst day since 1974, and North Korea is blamed for a $6bn Binance hack.",
   "upcoming": [
-    {"when": "30 Oct–1 Nov", "what": "F1 Mexico City GP: FP1 Fri 18:30, FP2 22:00; quali Sat 21:00; race Sun 1 Nov 20:00 Irish time. Antonelli clinches with a top-nine finish"},
-    {"when": "Sat 31 Oct", "what": "UFC Fight Night: Moicano vs Nolan, Las Vegas. Prelims 21:00, main card midnight Irish time"},
-    {"when": "31 Oct–1 Nov", "what": "IBJJF No-Gi Europeans, Rome: adult black-belt divisions and absolutes"},
-    {"when": "Thu 5 Nov", "what": "Final ISS spacewalk to finish the solar array upgrade"},
-    {"when": "6–8 Nov", "what": "WEC season finale, 6 Hours of Monza"},
-    {"when": "10 Nov", "what": "Football Manager 27 releases (PC, PS5, Xbox, mobile)"},
-    {"when": "Sat 14 Nov", "what": "UFC 334, New York: Gane vs Hokit for the heavyweight title (main card early Sun 15 Nov Irish time)"}
+    {
+      "when": "Sat 31 Oct",
+      "what": "F1 Mexico City GP qualifying, 21:00 Irish time"
+    },
+    {
+      "when": "Sat 31 Oct",
+      "what": "UFC Fight Night: Moicano vs Nolan, Las Vegas. Main card from about 23:00–midnight Irish time"
+    },
+    {
+      "when": "Sun 1 Nov",
+      "what": "F1 Mexico City GP race, 20:00 Irish time. Antonelli can clinch the title"
+    },
+    {
+      "when": "Thu 5 Nov",
+      "what": "Final ISS spacewalk to finish the solar array upgrade"
+    },
+    {
+      "when": "6–8 Nov",
+      "what": "WEC season finale, 6 Hours of Monza"
+    },
+    {
+      "when": "Fri 13 Nov",
+      "what": "ULA Vulcan return-to-flight launch"
+    },
+    {
+      "when": "Sat 14 Nov",
+      "what": "UFC 334, New York: Gane vs Hokit for the heavyweight title (main card early Sun 15 Nov Irish time)"
+    }
   ],
   "sections": [
-    {"title": "Tech", "items": [
-      {"headline": "Google releases Gemini 4 Carbon, a model for cyber defenders", "summary": "The security-focused model arrives two weeks after Gemini 4 Argon, but only vetted defenders get access for now, through a programme called Fairwind. Google says it is going through voluntary US government testing before a wider release.", "source": "Google", "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/"},
-      {"headline": "Alphabet passes $127bn in revenue, but Search ad growth slows", "summary": "Quarterly revenue rose 25%, while Search advertising growth slowed to 12%. Google is responding by bringing ads in AI Search to more countries.", "source": "TechCrunch", "url": "https://techcrunch.com/2026/10/28/google-expands-ai-search-ads-globally-as-core-ad-growth-slows/"},
-      {"headline": "GitHub says AI agents opened 40% of pull requests in September", "summary": "At GitHub Universe the company launched Copilot Fusion, which routes coding agents across models. Its Octoverse report says agents' share of pull requests has more than doubled since March.", "source": "The Next Web", "url": "https://thenextweb.com/news/github-universe-copilot-fusion-octoverse-agents"},
-      {"headline": "Networking: PsiQuantum's first product is an optical switch for AI data centres", "summary": "The 8x8 optical switch prototype came out of its quantum research and routes light between AI processors. Samples are now going to potential customers. Separately, Malaysian customs seized over $12m of AI chips hidden inside 30 servers.", "source": "Semafor", "url": "https://www.semafor.com/article/10/28/2026/quantum-computing-companys-first-breakthrough-is-in-ai-data-centers"}
-    ]},
-    {"title": "Science & Space", "items": [
-      {"headline": "Spacewalkers unfurl the seventh new ISS solar array", "summary": "Anil Menon and Joshua Kutryk installed the seventh of eight upgraded iROSA panels. One more spacewalk, on 5 November, will finish the upgrade, which keeps the station powered through to its planned 2030 retirement.", "source": "Spaceflight Now", "url": "https://spaceflightnow.com/2026/10/29/spacewalking-astronauts-unfurl-upgraded-solar-array-to-boost-space-station-power/"},
-      {"headline": "ULA targets mid-November return to flight for Vulcan", "summary": "It will be Vulcan's first flight since a booster nozzle failed mid-flight. The rocket will carry 40 Amazon Leo internet satellites.", "source": "Spaceflight Now", "url": "https://spaceflightnow.com/2026/10/28/united-launch-alliance-announces-mid-november-return-to-flight-for-vulcan-rocket/"},
-      {"headline": "Dwarf-planet crash leaves a 1,000 AU 'cat's tail' at Beta Pictoris", "summary": "Researchers say an odd, stretched-out dust feature around the young star 63 light years away most likely came from two dwarf planets colliding.", "source": "Universe Today", "url": "https://www.universetoday.com/articles/colliding-dwarf-planets-created-a-cats-tail-1000-astronomical-units-long"}
-    ]},
-    {"title": "Gaming", "items": [
-      {"headline": "GTA 6 review codes are out, with reviews reportedly due 18 November", "summary": "Rockstar has reportedly sent review copies to outlets just over three weeks before the 19 November launch. The copies are said to carry watermarks unique to each reviewer to deter leaks.", "source": "Notebookcheck", "url": "https://www.notebookcheck.net/GTA-6-review-codes-are-out-in-the-wild-giving-outlets-just-over-three-weeks.1434328.0.html"},
-      {"headline": "Watchlist: quiet day", "summary": "There was nothing new in the last 48 hours on The Witcher 4, Cyberpunk 2, Witcher 3's Songs of the Past expansion or Borderlands 4. CDPR's most recent post was a nod to BioWare on The Witcher's 19th birthday.", "source": "VGTimes", "url": "https://vgtimes.com/gaming-news/172462-the-witcher-turns-19-as-cd-projekt-red-credits-bioware-for-its-early-support.html"}
-    ]},
-    {"title": "BJJ & Grappling", "items": [
-      {"headline": "No-Gi Euros reach the black-belt weekend", "summary": "Colour belts and masters have been competing in Rome all week, and the adult black-belt brackets and absolutes run Saturday and Sunday. Results weren't available to verify this morning; full coverage comes after the weekend.", "source": "IBJJF", "url": "https://ibjjf.com/news/2026-european-no-gi-event-guide-storylines"}
-    ]},
-    {"title": "MMA", "items": [
-      {"headline": "Moicano vs Nolan card is set for Halloween night", "summary": "Moicano (#12) faces Tom Nolan (#14) at lightweight, with Yana Santos vs Luana Santos, Randy Brown vs Jacobe Smith and Ode' Osbourne vs Cody Durden also on the main card. That card starts at midnight Irish time, later than the ~23:00 listed yesterday, with prelims from 21:00.", "source": "UFC.com", "url": "https://www.ufc.com/event/ufc-fight-night-october-31-2026"}
-    ]},
-    {"title": "Motorsport", "items": [
-      {"headline": "Antonelli sick and misses Mexico media day", "summary": "Mercedes says the championship leader has a viral illness and should be back for Friday practice. A top-nine finish on Sunday still makes him F1's youngest ever champion.", "source": "Sky Sports", "url": "https://www.skysports.com/f1/news/13605421/kimi-antonelli-to-miss-mexico-city-gp-media-day-due-to-viral-illness-ahead-of-likely-world-championship-coronation"},
-      {"headline": "Bottas also unwell as rumours grow about his Cadillac seat", "summary": "Cadillac called his absence from media day precautionary and said it won't affect his weekend. Pérez's contract extension made no mention of Bottas, and Ocon and Lawson are rumoured to be in the frame for his seat.", "source": "Yahoo Sports / MotorBiscuit", "url": "https://sports.yahoo.com/articles/two-f1-drivers-confirmed-sick-173942461.html"},
-      {"headline": "Ten rookies take part in FP1", "summary": "Every team runs a young driver in first practice: Vesti replaces Russell, Iwasa replaces Verstappen, Fornaroli replaces Norris and Freddie Slater replaces Bortoleto. Colton Herta takes Bottas's Cadillac.", "source": "Sky Sports", "url": "https://www.skysports.com/f1/news/13605421/kimi-antonelli-to-miss-mexico-city-gp-media-day-due-to-viral-illness-ahead-of-likely-world-championship-coronation"}
-    ]}
+    {
+      "title": "Tech",
+      "items": [
+        {
+          "headline": "Intel and Reddit both lose about 29% as the Nasdaq slides",
+          "summary": "Intel's weak Q4 outlook, blamed on a PC slump and a factory accident in Israel, gave it its worst day since 1974. Reddit beat on revenue but missed on users, and the Nasdaq fell 2.8%, with Alphabet also down sharply.",
+          "source": "TheStreet",
+          "url": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-oct-30-2026"
+        },
+        {
+          "headline": "North Korea blamed for the $6.3bn Binance hack",
+          "summary": "TRM Labs links what may be the biggest crypto theft ever to North Korea's TraderTraitor group. Binance has promised to cover all user losses.",
+          "source": "Reuters",
+          "url": "https://www.reuters.com/legal/government/blockchain-analysis-firm-trm-says-north-korea-behind-binance-crypto-theft-2026-10-30/"
+        },
+        {
+          "headline": "CrowdStrike: China-linked hackers used AI to hit 200+ organisations in 11 days",
+          "summary": "The campaign reportedly ran on an AI tool built around a DeepSeek model, an early example of AI speeding up state-backed intrusion work.",
+          "source": "NBC News",
+          "url": "https://www.nbcnews.com/tech/security/china-linked-hackers-used-ai-target-200-organizations-crowdstrike-says-rcna606343"
+        },
+        {
+          "headline": "Formal verification is the new hot bet for AI-written code",
+          "summary": "A wave of startups wants to prove software is correct mathematically rather than just test it. One of them, &Truth, raised a $70m seed round.",
+          "source": "Wired",
+          "url": "https://www.wired.com/story/software-verification-is-the-hot-new-answer-to-the-ai-safety-crisis/"
+        }
+      ]
+    },
+    {
+      "title": "Science & Space",
+      "items": [
+        {
+          "headline": "Vulcan return to flight set for Friday 13 November",
+          "summary": "ULA has picked a date for Vulcan's comeback after its grounding, a little firmer than the 'mid-November' it gave earlier.",
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/space/2026/10/ulas-vulcan-rocket-is-set-to-return-to-flight-on-friday-the-13th/"
+        },
+        {
+          "headline": "Artemis III core stage joins its boosters at Kennedy",
+          "summary": "The SLS core stage for the next crewed Moon mission has been stacked between its solid rocket boosters in the Vehicle Assembly Building.",
+          "source": "NASA",
+          "url": "https://www.nasa.gov/image-article/artemis-iii-sls-core-stage-joins-boosters-at-kennedy/"
+        },
+        {
+          "headline": "Sky tonight: Mars moves toward Leo",
+          "summary": "Mars is heading toward Leo in the pre-dawn sky. Look east before sunrise if it's clear.",
+          "source": "Astronomy",
+          "url": "https://www.astronomy.com/observing/the-sky-today-friday-october-30-2026/"
+        }
+      ]
+    },
+    {
+      "title": "Gaming",
+      "items": [
+        {
+          "headline": "FFXIV's Evercold expansion slips to 23 February 2027",
+          "summary": "Square Enix moved the expansion back from January. Early access starts the same day, and pre-orders open on 4 November.",
+          "source": "Final Weapon",
+          "url": "https://finalweapon.net/2026/10/30/final-fantasy-xiv-evercold-expansion-release-date-early-access-pre-orders/"
+        },
+        {
+          "headline": "John Romero's shooter, dropped by Xbox, finds a new publisher",
+          "summary": "Romero says the game is saved, though he hasn't named the backer. The studio rehired 10 developers and cut the project down for a smaller team.",
+          "source": "GameLuster",
+          "url": "https://gameluster.com/john-romero-new-fps-saved-xbox-cancelled/"
+        },
+        {
+          "headline": "Watchlist: quiet day",
+          "summary": "There was nothing new on The Witcher 4, Cyberpunk 2, The Witcher 3 or Borderlands 4 in the last 24 hours.",
+          "source": "Morning Brief",
+          "url": "https://seanwork544.github.io/Morning-Brief/"
+        }
+      ]
+    },
+    {
+      "title": "BJJ & Grappling",
+      "items": [
+        {
+          "headline": "No-Gi Euros: black-belt finals this weekend",
+          "summary": "The adult black-belt divisions and absolutes run in Rome on Saturday and Sunday. Results weren't out at press time, so check back tomorrow.",
+          "source": "IBJJF",
+          "url": "https://ibjjf.com/events/calendar"
+        }
+      ]
+    },
+    {
+      "title": "MMA",
+      "items": [
+        {
+          "headline": "Moicano vs Nolan headlines Halloween night in Vegas",
+          "summary": "Moicano (Renato Carneiro) meets Australian prospect Tom Nolan at lightweight. Also on the main card: Erosa vs Jeong Yeong Lee and Marshall vs Bolaños. Weigh-in results weren't confirmed at press time, and no Irish or UK fighters are listed.",
+          "source": "MMA Sucka",
+          "url": "https://mmasucka.com/ufc/events/ufc-fight-night-moicano-vs-nolan/"
+        }
+      ]
+    },
+    {
+      "title": "Motorsport",
+      "items": [
+        {
+          "headline": "Antonelli shakes off illness to run near the top in practice",
+          "summary": "After missing media day sick, the title leader was second in FP1 and fourth in FP2, about two tenths off the pace. Leclerc topped both sessions.",
+          "source": "Motorsport Week",
+          "url": "https://www.motorsportweek.com/2026/10/30/f1-2026-mexico-city-grand-prix-fp2-results/"
+        },
+        {
+          "headline": "Norris and Russell stay close behind Leclerc in FP2",
+          "summary": "Norris and Russell were both within about a tenth of the Ferrari, with Verstappen and Hadjar next. Antonelli needs roughly a top-nine finish on Sunday to wrap up the title.",
+          "source": "Yahoo Sports",
+          "url": "https://sports.yahoo.com/f1/breaking-news/article/f1-mexico-city-grand-prix-live-updates-starting-grid-results-best-bets-weather-and-more-180242441.html"
+        }
+      ]
+    }
   ]
 }

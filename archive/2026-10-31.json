@@ -1,0 +1,151 @@
+{
+  "date": "2026-10-31",
+  "generated": "2026-10-31T06:15:42+00:00",
+  "headline": "Antonelli is fit and fast in Mexico, Intel has its worst day since 1974, and North Korea is blamed for a $6bn Binance hack.",
+  "upcoming": [
+    {
+      "when": "Sat 31 Oct",
+      "what": "F1 Mexico City GP qualifying, 21:00 Irish time"
+    },
+    {
+      "when": "Sat 31 Oct",
+      "what": "UFC Fight Night: Moicano vs Nolan, Las Vegas. Main card from about 23:00–midnight Irish time"
+    },
+    {
+      "when": "Sun 1 Nov",
+      "what": "F1 Mexico City GP race, 20:00 Irish time. Antonelli can clinch the title"
+    },
+    {
+      "when": "Thu 5 Nov",
+      "what": "Final ISS spacewalk to finish the solar array upgrade"
+    },
+    {
+      "when": "6–8 Nov",
+      "what": "WEC season finale, 6 Hours of Monza"
+    },
+    {
+      "when": "Fri 13 Nov",
+      "what": "ULA Vulcan return-to-flight launch"
+    },
+    {
+      "when": "Sat 14 Nov",
+      "what": "UFC 334, New York: Gane vs Hokit for the heavyweight title (main card early Sun 15 Nov Irish time)"
+    }
+  ],
+  "sections": [
+    {
+      "title": "Tech",
+      "items": [
+        {
+          "headline": "Intel and Reddit both lose about 29% as the Nasdaq slides",
+          "summary": "Intel's weak Q4 outlook, blamed on a PC slump and a factory accident in Israel, gave it its worst day since 1974. Reddit beat on revenue but missed on users, and the Nasdaq fell 2.8%, with Alphabet also down sharply.",
+          "source": "TheStreet",
+          "url": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-oct-30-2026"
+        },
+        {
+          "headline": "North Korea blamed for the $6.3bn Binance hack",
+          "summary": "TRM Labs links what may be the biggest crypto theft ever to North Korea's TraderTraitor group. Binance has promised to cover all user losses.",
+          "source": "Reuters",
+          "url": "https://www.reuters.com/legal/government/blockchain-analysis-firm-trm-says-north-korea-behind-binance-crypto-theft-2026-10-30/"
+        },
+        {
+          "headline": "CrowdStrike: China-linked hackers used AI to hit 200+ organisations in 11 days",
+          "summary": "The campaign reportedly ran on an AI tool built around a DeepSeek model, an early example of AI speeding up state-backed intrusion work.",
+          "source": "NBC News",
+          "url": "https://www.nbcnews.com/tech/security/china-linked-hackers-used-ai-target-200-organizations-crowdstrike-says-rcna606343"
+        },
+        {
+          "headline": "Formal verification is the new hot bet for AI-written code",
+          "summary": "A wave of startups wants to prove software is correct mathematically rather than just test it. One of them, &Truth, raised a $70m seed round.",
+          "source": "Wired",
+          "url": "https://www.wired.com/story/software-verification-is-the-hot-new-answer-to-the-ai-safety-crisis/"
+        }
+      ]
+    },
+    {
+      "title": "Science & Space",
+      "items": [
+        {
+          "headline": "Vulcan return to flight set for Friday 13 November",
+          "summary": "ULA has picked a date for Vulcan's comeback after its grounding, a little firmer than the 'mid-November' it gave earlier.",
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/space/2026/10/ulas-vulcan-rocket-is-set-to-return-to-flight-on-friday-the-13th/"
+        },
+        {
+          "headline": "Artemis III core stage joins its boosters at Kennedy",
+          "summary": "The SLS core stage for the next crewed Moon mission has been stacked between its solid rocket boosters in the Vehicle Assembly Building.",
+          "source": "NASA",
+          "url": "https://www.nasa.gov/image-article/artemis-iii-sls-core-stage-joins-boosters-at-kennedy/"
+        },
+        {
+          "headline": "Sky tonight: Mars moves toward Leo",
+          "summary": "Mars is heading toward Leo in the pre-dawn sky. Look east before sunrise if it's clear.",
+          "source": "Astronomy",
+          "url": "https://www.astronomy.com/observing/the-sky-today-friday-october-30-2026/"
+        }
+      ]
+    },
+    {
+      "title": "Gaming",
+      "items": [
+        {
+          "headline": "FFXIV's Evercold expansion slips to 23 February 2027",
+          "summary": "Square Enix moved the expansion back from January. Early access starts the same day, and pre-orders open on 4 November.",
+          "source": "Final Weapon",
+          "url": "https://finalweapon.net/2026/10/30/final-fantasy-xiv-evercold-expansion-release-date-early-access-pre-orders/"
+        },
+        {
+          "headline": "John Romero's shooter, dropped by Xbox, finds a new publisher",
+          "summary": "Romero says the game is saved, though he hasn't named the backer. The studio rehired 10 developers and cut the project down for a smaller team.",
+          "source": "GameLuster",
+          "url": "https://gameluster.com/john-romero-new-fps-saved-xbox-cancelled/"
+        },
+        {
+          "headline": "Watchlist: quiet day",
+          "summary": "There was nothing new on The Witcher 4, Cyberpunk 2, The Witcher 3 or Borderlands 4 in the last 24 hours.",
+          "source": "Morning Brief",
+          "url": "https://seanwork544.github.io/Morning-Brief/"
+        }
+      ]
+    },
+    {
+      "title": "BJJ & Grappling",
+      "items": [
+        {
+          "headline": "No-Gi Euros: black-belt finals this weekend",
+          "summary": "The adult black-belt divisions and absolutes run in Rome on Saturday and Sunday. Results weren't out at press time, so check back tomorrow.",
+          "source": "IBJJF",
+          "url": "https://ibjjf.com/events/calendar"
+        }
+      ]
+    },
+    {
+      "title": "MMA",
+      "items": [
+        {
+          "headline": "Moicano vs Nolan headlines Halloween night in Vegas",
+          "summary": "Moicano (Renato Carneiro) meets Australian prospect Tom Nolan at lightweight. Also on the main card: Erosa vs Jeong Yeong Lee and Marshall vs Bolaños. Weigh-in results weren't confirmed at press time, and no Irish or UK fighters are listed.",
+          "source": "MMA Sucka",
+          "url": "https://mmasucka.com/ufc/events/ufc-fight-night-moicano-vs-nolan/"
+        }
+      ]
+    },
+    {
+      "title": "Motorsport",
+      "items": [
+        {
+          "headline": "Antonelli shakes off illness to run near the top in practice",
+          "summary": "After missing media day sick, the title leader was second in FP1 and fourth in FP2, about two tenths off the pace. Leclerc topped both sessions.",
+          "source": "Motorsport Week",
+          "url": "https://www.motorsportweek.com/2026/10/30/f1-2026-mexico-city-grand-prix-fp2-results/"
+        },
+        {
+          "headline": "Norris and Russell stay close behind Leclerc in FP2",
+          "summary": "Norris and Russell were both within about a tenth of the Ferrari, with Verstappen and Hadjar next. Antonelli needs roughly a top-nine finish on Sunday to wrap up the title.",
+          "source": "Yahoo Sports",
+          "url": "https://sports.yahoo.com/f1/breaking-news/article/f1-mexico-city-grand-prix-live-updates-starting-grid-results-best-bets-weather-and-more-180242441.html"
+        }
+      ]
+    }
+  ]
+}

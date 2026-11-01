@@ -1,0 +1,111 @@
+{
+  "date": "2026-11-01",
+  "generated": "2026-11-01T06:17:00+00:00",
+  "headline": "Hamilton grabs his first Ferrari pole as Antonelli lines up fourth for a title-deciding race, Tom Nolan stops Moicano, and Falcon 9 hits launch number 700.",
+  "upcoming": [
+    {"when": "Sun 1 Nov", "what": "F1 Mexico City GP race, 20:00 Irish time. A top-nine finish makes Antonelli world champion"},
+    {"when": "Sun 1 Nov", "what": "IBJJF No-Gi Euros final day in Rome, including Injana Goodman vs Amanda Schurtz in the women's middleweight final"},
+    {"when": "6–8 Nov", "what": "WEC season finale, 6 Hours of Monza"},
+    {"when": "Fri 13 Nov", "what": "ULA Vulcan return-to-flight launch"},
+    {"when": "Sat 14 Nov", "what": "UFC 334, New York: Gane vs Hokit for the heavyweight title (main card early Sun 15 Nov Irish time)"},
+    {"when": "Thu 19 Nov", "what": "GTA 6 launches on PS5 and Xbox Series X/S"}
+  ],
+  "sections": [
+    {
+      "title": "Tech",
+      "items": [
+        {
+          "headline": "AI spending worries drag tech stocks down again",
+          "summary": "Friday's selloff took the Nasdaq down nearly 3%, even though Amazon, Alphabet and Intel all grew strongly. Investors are now more worried about huge AI capex, new debt and thinner free cash flow, and Intel's warning that the PC slump could last into 2027 didn't help.",
+          "source": "NetNewsLedger",
+          "url": "https://www.netnewsledger.com/2026/10/31/tech-selloff-deepens-as-investors-question-the-cost-of-the-ai-buildout/"
+        },
+        {
+          "headline": "Cloud is still booming underneath the panic",
+          "summary": "AWS sales rose 39% to $46bn and Google Cloud more than doubled to about $31bn in the quarter. Intel's data-centre and AI revenue was up 78%. Demand is clearly there. The question is what it costs to meet it.",
+          "source": "NetNewsLedger",
+          "url": "https://www.netnewsledger.com/2026/10/31/tech-selloff-deepens-as-investors-question-the-cost-of-the-ai-buildout/"
+        }
+      ]
+    },
+    {
+      "title": "Science & Space",
+      "items": [
+        {
+          "headline": "SpaceX flies its 700th Falcon 9",
+          "summary": "A Starlink batch launched from Vandenberg early on 31 October, and the booster landed on its 18th flight. It was SpaceX's 11th orbital launch of October, as the company starts shifting work from Falcon 9 to Starship.",
+          "source": "Spaceflight Now",
+          "url": "https://spaceflightnow.com/2026/10/30/live-coverage-spacex-to-close-out-october-with-halloween-eve-falcon-9-launch/"
+        },
+        {
+          "headline": "Otherwise a quiet weekend",
+          "summary": "There were no other major missions or discoveries in the last 24 hours. Next up are the final ISS array-upgrade spacewalk on Thursday and Vulcan's return on 13 November.",
+          "source": "Morning Brief",
+          "url": "https://seanwork544.github.io/Morning-Brief/"
+        }
+      ]
+    },
+    {
+      "title": "Gaming",
+      "items": [
+        {
+          "headline": "November's big releases: GTA 6 on the 19th",
+          "summary": "GTA 6 is still set for 19 November on PS5 and Xbox Series X/S. Before that, Switch 2 gets an Ocarina of Time remake and World of Warcraft around 5–6 November, then a Pikmin 4 Switch 2 Edition on 12 November.",
+          "source": "GamesRadar",
+          "url": "https://www.gamesradar.com/games/top-games-releasing-november-2026/"
+        },
+        {
+          "headline": "Watchlist: quiet",
+          "summary": "There was nothing new on The Witcher 4, Cyberpunk 2, The Witcher 3 or Borderlands over the weekend.",
+          "source": "Morning Brief",
+          "url": "https://seanwork544.github.io/Morning-Brief/"
+        }
+      ]
+    },
+    {
+      "title": "BJJ & Grappling",
+      "items": [
+        {
+          "headline": "No-Gi Euros wrap up today in Rome",
+          "summary": "Defending champion and top seed Injana Goodman is one win from another European No-Gi gold. She meets Amanda Schurtz in the women's middleweight final this afternoon, Rome time. Full black-belt results should be in tomorrow's brief.",
+          "source": "MiddleEasy",
+          "url": "https://middleeasy.com/brazilian-jiu-jitsu/injana-goodman-european-nogi-middleweight-final-amanda-schurtz-2026/"
+        }
+      ]
+    },
+    {
+      "title": "MMA",
+      "items": [
+        {
+          "headline": "Tom Nolan stops Moicano in round three",
+          "summary": "In his first UFC main event, the Australian lightweight finished Moicano with punches and elbows in Vegas. It's his sixth win in a row, and he should move into the top 10. Some fighters online thought the stoppage came too soon.",
+          "source": "Yahoo Sports / MMA Mania",
+          "url": "https://sports.yahoo.com/articles/ufc-halloween-highlights-nolan-stops-025936545.html"
+        },
+        {
+          "headline": "Erosa's farewell KO and the rest of the card",
+          "summary": "Julian Erosa knocked out JeongYeong Lee in 91 seconds in his final fight. Luana Santos and Cody Durden won decisions, and Jean-Paul Lebosnoyani won when the doctor stopped his fight. There were no Irish or UK fighters on the card.",
+          "source": "UFC.com",
+          "url": "https://www.ufc.com/news/ufc-fight-night-moicano-vs-nolan-results"
+        }
+      ]
+    },
+    {
+      "title": "Motorsport",
+      "items": [
+        {
+          "headline": "Hamilton takes his first Ferrari pole in Mexico",
+          "summary": "Hamilton beat Russell by nine thousandths of a second, with Leclerc third. Antonelli qualified fifth and moves up to fourth on the grid after penalties for Verstappen and Lawson.",
+          "source": "RNT Motorsports",
+          "url": "https://rnt-motorsports.com/mexico-city-grand-prix-2026-results/"
+        },
+        {
+          "headline": "Antonelli needs a top nine tonight to be champion",
+          "summary": "He leads Russell by 123 points with 125 left, so finishing ninth or better seals the title. The race starts at 20:00 Irish time. Bottas starts from the back after an engine change, and Ryo Hirakawa replaces Ocon at Haas.",
+          "source": "PlanetF1",
+          "url": "https://www.planetf1.com/news/f1-results-mexico-city-grand-prix-2026-qualifying"
+        }
+      ]
+    }
+  ]
+}

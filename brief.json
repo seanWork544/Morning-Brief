@@ -1,30 +1,59 @@
 {
-  "date": "2026-11-01",
-  "generated": "2026-11-01T06:17:00+00:00",
-  "headline": "Hamilton grabs his first Ferrari pole as Antonelli lines up fourth for a title-deciding race, Tom Nolan stops Moicano, and Falcon 9 hits launch number 700.",
+  "date": "2026-11-02",
+  "generated": "2026-11-02T06:25:00+00:00",
+  "headline": "Antonelli is F1's youngest-ever champion at 20 as Verstappen wins a chaotic Mexico City race, while AI stocks nurse a $5 trillion bruise ahead of Apple's results tonight.",
   "upcoming": [
-    {"when": "Sun 1 Nov", "what": "F1 Mexico City GP race, 20:00 Irish time. A top-nine finish makes Antonelli world champion"},
-    {"when": "Sun 1 Nov", "what": "IBJJF No-Gi Euros final day in Rome, including Injana Goodman vs Amanda Schurtz in the women's middleweight final"},
-    {"when": "6–8 Nov", "what": "WEC season finale, 6 Hours of Monza"},
-    {"when": "Fri 13 Nov", "what": "ULA Vulcan return-to-flight launch"},
-    {"when": "Sat 14 Nov", "what": "UFC 334, New York: Gane vs Hokit for the heavyweight title (main card early Sun 15 Nov Irish time)"},
+    {"when": "Sat 7 Nov", "what": "UFC Vegas: Cortes Acosta vs Walker. Prelims 22:00, main card 01:00 Sun Irish time. Davey Grant (England) is on the main card"},
+    {"when": "Sun 8 Nov", "what": "F1 São Paulo GP, 17:00 Irish time, and the WEC season finale, 6 Hours of Monza, on the same day"},
+    {"when": "Sun 8 Nov", "what": "IBJJF Crown in Long Beach"},
+    {"when": "12–13 Nov", "what": "Starship Flight 15 pencilled in for the 12th if the FAA grants a permit; ULA Vulcan return-to-flight on the 13th"},
+    {"when": "Sat 14 Nov", "what": "UFC 334, Madison Square Garden: Gane vs Hokit for the heavyweight title, plus Harrison vs Nunes (main card early Sun 15 Nov Irish time)"},
     {"when": "Thu 19 Nov", "what": "GTA 6 launches on PS5 and Xbox Series X/S"}
   ],
   "sections": [
     {
+      "title": "Motorsport",
+      "items": [
+        {
+          "headline": "Antonelli seals the title in Mexico, the youngest F1 champion ever",
+          "summary": "He needed ninth or better and took third, winning the crown at 20 and becoming Italy's first champion since Ascari in 1953. Sebastian Vettel's old mark, set at 23, is comfortably gone.",
+          "source": "Formula 1",
+          "url": "https://www.formula1.com/en/latest/article/antonelli-crowned-youngest-ever-f1-champion-as-verstappen-wins-eventful-mexico-city-grand-prix.xpMMeef0KmRURs9IDs3LH"
+        },
+        {
+          "headline": "Verstappen beats Hamilton by 0.8s as Ferrari fights itself",
+          "summary": "Hamilton and Leclerc ran each other wide from the start, letting Verstappen through; Leclerc took a five-second penalty and finished fourth while Hamilton complained on the radio about being pushed out by his own teammate. Bottas's suspension failure and heavy crash then brought a red flag and a standing restart.",
+          "source": "PlanetF1",
+          "url": "https://www.planetf1.com/news/mexican-grand-prix-2026-race-report"
+        },
+        {
+          "headline": "Late penalties reshuffle the points, Hirakawa profits on debut",
+          "summary": "A wave of post-race penalties lifted Haas stand-in Ryo Hirakawa from 13th to 10th in his first Grand Prix. The fight for second in the standings is now tight, with SI's post-race table showing Verstappen on 261 and Hamilton on 259; next stop is São Paulo on Sunday.",
+          "source": "Formula 1",
+          "url": "https://www.formula1.com/en/latest/article/mexico-city-lowdown-all-the-key-moments-as-antonelli-secures-maiden-title-and-verstappen-denies-ferrari-victory.3mPqECWFPlJsdg4jUOZUXz"
+        },
+        {
+          "headline": "WEC decides its season at Monza on Sunday",
+          "summary": "Toyota's #8 crew (Buemi, Hartley, Hirakawa) lead the Hypercar table 114–97 over the sister #7 after a Barcelona one-two. LMGT3 is closer, with Jonny Edgar on 92 and Nicky Catsburg on 88.",
+          "source": "RNT Motorsports",
+          "url": "https://rnt-motorsports.com/fia-wec-results-2026/"
+        }
+      ]
+    },
+    {
       "title": "Tech",
       "items": [
         {
-          "headline": "AI spending worries drag tech stocks down again",
-          "summary": "Friday's selloff took the Nasdaq down nearly 3%, even though Amazon, Alphabet and Intel all grew strongly. Investors are now more worried about huge AI capex, new debt and thinner free cash flow, and Intel's warning that the PC slump could last into 2027 didn't help.",
-          "source": "NetNewsLedger",
-          "url": "https://www.netnewsledger.com/2026/10/31/tech-selloff-deepens-as-investors-question-the-cost-of-the-ai-buildout/"
+          "headline": "The AI rout now totals about $5 trillion",
+          "summary": "Yahoo Finance calculates that 47 AI and chip stocks have lost that much since 6 October, with Nvidia and Alphabet down about $834bn each, while other large US stocks gained around $1.3tn. Apple ended Friday worth more than Nvidia, at roughly $5.03tn to $4.93tn.",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/markets/article/stock-futures-jump-ahead-of-a-monster-week-after-a-5-trillion-ai-rout-021203996.html"
         },
         {
-          "headline": "Cloud is still booming underneath the panic",
-          "summary": "AWS sales rose 39% to $46bn and Google Cloud more than doubled to about $31bn in the quarter. Intel's data-centre and AI revenue was up 78%. Demand is clearly there. The question is what it costs to meet it.",
-          "source": "NetNewsLedger",
-          "url": "https://www.netnewsledger.com/2026/10/31/tech-selloff-deepens-as-investors-question-the-cost-of-the-ai-buildout/"
+          "headline": "Apple and Palantir report tonight, AMD tomorrow",
+          "summary": "Apple and Palantir publish results after the US close today, with iPhone 18 demand the focus for Apple. AMD and Super Micro follow on Tuesday, giving the AI trade its next test.",
+          "source": "Stocktwits",
+          "url": "https://stocktwits.com/news-articles/markets/equity/what-to-expect-markets-this-week-nov-1-2026/cNGes4VR923"
         }
       ]
     },
@@ -32,16 +61,22 @@
       "title": "Science & Space",
       "items": [
         {
-          "headline": "SpaceX flies its 700th Falcon 9",
-          "summary": "A Starlink batch launched from Vandenberg early on 31 October, and the booster landed on its 18th flight. It was SpaceX's 11th orbital launch of October, as the company starts shifting work from Falcon 9 to Starship.",
-          "source": "Spaceflight Now",
-          "url": "https://spaceflightnow.com/2026/10/30/live-coverage-spacex-to-close-out-october-with-halloween-eve-falcon-9-launch/"
+          "headline": "Falcon 9 flies a classified Space Force mission overnight",
+          "summary": "USSF-432 lifts off from Vandenberg in a four-hour window opening about 01:42 Irish time on Tuesday, with a backup a day later. The payload and orbit are undisclosed, and the booster is on its eighth flight.",
+          "source": "Starlust",
+          "url": "https://starlust.org/spacex-gears-up-to-launch-classified-ussf-432-mission-on-november-2-streaming-details-here"
         },
         {
-          "headline": "Otherwise a quiet weekend",
-          "summary": "There were no other major missions or discoveries in the last 24 hours. Next up are the final ISS array-upgrade spacewalk on Thursday and Vulcan's return on 13 November.",
-          "source": "Morning Brief",
-          "url": "https://seanwork544.github.io/Morning-Brief/"
+          "headline": "Tonight's sky: Moon, Mars and Jupiter in a line",
+          "summary": "They rise together in the east around midnight tonight into tomorrow, and the Southern Taurids peak on 4–5 November at about five meteors an hour. Mars and Jupiter close to about a degree apart before dawn on 14–16 November.",
+          "source": "National Geographic",
+          "url": "https://www.nationalgeographic.com/science/article/november-2026-night-sky-events"
+        },
+        {
+          "headline": "A 'forgotten' neutrino might help explain why matter exists",
+          "summary": "Southampton and IIT Kanpur physicists propose that a long-ignored heavy neutrino could have briefly dominated the early universe, helping matter outlast antimatter. It is theory for now, though they suggest it could leave traces in primordial gravitational waves.",
+          "source": "ScienceDaily",
+          "url": "https://www.sciencedaily.com/releases/2026/10/261031221201.htm"
         }
       ]
     },
@@ -49,16 +84,16 @@
       "title": "Gaming",
       "items": [
         {
-          "headline": "November's big releases: GTA 6 on the 19th",
-          "summary": "GTA 6 is still set for 19 November on PS5 and Xbox Series X/S. Before that, Switch 2 gets an Ocarina of Time remake and World of Warcraft around 5–6 November, then a Pikmin 4 Switch 2 Edition on 12 November.",
-          "source": "GamesRadar",
-          "url": "https://www.gamesradar.com/games/top-games-releasing-november-2026/"
+          "headline": "Witcher 3 Remastered gets an AI-built hunting mod",
+          "summary": "A modder used vibe coding to add Red Dead Redemption 2-style hunting to the remaster. It's a community project, and there's nothing new from CD Projekt on Songs of the Past or The Witcher 4.",
+          "source": "PC Games Hardware",
+          "url": "https://www.pcgameshardware.de/The-Witcher-3-Spiel-38488/News/Remastered-Jagd-Mod-KI-Vibe-Coding-1558253/"
         },
         {
-          "headline": "Watchlist: quiet",
-          "summary": "There was nothing new on The Witcher 4, Cyberpunk 2, The Witcher 3 or Borderlands over the weekend.",
-          "source": "Morning Brief",
-          "url": "https://seanwork544.github.io/Morning-Brief/"
+          "headline": "PS5 owners can now try a Steam Machine-style Linux setup",
+          "summary": "A new Linux project lets a PS5 behave a bit like Valve's box, though TechRadar's advice is not to bother. It's a curiosity while the big release calendar builds towards GTA 6 on the 19th.",
+          "source": "TechRadar",
+          "url": "https://www.techradar.com/gaming/ps5/cant-afford-a-steam-machine-you-can-now-turn-your-ps5-into-one-with-a-new-spin-on-linux-but-i-really-wouldnt-recommend-it"
         }
       ]
     },
@@ -66,8 +101,8 @@
       "title": "BJJ & Grappling",
       "items": [
         {
-          "headline": "No-Gi Euros wrap up today in Rome",
-          "summary": "Defending champion and top seed Injana Goodman is one win from another European No-Gi gold. She meets Amanda Schurtz in the women's middleweight final this afternoon, Rome time. Full black-belt results should be in tomorrow's brief.",
+          "headline": "Goodman retains her European No-Gi title with an 11-0 final",
+          "summary": "Injana Goodman beat Amanda Schurtz in the women's middleweight final in Rome on Sunday, according to MiddleEasy. That is one source only, and I couldn't confirm the other black-belt or absolute results this morning, so a fuller recap may follow.",
           "source": "MiddleEasy",
           "url": "https://middleeasy.com/brazilian-jiu-jitsu/injana-goodman-european-nogi-middleweight-final-amanda-schurtz-2026/"
         }
@@ -77,33 +112,22 @@
       "title": "MMA",
       "items": [
         {
-          "headline": "Tom Nolan stops Moicano in round three",
-          "summary": "In his first UFC main event, the Australian lightweight finished Moicano with punches and elbows in Vegas. It's his sixth win in a row, and he should move into the top 10. Some fighters online thought the stoppage came too soon.",
-          "source": "Yahoo Sports / MMA Mania",
-          "url": "https://sports.yahoo.com/articles/ufc-halloween-highlights-nolan-stops-025936545.html"
+          "headline": "Saturday's UFC card has a new heavyweight headliner",
+          "summary": "Sean Brady's injury scrapped his main event with Bonfim, so Waldo Cortes Acosta and Johnny Walker now top the Vegas card. England's Davey Grant faces Elijah Smith on the main card, with no Irish fighters listed.",
+          "source": "theScore",
+          "url": "https://www.thescore.com/mma/news/3638932/report-cortes-acosta-vs-walker-set-as-uf-cs-new-nov-7-main-event"
         },
         {
-          "headline": "Erosa's farewell KO and the rest of the card",
-          "summary": "Julian Erosa knocked out JeongYeong Lee in 91 seconds in his final fight. Luana Santos and Cody Durden won decisions, and Jean-Paul Lebosnoyani won when the doctor stopped his fight. There were no Irish or UK fighters on the card.",
-          "source": "UFC.com",
-          "url": "https://www.ufc.com/news/ufc-fight-night-moicano-vs-nolan-results"
-        }
-      ]
-    },
-    {
-      "title": "Motorsport",
-      "items": [
-        {
-          "headline": "Hamilton takes his first Ferrari pole in Mexico",
-          "summary": "Hamilton beat Russell by nine thousandths of a second, with Leclerc third. Antonelli qualified fifth and moves up to fourth on the grid after penalties for Verstappen and Lawson.",
-          "source": "RNT Motorsports",
-          "url": "https://rnt-motorsports.com/mexico-city-grand-prix-2026-results/"
+          "headline": "Whittaker gets a home fight in Sydney",
+          "summary": "Robert Whittaker meets Bogdan Guskov at light heavyweight in the co-main on 6 February, his first fight at home since 2014. Quillan Salkilld vs Benoit Saint Denis headlines.",
+          "source": "theScore",
+          "url": "https://www.thescore.com/mma/news/3641871/whittaker-guskov-to-co-headline-ufc-sydney"
         },
         {
-          "headline": "Antonelli needs a top nine tonight to be champion",
-          "summary": "He leads Russell by 123 points with 125 left, so finishing ninth or better seals the title. The race starts at 20:00 Irish time. Bottas starts from the back after an engine change, and Ryo Hirakawa replaces Ocon at Haas.",
-          "source": "PlanetF1",
-          "url": "https://www.planetf1.com/news/f1-results-mexico-city-grand-prix-2026-qualifying"
+          "headline": "Cage Warriors 212 hits London on Saturday",
+          "summary": "The Spanish-themed card starts at 19:00 at Television Centre, with Manuel Del Valle vs Luan Duarte on top. Englishmen Shahram Hotak and Omar Sargent are on the bill so far, and the card is still being filled.",
+          "source": "UFCalendar",
+          "url": "https://www.ufcalendar.com/events/cage-warriors-212-2026-11-07"
         }
       ]
     }

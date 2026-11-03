@@ -1,59 +1,42 @@
 {
-  "date": "2026-11-02",
-  "generated": "2026-11-02T06:25:00+00:00",
-  "headline": "Antonelli is F1's youngest-ever champion at 20 as Verstappen wins a chaotic Mexico City race, while AI stocks nurse a $5 trillion bruise ahead of Apple's results tonight.",
+  "date": "2026-11-03",
+  "generated": "2026-11-03T06:20:08+00:00",
+  "headline": "Apple beat Wall Street and got marked down anyway, Mercedes can wrap up the constructors' title in Brazil on Sunday, and GTA 6 preloads open in nine days.",
   "upcoming": [
-    {"when": "Sat 7 Nov", "what": "UFC Vegas: Cortes Acosta vs Walker. Prelims 22:00, main card 01:00 Sun Irish time. Davey Grant (England) is on the main card"},
-    {"when": "Sun 8 Nov", "what": "F1 São Paulo GP, 17:00 Irish time, and the WEC season finale, 6 Hours of Monza, on the same day"},
-    {"when": "Sun 8 Nov", "what": "IBJJF Crown in Long Beach"},
-    {"when": "12–13 Nov", "what": "Starship Flight 15 pencilled in for the 12th if the FAA grants a permit; ULA Vulcan return-to-flight on the 13th"},
-    {"when": "Sat 14 Nov", "what": "UFC 334, Madison Square Garden: Gane vs Hokit for the heavyweight title, plus Harrison vs Nunes (main card early Sun 15 Nov Irish time)"},
-    {"when": "Thu 19 Nov", "what": "GTA 6 launches on PS5 and Xbox Series X/S"}
+    {"when": "Sat 7 Nov", "what": "UFC Vegas 124: Cortes Acosta vs Walker. Prelims 22:00, main card 01:00 Sun Irish time. England's Davey Grant is on the main card"},
+    {"when": "Sat 7 Nov", "what": "F1 São Paulo GP qualifying, 18:00 Irish time (no sprint this weekend)"},
+    {"when": "Sun 8 Nov", "what": "WEC finale, 6 Hours of Monza, 10:00 Irish time; F1 São Paulo GP 17:00; IBJJF The Crown from 18:00"},
+    {"when": "Tue 10 Nov", "what": "Football Manager 27 launches"},
+    {"when": "Sat 14 Nov", "what": "UFC 334, Madison Square Garden: Gane vs Hokit for the heavyweight title (main card early Sun 15 Nov Irish time)"},
+    {"when": "Thu 19 Nov", "what": "GTA 6 launches on PS5 and Xbox Series X/S at local midnight; digital preload opens Thu 12 Nov"}
   ],
   "sections": [
-    {
-      "title": "Motorsport",
-      "items": [
-        {
-          "headline": "Antonelli seals the title in Mexico, the youngest F1 champion ever",
-          "summary": "He needed ninth or better and took third, winning the crown at 20 and becoming Italy's first champion since Ascari in 1953. Sebastian Vettel's old mark, set at 23, is comfortably gone.",
-          "source": "Formula 1",
-          "url": "https://www.formula1.com/en/latest/article/antonelli-crowned-youngest-ever-f1-champion-as-verstappen-wins-eventful-mexico-city-grand-prix.xpMMeef0KmRURs9IDs3LH"
-        },
-        {
-          "headline": "Verstappen beats Hamilton by 0.8s as Ferrari fights itself",
-          "summary": "Hamilton and Leclerc ran each other wide from the start, letting Verstappen through; Leclerc took a five-second penalty and finished fourth while Hamilton complained on the radio about being pushed out by his own teammate. Bottas's suspension failure and heavy crash then brought a red flag and a standing restart.",
-          "source": "PlanetF1",
-          "url": "https://www.planetf1.com/news/mexican-grand-prix-2026-race-report"
-        },
-        {
-          "headline": "Late penalties reshuffle the points, Hirakawa profits on debut",
-          "summary": "A wave of post-race penalties lifted Haas stand-in Ryo Hirakawa from 13th to 10th in his first Grand Prix. The fight for second in the standings is now tight, with SI's post-race table showing Verstappen on 261 and Hamilton on 259; next stop is São Paulo on Sunday.",
-          "source": "Formula 1",
-          "url": "https://www.formula1.com/en/latest/article/mexico-city-lowdown-all-the-key-moments-as-antonelli-secures-maiden-title-and-verstappen-denies-ferrari-victory.3mPqECWFPlJsdg4jUOZUXz"
-        },
-        {
-          "headline": "WEC decides its season at Monza on Sunday",
-          "summary": "Toyota's #8 crew (Buemi, Hartley, Hirakawa) lead the Hypercar table 114–97 over the sister #7 after a Barcelona one-two. LMGT3 is closer, with Jonny Edgar on 92 and Nicky Catsburg on 88.",
-          "source": "RNT Motorsports",
-          "url": "https://rnt-motorsports.com/fia-wec-results-2026/"
-        }
-      ]
-    },
     {
       "title": "Tech",
       "items": [
         {
-          "headline": "The AI rout now totals about $5 trillion",
-          "summary": "Yahoo Finance calculates that 47 AI and chip stocks have lost that much since 6 October, with Nvidia and Alphabet down about $834bn each, while other large US stocks gained around $1.3tn. Apple ended Friday worth more than Nvidia, at roughly $5.03tn to $4.93tn.",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/markets/article/stock-futures-jump-ahead-of-a-monster-week-after-a-5-trillion-ai-rout-021203996.html"
+          "headline": "Apple tops estimates in Ternus's first quarter, but memory costs bite",
+          "summary": "Revenue hit $114.48bn and iPhone sales $57.58bn, both ahead of forecasts, yet the December-quarter gross margin guide of 45-46% is down from 47.9% and Greater China missed. Shares traded near $329 after hours against a $338 close; figures come from a broker write-up rather than Apple's own release.",
+          "source": "Top1Markets",
+          "url": "https://www.top1markets.com/news/apple-stock-drops-despite-earnings-beat-on-rising-memory-costs-weak-margin-forecast-f28"
         },
         {
-          "headline": "Apple and Palantir report tonight, AMD tomorrow",
-          "summary": "Apple and Palantir publish results after the US close today, with iPhone 18 demand the focus for Apple. AMD and Super Micro follow on Tuesday, giving the AI trade its next test.",
-          "source": "Stocktwits",
-          "url": "https://stocktwits.com/news-articles/markets/equity/what-to-expect-markets-this-week-nov-1-2026/cNGes4VR923"
+          "headline": "Palantir nearly doubles revenue and the stock still slips",
+          "summary": "Q3 revenue rose 96% to $2.31bn, US commercial sales climbed 148%, and full-year guidance went up again to about $8.5bn. Coverage says shares fell despite the beat, which sets an awkward mood for AMD and Super Micro reporting tonight.",
+          "source": "StockTitan",
+          "url": "https://www.stocktitan.net/news/PLTR/palantir-reports-q3-2026-u-s-comm-revenue-growth-of-148-y-y-and-quyw16dj59bm.html"
+        },
+        {
+          "headline": "Nvidia reportedly in talks to back debt for an Anthropic data centre",
+          "summary": "The chipmaker may guarantee billions in financing for Nscale's West Virginia site, which would shift some construction risk onto Nvidia. It is a report behind a paywall, so the exact amount is unconfirmed.",
+          "source": "The Tech Capital",
+          "url": "https://thetechcapital.com/nvidia-debt-guarantee-nscale-anthropic-data-centre"
+        },
+        {
+          "headline": "OpenAI pools its limits, Apple Intelligence heads for China",
+          "summary": "From December, eligible ChatGPT and Codex use draws on one shared allowance. Separately, Apple Intelligence begins developer testing in China tomorrow ahead of a December rollout, with Alibaba's Qwen handling some features.",
+          "source": "The Neuron",
+          "url": "https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-monday-november-2-2026/"
         }
       ]
     },
@@ -61,22 +44,22 @@
       "title": "Science & Space",
       "items": [
         {
-          "headline": "Falcon 9 flies a classified Space Force mission overnight",
-          "summary": "USSF-432 lifts off from Vandenberg in a four-hour window opening about 01:42 Irish time on Tuesday, with a backup a day later. The payload and orbit are undisclosed, and the booster is on its eighth flight.",
-          "source": "Starlust",
-          "url": "https://starlust.org/spacex-gears-up-to-launch-classified-ussf-432-mission-on-november-2-streaming-details-here"
+          "headline": "Update: the classified USSF-432 launch has slipped to Saturday",
+          "summary": "Yesterday's brief had this Falcon 9 flying overnight, but one launch tracker now shows it moved twice more, to 00:46 Irish time on Saturday 7 November. It's reported to be another Starshield radar mission for tracking aircraft, cruise missiles and drones from orbit.",
+          "source": "SpaceNexus",
+          "url": "https://spacenexus.us/launch/cmvpkcuh205swtwzr5b4w1d8u"
         },
         {
-          "headline": "Tonight's sky: Moon, Mars and Jupiter in a line",
-          "summary": "They rise together in the east around midnight tonight into tomorrow, and the Southern Taurids peak on 4–5 November at about five meteors an hour. Mars and Jupiter close to about a degree apart before dawn on 14–16 November.",
-          "source": "National Geographic",
-          "url": "https://www.nationalgeographic.com/science/article/november-2026-night-sky-events"
+          "headline": "Starship Flight 15 still has no firm date",
+          "summary": "SpaceX hasn't announced one; Musk's early-October estimate of four to six weeks points to somewhere between now and late November. Treat yesterday's 12 November as a pencil mark at best.",
+          "source": "Shattered",
+          "url": "https://shattered.io/spacex-november-2026-launches-falcon-9-dates-starship-flight-15-how-to-watch-2026"
         },
         {
-          "headline": "A 'forgotten' neutrino might help explain why matter exists",
-          "summary": "Southampton and IIT Kanpur physicists propose that a long-ignored heavy neutrino could have briefly dominated the early universe, helping matter outlast antimatter. It is theory for now, though they suggest it could leave traces in primordial gravitational waves.",
+          "headline": "Physicists find a loophole that could let black holes split in two",
+          "summary": "A pointer rather than a proper summary: ScienceDaily's article wouldn't load this morning, so all I can vouch for is the headline, dated 1 November. It was otherwise a quiet science morning from the sources I could read.",
           "source": "ScienceDaily",
-          "url": "https://www.sciencedaily.com/releases/2026/10/261031221201.htm"
+          "url": "http://www.sciencedaily.com/releases/2026/11/261101010525.htm"
         }
       ]
     },
@@ -84,16 +67,16 @@
       "title": "Gaming",
       "items": [
         {
-          "headline": "Witcher 3 Remastered gets an AI-built hunting mod",
-          "summary": "A modder used vibe coding to add Red Dead Redemption 2-style hunting to the remaster. It's a community project, and there's nothing new from CD Projekt on Songs of the Past or The Witcher 4.",
-          "source": "PC Games Hardware",
-          "url": "https://www.pcgameshardware.de/The-Witcher-3-Spiel-38488/News/Remastered-Jagd-Mod-KI-Vibe-Coding-1558253/"
+          "headline": "GTA 6 launch logistics firm up: preload on the 12th, no disc in the box",
+          "summary": "Digital preload opens 12 November, with launch rolling out at local midnight on the 19th on PS5 and Xbox Series X/S only. A launch roundup also says the physical edition contains no disc, and the base game is listed at $79.99 with Ultimate at $99.99.",
+          "source": "DLCompare",
+          "url": "https://www.dlcompare.com/gaming-news/gta-6-launch-week-everything-you-need-to-know-before-november-19"
         },
         {
-          "headline": "PS5 owners can now try a Steam Machine-style Linux setup",
-          "summary": "A new Linux project lets a PS5 behave a bit like Valve's box, though TechRadar's advice is not to bother. It's a curiosity while the big release calendar builds towards GTA 6 on the 19th.",
-          "source": "TechRadar",
-          "url": "https://www.techradar.com/gaming/ps5/cant-afford-a-steam-machine-you-can-now-turn-your-ps5-into-one-with-a-new-spin-on-linux-but-i-really-wouldnt-recommend-it"
+          "headline": "This week: Ocarina of Time and Stellar Blade land on Switch 2",
+          "summary": "Zelda arrives on the 5th and Stellar Blade Complete Edition on the 6th, after World of Warcraft: Forever on the 4th; Football Manager 27 follows on the 10th. I found nothing new on Witcher 4, Cyberpunk 2, Witcher 3 or Borderlands, but most big gaming sites wouldn't load today, so that's a weak negative.",
+          "source": "Glitched",
+          "url": "https://www.glitched.online/all-the-november-video-game-releases/"
         }
       ]
     },
@@ -101,10 +84,22 @@
       "title": "BJJ & Grappling",
       "items": [
         {
-          "headline": "Goodman retains her European No-Gi title with an 11-0 final",
-          "summary": "Injana Goodman beat Amanda Schurtz in the women's middleweight final in Rome on Sunday, according to MiddleEasy. That is one source only, and I couldn't confirm the other black-belt or absolute results this morning, so a fuller recap may follow.",
-          "source": "MiddleEasy",
-          "url": "https://middleeasy.com/brazilian-jiu-jitsu/injana-goodman-european-nogi-middleweight-final-amanda-schurtz-2026/"
+          "headline": "Jaworski and Kapuścińska take double gold at European No-Gi",
+          "summary": "Both won their weight class and the absolute in Rome, Paweł Jaworski with a heel hook in the absolute final and Martyna Kapuścińska with a foot lock over middleweight champion Injana Goodman. Britain's Nia Blackman won women's heavyweight on a referee's decision.",
+          "source": "FloGrappling",
+          "url": "https://www.flograppling.com/articles/16340074-europeu-no-gi-2026-confira-os-resultados-em-tempo-real"
+        },
+        {
+          "headline": "The Crown brackets are out, with Mica Galvão at middleweight",
+          "summary": "IBJJF's six eight-person brackets run on Sunday, also featuring Gabi Pessanha at women's super-heavyweight and Sarah Galvão at lightweight. It streams on FloGrappling from 18:00 Irish time.",
+          "source": "FloGrappling",
+          "url": "https://www.flograppling.com/articles/16323792-2026-ibjjfs-the-crown-brackets"
+        },
+        {
+          "headline": "McNally goes from a Euro final to a Tonon rematch",
+          "summary": "Sam McNally lost the featherweight final on advantages to Sergio Riquelme in Rome, and next faces Garry Tonon at Polaris 40 on 21 November. It's Tonon's first jiu-jitsu superfight in nearly six years, and McNally beat him on points at ADCC 2022.",
+          "source": "FloGrappling",
+          "url": "https://www.flograppling.com/articles/16275000-garry-tonon-to-compete-in-jiu-jitsu-at-polaris-40"
         }
       ]
     },
@@ -112,22 +107,39 @@
       "title": "MMA",
       "items": [
         {
-          "headline": "Saturday's UFC card has a new heavyweight headliner",
-          "summary": "Sean Brady's injury scrapped his main event with Bonfim, so Waldo Cortes Acosta and Johnny Walker now top the Vegas card. England's Davey Grant faces Elijah Smith on the main card, with no Irish fighters listed.",
-          "source": "theScore",
-          "url": "https://www.thescore.com/mma/news/3638932/report-cortes-acosta-vs-walker-set-as-uf-cs-new-nov-7-main-event"
+          "headline": "Fight week for UFC Vegas 124: Cortes Acosta a clear favourite",
+          "summary": "Brady's withdrawal was down to a staph infection and Bonfim was pulled too, leaving Walker a +247 underdog to Cortes Acosta at -300 on opening odds. Suarez vs Jandiroba is also on the main card with England's Davey Grant, and I spotted no Irish fighters.",
+          "source": "UFC",
+          "url": "https://www.ufc.com/news/fight-by-fight-preview-ufc-fight-night-cortes-acosta-vs-walker"
         },
         {
-          "headline": "Whittaker gets a home fight in Sydney",
-          "summary": "Robert Whittaker meets Bogdan Guskov at light heavyweight in the co-main on 6 February, his first fight at home since 2014. Quillan Salkilld vs Benoit Saint Denis headlines.",
-          "source": "theScore",
-          "url": "https://www.thescore.com/mma/news/3641871/whittaker-guskov-to-co-headline-ufc-sydney"
+          "headline": "Moicano won't appeal his disputed Halloween loss",
+          "summary": "MMAmania's headline says so, with some choice words for the referee, but the article wouldn't load, so I can't give you the details of the stoppage. He had been booked against Tom Nolan at UFC Vegas 123 after Ortega withdrew.",
+          "source": "MMAmania",
+          "url": "https://mmamania.com/latest-news/483443/renato-moicano-wont-appeal-ufc-halloween-loss-tells-referee-to-go-f-k-himself"
+        }
+      ]
+    },
+    {
+      "title": "Motorsport",
+      "items": [
+        {
+          "headline": "Mercedes can seal the constructors' title in Brazil",
+          "summary": "They lead Ferrari 630-504 and need to outscore them by three points at Interlagos to make it mathematically safe. Antonelli will run a helmet marking the anniversary of Senna's 1991 home win; there is no sprint this weekend.",
+          "source": "Grande Premio",
+          "url": "https://grandepremio.com/en/f1/what-does-mercedes-need-to-win-the-2026-f1-constructors-championship-in-brazil/"
         },
         {
-          "headline": "Cage Warriors 212 hits London on Saturday",
-          "summary": "The Spanish-themed card starts at 19:00 at Television Centre, with Manuel Del Valle vs Luan Duarte on top. Englishmen Shahram Hotak and Omar Sargent are on the bill so far, and the card is still being filled.",
-          "source": "UFCalendar",
-          "url": "https://www.ufcalendar.com/events/cage-warriors-212-2026-11-07"
+          "headline": "Ferrari's Mexico fallout gets louder, and Russell's absence costs Mercedes",
+          "summary": "Hamilton blames Leclerc's opening-lap aggression for handing away a likely win, with Vasseur also unhappy at the lost result. Mercedes were fined €5,000 after excusing Russell from mandatory media duties, and he has since issued a statement.",
+          "source": "Grande Premio",
+          "url": "https://grandepremio.com/en/f1/f1-today-hamilton-attacks-leclerc-russell-breaks-silence-and-antonelli-prepares-for-brazil/"
+        },
+        {
+          "headline": "WEC finale: Conway's last race, and how to watch Monza",
+          "summary": "The six hours start at 10:00 Irish time on Sunday on FIAWEC+, with the #8 Toyota 17 points clear of the #7 and Mike Conway racing for the last time. I found no GT World Challenge Europe news today.",
+          "source": "FIA WEC",
+          "url": "https://www.fiawec.com/en/news/how-to-watch-the-6-hours-of-monza-your-guide-to-the-2026-fia-wec-finale/13909"
         }
       ]
     }

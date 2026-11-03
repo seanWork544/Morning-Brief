@@ -1,0 +1,147 @@
+{
+  "date": "2026-11-03",
+  "generated": "2026-11-03T06:20:08+00:00",
+  "headline": "Apple beat Wall Street and got marked down anyway, Mercedes can wrap up the constructors' title in Brazil on Sunday, and GTA 6 preloads open in nine days.",
+  "upcoming": [
+    {"when": "Sat 7 Nov", "what": "UFC Vegas 124: Cortes Acosta vs Walker. Prelims 22:00, main card 01:00 Sun Irish time. England's Davey Grant is on the main card"},
+    {"when": "Sat 7 Nov", "what": "F1 São Paulo GP qualifying, 18:00 Irish time (no sprint this weekend)"},
+    {"when": "Sun 8 Nov", "what": "WEC finale, 6 Hours of Monza, 10:00 Irish time; F1 São Paulo GP 17:00; IBJJF The Crown from 18:00"},
+    {"when": "Tue 10 Nov", "what": "Football Manager 27 launches"},
+    {"when": "Sat 14 Nov", "what": "UFC 334, Madison Square Garden: Gane vs Hokit for the heavyweight title (main card early Sun 15 Nov Irish time)"},
+    {"when": "Thu 19 Nov", "what": "GTA 6 launches on PS5 and Xbox Series X/S at local midnight; digital preload opens Thu 12 Nov"}
+  ],
+  "sections": [
+    {
+      "title": "Tech",
+      "items": [
+        {
+          "headline": "Apple tops estimates in Ternus's first quarter, but memory costs bite",
+          "summary": "Revenue hit $114.48bn and iPhone sales $57.58bn, both ahead of forecasts, yet the December-quarter gross margin guide of 45-46% is down from 47.9% and Greater China missed. Shares traded near $329 after hours against a $338 close; figures come from a broker write-up rather than Apple's own release.",
+          "source": "Top1Markets",
+          "url": "https://www.top1markets.com/news/apple-stock-drops-despite-earnings-beat-on-rising-memory-costs-weak-margin-forecast-f28"
+        },
+        {
+          "headline": "Palantir nearly doubles revenue and the stock still slips",
+          "summary": "Q3 revenue rose 96% to $2.31bn, US commercial sales climbed 148%, and full-year guidance went up again to about $8.5bn. Coverage says shares fell despite the beat, which sets an awkward mood for AMD and Super Micro reporting tonight.",
+          "source": "StockTitan",
+          "url": "https://www.stocktitan.net/news/PLTR/palantir-reports-q3-2026-u-s-comm-revenue-growth-of-148-y-y-and-quyw16dj59bm.html"
+        },
+        {
+          "headline": "Nvidia reportedly in talks to back debt for an Anthropic data centre",
+          "summary": "The chipmaker may guarantee billions in financing for Nscale's West Virginia site, which would shift some construction risk onto Nvidia. It is a report behind a paywall, so the exact amount is unconfirmed.",
+          "source": "The Tech Capital",
+          "url": "https://thetechcapital.com/nvidia-debt-guarantee-nscale-anthropic-data-centre"
+        },
+        {
+          "headline": "OpenAI pools its limits, Apple Intelligence heads for China",
+          "summary": "From December, eligible ChatGPT and Codex use draws on one shared allowance. Separately, Apple Intelligence begins developer testing in China tomorrow ahead of a December rollout, with Alibaba's Qwen handling some features.",
+          "source": "The Neuron",
+          "url": "https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-monday-november-2-2026/"
+        }
+      ]
+    },
+    {
+      "title": "Science & Space",
+      "items": [
+        {
+          "headline": "Update: the classified USSF-432 launch has slipped to Saturday",
+          "summary": "Yesterday's brief had this Falcon 9 flying overnight, but one launch tracker now shows it moved twice more, to 00:46 Irish time on Saturday 7 November. It's reported to be another Starshield radar mission for tracking aircraft, cruise missiles and drones from orbit.",
+          "source": "SpaceNexus",
+          "url": "https://spacenexus.us/launch/cmvpkcuh205swtwzr5b4w1d8u"
+        },
+        {
+          "headline": "Starship Flight 15 still has no firm date",
+          "summary": "SpaceX hasn't announced one; Musk's early-October estimate of four to six weeks points to somewhere between now and late November. Treat yesterday's 12 November as a pencil mark at best.",
+          "source": "Shattered",
+          "url": "https://shattered.io/spacex-november-2026-launches-falcon-9-dates-starship-flight-15-how-to-watch-2026"
+        },
+        {
+          "headline": "Physicists find a loophole that could let black holes split in two",
+          "summary": "A pointer rather than a proper summary: ScienceDaily's article wouldn't load this morning, so all I can vouch for is the headline, dated 1 November. It was otherwise a quiet science morning from the sources I could read.",
+          "source": "ScienceDaily",
+          "url": "http://www.sciencedaily.com/releases/2026/11/261101010525.htm"
+        }
+      ]
+    },
+    {
+      "title": "Gaming",
+      "items": [
+        {
+          "headline": "GTA 6 launch logistics firm up: preload on the 12th, no disc in the box",
+          "summary": "Digital preload opens 12 November, with launch rolling out at local midnight on the 19th on PS5 and Xbox Series X/S only. A launch roundup also says the physical edition contains no disc, and the base game is listed at $79.99 with Ultimate at $99.99.",
+          "source": "DLCompare",
+          "url": "https://www.dlcompare.com/gaming-news/gta-6-launch-week-everything-you-need-to-know-before-november-19"
+        },
+        {
+          "headline": "This week: Ocarina of Time and Stellar Blade land on Switch 2",
+          "summary": "Zelda arrives on the 5th and Stellar Blade Complete Edition on the 6th, after World of Warcraft: Forever on the 4th; Football Manager 27 follows on the 10th. I found nothing new on Witcher 4, Cyberpunk 2, Witcher 3 or Borderlands, but most big gaming sites wouldn't load today, so that's a weak negative.",
+          "source": "Glitched",
+          "url": "https://www.glitched.online/all-the-november-video-game-releases/"
+        }
+      ]
+    },
+    {
+      "title": "BJJ & Grappling",
+      "items": [
+        {
+          "headline": "Jaworski and Kapuścińska take double gold at European No-Gi",
+          "summary": "Both won their weight class and the absolute in Rome, Paweł Jaworski with a heel hook in the absolute final and Martyna Kapuścińska with a foot lock over middleweight champion Injana Goodman. Britain's Nia Blackman won women's heavyweight on a referee's decision.",
+          "source": "FloGrappling",
+          "url": "https://www.flograppling.com/articles/16340074-europeu-no-gi-2026-confira-os-resultados-em-tempo-real"
+        },
+        {
+          "headline": "The Crown brackets are out, with Mica Galvão at middleweight",
+          "summary": "IBJJF's six eight-person brackets run on Sunday, also featuring Gabi Pessanha at women's super-heavyweight and Sarah Galvão at lightweight. It streams on FloGrappling from 18:00 Irish time.",
+          "source": "FloGrappling",
+          "url": "https://www.flograppling.com/articles/16323792-2026-ibjjfs-the-crown-brackets"
+        },
+        {
+          "headline": "McNally goes from a Euro final to a Tonon rematch",
+          "summary": "Sam McNally lost the featherweight final on advantages to Sergio Riquelme in Rome, and next faces Garry Tonon at Polaris 40 on 21 November. It's Tonon's first jiu-jitsu superfight in nearly six years, and McNally beat him on points at ADCC 2022.",
+          "source": "FloGrappling",
+          "url": "https://www.flograppling.com/articles/16275000-garry-tonon-to-compete-in-jiu-jitsu-at-polaris-40"
+        }
+      ]
+    },
+    {
+      "title": "MMA",
+      "items": [
+        {
+          "headline": "Fight week for UFC Vegas 124: Cortes Acosta a clear favourite",
+          "summary": "Brady's withdrawal was down to a staph infection and Bonfim was pulled too, leaving Walker a +247 underdog to Cortes Acosta at -300 on opening odds. Suarez vs Jandiroba is also on the main card with England's Davey Grant, and I spotted no Irish fighters.",
+          "source": "UFC",
+          "url": "https://www.ufc.com/news/fight-by-fight-preview-ufc-fight-night-cortes-acosta-vs-walker"
+        },
+        {
+          "headline": "Moicano won't appeal his disputed Halloween loss",
+          "summary": "MMAmania's headline says so, with some choice words for the referee, but the article wouldn't load, so I can't give you the details of the stoppage. He had been booked against Tom Nolan at UFC Vegas 123 after Ortega withdrew.",
+          "source": "MMAmania",
+          "url": "https://mmamania.com/latest-news/483443/renato-moicano-wont-appeal-ufc-halloween-loss-tells-referee-to-go-f-k-himself"
+        }
+      ]
+    },
+    {
+      "title": "Motorsport",
+      "items": [
+        {
+          "headline": "Mercedes can seal the constructors' title in Brazil",
+          "summary": "They lead Ferrari 630-504 and need to outscore them by three points at Interlagos to make it mathematically safe. Antonelli will run a helmet marking the anniversary of Senna's 1991 home win; there is no sprint this weekend.",
+          "source": "Grande Premio",
+          "url": "https://grandepremio.com/en/f1/what-does-mercedes-need-to-win-the-2026-f1-constructors-championship-in-brazil/"
+        },
+        {
+          "headline": "Ferrari's Mexico fallout gets louder, and Russell's absence costs Mercedes",
+          "summary": "Hamilton blames Leclerc's opening-lap aggression for handing away a likely win, with Vasseur also unhappy at the lost result. Mercedes were fined €5,000 after excusing Russell from mandatory media duties, and he has since issued a statement.",
+          "source": "Grande Premio",
+          "url": "https://grandepremio.com/en/f1/f1-today-hamilton-attacks-leclerc-russell-breaks-silence-and-antonelli-prepares-for-brazil/"
+        },
+        {
+          "headline": "WEC finale: Conway's last race, and how to watch Monza",
+          "summary": "The six hours start at 10:00 Irish time on Sunday on FIAWEC+, with the #8 Toyota 17 points clear of the #7 and Mike Conway racing for the last time. I found no GT World Challenge Europe news today.",
+          "source": "FIA WEC",
+          "url": "https://www.fiawec.com/en/news/how-to-watch-the-6-hours-of-monza-your-guide-to-the-2026-fia-wec-finale/13909"
+        }
+      ]
+    }
+  ]
+}

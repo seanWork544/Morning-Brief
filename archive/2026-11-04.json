@@ -1,0 +1,195 @@
+{
+  "date": "2026-11-04",
+  "generated": "2026-11-04T06:21:01+00:00",
+  "headline": "AMD guides to $17bn and the stock jumps, Kimi Antonelli heads to Brazil as F1's youngest champion, and The Elder Scrolls VI appears to have a name.",
+  "upcoming": [
+    {
+      "when": "Sat 7 Nov",
+      "what": "UFC Vegas 124: Cortes Acosta vs Walker. Prelims 22:00, main card 01:00 Sun Irish time. England's Davey Grant faces Elijah Smith on the main card"
+    },
+    {
+      "when": "Sat 7 Nov",
+      "what": "F1 São Paulo GP qualifying, 18:00 Irish time (no sprint this weekend)"
+    },
+    {
+      "when": "Sun 8 Nov",
+      "what": "WEC finale, 6 Hours of Monza, 10:00 Irish time; F1 São Paulo GP 17:00; IBJJF The Crown from 18:00"
+    },
+    {
+      "when": "Tue 10 Nov",
+      "what": "Football Manager 27 launches. GTA 6 preload may also open today, though the date is disputed (see Gaming)"
+    },
+    {
+      "when": "Sat 14 Nov",
+      "what": "UFC 334, Madison Square Garden: Gane vs Hokit for the heavyweight title (main card early Sun 15 Nov Irish time)"
+    },
+    {
+      "when": "Thu 19 Nov",
+      "what": "GTA 6 launches on PS5 and Xbox Series X/S"
+    }
+  ],
+  "sections": [
+    {
+      "title": "Tech",
+      "items": [
+        {
+          "headline": "AMD beats and guides to $17bn as data centre nearly doubles",
+          "summary": "Q3 revenue rose 45% to a record $13.4bn, with data centre up 97% to $8.5bn, and the Q4 guide of about $17bn sits roughly 4% above consensus. Early reports had the shares up around 7-8% after the numbers, a warmer reception than Apple and Palantir got.",
+          "source": "AMD via GlobeNewswire",
+          "url": "https://www.globenewswire.com/news-release/2026/11/03/3394824/0/en/amd-reports-third-quarter-2026-financial-results.html"
+        },
+        {
+          "headline": "Anthropic's IPO filing says self-accelerating AI research may be close",
+          "summary": "A revised S-1A says it may soon hit its internal threshold for AI speeding up AI research, though no current model has crossed it, and it is weighing Responsible Scaling Policy changes. I read this through digests rather than the filing itself.",
+          "source": "TechCrunch via The Neuron",
+          "url": "https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai/"
+        },
+        {
+          "headline": "OpenAI's security gets a double spotlight",
+          "summary": "It has hired Cathedral Systems, a startup founded by ex-DOGE staff whose earlier bug-bounty probe reached parts of Anthropic's internal systems, a test Anthropic disputes. Reuters separately cites five people saying staff warned of security lapses going back to before ChatGPT.",
+          "source": "Reuters via The Neuron",
+          "url": "https://www.reuters.com/business/openai-employees-warned-about-operational-security-lapses-years-sources-say-2026-11-03/"
+        },
+        {
+          "headline": "Schools that switch off Google's AI lose Search too",
+          "summary": "Per CNET, disabling Google's AI tools now also removes Google Search from student accounts, which leaves administrators with an awkward bundle. Summary comes from a digest; I haven't read the full piece.",
+          "source": "CNET via The Neuron",
+          "url": "https://www.cnet.com/tech/services-and-software/google-forcing-schools-choose-between-search-engine-ai/"
+        }
+      ]
+    },
+    {
+      "title": "Science & Space",
+      "items": [
+        {
+          "headline": "Hera gets its first clear look at the asteroids DART hit",
+          "summary": "ESA's spacecraft has captured both bodies from NASA's 2022 redirect test as it closes in, the start of the follow-up inspection of what that impact actually did.",
+          "source": "ScienceDaily",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261103003154.htm"
+        },
+        {
+          "headline": "All five DNA and RNA bases found in Ryugu samples",
+          "summary": "A new study reports the full set of nucleobases in pristine material from the asteroid, which adds weight to the idea that life's ingredients can form in space. It is not evidence of life itself.",
+          "source": "ScienceDaily",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261102075903.htm"
+        },
+        {
+          "headline": "Voyager 1 is 13 days from being one light-day away",
+          "summary": "NASA's skywatching calendar puts the milestone on 17 November, as engineers keep nursing the probe through dwindling power and technical faults.",
+          "source": "ScienceDaily",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261103003152.htm"
+        },
+        {
+          "headline": "Overhead: Southern Taurids peak tonight, Venus meets a thin Moon on Saturday",
+          "summary": "Expect only about 5-10 meteors an hour at best, but the shower is known for bright fireballs, and the waning Moon is near new. Before sunrise on 6-7 November, look for a crescent Moon near Venus and Spica; Mars and Jupiter pair up on 15-16 November. Ireland's cloud has the final vote.",
+          "source": "Star Walk",
+          "url": "https://starwalk.space/en/news/night-sky-tonight"
+        }
+      ]
+    },
+    {
+      "title": "Gaming",
+      "items": [
+        {
+          "headline": "The Elder Scrolls VI: Sentinel, apparently now official",
+          "summary": "KeenGamer says Bethesda unveiled the title and logo in a 40th-anniversary teaser, following last month's Verge report of the same name. The full article wouldn't load and I couldn't find a second confirmation, so treat it as likely rather than settled; no release window surfaced.",
+          "source": "KeenGamer",
+          "url": "https://www.keengamer.com/articles/news/the-elder-scrolls-vi-sentinel-title-and-logo-revealed-in-new-trailer/"
+        },
+        {
+          "headline": "Borderlands passes 100 million units sold",
+          "summary": "Gearbox is marking the milestone with a golden key code for Borderlands 1-4. That's from KeenGamer's listing only, and it's the sole watchlist news today: I found nothing new on Witcher 4, Cyberpunk 2 or Witcher 3, though many gaming sites wouldn't load.",
+          "source": "KeenGamer",
+          "url": "https://www.keengamer.com/articles/news/the-borderlands-game-series-eclipses-100-million-units-sold/"
+        },
+        {
+          "headline": "GTA 6 preload: a new date and a 212GB warning",
+          "summary": "KeenGamer now reports Rockstar has confirmed preload from 10 November at up to 212GB, while the 12 November date in yesterday's brief traces to reporting from June. I couldn't open the article to resolve it, so clear the space early either way.",
+          "source": "KeenGamer",
+          "url": "https://www.keengamer.com/articles/news/grand-theft-auto-vi-pre-load-starts-november-10-with-a-212-gb-file/"
+        },
+        {
+          "headline": "Phantom Blade Zero hits 4 million in 72 hours, FFXIV expansion slips",
+          "summary": "S-GAME's action RPG has had a huge opening. Separately, Final Fantasy XIV: Evercold moves to 23 February 2027, with early access from 19 February and pre-orders opening today.",
+          "source": "KeenGamer",
+          "url": "https://www.keengamer.com/articles/news/phantom-blade-zero-sells-over-4-million-copies-in-just-72-hours/"
+        }
+      ]
+    },
+    {
+      "title": "BJJ & Grappling",
+      "items": [
+        {
+          "headline": "The Crown's opening rounds: Mica draws Leleo Souza",
+          "summary": "Sunday's invitation-only gi event at the Pyramid in Long Beach pays $20,000 per champion. Gabi Pessanha opens against Maria Ruffatto-Gilpin and Sarah Galvão against Giovanah Oliveira, streaming on FloGrappling.",
+          "source": "Middleeasy",
+          "url": "https://middleeasy.com/brazilian-jiu-jitsu/ibjjf-crown-2026-brackets-first-round-matchups-november8/"
+        },
+        {
+          "headline": "Quiet midweek, busy weekend",
+          "summary": "I found no fresh grappling news from the last 48 hours, with several BJJ sites unavailable. ADCC's Brazilian Nationals also run on 7-8 November alongside The Crown.",
+          "source": "FloGrappling",
+          "url": "https://www.flograppling.com/events/16110799-2026-ibjjf-the-crown"
+        }
+      ]
+    },
+    {
+      "title": "MMA",
+      "items": [
+        {
+          "headline": "Jake Paul books Cedric Doumbe for Christmas Eve",
+          "summary": "The former Glory welterweight champion is 7-1 in MMA, and Paul is promising to retire if he loses. Even the location is muddled, with the same report giving both Abu Dhabi and Dubai.",
+          "source": "MMA Sucka",
+          "url": "https://mmasucka.com/news/jake-paul-next-fight/"
+        },
+        {
+          "headline": "Makhachev out of the January title fight, Prates goes for interim gold",
+          "summary": "With Makhachev withdrawn, Carlos Prates now faces unbeaten Michael Morales for the interim belt in a co-main at Toronto's Scotiabank Arena. Prates is accusing the champion of ducking him, and the winner is due a shot at Makhachev.",
+          "source": "MMA Sucka",
+          "url": "https://mmasucka.com/news/carlos-prates-roasts-islam-makhachev-ufc-336-fight-collapse/"
+        },
+        {
+          "headline": "Irish interest: Artem Lobov airs money claims against McGregor",
+          "summary": "His former teammate says McGregor short-changed people close to him, including coach John Kavanagh. The report notes the figures are unverified, and McGregor disputes the claim that Kavanagh was promised a percentage.",
+          "source": "MMA Sucka",
+          "url": "https://mmasucka.com/news/conor-was-my-brother-artem-lobov-makes-explosive-allegations-against-conor-mcgregor-over-betrayal-of/"
+        },
+        {
+          "headline": "Kevin Holland reportedly tackled an armed man on Halloween",
+          "summary": "Local reports say a man allegedly pointed a gun at him, and Holland held him until police came. No police statement is quoted and no location given, so treat the details as provisional.",
+          "source": "MMA Sucka",
+          "url": "https://mmasucka.com/news/kevin-holland-tackles-armed-gunman-on-halloween-night/"
+        }
+      ]
+    },
+    {
+      "title": "Motorsport",
+      "items": [
+        {
+          "headline": "Antonelli is world champion, and the youngest ever",
+          "summary": "Something yesterday's brief should have said outright: third place in Mexico clinched him the drivers' title. Russell, sixth after a 10-second penalty for hitting Hadjar on lap one, has since congratulated him; Mercedes can still seal the constructors' in Brazil.",
+          "source": "RacingNews365",
+          "url": "https://racingnews365.com/george-russell-issues-statement-from-the-heart-after-catastrophic-title-defeat"
+        },
+        {
+          "headline": "Mexico's results get rewritten twice",
+          "summary": "Piastri's 10-second penalty for hitting Lindblad dropped him from seventh to 15th, and Colapinto and Gasly lost their points for yellow-flag breaches. That lifted Lawson, Bortoleto and Hadjar, and gave Ryo Hirakawa a point on debut.",
+          "source": "RacingNews365",
+          "url": "https://racingnews365.com/2026-f1-mexico-city-grand-prix-results-adjusted-after-severe-post-race-penalty"
+        },
+        {
+          "headline": "Honda takes the blame for Aston's double retirement",
+          "summary": "Both cars stopped on lap 5 with the same power-unit problem, which Honda traces to unexpected stress on the ERS cooling circuit. Its trackside chief frames the rest of this season as learning for 2027.",
+          "source": "RacingNews365",
+          "url": "https://racingnews365.com/honda-take-blame-and-issue-solemn-vow-after-costly-aston-martin-oversight"
+        },
+        {
+          "headline": "WEC Monza: three titles open, and Jakobsen leaves Peugeot",
+          "summary": "In LMGT3, Jonny Edgar's Corvette leads Nicky Catsburg 92-88, with Manthey's #92 Porsche 18 back, while Ferrari must overturn 24 points to take second from BMW in manufacturers'. Malthe Jakobsen departs Peugeot after the race. No GT World Challenge Europe news today.",
+          "source": "GT Report",
+          "url": "https://www.gt-report.com/2026/11/02/preview-wec-season-finale-at-monza/"
+        }
+      ]
+    }
+  ]
+}

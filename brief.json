@@ -1,23 +1,23 @@
 {
-  "date": "2026-11-04",
-  "generated": "2026-11-04T06:21:01+00:00",
-  "headline": "AMD guides to $17bn and the stock jumps, Kimi Antonelli heads to Brazil as F1's youngest champion, and The Elder Scrolls VI appears to have a name.",
+  "date": "2026-11-05",
+  "generated": "2026-11-05T06:21:03+00:00",
+  "headline": "GTA 6's preload date is finally settled, Haas cuts Ocon loose before Interlagos, and OpenAI claims an AI pipeline built 948 Linux root exploits for about $1.2m.",
   "upcoming": [
     {
-      "when": "Sat 7 Nov",
-      "what": "UFC Vegas 124: Cortes Acosta vs Walker. Prelims 22:00, main card 01:00 Sun Irish time. England's Davey Grant faces Elijah Smith on the main card"
+      "when": "Fri 6 Nov",
+      "what": "F1 São Paulo GP practice: FP1 15:30, FP2 19:00 Irish time"
     },
     {
       "when": "Sat 7 Nov",
-      "what": "F1 São Paulo GP qualifying, 18:00 Irish time (no sprint this weekend)"
+      "what": "F1 FP3 14:30, qualifying 18:00 (no sprint). UFC Vegas 124: prelims 22:00, main card 01:00 Sun Irish time. ADCC Brazilian Nationals also run 7-8 Nov"
     },
     {
       "when": "Sun 8 Nov",
-      "what": "WEC finale, 6 Hours of Monza, 10:00 Irish time; F1 São Paulo GP 17:00; IBJJF The Crown from 18:00"
+      "what": "WEC 6 Hours of Monza 10:00; F1 São Paulo GP 17:00; IBJJF The Crown from 18:00, all Irish time"
     },
     {
       "when": "Tue 10 Nov",
-      "what": "Football Manager 27 launches. GTA 6 preload may also open today, though the date is disputed (see Gaming)"
+      "what": "GTA 6 preload opens: midnight Irish time on Xbox, midnight local on PS5. Football Manager 27 also launches"
     },
     {
       "when": "Sat 14 Nov",
@@ -25,7 +25,7 @@
     },
     {
       "when": "Thu 19 Nov",
-      "what": "GTA 6 launches on PS5 and Xbox Series X/S"
+      "what": "GTA 6 launches on PS5 and Xbox Series X/S at midnight local time"
     }
   ],
   "sections": [
@@ -33,28 +33,28 @@
       "title": "Tech",
       "items": [
         {
-          "headline": "AMD beats and guides to $17bn as data centre nearly doubles",
-          "summary": "Q3 revenue rose 45% to a record $13.4bn, with data centre up 97% to $8.5bn, and the Q4 guide of about $17bn sits roughly 4% above consensus. Early reports had the shares up around 7-8% after the numbers, a warmer reception than Apple and Palantir got.",
-          "source": "AMD via GlobeNewswire",
-          "url": "https://www.globenewswire.com/news-release/2026/11/03/3394824/0/en/amd-reports-third-quarter-2026-financial-results.html"
+          "headline": "OpenAI says an AI pipeline built 948 Linux root exploits for $1.2m",
+          "summary": "A prototype using an upcoming cyber model scanned about 2.8 million lines of a desktop kernel and reproduced 1,724 flaws, with working exploits and candidate patches for 948 privilege-escalation bugs. These are OpenAI's own numbers, and I read them via a digest because the post wouldn't load.",
+          "source": "OpenAI via AI Weekly",
+          "url": "https://openai.com/index/a-thousand-fewer-paths-to-root/"
         },
         {
-          "headline": "Anthropic's IPO filing says self-accelerating AI research may be close",
-          "summary": "A revised S-1A says it may soon hit its internal threshold for AI speeding up AI research, though no current model has crossed it, and it is weighing Responsible Scaling Policy changes. I read this through digests rather than the filing itself.",
-          "source": "TechCrunch via The Neuron",
-          "url": "https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai/"
+          "headline": "Xen advisory credits Claude with finding VM-escape flaws",
+          "summary": "XSA-523 covers two bugs in Xen's grant-copy operation that let a malicious guest read and write other VMs' memory, including dom0, on every release from 4.6 onward. Worth a look if you run Xen; this comes from a digest, not the advisory itself.",
+          "source": "The Hacker News via AI Weekly",
+          "url": "https://thehackernews.com/2026/11/xen-hypervisor-flaws-let-one-malicious.html"
         },
         {
-          "headline": "OpenAI's security gets a double spotlight",
-          "summary": "It has hired Cathedral Systems, a startup founded by ex-DOGE staff whose earlier bug-bounty probe reached parts of Anthropic's internal systems, a test Anthropic disputes. Reuters separately cites five people saying staff warned of security lapses going back to before ChatGPT.",
-          "source": "Reuters via The Neuron",
-          "url": "https://www.reuters.com/business/openai-employees-warned-about-operational-security-lapses-years-sources-say-2026-11-03/"
+          "headline": "Democrats win Congress and AI data-centre stocks take the hit",
+          "summary": "Hut 8 fell 23% and IREN 11% while Microsoft, Amazon and Alphabet rose. The worry is state-level moratoria, which Goldman economists reportedly think could touch about 45% of planned US capacity growth; that figure is second-hand.",
+          "source": "Reuters via AI Weekly",
+          "url": "https://www.reuters.com/business/us-stock-index-futures-steady-democrats-seize-congress-2026-11-04/"
         },
         {
-          "headline": "Schools that switch off Google's AI lose Search too",
-          "summary": "Per CNET, disabling Google's AI tools now also removes Google Search from student accounts, which leaves administrators with an awkward bundle. Summary comes from a digest; I haven't read the full piece.",
-          "source": "CNET via The Neuron",
-          "url": "https://www.cnet.com/tech/services-and-software/google-forcing-schools-choose-between-search-engine-ai/"
+          "headline": "Chips: Qualcomm slides, AMD prices its Taalas deal",
+          "summary": "Qualcomm's fiscal Q4 revenue fell 8% to $10.44bn with handset chips down 26%, and the stock dropped about 6% after hours despite a $5bn data-centre target for FY27. Separately, an AMD filing puts the Taalas inference-chip purchase at about $2.9bn, $1.4bn of it contingent.",
+          "source": "CNBC via AI Weekly",
+          "url": "https://www.cnbc.com/2026/11/04/qualcomm-qcom-earnings-report-q4-2026.html"
         }
       ]
     },
@@ -62,28 +62,28 @@
       "title": "Science & Space",
       "items": [
         {
-          "headline": "Hera gets its first clear look at the asteroids DART hit",
-          "summary": "ESA's spacecraft has captured both bodies from NASA's 2022 redirect test as it closes in, the start of the follow-up inspection of what that impact actually did.",
-          "source": "ScienceDaily",
-          "url": "https://www.sciencedaily.com/releases/2026/11/261103003154.htm"
+          "headline": "Spacewalk today to fit the ISS's last roll-out solar array",
+          "summary": "Mission managers have cleared two astronauts to go outside on Thursday and install the eighth and final array, finishing the station's power upgrade. I could only see NASA's listing, so no start time.",
+          "source": "NASA",
+          "url": "https://www.nasa.gov/blogs/spacestation/2026/11/04/astronauts-are-go-for-final-power-upgrade-spacewalk/"
         },
         {
-          "headline": "All five DNA and RNA bases found in Ryugu samples",
-          "summary": "A new study reports the full set of nucleobases in pristine material from the asteroid, which adds weight to the idea that life's ingredients can form in space. It is not evidence of life itself.",
-          "source": "ScienceDaily",
-          "url": "https://www.sciencedaily.com/releases/2026/11/261102075903.htm"
+          "headline": "NASA sets out plans to speed up Artemis",
+          "summary": "Leadership gave an update on the path to putting Americans back on the lunar surface in 2028. The full article wouldn't load, so I can't vouch for the specifics of what changes.",
+          "source": "NASA",
+          "url": "https://www.nasa.gov/missions/artemis/nasa-shares-plans-to-accelerate-artemis-return-to-moon/"
         },
         {
-          "headline": "Voyager 1 is 13 days from being one light-day away",
-          "summary": "NASA's skywatching calendar puts the milestone on 17 November, as engineers keep nursing the probe through dwindling power and technical faults.",
-          "source": "ScienceDaily",
-          "url": "https://www.sciencedaily.com/releases/2026/11/261103003152.htm"
+          "headline": "One spacecraft ends, two more swing by: Swift re-enters, ESCAPADE flies past Earth",
+          "summary": "The Swift observatory came down on Wednesday after almost 22 years in orbit. NASA's twin ESCAPADE probes are due powered Earth flybys within days on their way to Mars, a manoeuvre NASA says no agency spacecraft has flown before.",
+          "source": "NASA",
+          "url": "https://science.nasa.gov/blogs/swift/2026/11/02/nasas-swift-observatory-to-re-enter-atmosphere/"
         },
         {
-          "headline": "Overhead: Southern Taurids peak tonight, Venus meets a thin Moon on Saturday",
-          "summary": "Expect only about 5-10 meteors an hour at best, but the shower is known for bright fireballs, and the waning Moon is near new. Before sunrise on 6-7 November, look for a crescent Moon near Venus and Spica; Mars and Jupiter pair up on 15-16 November. Ireland's cloud has the final vote.",
-          "source": "Star Walk",
-          "url": "https://starwalk.space/en/news/night-sky-tonight"
+          "headline": "SLAC reports proof of a third type of magnetism; AI finds a 'natural Ozempic'",
+          "summary": "ScienceDaily's picks: SLAC scientists claim conclusive evidence for a third magnetic class, and Stanford used AI to find a natural molecule that curbs appetite and promotes fat loss, so far in animals. I saw these as listings only, not the full write-ups.",
+          "source": "ScienceDaily",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261104012256.htm"
         }
       ]
     },
@@ -91,28 +91,22 @@
       "title": "Gaming",
       "items": [
         {
-          "headline": "The Elder Scrolls VI: Sentinel, apparently now official",
-          "summary": "KeenGamer says Bethesda unveiled the title and logo in a 40th-anniversary teaser, following last month's Verge report of the same name. The full article wouldn't load and I couldn't find a second confirmation, so treat it as likely rather than settled; no release window surfaced.",
-          "source": "KeenGamer",
-          "url": "https://www.keengamer.com/articles/news/the-elder-scrolls-vi-sentinel-title-and-logo-revealed-in-new-trailer/"
+          "headline": "GTA 6 preload settled: 10 November, up to 212GB",
+          "summary": "Rockstar has confirmed it, clearing up the dispute in the last two briefs. Xbox opens at midnight Irish time, PS5 at midnight local, and launch on 19 November is also midnight local; the 12 November date now applies to code-in-box copies at retail.",
+          "source": "GamesRadar+",
+          "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-preload-date-times/"
         },
         {
-          "headline": "Borderlands passes 100 million units sold",
-          "summary": "Gearbox is marking the milestone with a golden key code for Borderlands 1-4. That's from KeenGamer's listing only, and it's the sole watchlist news today: I found nothing new on Witcher 4, Cyberpunk 2 or Witcher 3, though many gaming sites wouldn't load.",
-          "source": "KeenGamer",
-          "url": "https://www.keengamer.com/articles/news/the-borderlands-game-series-eclipses-100-million-units-sold/"
+          "headline": "Elder Scrolls VI 'Sentinel': still not nailed down",
+          "summary": "A fresh look turned up only October reports of the name and a tipped November reveal, not the Bethesda confirmation KeenGamer described yesterday. Keep treating it as likely, not official.",
+          "source": "God is a Geek",
+          "url": "https://godisageek.com/2026/10/elder-scrolls-6-hammerfell/"
         },
         {
-          "headline": "GTA 6 preload: a new date and a 212GB warning",
-          "summary": "KeenGamer now reports Rockstar has confirmed preload from 10 November at up to 212GB, while the 12 November date in yesterday's brief traces to reporting from June. I couldn't open the article to resolve it, so clear the space early either way.",
-          "source": "KeenGamer",
-          "url": "https://www.keengamer.com/articles/news/grand-theft-auto-vi-pre-load-starts-november-10-with-a-212-gb-file/"
-        },
-        {
-          "headline": "Phantom Blade Zero hits 4 million in 72 hours, FFXIV expansion slips",
-          "summary": "S-GAME's action RPG has had a huge opening. Separately, Final Fantasy XIV: Evercold moves to 23 February 2027, with early access from 19 February and pre-orders opening today.",
-          "source": "KeenGamer",
-          "url": "https://www.keengamer.com/articles/news/phantom-blade-zero-sells-over-4-million-copies-in-just-72-hours/"
+          "headline": "Watchlist quiet",
+          "summary": "I found nothing new on Witcher 4, Cyberpunk 2, Witcher 3 or Borderlands today; VGTimes' newest Witcher 4 item is a 30 October piece on Doug Cockle. Several big gaming sites wouldn't load, so this is 'nothing found' rather than 'nothing happened'.",
+          "source": "VGTimes",
+          "url": "https://vgtimes.com/games/the-witcher-4/news/"
         }
       ]
     },
@@ -120,14 +114,14 @@
       "title": "BJJ & Grappling",
       "items": [
         {
-          "headline": "The Crown's opening rounds: Mica draws Leleo Souza",
-          "summary": "Sunday's invitation-only gi event at the Pyramid in Long Beach pays $20,000 per champion. Gabi Pessanha opens against Maria Ruffatto-Gilpin and Sarah Galvão against Giovanah Oliveira, streaming on FloGrappling.",
-          "source": "Middleeasy",
-          "url": "https://middleeasy.com/brazilian-jiu-jitsu/ibjjf-crown-2026-brackets-first-round-matchups-november8/"
+          "headline": "Sunday's Crown: Mica's first appearance at the event",
+          "summary": "Mica Galvão heads a middleweight field with Jackson Nagai, José Steve, Leonardo Souza, Rafael Gamba and Tarcisio Santos at the Pyramid in Long Beach. The line-up piece dates from September, and FloGrappling's schedule lists 18:00 Irish time, though another page shows a different time.",
+          "source": "FloGrappling",
+          "url": "https://www.flograppling.com/articles/16199472-mica-galvao-e-confirmado-no-ibjjf-the-crown-2026"
         },
         {
-          "headline": "Quiet midweek, busy weekend",
-          "summary": "I found no fresh grappling news from the last 48 hours, with several BJJ sites unavailable. ADCC's Brazilian Nationals also run on 7-8 November alongside The Crown.",
+          "headline": "Otherwise quiet before the weekend",
+          "summary": "I found no fresh grappling news from the last 48 hours. FloGrappling's calendar has Fight to Win 329 and ADCC Brazilian Nationals on Saturday, with Polaris 40 pencilled in for 21 November.",
           "source": "FloGrappling",
           "url": "https://www.flograppling.com/events/16110799-2026-ibjjf-the-crown"
         }
@@ -137,28 +131,16 @@
       "title": "MMA",
       "items": [
         {
-          "headline": "Jake Paul books Cedric Doumbe for Christmas Eve",
-          "summary": "The former Glory welterweight champion is 7-1 in MMA, and Paul is promising to retire if he loses. Even the location is muddled, with the same report giving both Abu Dhabi and Dubai.",
-          "source": "MMA Sucka",
-          "url": "https://mmasucka.com/news/jake-paul-next-fight/"
+          "headline": "UFC Vegas 124: Walker's heavyweight step-up gets the main event",
+          "summary": "Cortes-Acosta vs Johnny Walker was promoted after Sean Brady's injury scrapped Brady vs Bonfim. Walker comes up from light heavyweight after knocking out Mick Parkin at UFC 332, and Cortes-Acosta has never been finished as a pro.",
+          "source": "Combat Press",
+          "url": "https://combatpress.com/2026/11/ufc-vegas-124-cortes-acosta-vs-walker-preview-and-predictions/"
         },
         {
-          "headline": "Makhachev out of the January title fight, Prates goes for interim gold",
-          "summary": "With Makhachev withdrawn, Carlos Prates now faces unbeaten Michael Morales for the interim belt in a co-main at Toronto's Scotiabank Arena. Prates is accusing the champion of ducking him, and the winner is due a shot at Makhachev.",
+          "headline": "Strawweight contender fight on Saturday, with one Brit to watch",
+          "summary": "Tatiana Suarez and Virna Jandiroba, both ranked top-five, meet in the co-main. England's Davey Grant faces Elijah Smith on the main card. I found no Irish fighters on the card, and most major MMA news sites wouldn't load today.",
           "source": "MMA Sucka",
-          "url": "https://mmasucka.com/news/carlos-prates-roasts-islam-makhachev-ufc-336-fight-collapse/"
-        },
-        {
-          "headline": "Irish interest: Artem Lobov airs money claims against McGregor",
-          "summary": "His former teammate says McGregor short-changed people close to him, including coach John Kavanagh. The report notes the figures are unverified, and McGregor disputes the claim that Kavanagh was promised a percentage.",
-          "source": "MMA Sucka",
-          "url": "https://mmasucka.com/news/conor-was-my-brother-artem-lobov-makes-explosive-allegations-against-conor-mcgregor-over-betrayal-of/"
-        },
-        {
-          "headline": "Kevin Holland reportedly tackled an armed man on Halloween",
-          "summary": "Local reports say a man allegedly pointed a gun at him, and Holland held him until police came. No police statement is quoted and no location given, so treat the details as provisional.",
-          "source": "MMA Sucka",
-          "url": "https://mmasucka.com/news/kevin-holland-tackles-armed-gunman-on-halloween-night/"
+          "url": "https://mmasucka.com/previews/ufc-vegas-124-how-to-watch-and-full-fight-card/"
         }
       ]
     },
@@ -166,28 +148,28 @@
       "title": "Motorsport",
       "items": [
         {
-          "headline": "Antonelli is world champion, and the youngest ever",
-          "summary": "Something yesterday's brief should have said outright: third place in Mexico clinched him the drivers' title. Russell, sixth after a 10-second penalty for hitting Hadjar on lap one, has since congratulated him; Mercedes can still seal the constructors' in Brazil.",
+          "headline": "Haas drops Ocon for the rest of 2026, Camara steps in",
+          "summary": "Haas says Ocon won't return to a race seat this season after a reported row with Komatsu and his engineer in Mexico; he denies any physical violence. Rafael Camara, released early by Ferrari, makes his debut alongside Bearman in São Paulo, while Hirakawa is at Monza.",
           "source": "RacingNews365",
-          "url": "https://racingnews365.com/george-russell-issues-statement-from-the-heart-after-catastrophic-title-defeat"
+          "url": "https://racingnews365.com/haas-announce-esteban-ocon-replacement-for-sao-paulo-f1-grand-prix"
         },
         {
-          "headline": "Mexico's results get rewritten twice",
-          "summary": "Piastri's 10-second penalty for hitting Lindblad dropped him from seventh to 15th, and Colapinto and Gasly lost their points for yellow-flag breaches. That lifted Lawson, Bortoleto and Hadjar, and gave Ryo Hirakawa a point on debut.",
+          "headline": "Hamilton's 400th arrives with Ferrari's feud simmering",
+          "summary": "He joins Alonso as the only drivers to reach 400 races, at a track where Ferrari will be managing the fallout from Leclerc's opening-lap move in Mexico, which cost them a likely one-two. Brundle's view is that Ferrari's promises it won't recur won't hold.",
           "source": "RacingNews365",
-          "url": "https://racingnews365.com/2026-f1-mexico-city-grand-prix-results-adjusted-after-severe-post-race-penalty"
+          "url": "https://racingnews365.com/lewis-hamilton-key-milestones-ahead-of-landmark-400th-f1-grand-prix"
         },
         {
-          "headline": "Honda takes the blame for Aston's double retirement",
-          "summary": "Both cars stopped on lap 5 with the same power-unit problem, which Honda traces to unexpected stress on the ERS cooling circuit. Its trackside chief frames the rest of this season as learning for 2027.",
-          "source": "RacingNews365",
-          "url": "https://racingnews365.com/honda-take-blame-and-issue-solemn-vow-after-costly-aston-martin-oversight"
+          "headline": "Mercedes can seal the constructors' at Interlagos",
+          "summary": "Covers has them 126 points clear of Ferrari, needing to outscore them by three on Sunday. The race is at 17:00 Irish time, with no sprint this weekend.",
+          "source": "Covers",
+          "url": "https://www.covers.com/f1/sao-paulo-grand-prix-predictions-picks-odds-2026"
         },
         {
-          "headline": "WEC Monza: three titles open, and Jakobsen leaves Peugeot",
-          "summary": "In LMGT3, Jonny Edgar's Corvette leads Nicky Catsburg 92-88, with Manthey's #92 Porsche 18 back, while Ferrari must overturn 24 points to take second from BMW in manufacturers'. Malthe Jakobsen departs Peugeot after the race. No GT World Challenge Europe news today.",
-          "source": "GT Report",
-          "url": "https://www.gt-report.com/2026/11/02/preview-wec-season-finale-at-monza/"
+          "headline": "WEC Monza: Hirakawa's car needs only fifth for the Hypercar title",
+          "summary": "The #8 Toyota of Buemi, Hartley and Hirakawa leads the sister #7 114-97, and the #7 needs a win, pole and the #8 down in sixth or worse. TF Sport also take the LMGT3 teams' crown with fifth; there's no GT World Challenge Europe news today.",
+          "source": "Pit Debrief",
+          "url": "https://www.pitdebrief.com/post/2026-wec-6-hours-of-monza-preview/"
         }
       ]
     }

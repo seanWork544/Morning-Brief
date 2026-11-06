@@ -1,0 +1,171 @@
+{
+  "date": "2026-11-06",
+  "generated": "2026-11-06T06:20:16+00:00",
+  "headline": "Wall Street's AI chip trade cracks hard, the ISS gets its last solar array, and storms circle Interlagos as Mercedes eye the constructors' title.",
+  "upcoming": [
+    {
+      "when": "Fri 6 Nov",
+      "what": "F1 São Paulo GP practice: FP1 15:30, FP2 19:00 Irish time. WEC Monza practice 09:30 and 13:30"
+    },
+    {
+      "when": "Sat 7 Nov",
+      "what": "F1 FP3 14:30, qualifying 18:00 (no sprint). WEC Monza qualifying from 13:20. UFC Vegas 124: prelims 22:00, main card 01:00 Sun Irish time. ADCC Brazilian Nationals also run 7-8 Nov"
+    },
+    {
+      "when": "Sun 8 Nov",
+      "what": "WEC 6 Hours of Monza 10:00; F1 São Paulo GP 17:00; IBJJF The Crown from 18:00, all Irish time"
+    },
+    {
+      "when": "Tue 10 Nov",
+      "what": "GTA 6 preload opens: midnight Irish time on Xbox, midnight local on PS5. Football Manager 27 also launches"
+    },
+    {
+      "when": "Sat 14 Nov",
+      "what": "UFC 334, Madison Square Garden: Gane vs Hokit for the heavyweight title (main card early Sun 15 Nov Irish time)"
+    },
+    {
+      "when": "Thu 19 Nov",
+      "what": "GTA 6 launches on PS5 and Xbox Series X/S at midnight local time"
+    }
+  ],
+  "sections": [
+    {
+      "title": "Tech",
+      "items": [
+        {
+          "headline": "AI chip selloff: Nasdaq down 5.5%, AMD down 17%",
+          "summary": "Thursday was the S&P 500's worst day since April 2025 at -4.4%, with Nvidia off 9.3%, Micron 17.5% and the main semiconductor ETF more than 12%, its worst since March 2020. Separately, Reuters reportedly has about 600,000 Nvidia H200s stuck in Hong Kong awaiting Chinese import approval, which I saw only via a roundup.",
+          "source": "Stock Titan",
+          "url": "https://www.stocktitan.net/articles/stock-market-today-live-november-5-2026"
+        },
+        {
+          "headline": "Voters back data-centre limits as Google commits $17bn to Wyoming",
+          "summary": "Tallies differ, but roughly 33 of 45 local ballot measures restricting development passed on Tuesday, per The Verge's reading of Redbud data, as seen in a digest. Google's first Wyoming site still goes ahead, with a planned 702MW Bloom Energy fuel-cell project with carbon capture.",
+          "source": "Tech Startups",
+          "url": "https://techstartups.com/2026/11/05/top-tech-news-roundup-for-today-november-5-2026-googles-17b-ai-data-center-nvidia-ziplines-1-5b-funding-and-nasdaqs-5-5-plunge/"
+        },
+        {
+          "headline": "OpenAI names its cyber model: GPT-6 Cyber",
+          "summary": "This is the model behind yesterday's Linux exploit story. OpenAI claims 48.5% on ExploitGym against 32.1% for GPT-5.6 Cyber, plus 81 previously unknown serious Firefox flaws, with access restricted; those are its own numbers, read via a roundup.",
+          "source": "OpenAI via Tech Startups",
+          "url": "https://openai.com/index/introducing-gpt-6-cyber/"
+        },
+        {
+          "headline": "Moonshot opens the weights on a 2.8-trillion-parameter Kimi",
+          "summary": "Kimi K3.1 Pro landed on Wednesday with 104bn parameters active per token and a 1M-token context, plus same-day support on Nvidia, AMD, Google TPU and Alibaba chips. I read this through a newsletter, not the release itself.",
+          "source": "vLLM via The Century Report",
+          "url": "https://vllm.ai/blog/2026-11-04-kimi-k31-pro"
+        }
+      ]
+    },
+    {
+      "title": "Science & Space",
+      "items": [
+        {
+          "headline": "ISS power upgrade finished after a tense spacewalk",
+          "summary": "Anil Menon and Joshua Kutryk unrolled the eighth and final new array in a spacewalk of just under seven hours, after a low current reading forced Kutryk to reseat a connector during orbital night. It ends a five-year effort that NASA says adds up to 30% more power.",
+          "source": "Spaceflight Now",
+          "url": "https://spaceflightnow.com/2026/11/05/spacewalkers-complete-five-year-effort-to-upgrade-space-station-power-supply/"
+        },
+        {
+          "headline": "ESCAPADE's Earth flybys now have times",
+          "summary": "The twin Mars probes make closest approach around 10:00 Irish time on Saturday and 11:00 on Monday, each with a burn of about nine minutes. NASA's star charts cover US sites only, so I can't promise a view from Ireland, and it would be telescope-only anyway.",
+          "source": "NASA SVS",
+          "url": "https://svs.gsfc.nasa.gov/15114"
+        },
+        {
+          "headline": "Northern Taurids peak next week under dark skies",
+          "summary": "The peak falls on the night of 11-12 November, just after Monday's new moon. Expect only about five meteors an hour at best, though the shower is known for the odd slow fireball; this rests on one preview page.",
+          "source": "Star Walk",
+          "url": "https://starwalk.space/news/southern-and-northern-taurid-meteor-showers"
+        },
+        {
+          "headline": "An AI-run biology lab reaches Nature; a $40-a-year HIV shot gets closer",
+          "summary": "AutoDNA ran over 11,000 lab steps across more than 20 instrument types, with code and data public. Dr Reddy's also won tentative FDA approval for a generic twice-yearly lenacapavir for 120 countries, against a US list price of $28,218; I saw both via a newsletter.",
+          "source": "The Century Report",
+          "url": "https://sharedsapience.substack.com/p/the-century-report-november-5-2026"
+        }
+      ]
+    },
+    {
+      "title": "Gaming",
+      "items": [
+        {
+          "headline": "GOG's first showcase: Galaxy for Linux and a publishing label",
+          "summary": "The Galaxy client comes to Linux in 2027, with beta sign-ups open now, and Retrovibe by GOG starts with five titles including Shardpunk 2. Road Rash and remastered Wing Commander editions also arrive, but recaps agree there were no massive game reveals and no Witcher or Cyberpunk link.",
+          "source": "Out of Games",
+          "url": "https://outof.games/news/10260-gog-showcase-2026-recap-linux-client-retrovibe-and-more/"
+        },
+        {
+          "headline": "Watchlist quiet again",
+          "summary": "I found nothing new on Witcher 4, Cyberpunk 2, Witcher 3 or Borderlands; the newest Witcher item I saw is October's 5.00b patch for Witcher 3. Most big gaming sites wouldn't load today, so this means 'nothing found' rather than 'nothing happened'.",
+          "source": "Windows Central",
+          "url": "https://www.windowscentral.com/tag/witcher?page=1"
+        }
+      ]
+    },
+    {
+      "title": "BJJ & Grappling",
+      "items": [
+        {
+          "headline": "The Crown's brackets: Mica opens against Leleo Souza",
+          "summary": "Sunday's invitational in Long Beach pays $20,000 in each of six divisions, with 48 athletes. Also in round one: Murasaki vs Gamba, Sarah Galvão vs Giovanah Oliveira and Gabi Pessanha vs Maria Ruffatto-Gilpin; the brackets date from late October, and FloGrappling lists an 18:00 Irish start.",
+          "source": "MiddleEasy",
+          "url": "https://middleeasy.com/brazilian-jiu-jitsu/ibjjf-crown-2026-brackets-first-round-matchups-november8/"
+        },
+        {
+          "headline": "Otherwise quiet",
+          "summary": "I found no fresh grappling news from the last 48 hours, though FloGrappling's news feed and BJJEE wouldn't load. I can't rule out something I missed.",
+          "source": "FloGrappling",
+          "url": "https://www.flograppling.com/articles/16323792-2026-ibjjfs-the-crown-brackets"
+        }
+      ]
+    },
+    {
+      "title": "MMA",
+      "items": [
+        {
+          "headline": "UFC Vegas 124 tomorrow: Cortes-Acosta vs Walker",
+          "summary": "Five rounds at heavyweight from the Apex, with prelims at 22:00 and the main card at 01:00 Sunday Irish time. Suarez vs Jandiroba is the co-main and England's Davey Grant faces Elijah Smith; sources disagree on where a couple of bouts sit, and I haven't seen weigh-in results.",
+          "source": "MMA Sucka",
+          "url": "https://mmasucka.com/previews/ufc-vegas-124-with-exciting-main-card-saturday-night"
+        },
+        {
+          "headline": "No Irish news to flag",
+          "summary": "There are no Irish fighters in the card coverage I read, and nothing dated this week turned up on McGregor, Garry or Hughes. Cageside Press, Sherdog and MMA Mania wouldn't load, so treat that as a limited check.",
+          "source": "Yardbarker",
+          "url": "https://www.yardbarker.com/mma/articles/ufc_fight_night_cortes_acosta_vs_walker_preview_storylines/s1_17615_44513877"
+        }
+      ]
+    },
+    {
+      "title": "Motorsport",
+      "items": [
+        {
+          "headline": "Alan Jones, 1980 world champion, dies at 80",
+          "summary": "Williams' first champion died on Wednesday after a brief illness, and the team has paid tribute. He won 12 races from 117 starts; my search found only this one report, so I couldn't confirm it elsewhere.",
+          "source": "RacingNews365",
+          "url": "https://racingnews365.com/williams-release-statement-after-legend-alan-jones-saddening-death"
+        },
+        {
+          "headline": "Storms circle Interlagos with Mercedes one result from the title",
+          "summary": "Rain or thunderstorms are forecast all weekend, with a 60-70% shower risk around qualifying and 40-50% at the race start. Mercedes lead Ferrari 630-504 and clinch by outscoring them by three, and a dead-level result still goes their way on countback.",
+          "source": "RacingNews365",
+          "url": "https://racingnews365.com/thunderstorms-threaten-in-ominous-2026-f1-sao-paulo-grand-prix-weather-forecast"
+        },
+        {
+          "headline": "Leclerc says he'll talk to Hamilton about Mexico",
+          "summary": "He confirmed a conversation is coming after their opening-lap clash, and pointed to grey areas in the rules. Stewards cut his penalty from 10 seconds to five; he finished fourth behind winner Verstappen and second-placed Hamilton.",
+          "source": "RacingNews365",
+          "url": "https://racingnews365.com/charles-leclerc-confirms-lewis-hamilton-talks-intention-after-grey-area-exposed"
+        },
+        {
+          "headline": "WEC finale: Corvette close to a first LMGT3 title",
+          "summary": "The #33's Jonny Edgar leads the #92 Manthey Porsche by 18 points going to Monza, with the #8 Toyota 17 clear in Hypercar and 26 available. Practice starts today and the race is at 10:00 Irish on Sunday; there's no GT World Challenge Europe news.",
+          "source": "FIA WEC",
+          "url": "https://www.fiawec.com/en/news/high-speeds-and-high-stakes-in-monza-season-finale/13912"
+        }
+      ]
+    }
+  ]
+}

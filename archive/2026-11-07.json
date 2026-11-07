@@ -1,0 +1,193 @@
+{
+  "date": "2026-11-07",
+  "generated": "2026-11-07T06:17:32+00:00",
+  "headline": "Antonelli sets the Interlagos pace as Mercedes eye the constructors' crown, Tye Ruotolo becomes a two-sport ONE champion, and Apple's first touchscreen MacBook Pros hit shelves.",
+  "upcoming": [
+    {
+      "when": "Sat 7 Nov",
+      "what": "F1 São Paulo GP FP3 14:30, qualifying 18:00. Cage Warriors 212 London main card 19:00. UFC Vegas 124: prelims 22:00, main card 01:00 Sun Irish time"
+    },
+    {
+      "when": "Sun 8 Nov",
+      "what": "WEC 6 Hours of Monza 10:00 (Toyota #8 vs #7 for the Hypercar title); F1 São Paulo GP 17:00; IBJJF The Crown from 18:00, all Irish time"
+    },
+    {
+      "when": "Tue 10 Nov",
+      "what": "GTA 6 preload opens (about 212GB on Xbox); Football Manager 27 launches"
+    },
+    {
+      "when": "Fri 13 Nov",
+      "what": "SpaceX Starship Flight 15 target date, aiming to catch both ship and booster (no time yet)"
+    },
+    {
+      "when": "Sat 14 Nov",
+      "what": "UFC 334, Madison Square Garden: Gane vs Hokit for the heavyweight title, plus Harrison vs Nunes (main card early Sun 15 Nov Irish time, roughly 03:00 but not confirmed)"
+    },
+    {
+      "when": "Thu 19 Nov",
+      "what": "GTA 6 launches on PS5 and Xbox Series X/S"
+    },
+    {
+      "when": "Sat 21 Nov",
+      "what": "Polaris 40, Southampton: Tonon vs McNally. UFC Doha: Prochazka vs Stirling. F1 Las Vegas GP lights out around 04:00 Sun 22 Nov Irish time (to be confirmed)"
+    }
+  ],
+  "sections": [
+    {
+      "title": "Motorsport",
+      "items": [
+        {
+          "headline": "Antonelli tops Interlagos practice, Norris leads FP1",
+          "summary": "The new champion set a 1:10.763 in FP2, 0.253s clear of Norris, with Verstappen, Russell and Piastri all within about 0.3s; Norris had led FP1 from Antonelli. Audi had a rough day: Slater stopped 12 minutes into FP1 and Hulkenberg missed FP2 entirely.",
+          "source": "Formula1.com",
+          "url": "https://www.formula1.com/en/latest/article/fp2-antonelli-tops-the-times-from-norris-in-second-practice-at-sao-paulo-gp.27XFbTG9Lji18qmtHbCJUA"
+        },
+        {
+          "headline": "Mercedes can wrap up the constructors' title on Sunday",
+          "summary": "With Antonelli's drivers' crown already secured in Mexico, Mercedes lead Ferrari 630 to 504 and clinch if they outscore Ferrari by three points or more. Qualifying at 18:00 still has around a 50% rain risk, and Sunday's race could see thunderstorms.",
+          "source": "Grande Premio",
+          "url": "https://grandepremio.com/en/f1/what-does-mercedes-need-to-win-the-2026-f1-constructors-championship-in-brazil/"
+        },
+        {
+          "headline": "Herta closes in on a superlicence; Bottas says his Cadillac seat is safe",
+          "summary": "Colton Herta's FP1 run in Pérez's car, his fifth for Cadillac, should get him to the 40 superlicence points he needs. Bottas says he's on a long-term deal and expects to stay for 2027.",
+          "source": "RaceFans",
+          "url": "https://racefans.net/2026/11/06/hertas-latest-practice-run-does-not-mean-hell-replace-me-in-2027-bottas"
+        },
+        {
+          "headline": "WEC finale: an all-Toyota title fight, Ferrari quickest in practice",
+          "summary": "The #8 Toyota leads the #7 by 17 points with 26 available, but the Toyotas were only 12th and 17th in a dry FP2 topped by the #83 AF Corse Ferrari (1:38.143). In LMGT3, the title-chasing #33 Corvette was 17th while the #77 Proton Ford led.",
+          "source": "Pit Debrief",
+          "url": "https://www.pitdebrief.com/post/2026-wec-6-hours-of-monza-fp2-results/"
+        }
+      ]
+    },
+    {
+      "title": "Tech",
+      "items": [
+        {
+          "headline": "Apple's first touchscreen MacBook Pros go on sale",
+          "summary": "The OLED touchscreen 14in ($2,899) and 16in ($3,399) models went on sale Friday, alongside an M6 iMac, an M6 base MacBook Pro and an 8.5in OLED iPad mini; most touchscreen configurations are quoting 2-3 week shipping.",
+          "source": "MacRumors",
+          "url": "https://macrumors.com/2026/11/05/apple-launching-five-new-products-tomorrow"
+        },
+        {
+          "headline": "US Justice Department sets up a 'Super Intelligence Task Force'",
+          "summary": "It takes over from January's AI Litigation Task Force and will lead criminal and civil enforcement against AI misuse by foreign states, criminal groups and fraudulent firms. The name follows a September executive order telling agencies to use that term.",
+          "source": "Nextgov/FCW",
+          "url": "https://www.nextgov.com/artificial-intelligence/2026/11/department-justice-forms-ai-task-force/417074/"
+        },
+        {
+          "headline": "Meta shelves terms change that would have let it scrape business users' sites",
+          "summary": "A 20 November terms update has been paused indefinitely after pushback from publishers and regulators in Norway and Brazil. I saw this via an aggregator summarising Nieman Lab.",
+          "source": "AI Weekly",
+          "url": "https://aiweekly.co/ai-news-today/edition/2026-11-06"
+        }
+      ]
+    },
+    {
+      "title": "Science & Space",
+      "items": [
+        {
+          "headline": "Blue Origin unveils its Northstar engine, but New Glenn slips to 2027",
+          "summary": "Northstar makes 715,000 lbf of thrust, against 640,000 for the BE-4, with half the parts, and a new GS3 kick stage can send up to 20 tonnes towards the Moon. New Glenn won't fly again until January, after May's ground-test explosion.",
+          "source": "The Register",
+          "url": "https://www.theregister.com/offbeat/2026/11/06/blue-origin-unveils-more-thrust-less-haste-as-new-glenn-slips-to-2027/5308138"
+        },
+        {
+          "headline": "NASA's Swift observatory burns up after 22 years",
+          "summary": "The gamma-ray burst telescope re-entered over North Sumatra at 12:39 Irish time on Wednesday. It launched in 2004 on a two-year mission and outlived that more than ten times over.",
+          "source": "ScienceDaily",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261105224545.htm"
+        },
+        {
+          "headline": "Traces of blood found in 115-million-year-old dinosaur bones",
+          "summary": "A Curtin University-led team found mineralised red blood cells, preserved heme and collagen traces in the limb bones of a Brazilian theropod, Aratasaurus. The study is in PNAS.",
+          "source": "ScienceDaily",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261105224542.htm"
+        },
+        {
+          "headline": "ESCAPADE's first flyby burn done; second due Monday",
+          "summary": "The first Earth-flyby burn ran at 09:51 Irish time today and the second is set for 10:51 on Monday. NASA says it will be several days before it knows how accurate the burns were; the probes reach Mars in September 2027.",
+          "source": "ScienceDaily (sky events)",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261105224547.htm"
+        }
+      ]
+    },
+    {
+      "title": "Gaming",
+      "items": [
+        {
+          "headline": "Rockstar drops a 38-shot GTA 6 launch gallery",
+          "summary": "There's a fresh batch of photo-mode-style screenshots ahead of Tuesday's preload, and the Xbox download comes in at about 212GB, so clear some space.",
+          "source": "Pure Xbox",
+          "url": "https://www.purexbox.com/news/2026/11/heres-another-30plus-new-gta-6-screenshots-to-drool-over"
+        },
+        {
+          "headline": "Sony says PS6 development is on track",
+          "summary": "Sony's CFO said at its quarterly results that next-gen work is going to plan, with no date given. The PS5 is at 97.9m units and could pass 100m next quarter, helped by GTA 6.",
+          "source": "Push Square",
+          "url": "https://pushsquare.com/news/2026/11/ps6-development-on-track-sony-making-solid-progress-towards-next-gen"
+        },
+        {
+          "headline": "Redesigned Xbox PC app rolls out to Insiders",
+          "summary": "Microsoft says it opens up to 60% faster and has better library filters, wider search and improved controller and handheld support. A wider release should follow soon.",
+          "source": "Pure Xbox",
+          "url": "https://www.purexbox.com/news/2026/11/xbox-pc-app-receives-significant-upgrade-starting-today-plus-more-cloud-gaming-improvements"
+        },
+        {
+          "headline": "Watchlist: only a routine Borderlands 4 rotation",
+          "summary": "This week's server-side update brings back the Battle Wagon as the Big Encore Boss, with the Bloody Lumberjack AR as the Wildcard reward. There's no DLC news, and nothing new on Witcher 4, Orion or Witcher 3.",
+          "source": "The Based Otaku",
+          "url": "https://thebasedotaku.com/guides/borderlands-4-november-5-patch-notes/"
+        }
+      ]
+    },
+    {
+      "title": "BJJ & Grappling",
+      "items": [
+        {
+          "headline": "Tye Ruotolo chokes out Christian Lee to become a two-sport ONE champion",
+          "summary": "Ruotolo dropped Lee with a left hand and finished him with a rear-naked choke at 2:08 of round one to take the ONE lightweight MMA title. He's now 3-0 in MMA and the first to hold ONE belts in both submission grappling and MMA.",
+          "source": "ONE Championship",
+          "url": "https://www.onefc.com/news/the-inner-circle-37-main-event-result-tye-ruotolo-dethrones-christian-lee-in-round-one-crowned-two-sport-king/"
+        },
+        {
+          "headline": "Victor Hugo takes the trilogy over Devhonte Johnson",
+          "summary": "At ONE Fight Night 49, Hugo swept into a rear-naked choke at 1:35 to break their 1-1 series.",
+          "source": "ONE Championship",
+          "url": "https://www.onefc.com/news/one-fight-night-49-mma-and-submission-grappling-results-lee-czaban-hugo-and-israilov-shine-in-bangkok/"
+        },
+        {
+          "headline": "Polaris 40 fills out its Tonon vs McNally card",
+          "summary": "Southampton on 21 November now has a full prelim slate under the lightweight title rematch of their 2022 ADCC match. The Crown is tomorrow night.",
+          "source": "MiddleEasy",
+          "url": "https://middleeasy.com/brazilian-jiu-jitsu/polaris-40-tonon-mcnally-title-prelims/"
+        }
+      ]
+    },
+    {
+      "title": "MMA",
+      "items": [
+        {
+          "headline": "UFC Vegas 124 tonight: everyone made weight",
+          "summary": "Cortes-Acosta came in at 262lb to Walker's 239lb for the heavyweight main event, with Suarez vs Jandiroba as co-main. England's Davey Grant is on the main card against Elijah Smith; the main card starts at 01:00 Irish time.",
+          "source": "Sherdog",
+          "url": "https://www.sherdog.com/news/news/UFC-Vegas-124-weighin-results-All-fighters-make-weight-203521"
+        },
+        {
+          "headline": "UFC 334 names a standby for Harrison vs Nunes",
+          "summary": "Joselyne Edwards, on a five-fight win streak, is on standby for next Saturday's bantamweight title co-main at MSG. It's Nunes's first fight since retiring in 2023; Gane vs Hokit headlines.",
+          "source": "SPORTbible",
+          "url": "https://www.sportbible.com/ufc/dana-white-emergency-plan-ciryl-gane-josh-hokit-nunes-harrison-392798-20261104"
+        },
+        {
+          "headline": "Cage Warriors 212 in London tonight",
+          "summary": "Manuel Del Valle faces Luan Duarte at BBC Television Centre, with the main card at 19:00. English fighters Omar Sargent and Tommy Brunning are on the main card, but there are no Irish names this time.",
+          "source": "UFCalendar",
+          "url": "https://www.ufcalendar.com/events/cage-warriors-212-2026-11-07"
+        }
+      ]
+    }
+  ]
+}

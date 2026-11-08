@@ -1,0 +1,64 @@
+{
+  "date": "2026-11-08",
+  "generated": "2026-11-08T06:16:39+00:00",
+  "headline": "Norris splashes to a rain-soaked Interlagos pole with Verstappen and Hamilton starting from the back, Johnny Walker stuns Cortes Acosta in Vegas, and DeepMind's AI agents chip away at old 1024-bit RSA.",
+  "upcoming": [
+    {"when": "Sun 8 Nov", "what": "WEC 6 Hours of Monza 10:00 (Toyota title decider); F1 São Paulo GP 17:00, thunderstorms possible; IBJJF The Crown from 18:00, with Mica Galvão back. All Irish time"},
+    {"when": "Tue 10 Nov", "what": "GTA 6 preload opens; Football Manager 27 launches"},
+    {"when": "Fri 13 Nov", "what": "SpaceX Starship Flight 15 target date, going for ship and booster catches (time TBC)"},
+    {"when": "Sat 14 Nov", "what": "UFC 334, Madison Square Garden: Gane vs Hokit for the heavyweight title, plus Harrison vs Nunes (main card early Sun 15 Nov Irish time, roughly 03:00, TBC)"},
+    {"when": "Wed 18 Nov", "what": "Leonid meteor shower peaks around 01:00 Irish time; best viewing from about 01:00 to dawn"},
+    {"when": "Thu 19 Nov", "what": "GTA 6 launches on PS5 and Xbox Series X/S"},
+    {"when": "Sat 21 Nov", "what": "Polaris 40, Southampton: Tonon vs McNally. UFC Doha: Prochazka vs Stirling. F1 Las Vegas GP lights out around 04:00 Sun 22 Nov Irish time (TBC)"}
+  ],
+  "sections": [
+    {
+      "title": "Motorsport",
+      "items": [
+        {"headline": "Norris takes a rain-hit pole at Interlagos", "summary": "Lando Norris beat George Russell by 0.204s after showers and a long red flag at the start of Q1, then the track dried. Bortoleto crashed out in front of his home crowd.", "source": "GrandPrix.com", "url": "https://www.grandprix.com/races/brazilian-gp-2026-qualifying-report.html"},
+        {"headline": "Penalties shake up the grid: Antonelli moves to the front row", "summary": "Russell drops five places to 7th and Leclerc ten places to 14th, which puts champion Antonelli 2nd alongside Norris, with Lawson, Hülkenberg and Hadjar next. Hamilton starts 20th and Verstappen 21st after power unit penalties. The grid is still provisional.", "source": "GPblog", "url": "https://www.gpblog.com/en/news/brazilian-gp-provisional-grid-sees-major-changes-after-multiple-penalties"},
+        {"headline": "Mercedes can wrap up the constructors' title today", "summary": "Mercedes win the title if they outscore Ferrari by three points or more, and both Ferraris start well back. The 71-lap race starts at 17:00 Irish time, with around a 40% chance of heavy rain and thunderstorms.", "source": "Athlon Sports", "url": "https://athlonsports.com/racing/f1/f1-qualifying-results-full-starting-grid-brazilian-gp-interlagos-2026"}
+      ]
+    },
+    {
+      "title": "MMA",
+      "items": [
+        {"headline": "Johnny Walker comes back to stop Cortes Acosta", "summary": "Walker came through early trouble to finish the heavyweight main event by TKO at 2:27 of round three. That's his second win in a row since moving up to heavyweight.", "source": "MMA Junkie via Yahoo Sports", "url": "https://sports.yahoo.com/articles/ufc-vegas-124-results-johnny-042225704.html"},
+        {"headline": "Suarez outpoints Jandiroba in a strawweight contender fight", "summary": "Tatiana Suarez won a unanimous decision (30-27, 30-27, 29-28) in the co-main, a big step back towards a title shot.", "source": "MMA Junkie via Yahoo Sports", "url": "https://sports.yahoo.com/articles/ufc-vegas-124-results-johnny-042225704.html"},
+        {"headline": "Bad night for the UK: Davey Grant knocked out in a minute", "summary": "England's Davey Grant was KO'd by Elijah Smith 60 seconds into their bantamweight fight. Elsewhere, Andre Petroski stopped Mantas Kondratavičius in round two. Cage Warriors 212 London results weren't available at press time.", "source": "MMA Junkie via Yahoo Sports", "url": "https://sports.yahoo.com/articles/ufc-vegas-124-results-johnny-042225704.html"}
+      ]
+    },
+    {
+      "title": "Tech",
+      "items": [
+        {"headline": "DeepMind's AI agents find new weaknesses in 1024-bit RSA", "summary": "Working with cryptographers Nadia Heninger and Emmanuel Thomé, the AI agents found a much cheaper way to forge some short-digest signatures and cut the cost of batch-factoring 1024-bit keys by about 30x. RSA-2048 isn't affected, but it's another push to retire legacy keys.", "source": "Crypto Briefing", "url": "https://cryptobriefing.com/google-deepmind-ai-rsa-1024-bit-weaknesses/"},
+        {"headline": "The chip shortage is back, and AI is the reason", "summary": "Microchip's CEO says AI buyers have taken over outside assembly and test capacity, pushing standard lead times from 4-8 weeks to as much as 32 weeks. Microchip shares fell about 10%.", "source": "24/7 Wall St.", "url": "https://247wallst.com/investing/2026/11/07/the-chip-shortage-is-back-and-microchip-says-ai-customers-are-crowding-everyone-out/"},
+        {"headline": "Protesters storm Microsoft's Amsterdam AI data centre site", "summary": "Several hundred activists occupied the Sloterdijk construction site and Dutch police detained up to around 200. It kicked off a two-day protest against data centres across 15 European countries.", "source": "Al Jazeera", "url": "https://www.aljazeera.com/news/2026/11/6/protesters-break-into-microsoft-data-centre-site-in-amsterdam"},
+        {"headline": "OpenAI brings in Hacktron to attack its own systems", "summary": "The security firm will work with OpenAI engineers to find vulnerabilities, focusing on how OpenAI's systems connect to third-party services.", "source": "OpenAI", "url": "https://openai.com/index/partnering-with-hacktron/"}
+      ]
+    },
+    {
+      "title": "Science & Space",
+      "items": [
+        {"headline": "Webb images the giant exoplanet 51 Eridani b", "summary": "With the light from its star blocked out, JWST's NIRCam pulled the young giant planet out of the glare, which helps show how planets like it form.", "source": "Space.com", "url": "https://www.space.com/astronomy/exoplanets/giant-exoplanet-emerges-from-the-dark-when-the-james-webb-space-telescope-turns-out-the-starlight"},
+        {"headline": "ESA's Hera gets its first good look at the asteroids DART hit", "summary": "The probe has returned its first clear view of the Didymos–Dimorphos pair ahead of a detailed survey of the crater NASA's 2022 impact left behind.", "source": "Space.com", "url": "https://www.space.com/space-exploration/asteroid-comet-missions/hera-probe-gets-1st-good-luck-at-asteroid-system-clobbered-by-nasas-dart-mission-space-photo-of-the-day-for-nov-6-2026"},
+        {"headline": "Rubin Observatory finds two new Milky Way companion galaxies", "summary": "Early survey data from the Vera C. Rubin Observatory has turned up two faint satellite galaxies no one had seen before, an early sign of what the survey can find.", "source": "ScienceDaily", "url": "https://www.sciencedaily.com/releases/2026/11/261104012252.htm"},
+        {"headline": "Sky watch: dark skies for the Taurids, Leonids next week", "summary": "With a new Moon on 9 Nov, the slow, bright Northern Taurid fireballs (peak around 12 Nov) are worth a look, and Mars and Jupiter pair up before dawn on 15 Nov. The Leonids peak in the early hours of 18 Nov.", "source": "Space.com", "url": "https://www.space.com/stargazing/what-to-look-for-in-night-sky-november-2026"}
+      ]
+    },
+    {
+      "title": "Gaming",
+      "items": [
+        {"headline": "Quiet weekend before GTA 6 week", "summary": "No major announcements in the last 48 hours, and nothing new on the watchlist (Witcher 4, Cyberpunk 2, Witcher 3, Borderlands 4). Things pick up on Tuesday when the GTA 6 preload opens and Football Manager 27 launches.", "source": "VGTimes", "url": "https://vgtimes.com/games/gta-6/news/"},
+        {"headline": "Watchlist: The Witcher 4 adds another Kingdom Come II veteran", "summary": "Earlier in the week, CD Projekt Red added another senior Warhorse developer to The Witcher 4 team. The game is still aimed at 2028.", "source": "iXBT Games", "url": "https://ixbt.games/en/news/2026/11/02/cdpr-usilila-komandu-the-witcher-4-odnim-iz-kliucevyx-razrabotcikov-kingdom-come-deliverance-ii.html"}
+      ]
+    },
+    {
+      "title": "BJJ & Grappling",
+      "items": [
+        {"headline": "IBJJF The Crown tonight: Mica Galvão returns", "summary": "IBJJF's invitational for its top gi athletes runs from 18:00 Irish time on FloGrappling, with Mica Galvão back after time away.", "source": "FloGrappling", "url": "https://www.flograppling.com/articles/16353679-mica-galvao-returns-to-ibjjf-the-crown-in-2026"},
+        {"headline": "The Crown 2026: full card and brackets", "summary": "The full lineup and brackets are out ahead of tonight's event. Otherwise it's been a quiet 48 hours in grappling.", "source": "FloGrappling", "url": "https://www.flograppling.com/articles/16353621-ibjjf-the-crown-2026-card-full-competitor-lineup"}
+      ]
+    }
+  ]
+}

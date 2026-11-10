@@ -1,0 +1,117 @@
+{
+  "date": "2026-11-10",
+  "generated": "2026-11-10T06:24:00+00:00",
+  "headline": "GTA 6 preload opens today, Nvidia launches an internal probe into reports about Jensen Huang, Anthropic's IPO edges closer at a lower valuation, and Ferrari go digging into the SF-26 before Vegas.",
+  "upcoming": [
+    {"when": "Tue 10 Nov", "what": "GTA 6 preload opens on PS5 and Xbox Series X/S (up to 212 GB)"},
+    {"when": "Fri 13 Nov", "what": "SpaceX Starship Flight 15 target date, attempting ship and booster catches; still awaiting FAA approval (time TBC)"},
+    {"when": "Sat 14 Nov", "what": "UFC 334, Madison Square Garden: Gane vs Hokit (heavyweight title) and Harrison vs Nunes. Prelims 00:00, main card 02:00 Sun 15 Nov Irish time"},
+    {"when": "Wed 18 Nov", "what": "Leonid meteor shower peak; best from about 01:00 to dawn"},
+    {"when": "Thu 19 Nov", "what": "GTA 6 launches on PS5 and Xbox Series X/S"},
+    {"when": "Sat 21 Nov", "what": "Polaris 40, Southampton: Tonon vs McNally. UFC Doha: Prochazka vs Stirling. F1 Las Vegas GP lights out around 04:00 Sun 22 Nov Irish time (TBC)"}
+  ],
+  "sections": [
+    {
+      "title": "Tech",
+      "items": [
+        {
+          "headline": "Nvidia opens internal investigation into reports about Jensen Huang",
+          "summary": "Nvidia's board launched a probe after reports about a personal relationship involving its CEO and a suspected Chinese intelligence asset; the board says it has no reason to think company secrets were exposed. The stock lagged a broader tech rebound on Monday.",
+          "source": "Yahoo Finance / TheStreet",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-nov-9-145714241.html"
+        },
+        {
+          "headline": "Anthropic still aiming for a Nasdaq listing this month",
+          "summary": "Per a WSJ report, Anthropic plans to list as 'ANT' soon, though the expected valuation has reportedly slipped from around $2 trillion to roughly $1-1.25 trillion amid the recent AI stock selloff.",
+          "source": "Gizmodo",
+          "url": "https://gizmodo.com/anthropic-still-plans-to-go-public-as-soon-as-next-week-report-2000837422"
+        }
+      ]
+    },
+    {
+      "title": "Science & Space",
+      "items": [
+        {
+          "headline": "Starship Flight 15 waits on the FAA for Friday",
+          "summary": "SpaceX is still targeting 13 November for its dual-catch attempt of both Super Heavy and the ship, pending regulatory sign-off.",
+          "source": "KeepTrack",
+          "url": "https://keeptrack.space/x-report/spacex-brief-2026-11-09"
+        },
+        {
+          "headline": "Mars may still hold pockets of magma",
+          "summary": "New research suggests that while Mars' molten interior is long gone, isolated magma chambers could persist beneath the surface.",
+          "source": "Universe Today",
+          "url": "https://www.universetoday.com/articles/mars-molten-heart-is-long-gone-but-some-magma-chambers-may-persist"
+        },
+        {
+          "headline": "Nuking an asteroid could work, with a catch",
+          "summary": "A new study looks at using a nuclear blast to deflect a threatening asteroid and the complications that come with it.",
+          "source": "ScienceDaily",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261106174532.htm"
+        }
+      ]
+    },
+    {
+      "title": "Gaming",
+      "items": [
+        {
+          "headline": "GTA 6 preload opens today",
+          "summary": "Rockstar's preload window starts today on PS5 and Xbox Series X/S, with downloads of up to 212 GB ahead of the 19 November launch. Clear some space.",
+          "source": "Rockstar Newswire",
+          "url": "https://www.rockstargames.com/newswire/article/k4ak9okk485712/grand-theft-auto-vi-pre-load-begins-on-november-10"
+        },
+        {
+          "headline": "Watchlist: quiet",
+          "summary": "No fresh news on The Witcher 4, Cyberpunk 2, Witcher 3 or Borderlands in the last 24-48 hours; the latest Cyberpunk 2 item is a late-October job listing hinting at multiplayer.",
+          "source": "VGTimes",
+          "url": "https://vgtimes.com/games/cyberpunk-2/news/"
+        }
+      ]
+    },
+    {
+      "title": "BJJ & Grappling",
+      "items": [
+        {
+          "headline": "Mica Galvão returns with a win at The Crown",
+          "summary": "Mica won on his return at the 2026 IBJJF Crown, while Sarah Galvão went back-to-back. Erich Munis and Gabi Pessanha again took the heaviest divisions, and João Mendes and Fellipe Andrew also won their brackets.",
+          "source": "MMA Mania / Yahoo Sports",
+          "url": "https://sports.yahoo.com/articles/top-bjj-star-mica-galvao-070931040.html"
+        }
+      ]
+    },
+    {
+      "title": "MMA",
+      "items": [
+        {
+          "headline": "UFC 334 this Saturday: start times for Ireland",
+          "summary": "Gane defends heavyweight gold against Hokit and Nunes comes out of retirement to face Harrison at MSG. Main card is 02:00 Sunday Irish time (prelims midnight), on TNT Sports. No Irish or UK fighters confirmed on the card.",
+          "source": "The Independent / Yahoo Sports",
+          "url": "https://sports.yahoo.com/articles/ufc-334-gane-vs-hokit-140804675.html"
+        }
+      ]
+    },
+    {
+      "title": "Motorsport",
+      "items": [
+        {
+          "headline": "Ferrari to investigate the SF-26 before Vegas",
+          "summary": "A 'devastated' Hamilton finished ninth in Brazil after tyre and oversteer struggles, and Ferrari will dig into the car's behaviour before Las Vegas.",
+          "source": "PlanetF1",
+          "url": "https://www.planetf1.com/news/lewis-hamilton-ferrari-sf-26-investigation-f1-2026-brazilian-grand-prix"
+        },
+        {
+          "headline": "Lawson edging towards a 2027 Racing Bulls stay",
+          "summary": "After seventh at Interlagos, Lawson is reportedly increasingly likely to keep his seat, with an announcement expected in the coming weeks.",
+          "source": "Speedcafe",
+          "url": "https://speedcafe.com/f1-news-2026-liam-lawson-future-contract-update-racing-bulls-latest-red-bull-laurent-mekies-alan-permane-williams-rumour/"
+        },
+        {
+          "headline": "Albon penalised for unsafe rejoin",
+          "summary": "Stewards gave Albon a five-second penalty and two licence points for rejoining in front of Gasly; Williams are now five races without a point.",
+          "source": "PlanetF1",
+          "url": "https://www.planetf1.com/news/fia-decision-alex-albon-f1-2026-brazilian-grand-prix"
+        }
+      ]
+    }
+  ]
+}

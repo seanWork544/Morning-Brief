@@ -1,76 +1,30 @@
 {
-  "date": "2026-11-09",
-  "generated": "2026-11-09T06:22:00+00:00",
-  "headline": "Norris wins a wet Interlagos as Verstappen charges from 21st to second and Mercedes seal the constructors' title, Cadillac take Monza while Toyota's #8 crew clinch the WEC crown, and GTA 6 preloads tomorrow.",
+  "date": "2026-11-10",
+  "generated": "2026-11-10T06:24:00+00:00",
+  "headline": "GTA 6 preload opens today, Nvidia launches an internal probe into reports about Jensen Huang, Anthropic's IPO edges closer at a lower valuation, and Ferrari go digging into the SF-26 before Vegas.",
   "upcoming": [
-    {
-      "when": "Tue 10 Nov",
-      "what": "GTA 6 preload opens (up to 212 GB); Football Manager 27 launches"
-    },
-    {
-      "when": "Fri 13 Nov",
-      "what": "SpaceX Starship Flight 15 target date, going for ship and booster catches (time TBC)"
-    },
-    {
-      "when": "Sat 14 Nov",
-      "what": "UFC 334, Madison Square Garden: Gane vs Hokit for the heavyweight title, plus Harrison vs Nunes (main card early Sun 15 Nov Irish time, roughly 03:00, TBC)"
-    },
-    {
-      "when": "Wed 18 Nov",
-      "what": "Leonid meteor shower peaks around 01:00 Irish time; best from about 01:00 to dawn"
-    },
-    {
-      "when": "Thu 19 Nov",
-      "what": "GTA 6 launches on PS5 and Xbox Series X/S"
-    },
-    {
-      "when": "Sat 21 Nov",
-      "what": "Polaris 40, Southampton: Tonon vs McNally. UFC Doha: Prochazka vs Stirling. F1 Las Vegas GP lights out around 04:00 Sun 22 Nov Irish time (TBC)"
-    }
+    {"when": "Tue 10 Nov", "what": "GTA 6 preload opens on PS5 and Xbox Series X/S (up to 212 GB)"},
+    {"when": "Fri 13 Nov", "what": "SpaceX Starship Flight 15 target date, attempting ship and booster catches; still awaiting FAA approval (time TBC)"},
+    {"when": "Sat 14 Nov", "what": "UFC 334, Madison Square Garden: Gane vs Hokit (heavyweight title) and Harrison vs Nunes. Prelims 00:00, main card 02:00 Sun 15 Nov Irish time"},
+    {"when": "Wed 18 Nov", "what": "Leonid meteor shower peak; best from about 01:00 to dawn"},
+    {"when": "Thu 19 Nov", "what": "GTA 6 launches on PS5 and Xbox Series X/S"},
+    {"when": "Sat 21 Nov", "what": "Polaris 40, Southampton: Tonon vs McNally. UFC Doha: Prochazka vs Stirling. F1 Las Vegas GP lights out around 04:00 Sun 22 Nov Irish time (TBC)"}
   ],
   "sections": [
-    {
-      "title": "Motorsport",
-      "items": [
-        {
-          "headline": "Norris wins a wet São Paulo GP from pole",
-          "summary": "Lando Norris controlled a race that started wet and dried before a late shower, ahead of Max Verstappen, who climbed from 21st on the grid, and Isack Hadjar for a Red Bull double podium. Hamilton came home 9th from 20th in his 400th start.",
-          "source": "Formula1.com",
-          "url": "https://www.formula1.com/en/latest/article/norris-beats-verstappen-in-wet-sao-paulo-gp-thriller-as-mercedes-win-constructors-championship.7JN7MXLZf5lk5l0C3gfKGI"
-        },
-        {
-          "headline": "Mercedes are 2026 constructors' champions",
-          "summary": "Russell (4th) and Antonelli (5th, after a couple of spins) scored enough to put the title out of Ferrari's reach, adding to Antonelli's drivers' crown from Mexico.",
-          "source": "Motorsport.com",
-          "url": "https://www.motorsport.com/f1/news/mercedes-crowned-2026-f1-constructors-champion-at-brazilian-gp/10873044/"
-        },
-        {
-          "headline": "WEC Monza: Cadillac win, Toyota #8 take the drivers' title",
-          "summary": "The #38 Cadillac won the 6 Hours of Monza, while the #8 Toyota crew did enough to clinch the 2026 drivers' championship. TF Sport sealed the LMGT3 title.",
-          "source": "Pit Debrief",
-          "url": "https://www.pitdebrief.com/post/2026-wec-6-hours-of-monza-race-cadillac-takes-victory-as-toyota-and-tf-sport-secure-titles/"
-        }
-      ]
-    },
-    {
-      "title": "MMA",
-      "items": [
-        {
-          "headline": "UFC 334 fight week: Gane vs Hokit at MSG",
-          "summary": "Ciryl Gane defends the heavyweight title against Josh Hokit on Saturday, with Kayla Harrison vs Amanda Nunes as co-main. Expect media day and weigh-in storylines all week; main card around 03:00 Sunday Irish time.",
-          "source": "Cageside Press",
-          "url": "https://cagesidepress.com/2026/09/19/ciryl-gane-vs-josh-hokit-headlines-ufc-334-kayla-harrison-vs-amanda-nunes-co-main-at-msg/"
-        }
-      ]
-    },
     {
       "title": "Tech",
       "items": [
         {
-          "headline": "Quiet Sunday for tech news",
-          "summary": "No major launches overnight. For the week's AI round-up (OpenAI, Anthropic, Nvidia), this daily digest covers today's moves as they land.",
-          "source": "The Neuron",
-          "url": "https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-monday-november-9-2026/"
+          "headline": "Nvidia opens internal investigation into reports about Jensen Huang",
+          "summary": "Nvidia's board launched a probe after reports about a personal relationship involving its CEO and a suspected Chinese intelligence asset; the board says it has no reason to think company secrets were exposed. The stock lagged a broader tech rebound on Monday.",
+          "source": "Yahoo Finance / TheStreet",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-nov-9-145714241.html"
+        },
+        {
+          "headline": "Anthropic still aiming for a Nasdaq listing this month",
+          "summary": "Per a WSJ report, Anthropic plans to list as 'ANT' soon, though the expected valuation has reportedly slipped from around $2 trillion to roughly $1-1.25 trillion amid the recent AI stock selloff.",
+          "source": "Gizmodo",
+          "url": "https://gizmodo.com/anthropic-still-plans-to-go-public-as-soon-as-next-week-report-2000837422"
         }
       ]
     },
@@ -78,10 +32,22 @@
       "title": "Science & Space",
       "items": [
         {
-          "headline": "Starship Flight 15 slips a day to Friday the 13th",
-          "summary": "SpaceX now targets 13 November for the next Starship test, aiming to catch both the Super Heavy booster and, for the first time, the ship itself.",
-          "source": "Teslarati",
-          "url": "https://www.teslarati.com/spacex-starship-catch-nov-13/"
+          "headline": "Starship Flight 15 waits on the FAA for Friday",
+          "summary": "SpaceX is still targeting 13 November for its dual-catch attempt of both Super Heavy and the ship, pending regulatory sign-off.",
+          "source": "KeepTrack",
+          "url": "https://keeptrack.space/x-report/spacex-brief-2026-11-09"
+        },
+        {
+          "headline": "Mars may still hold pockets of magma",
+          "summary": "New research suggests that while Mars' molten interior is long gone, isolated magma chambers could persist beneath the surface.",
+          "source": "Universe Today",
+          "url": "https://www.universetoday.com/articles/mars-molten-heart-is-long-gone-but-some-magma-chambers-may-persist"
+        },
+        {
+          "headline": "Nuking an asteroid could work, with a catch",
+          "summary": "A new study looks at using a nuclear blast to deflect a threatening asteroid and the complications that come with it.",
+          "source": "ScienceDaily",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261106174532.htm"
         }
       ]
     },
@@ -89,16 +55,16 @@
       "title": "Gaming",
       "items": [
         {
-          "headline": "GTA 6 preload opens tomorrow",
-          "summary": "Rockstar confirmed the console preload starts 10 November, with a download of up to 212 GB, ahead of the 19 November launch. Clear some space tonight.",
+          "headline": "GTA 6 preload opens today",
+          "summary": "Rockstar's preload window starts today on PS5 and Xbox Series X/S, with downloads of up to 212 GB ahead of the 19 November launch. Clear some space.",
           "source": "Rockstar Newswire",
           "url": "https://www.rockstargames.com/newswire/article/k4ak9okk485712/grand-theft-auto-vi-pre-load-begins-on-november-10"
         },
         {
-          "headline": "Watchlist: nothing new",
-          "summary": "No fresh news on The Witcher 4, Cyberpunk 2, Witcher 3 or Borderlands since Friday.",
-          "source": "—",
-          "url": "https://www.cdprojektred.com/en"
+          "headline": "Watchlist: quiet",
+          "summary": "No fresh news on The Witcher 4, Cyberpunk 2, Witcher 3 or Borderlands in the last 24-48 hours; the latest Cyberpunk 2 item is a late-October job listing hinting at multiplayer.",
+          "source": "VGTimes",
+          "url": "https://vgtimes.com/games/cyberpunk-2/news/"
         }
       ]
     },
@@ -106,10 +72,44 @@
       "title": "BJJ & Grappling",
       "items": [
         {
-          "headline": "IBJJF The Crown 2026: results coming in",
-          "summary": "The Crown ran overnight in the US, with Mica Galvão back in action. Full results weren't confirmed in time for this brief; FloGrappling's live page has every match.",
-          "source": "FloGrappling",
-          "url": "https://www.flograppling.com/articles/16358030-2026-ibjjf-the-crown-live-updates"
+          "headline": "Mica Galvão returns with a win at The Crown",
+          "summary": "Mica won on his return at the 2026 IBJJF Crown, while Sarah Galvão went back-to-back. Erich Munis and Gabi Pessanha again took the heaviest divisions, and João Mendes and Fellipe Andrew also won their brackets.",
+          "source": "MMA Mania / Yahoo Sports",
+          "url": "https://sports.yahoo.com/articles/top-bjj-star-mica-galvao-070931040.html"
+        }
+      ]
+    },
+    {
+      "title": "MMA",
+      "items": [
+        {
+          "headline": "UFC 334 this Saturday: start times for Ireland",
+          "summary": "Gane defends heavyweight gold against Hokit and Nunes comes out of retirement to face Harrison at MSG. Main card is 02:00 Sunday Irish time (prelims midnight), on TNT Sports. No Irish or UK fighters confirmed on the card.",
+          "source": "The Independent / Yahoo Sports",
+          "url": "https://sports.yahoo.com/articles/ufc-334-gane-vs-hokit-140804675.html"
+        }
+      ]
+    },
+    {
+      "title": "Motorsport",
+      "items": [
+        {
+          "headline": "Ferrari to investigate the SF-26 before Vegas",
+          "summary": "A 'devastated' Hamilton finished ninth in Brazil after tyre and oversteer struggles, and Ferrari will dig into the car's behaviour before Las Vegas.",
+          "source": "PlanetF1",
+          "url": "https://www.planetf1.com/news/lewis-hamilton-ferrari-sf-26-investigation-f1-2026-brazilian-grand-prix"
+        },
+        {
+          "headline": "Lawson edging towards a 2027 Racing Bulls stay",
+          "summary": "After seventh at Interlagos, Lawson is reportedly increasingly likely to keep his seat, with an announcement expected in the coming weeks.",
+          "source": "Speedcafe",
+          "url": "https://speedcafe.com/f1-news-2026-liam-lawson-future-contract-update-racing-bulls-latest-red-bull-laurent-mekies-alan-permane-williams-rumour/"
+        },
+        {
+          "headline": "Albon penalised for unsafe rejoin",
+          "summary": "Stewards gave Albon a five-second penalty and two licence points for rejoining in front of Gasly; Williams are now five races without a point.",
+          "source": "PlanetF1",
+          "url": "https://www.planetf1.com/news/fia-decision-alex-albon-f1-2026-brazilian-grand-prix"
         }
       ]
     }

@@ -10,6 +10,12 @@ General tech and AI news, big product launches, hardware. Bonus: industrial / ne
 Space missions and launches (NASA, ESA, SpaceX, crewed flights), astronomy discoveries, notable sky events
 visible from Ireland, and the most interesting science breakthroughs (physics, engineering, biology).
 
+## Stargazing
+Tonight's stargazing outlook for Cavan, Ireland: expected cloud cover after dark (from Met Éireann or a
+similar forecast), moon phase and how bright it is, sunset/darkness time, and anything worth looking for
+(planets, meteor showers, ISS passes, aurora chances). One short item is fine: give a clear verdict
+(good / mixed / poor) and the best viewing window.
+
 ## Gaming
 New and upcoming game releases, big announcements, notable updates and patches (PC and console).
 WATCHLIST — always check for news on these and include anything new (dev updates, trailers, patches, DLC, release dates):

@@ -1,30 +1,36 @@
 {
-  "date": "2026-11-10",
-  "generated": "2026-11-10T06:24:00+00:00",
-  "headline": "GTA 6 preload opens today, Nvidia launches an internal probe into reports about Jensen Huang, Anthropic's IPO edges closer at a lower valuation, and Ferrari go digging into the SF-26 before Vegas.",
+  "date": "2026-11-11",
+  "generated": "2026-11-11T06:27:00+00:00",
+  "headline": "Anthropic reportedly sets its IPO price range, N-able pulls N-central offline after a 33 zero-day dump, UFC 334 fight week begins, and Verstappen wants answers before Vegas.",
   "upcoming": [
-    {"when": "Tue 10 Nov", "what": "GTA 6 preload opens on PS5 and Xbox Series X/S (up to 212 GB)"},
-    {"when": "Fri 13 Nov", "what": "SpaceX Starship Flight 15 target date, attempting ship and booster catches; still awaiting FAA approval (time TBC)"},
+    {"when": "Fri 13 Nov", "what": "SpaceX Starship Flight 15 target date, attempting ship and booster catches; pending FAA approval (time TBC)"},
     {"when": "Sat 14 Nov", "what": "UFC 334, Madison Square Garden: Gane vs Hokit (heavyweight title) and Harrison vs Nunes. Prelims 00:00, main card 02:00 Sun 15 Nov Irish time"},
-    {"when": "Wed 18 Nov", "what": "Leonid meteor shower peak; best from about 01:00 to dawn"},
+    {"when": "Tue 17-Wed 18 Nov", "what": "Leonid meteor shower peak; best from about 01:00 to dawn, with little moonlight to spoil it"},
     {"when": "Thu 19 Nov", "what": "GTA 6 launches on PS5 and Xbox Series X/S"},
-    {"when": "Sat 21 Nov", "what": "Polaris 40, Southampton: Tonon vs McNally. UFC Doha: Prochazka vs Stirling. F1 Las Vegas GP lights out around 04:00 Sun 22 Nov Irish time (TBC)"}
+    {"when": "Sat 21 Nov", "what": "Polaris 40, Southampton: Tonon vs McNally. UFC Doha: Prochazka vs Stirling"},
+    {"when": "Sun 22 Nov", "what": "F1 Las Vegas GP, lights out around 04:00 Irish time (TBC)"}
   ],
   "sections": [
     {
       "title": "Tech",
       "items": [
         {
-          "headline": "Nvidia opens internal investigation into reports about Jensen Huang",
-          "summary": "Nvidia's board launched a probe after reports about a personal relationship involving its CEO and a suspected Chinese intelligence asset; the board says it has no reason to think company secrets were exposed. The stock lagged a broader tech rebound on Monday.",
-          "source": "Yahoo Finance / TheStreet",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-nov-9-145714241.html"
+          "headline": "Anthropic reportedly sets an IPO price range",
+          "summary": "An updated filing reportedly puts the range at $70-78 a share for roughly 825M shares, valuing the company around $1.3-1.4 trillion ahead of its Nasdaq debut as ANT. Figures come via aggregators, so treat them as provisional.",
+          "source": "The CODEW",
+          "url": "https://www.thecodew.com/2026/11/daily-news-coverage-november-11.html"
         },
         {
-          "headline": "Anthropic still aiming for a Nasdaq listing this month",
-          "summary": "Per a WSJ report, Anthropic plans to list as 'ANT' soon, though the expected valuation has reportedly slipped from around $2 trillion to roughly $1-1.25 trillion amid the recent AI stock selloff.",
-          "source": "Gizmodo",
-          "url": "https://gizmodo.com/anthropic-still-plans-to-go-public-as-soon-as-next-week-report-2000837422"
+          "headline": "N-able takes N-central offline after 33 alleged zero-days go public",
+          "summary": "The RMM vendor pulled its hosted platform after a dump of claimed vulnerabilities; it says it has seen no active exploitation and is working on a fix. A big deal for MSPs and the networks they manage.",
+          "source": "GovInfoSecurity",
+          "url": "https://www.govinfosecurity.com/n-able-takes-platform-offline-after-33-zero-days-drop-a-33337"
+        },
+        {
+          "headline": "Google shows off two new eighth-gen TPU variants",
+          "summary": "The TPU 8tx targets secure and regulated workloads, while the 8i Max is aimed at long-context AI with reportedly double the memory bandwidth. No availability date yet.",
+          "source": "The CODEW",
+          "url": "https://www.thecodew.com/2026/11/daily-news-coverage-november-11.html"
         }
       ]
     },
@@ -32,22 +38,27 @@
       "title": "Science & Space",
       "items": [
         {
-          "headline": "Starship Flight 15 waits on the FAA for Friday",
-          "summary": "SpaceX is still targeting 13 November for its dual-catch attempt of both Super Heavy and the ship, pending regulatory sign-off.",
-          "source": "KeepTrack",
-          "url": "https://keeptrack.space/x-report/spacex-brief-2026-11-09"
+          "headline": "DeepMind AI formally verifies Signal's crypto at the binary level",
+          "summary": "Google DeepMind says its AlphaProof Code system machine-checked key guarantees of the Signal protocol in compiled code, generating millions of lines of proof in about four weeks.",
+          "source": "The CODEW",
+          "url": "https://www.thecodew.com/2026/11/daily-news-coverage-november-11.html"
         },
         {
-          "headline": "Mars may still hold pockets of magma",
-          "summary": "New research suggests that while Mars' molten interior is long gone, isolated magma chambers could persist beneath the surface.",
-          "source": "Universe Today",
-          "url": "https://www.universetoday.com/articles/mars-molten-heart-is-long-gone-but-some-magma-chambers-may-persist"
-        },
+          "headline": "Quiet otherwise: Starship still pointed at Friday",
+          "summary": "No fresh word on FAA sign-off for Starship Flight 15's dual-catch attempt, which remains targeted for 13 November.",
+          "source": "Tech Insider",
+          "url": "https://tech-insider.org/spacex-starship-flight-15-november-dual-catch-2026/"
+        }
+      ]
+    },
+    {
+      "title": "Stargazing",
+      "items": [
         {
-          "headline": "Nuking an asteroid could work, with a catch",
-          "summary": "A new study looks at using a nuclear blast to deflect a threatening asteroid and the complications that come with it.",
-          "source": "ScienceDaily",
-          "url": "https://www.sciencedaily.com/releases/2026/11/261106174532.htm"
+          "headline": "Tonight in Cavan: dark skies, check the cloud",
+          "summary": "The Moon is a thin crescent just past new and sets early, so after about 18:30 it's properly dark; the limiting factor is cloud. A live cloud forecast couldn't be retrieved this morning, so check Met Éireann before heading out. Verdict: mixed, best window 19:00-midnight if it clears.",
+          "source": "Met Éireann",
+          "url": "https://www.met.ie/weather-forecast/cavan"
         }
       ]
     },
@@ -55,16 +66,16 @@
       "title": "Gaming",
       "items": [
         {
-          "headline": "GTA 6 preload opens today",
-          "summary": "Rockstar's preload window starts today on PS5 and Xbox Series X/S, with downloads of up to 212 GB ahead of the 19 November launch. Clear some space.",
+          "headline": "GTA 6 is eight days out",
+          "summary": "Preloads went live yesterday ahead of the 19 November launch on PS5 and Xbox Series X/S.",
           "source": "Rockstar Newswire",
           "url": "https://www.rockstargames.com/newswire/article/k4ak9okk485712/grand-theft-auto-vi-pre-load-begins-on-november-10"
         },
         {
-          "headline": "Watchlist: quiet",
-          "summary": "No fresh news on The Witcher 4, Cyberpunk 2, Witcher 3 or Borderlands in the last 24-48 hours; the latest Cyberpunk 2 item is a late-October job listing hinting at multiplayer.",
-          "source": "VGTimes",
-          "url": "https://vgtimes.com/games/cyberpunk-2/news/"
+          "headline": "Watchlist: still quiet",
+          "summary": "Nothing new in the last 48 hours on The Witcher 4 (still targeting 2028), Cyberpunk 2, Witcher 3 or Borderlands.",
+          "source": "VGC",
+          "url": "https://videogameschronicle.com/news/cd-projekt-sets-the-witcher-4-release-target-as-it-provides-a-rare-development-update/"
         }
       ]
     },
@@ -72,10 +83,10 @@
       "title": "BJJ & Grappling",
       "items": [
         {
-          "headline": "Mica Galvão returns with a win at The Crown",
-          "summary": "Mica won on his return at the 2026 IBJJF Crown, while Sarah Galvão went back-to-back. Erich Munis and Gabi Pessanha again took the heaviest divisions, and João Mendes and Fellipe Andrew also won their brackets.",
-          "source": "MMA Mania / Yahoo Sports",
-          "url": "https://sports.yahoo.com/articles/top-bjj-star-mica-galvao-070931040.html"
+          "headline": "Quiet week before Polaris 40",
+          "summary": "No major results since The Crown; next up is Polaris 40 in Southampton on 21 November, headlined by Garry Tonon vs McNally.",
+          "source": "Polaris",
+          "url": "https://www.polarisprograppling.com/"
         }
       ]
     },
@@ -83,10 +94,10 @@
       "title": "MMA",
       "items": [
         {
-          "headline": "UFC 334 this Saturday: start times for Ireland",
-          "summary": "Gane defends heavyweight gold against Hokit and Nunes comes out of retirement to face Harrison at MSG. Main card is 02:00 Sunday Irish time (prelims midnight), on TNT Sports. No Irish or UK fighters confirmed on the card.",
-          "source": "The Independent / Yahoo Sports",
-          "url": "https://sports.yahoo.com/articles/ufc-334-gane-vs-hokit-140804675.html"
+          "headline": "UFC 334 fight week: Gane vs Hokit at MSG",
+          "summary": "Gane defends heavyweight gold against Hokit on Saturday, with Harrison vs Nunes as co-main. Main card 02:00 Sunday Irish time; no Irish or UK fighters on the main card.",
+          "source": "Cageside Press",
+          "url": "https://cagesidepress.com/2026/09/19/ciryl-gane-vs-josh-hokit-headlines-ufc-334-kayla-harrison-vs-amanda-nunes-co-main-at-msg/"
         }
       ]
     },
@@ -94,22 +105,22 @@
       "title": "Motorsport",
       "items": [
         {
-          "headline": "Ferrari to investigate the SF-26 before Vegas",
-          "summary": "A 'devastated' Hamilton finished ninth in Brazil after tyre and oversteer struggles, and Ferrari will dig into the car's behaviour before Las Vegas.",
-          "source": "PlanetF1",
-          "url": "https://www.planetf1.com/news/lewis-hamilton-ferrari-sf-26-investigation-f1-2026-brazilian-grand-prix"
+          "headline": "Verstappen demands an investigation",
+          "summary": "Verstappen is pushing for answers both inside Red Bull and over F1's season-finale decision, as the FIA reaffirms the year will finish in Qatar and Abu Dhabi. Antonelli leads the standings on 390 to Verstappen's 279.",
+          "source": "RacingNews365",
+          "url": "https://racingnews365.com/max-verstappen-demands-investigation-as-f1-make-season-finale-decision-racingnews365-review"
         },
         {
-          "headline": "Lawson edging towards a 2027 Racing Bulls stay",
-          "summary": "After seventh at Interlagos, Lawson is reportedly increasingly likely to keep his seat, with an announcement expected in the coming weeks.",
-          "source": "Speedcafe",
-          "url": "https://speedcafe.com/f1-news-2026-liam-lawson-future-contract-update-racing-bulls-latest-red-bull-laurent-mekies-alan-permane-williams-rumour/"
+          "headline": "Calls for FIA action after Norris near-miss",
+          "summary": "An incident that nearly injured Lando Norris has prompted calls for the FIA to step in on safety.",
+          "source": "RacingNews365",
+          "url": "https://racingnews365.com/fia-called-to-intervene-after-lando-norris-injury-near-miss-hes-very-lucky"
         },
         {
-          "headline": "Albon penalised for unsafe rejoin",
-          "summary": "Stewards gave Albon a five-second penalty and two licence points for rejoining in front of Gasly; Williams are now five races without a point.",
-          "source": "PlanetF1",
-          "url": "https://www.planetf1.com/news/fia-decision-alex-albon-f1-2026-brazilian-grand-prix"
+          "headline": "Corvette Racing clinch the WEC LMGT3 title",
+          "summary": "Corvette wrapped up the 2026 LMGT3 world championship at the season finale.",
+          "source": "GM Authority",
+          "url": "https://gmauthority.com/blog/2026/11/corvette-racing-wins-2026-lmgt3-world-championship/"
         }
       ]
     }

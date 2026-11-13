@@ -1,13 +1,13 @@
 {
-  "date": "2026-11-12",
-  "generated": "2026-11-12T06:18:00+00:00",
-  "headline": "Nvidia faces a China chip-diversion probe, Anthropic's IPO may price above range, CD Projekt cleans up at the Golden Joysticks, and UFC 334 media day sets up Saturday at MSG.",
+  "date": "2026-11-13",
+  "generated": "2026-11-13T06:22:00+00:00",
+  "headline": "Jensen Huang is out at Nvidia, Microsoft 365 limps through a day-long outage, Starship eyes a double catch tonight, and Lawson keeps his Racing Bulls seat.",
   "upcoming": [
-    {"when": "Fri 13 Nov", "what": "SpaceX Starship Flight 15 (NET), booster and ship catch attempt; FAA approval still not confirmed, so the date may slip"},
-    {"when": "Sat 14 Nov", "what": "UFC 334, Madison Square Garden: Gane vs Hokit (heavyweight title), Harrison vs Nunes. Main card about 02:00 Sun 15 Nov Irish time (TBC). PFL Dubai the same day"},
-    {"when": "Tue 17-Wed 18 Nov", "what": "Leonid meteor shower peak; best after midnight once the Moon has set"},
-    {"when": "Thu 19 Nov", "what": "GTA 6 launches on PS5 and Xbox Series X/S (console only)"},
-    {"when": "Sat 21 Nov", "what": "Polaris 40, Southampton (Tonon vs McNally); UFC Doha: Prochazka vs Stirling; KSW 123, Szczecin"},
+    {"when": "Fri 13 Nov", "what": "Starship Flight 15 targets 22:45 Irish time from Starbase: first attempt to catch both booster and ship (FAA approval not yet confirmed, so it may slip)"},
+    {"when": "Sat 14 Nov", "what": "UFC 334, Madison Square Garden: Gane vs Hokit (heavyweight title), Harrison vs Nunes. Main card about 02:00 Sun 15 Nov Irish time (TBC). ADCC Austin Open the same day"},
+    {"when": "Tue 17-Wed 18 Nov", "what": "Leonid meteor shower peak; the crescent Moon sets early, so skies stay dark after midnight"},
+    {"when": "Thu 19 Nov", "what": "GTA 6 launches on PS5 and Xbox Series X/S"},
+    {"when": "Sat 21 Nov", "what": "Polaris 40, Southampton (Tonon vs McNally); UFC Doha: Prochazka vs Stirling"},
     {"when": "Sun 22 Nov", "what": "F1 Las Vegas GP, lights out around 04:00 Irish time (Sat night local)"}
   ],
   "sections": [
@@ -15,28 +15,22 @@
       "title": "Tech",
       "items": [
         {
-          "headline": "Nvidia hit by China chip-diversion reports",
-          "summary": "Reuters reports a PLA-linked Chinese university obtained blacklisted H200 chips, and Nvidia's board is probing a separate report of large-scale chip diversion to China. Shares fell around 5% and political pressure on leadership is mounting.",
-          "source": "Reuters",
-          "url": "https://www.reuters.com/world/pla-linked-chinese-university-bought-nvidia-h200-chips-despite-us-blacklist-2026-11-11/"
+          "headline": "Jensen Huang resigns as Nvidia CEO",
+          "summary": "Nvidia says its founder has stepped down as president, CEO and board member with immediate effect, after days of reports about chip diversion to China and board unrest. CFO Colette Kress is interim CEO while the board searches, and Harvey Jones becomes Nvidia's first board chair.",
+          "source": "Nvidia / SEC 8-K",
+          "url": "https://www.sec.gov/Archives/edgar/data/0001045810/000104581026000082/nvidiaannouncesceotransiti.htm"
         },
         {
-          "headline": "Anthropic IPO: demand may push pricing above range",
-          "summary": "Following yesterday's $70-78 range, the FT reports bankers are weighing pricing above it on heavy demand, which would lift the valuation towards $1.5 trillion. The roadshow is under way ahead of a Nasdaq listing as ANT.",
-          "source": "BitDigest (citing FT)",
-          "url": "https://bitdigest.substack.com/p/wednesday-november-11-2026"
+          "headline": "Microsoft 365 outage drags into the night",
+          "summary": "Outlook, Teams, SharePoint, Intune and Defender were disrupted for much of Thursday. Microsoft blamed an overwhelmed secure-connection process on its servers, and early fixes kept failing as traffic returned.",
+          "source": "Gizmodo",
+          "url": "https://gizmodo.com/microsoft-365-outage-stretches-late-into-the-evening-with-services-like-outlook-and-teams-still-unstable-2000839374"
         },
         {
-          "headline": "Google opens up Gemini 4 Carbon",
-          "summary": "Google's new frontier model for coding, research and agent tasks is now available to paid API developers and AI Ultra subscribers, alongside a preview of /swarm for coordinating multiple coding agents.",
-          "source": "Google Blog",
-          "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-carbon-now-available/"
-        },
-        {
-          "headline": "Railway breach leads to $740k in fraudulent AI usage",
-          "summary": "The cloud host says attackers grabbed customer secrets potentially touching up to 100,000 workspaces (worst-case estimate), and stolen API keys racked up roughly $740,000 in AI charges. A reminder to rotate keys and set spend caps.",
-          "source": "BleepingComputer",
-          "url": "https://www.bleepingcomputer.com/news/apple/railway-breach-leads-to-740-000-in-fraudulent-ai-charges/"
+          "headline": "FAA rolls out its AI air traffic tool nationwide",
+          "summary": "The US aviation regulator is expanding an AI-assisted air traffic system across the country, one of the biggest real-world deployments of AI in safety-critical infrastructure so far.",
+          "source": "Gizmodo",
+          "url": "https://gizmodo.com/the-faa-is-rolling-out-its-ai-air-traffic-tool-nationwide-2000839347"
         }
       ]
     },
@@ -44,16 +38,10 @@
       "title": "Science & Space",
       "items": [
         {
-          "headline": "NASA lays out a faster path back to the Moon",
-          "summary": "Artemis III becomes a 2027 Earth-orbit test docking Orion with both Blue Origin's and SpaceX's landers, with the crewed landing moving to Artemis IV in 2028. A lighter Axiom suit is also in the works.",
-          "source": "ScienceDaily",
-          "url": "https://www.sciencedaily.com/releases/2026/11/261108233054.htm"
-        },
-        {
-          "headline": "Starship Flight 15 still waiting on the FAA",
-          "summary": "Booster 22 and Ship 42 are through final checks for a no-earlier-than 13 November dual-catch attempt, but there's still no public FAA sign-off. Otherwise a quiet 48 hours for space news.",
-          "source": "NASASpaceFlight",
-          "url": "https://www.nasaspaceflight.com/2026/11/starship-flight-15-awaits-faa/"
+          "headline": "Starship Flight 15 targets tonight for a double catch",
+          "summary": "Ship 42 and Booster 22 are set to lift off from Starbase at 22:45 Irish time carrying Starlink V3 satellites, with SpaceX trying to catch both stages at the tower for the first time. FAA sign-off still hasn't been publicly confirmed, so treat the date as provisional.",
+          "source": "Space Launch Schedule",
+          "url": "https://www.spacelaunchschedule.com/news/starship-flight-15-launch-date-how-to-watch/"
         }
       ]
     },
@@ -61,8 +49,8 @@
       "title": "Stargazing",
       "items": [
         {
-          "headline": "Tonight in Cavan: moonless dark, cloud unknown",
-          "summary": "A thin crescent Moon sets early, so it's properly dark from about 18:30 after a 16:40ish sunset. A live cloud forecast couldn't be retrieved this morning, so check Met Éireann before heading out. Verdict: mixed, best window 19:00-midnight if it clears.",
+          "headline": "Tonight in Cavan: dark early, cloud unconfirmed",
+          "summary": "Forecast sources were unreachable this morning, so check Met Éireann before heading out. Verdict: mixed. Sunset is about 16:40 with full darkness by about 18:40, and the thin crescent Moon sets early in the evening, so any clear spell after 19:00 is good for Saturn in the south and Jupiter rising later.",
           "source": "Met Éireann",
           "url": "https://www.met.ie/weather-forecast/cavan"
         }
@@ -72,28 +60,16 @@
       "title": "Gaming",
       "items": [
         {
-          "headline": "Watchlist: CD Projekt cleans up at the Golden Joysticks",
-          "summary": "The Witcher 4 won Most Wanted Game and The Witcher 3 Remastered took the most awards of the night. Separately, CDPR confirmed AI-assisted work on Geralt's Polish voice in Songs of the Past, done with the original actor's approval.",
-          "source": "GamesRadar",
-          "url": "https://www.gamesradar.com/news/archive/2026/11/"
+          "headline": "Watchlist: Geralt's voice hasn't recorded for The Witcher 4 yet",
+          "summary": "Doug Cockle says he hasn't been called in to record and knows almost nothing about Geralt's role, even though his voice featured in the reveal trailer. A hint that Geralt's part may be modest, or that recording is still a long way off.",
+          "source": "VGTimes",
+          "url": "https://vgtimes.com/gaming-news/172882-doug-cockle-hasnt-started-recording-the-witcher-4-and-doesnt-know-geralts-role.html"
         },
         {
-          "headline": "PS5 passes 100 million consoles",
-          "summary": "Sony says the PS5 crossed 100 million units sold as of 10 November, a week before GTA 6 lands.",
-          "source": "Shacknews",
-          "url": "https://www.shacknews.com/article/151326/sony-ps5-has-sold-100-million-units-since-launch"
-        },
-        {
-          "headline": "Ocarina of Time remake sells 5.2M in four days",
-          "summary": "Nintendo's Switch 2 remake has reportedly become one of the fastest-selling Zelda launches ever.",
-          "source": "Shacknews",
-          "url": "https://www.shacknews.com/article/151327/legend-of-zelda-5-2-million-sales-four-days"
-        },
-        {
-          "headline": "GTA 6 still on for 19 November",
-          "summary": "No sign of a slip: the console launch is a week out, with no PC date yet. Nothing new on Cyberpunk 2 or Borderlands.",
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/november-games-2026/"
+          "headline": "Watchlist: Borderlands 4 weekly rotation",
+          "summary": "This week's server-side update brings Pango and Bango back as the Big Encore Boss, a new Wildcard mission with a Jakobs sniper reward, and a relocated Maurice's Black Market. No new client patch since V1.11 in October.",
+          "source": "MentalMars",
+          "url": "https://mentalmars.com/borderlands-4/patch-notes/"
         }
       ]
     },
@@ -101,10 +77,22 @@
       "title": "BJJ & Grappling",
       "items": [
         {
-          "headline": "Still quiet ahead of Polaris 40",
-          "summary": "No major results this week; the next big date is Polaris 40 in Southampton on 21 November, headlined by Garry Tonon.",
-          "source": "Polaris",
-          "url": "https://www.polarisprograppling.com/"
+          "headline": "The Crown recap: Mica Galvão ends Murasaki's run",
+          "summary": "Last Sunday's IBJJF Crown saw Mica Galvão beat two-time champ Andy Murasaki at middleweight, while Erich Munis and Gabi Pessanha both made it four Crowns in a row by submission.",
+          "source": "Elite Sports",
+          "url": "https://www.elitesports.com/blogs/news/ibjjf-the-crown-2026-results"
+        },
+        {
+          "headline": "Tye Ruotolo doubts Musumeci's MMA move",
+          "summary": "Fresh off winning ONE's lightweight MMA title, Tye Ruotolo gave a lukewarm verdict on Mikey Musumeci's planned switch to MMA, questioning whether he has the scrapper's instinct.",
+          "source": "BJJ Eastern Europe",
+          "url": "https://www.bjjee.com/bjj-news/tye-ruotolo-questions-mikey-musumecis-mma-future-he-doesnt-seem-like-the-gnarliest-scrapper/"
+        },
+        {
+          "headline": "Dublin brown belt stops a late-night attacker",
+          "summary": "A female brown belt says she took down a man who allegedly punched her while she cycled home in Dublin around 3am, with video doing the rounds.",
+          "source": "BJJ Eastern Europe",
+          "url": "https://www.bjjee.com/bjj-news/watch-female-bjj-brown-belt-takes-down-man-who-punched-her-and-teaches-him-a-lesson/"
         }
       ]
     },
@@ -112,22 +100,10 @@
       "title": "MMA",
       "items": [
         {
-          "headline": "UFC 334 media day: Harrison hints the end is near",
-          "summary": "Kayla Harrison says she's close to the end of her career ahead of Saturday's long-awaited first fight with Amanda Nunes, who plans to defend at least once if she wins. Harrison is a modest favourite.",
+          "headline": "UFC 334 weigh-ins today, fight night tomorrow",
+          "summary": "Gane vs Hokit for the heavyweight title and Harrison vs Nunes head Saturday's MSG card, with weigh-ins this morning New York time; Joselyne Edwards is on standby for the women's title fight. Main card around 02:00 Sunday Irish time. Little fresh news overnight.",
           "source": "Cageside Press",
-          "url": "https://cagesidepress.com/2026/11/11/ufc-334-past-present-future-with-harrison-vs-nunes/"
-        },
-        {
-          "headline": "Gane plays down the Hokit trash talk",
-          "summary": "The champ called Hokit's act clownish but credited him as smart. Also on the card: Borralho vs Belgaroui and Holland vs Medic, with Holland saying his new deal will be his last. No Irish or UK fighters spotted on the main card.",
-          "source": "Cageside Press",
-          "url": "https://cagesidepress.com/2026/11/11/ufc-334-ciryl-gane-hokit-clown/"
-        },
-        {
-          "headline": "Dvalishvili bloodied in Abu Dhabi hotel brawl",
-          "summary": "Merab Dvalishvili was reportedly caught up in a hotel scuffle involving Usman Nurmagomedov in Abu Dhabi.",
-          "source": "Cageside Press",
-          "url": "https://cagesidepress.com/2026/11/11/merab-dvalishvili-bloodied-in-abu-dhabi-hotel-brawl-involving-usman-nurmagomedov/"
+          "url": "https://cagesidepress.com/2026/10/29/ufc-334-title-fight-gets-unexpected-back-up-fighter/"
         }
       ]
     },
@@ -135,22 +111,28 @@
       "title": "Motorsport",
       "items": [
         {
-          "headline": "F1 confirms the finale stays in Qatar and Abu Dhabi",
-          "summary": "The last two rounds go ahead on 29 November and 6 December, with Imola dropped as a backup, though F1 kept the option to cancel if the regional situation worsens. Antonelli has already sealed the drivers' title.",
-          "source": "Reuters via TimesLIVE",
-          "url": "https://www.timeslive.co.za/motoring/2026-11-11-f1-season-to-end-in-middle-east-as-planned/"
+          "headline": "Lawson and Lindblad stay at Racing Bulls for 2027",
+          "summary": "Red Bull kept its sister-team line-up after weighing Lawson against junior Nikola Tsolov. Lawson sits ninth in the standings, comfortably best of the midfield.",
+          "source": "RacingNews365",
+          "url": "https://racingnews365.com/liam-lawson-finally-learns-racing-bulls-fate-as-2027-f1-line-up-confirmed"
         },
         {
-          "headline": "Haas weighs Camara, Hirakawa or Doohan for Vegas",
-          "summary": "Rafael Camara, who debuted in Brazil after Ocon's exit, says he's open to racing the rest of 2026 before his full 2027 seat. Hirakawa, fresh from his WEC Hypercar title, is also in the frame.",
-          "source": "Motorsport Week",
-          "url": "https://www.motorsportweek.com/2026/11/11/rafael-camara-f1-2026-haas/"
+          "headline": "Tsolov named Red Bull third driver, eyes 2028 seat",
+          "summary": "The F2 title contender gets a heavy old-car testing programme and several FP1 outings next year, with a race seat targeted for 2028.",
+          "source": "RacingNews365",
+          "url": "https://racingnews365.com/red-bull-confirm-third-driver-for-2027-after-liam-lawson-arvid-lindblad-decision"
         },
         {
-          "headline": "Ferrari explains Hamilton's 65-place grid penalty",
-          "summary": "Hamilton was already facing a 10-place drop after his car smoked in FP3 at Interlagos; Ferrari has now explained the bigger call behind the 65-place penalty.",
-          "source": "PlanetF1",
-          "url": "https://www.planetf1.com/news/ferrari-lifts-lid-on-lewis-hamilton-decision-after-65-place-penalty"
+          "headline": "Hamilton refuses to be silenced amid Ferrari tension",
+          "summary": "After the Mexico flashpoint with Leclerc and Vasseur's rebuke of both drivers, Hamilton says he won't apologise for his radio outbursts. Antonelli still leads the title race on 390 points from Verstappen on 279.",
+          "source": "RacingNews365",
+          "url": "https://racingnews365.com/lewis-hamilton-adopts-combative-stance-after-ferrari-tensions-im-not-going-to-be-silenced"
+        },
+        {
+          "headline": "Tsunoda's Monza points go to appeal",
+          "summary": "Audi has appealed the Italian GP result over Tsunoda's restart infringement, which kept Bortoleto just out of the points. The FIA court hears it in Paris on 25 November.",
+          "source": "RacingNews365",
+          "url": "https://racingnews365.com/fia-set-hearing-date-with-f1-comeback-heros-result-at-risk"
         }
       ]
     }

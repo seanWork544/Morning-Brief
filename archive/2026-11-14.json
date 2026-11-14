@@ -1,0 +1,127 @@
+{
+  "date": "2026-11-14",
+  "generated": "2026-11-14T06:15:38+00:00",
+  "headline": "Starship's double catch is half-done (booster aborted, ship still up), the FAA's ground stop gets an FBI look, Nvidia courts Arm's boss, and UFC 334 is locked in for tonight.",
+  "upcoming": [
+    {"when": "Sat 14 Nov", "what": "UFC 334, Madison Square Garden: Gane vs Hokit (heavyweight title), Harrison vs Nunes. Main card early hours of Sun 15 Nov Irish time (TBC). ADCC US Open in Austin the same day"},
+    {"when": "Tue 17-Wed 18 Nov", "what": "Leonid meteor shower peak, with a young Moon setting early, so skies stay dark after midnight"},
+    {"when": "Thu 19 Nov", "what": "GTA 6 launches on PS5 and Xbox Series X/S"},
+    {"when": "Sat 21 Nov", "what": "Polaris 40, Southampton; UFC Doha: Prochazka vs Stirling"},
+    {"when": "Sun 22 Nov", "what": "F1 Las Vegas GP, lights out in the early hours Irish time (Sat night local)"}
+  ],
+  "sections": [
+    {
+      "title": "Tech",
+      "items": [
+        {
+          "headline": "FBI probes whether a software update caused the FAA ground stop",
+          "summary": "Communication failures at US air route traffic control centres triggered a nationwide ground stop on Friday. Investigators reportedly suspect a botched software update rather than a cyberattack.",
+          "source": "Bloomberg",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-13/fbi-said-to-probe-whether-software-update-caused-mass-faa-outage"
+        },
+        {
+          "headline": "Nvidia's CEO hunt reportedly reaches Arm's Rene Haas",
+          "summary": "A day after Jensen Huang's exit, Nvidia's board has reportedly approached Arm chief Rene Haas as it searches for a permanent CEO.",
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/2026/11/13/nvidia-huang-ceo-replacement-search.html"
+        },
+        {
+          "headline": "OpenAI launches ChatGPT Wallet and folds its robotics team",
+          "summary": "ChatGPT's agents can now make purchases for US Pro subscribers. Separately, OpenAI has broken up its standalone robotics group, moving staff into research as its general models start driving robots.",
+          "source": "CNBC / Fortune",
+          "url": "https://www.cnbc.com/2026/11/13/openai-chatgpt-wallet-dot-purchases.html"
+        },
+        {
+          "headline": "Anthropic IPO closed to mainland China and Hong Kong investors",
+          "summary": "Share orders from institutional investors in China and Hong Kong are reportedly being turned away, partly because of US export rules.",
+          "source": "Bloomberg",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-13/anthropic-ipo-share-orders-from-china-are-said-to-be-rebuffed"
+        }
+      ]
+    },
+    {
+      "title": "Science & Space",
+      "items": [
+        {
+          "headline": "Starship Flight 15 flies, but the booster catch is called off",
+          "summary": "Ship 42 lifted off from Starbase just before 23:00 Irish time on a planned 22-hour mission. Booster 22 aborted its tower catch and came down in the Gulf of Mexico; the ship's own catch attempt is still to come, roughly this evening if the timeline holds.",
+          "source": "Space.com",
+          "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-starship-flight-15-chopsticks-double-catch-super-heavy-ship"
+        }
+      ]
+    },
+    {
+      "title": "Stargazing",
+      "items": [
+        {
+          "headline": "Tonight in Cavan: dark skies, cloud unknown",
+          "summary": "Forecast sources were unreachable this morning, so check Met Éireann before heading out. Verdict: mixed. Sunset is about 16:38 with full darkness by about 18:40, and the young crescent Moon sets early, so any clear spell gives Saturn in the south and Jupiter later; stray early Leonids are possible after midnight.",
+          "source": "Met Éireann",
+          "url": "https://www.met.ie/weather-forecast/cavan"
+        }
+      ]
+    },
+    {
+      "title": "Gaming",
+      "items": [
+        {
+          "headline": "GTA 6 countdown: five days to go",
+          "summary": "Rockstar's long-delayed GTA 6 lands on PS5 and Xbox Series X/S on Thursday. A quiet day otherwise: nothing new on the Witcher 4, Cyberpunk 2, Witcher 3 or Borderlands watchlist since yesterday.",
+          "source": "GamesRadar",
+          "url": "https://www.gamesradar.com/gta-6-release-date-news-trailers-map-gameplay-rumours/"
+        }
+      ]
+    },
+    {
+      "title": "BJJ & Grappling",
+      "items": [
+        {
+          "headline": "Helena Crevar to defend Polaris lightweight title",
+          "summary": "Crevar is set to put her Polaris belt on the line against Amanda Pamela Nicole, adding to a stacked late-November Polaris schedule in the UK.",
+          "source": "BJJ Eastern Europe",
+          "url": "https://www.bjjee.com/"
+        },
+        {
+          "headline": "ADCC US Open in Austin today",
+          "summary": "ADCC's open circuit hits Austin, Texas this Saturday. Quiet news day otherwise; results to follow tomorrow.",
+          "source": "Let's Roll",
+          "url": "https://letsroll.co/tournaments/adcc-us-open-austin-tx-2026-11"
+        }
+      ]
+    },
+    {
+      "title": "MMA",
+      "items": [
+        {
+          "headline": "UFC 334 title fights official, two miss weight",
+          "summary": "Gane and Hokit both made the heavyweight limit, and Harrison vs Nunes is also set, so both belts are on the line at Madison Square Garden tonight. Two fighters on the undercard came in heavy, one by more than four pounds. Main card lands in the early hours of Sunday Irish time.",
+          "source": "CBS Sports",
+          "url": "https://www.cbssports.com/ufc/news/ufc-334-weigh-in-results-ciryl-gane-josh-hokit-kayla-harrison-amanda-nunes/"
+        }
+      ]
+    },
+    {
+      "title": "Motorsport",
+      "items": [
+        {
+          "headline": "F1 boss 'at wit's end' over reliability",
+          "summary": "One team principal admits chronic reliability failures have wrecked his team's 2026 season, with only Las Vegas and the final rounds left to salvage it.",
+          "source": "RacingNews365",
+          "url": "https://racingnews365.com/f1-boss-at-wits-end-over-chronic-reliability-issues-which-have-wrecked-season"
+        },
+        {
+          "headline": "Drivers push back after a major test, despite Russell's optimism",
+          "summary": "Several drivers voiced reservations after a big test session, contrasting with George Russell's upbeat read.",
+          "source": "RacingNews365",
+          "url": "https://racingnews365.com/f1-drivers-voice-dissent-after-major-test-despite-george-russell-optimism"
+        },
+        {
+          "headline": "Bottas on what Cadillac has told him about his future",
+          "summary": "Valtteri Bottas shared what he has heard from Cadillac about his place in their F1 plans.",
+          "source": "RacingNews365",
+          "url": "https://racingnews365.com/valtteri-bottas-shares-what-hes-heard-from-cadillac-regarding-f1-future"
+        }
+      ]
+    }
+  ]
+}

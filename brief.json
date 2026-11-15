@@ -1,12 +1,11 @@
 {
-  "date": "2026-11-14",
-  "generated": "2026-11-14T06:15:38+00:00",
-  "headline": "Starship's double catch is half-done (booster aborted, ship still up), the FAA's ground stop gets an FBI look, Nvidia courts Arm's boss, and UFC 334 is locked in for tonight.",
+  "date": "2026-11-15",
+  "generated": "2026-11-15T06:10:30+00:00",
+  "headline": "SpaceX finally catches a Starship out of orbit, Gane and Harrison both hold their belts at MSG, and GTA 6 is four days out.",
   "upcoming": [
-    {"when": "Sat 14 Nov", "what": "UFC 334, Madison Square Garden: Gane vs Hokit (heavyweight title), Harrison vs Nunes. Main card early hours of Sun 15 Nov Irish time (TBC). ADCC US Open in Austin the same day"},
-    {"when": "Tue 17-Wed 18 Nov", "what": "Leonid meteor shower peak, with a young Moon setting early, so skies stay dark after midnight"},
-    {"when": "Thu 19 Nov", "what": "GTA 6 launches on PS5 and Xbox Series X/S"},
-    {"when": "Sat 21 Nov", "what": "Polaris 40, Southampton; UFC Doha: Prochazka vs Stirling"},
+    {"when": "Tue 17-Wed 18 Nov", "what": "Leonid meteor shower peak; the crescent Moon sets early, so skies are dark after midnight"},
+    {"when": "Thu 19 Nov", "what": "GTA 6 launches on PS5 and Xbox Series X/S; Anthropic shares due to start trading the same day"},
+    {"when": "Sat 21 Nov", "what": "Polaris 40, Southampton (Garry Tonon on the card); UFC Doha: Prochazka vs Stirling"},
     {"when": "Sun 22 Nov", "what": "F1 Las Vegas GP, lights out in the early hours Irish time (Sat night local)"}
   ],
   "sections": [
@@ -14,28 +13,16 @@
       "title": "Tech",
       "items": [
         {
-          "headline": "FBI probes whether a software update caused the FAA ground stop",
-          "summary": "Communication failures at US air route traffic control centres triggered a nationwide ground stop on Friday. Investigators reportedly suspect a botched software update rather than a cyberattack.",
-          "source": "Bloomberg",
-          "url": "https://www.bloomberg.com/news/articles/2026-11-13/fbi-said-to-probe-whether-software-update-caused-mass-faa-outage"
-        },
-        {
-          "headline": "Nvidia's CEO hunt reportedly reaches Arm's Rene Haas",
-          "summary": "A day after Jensen Huang's exit, Nvidia's board has reportedly approached Arm chief Rene Haas as it searches for a permanent CEO.",
+          "headline": "Anthropic IPO set to start trading on Thursday",
+          "summary": "Anthropic's listing is priced at $70-78 a share, a valuation of up to about $1.4 trillion, with trading expected to begin on 19 November. A quiet weekend otherwise for tech news.",
           "source": "CNBC",
-          "url": "https://www.cnbc.com/2026/11/13/nvidia-huang-ceo-replacement-search.html"
+          "url": "https://www.cnbc.com/2026/11/10/anthropic-sets-price-range-of-70-to-78-in-upcoming-ipo.html"
         },
         {
-          "headline": "OpenAI launches ChatGPT Wallet and folds its robotics team",
-          "summary": "ChatGPT's agents can now make purchases for US Pro subscribers. Separately, OpenAI has broken up its standalone robotics group, moving staff into research as its general models start driving robots.",
-          "source": "CNBC / Fortune",
-          "url": "https://www.cnbc.com/2026/11/13/openai-chatgpt-wallet-dot-purchases.html"
-        },
-        {
-          "headline": "Anthropic IPO closed to mainland China and Hong Kong investors",
-          "summary": "Share orders from institutional investors in China and Hong Kong are reportedly being turned away, partly because of US export rules.",
+          "headline": "Nvidia still hasn't hired a search firm to replace Huang",
+          "summary": "Days after Jensen Huang's resignation, Nvidia's board says it has yet to pick a search firm, even as names such as Arm's Rene Haas are floated in reports.",
           "source": "Bloomberg",
-          "url": "https://www.bloomberg.com/news/articles/2026-11-13/anthropic-ipo-share-orders-from-china-are-said-to-be-rebuffed"
+          "url": "https://www.bloomberg.com/news/articles/2026-11-12/nvidia-drama-triggers-difficult-search-for-huang-s-successor"
         }
       ]
     },
@@ -43,10 +30,16 @@
       "title": "Science & Space",
       "items": [
         {
-          "headline": "Starship Flight 15 flies, but the booster catch is called off",
-          "summary": "Ship 42 lifted off from Starbase just before 23:00 Irish time on a planned 22-hour mission. Booster 22 aborted its tower catch and came down in the Gulf of Mexico; the ship's own catch attempt is still to come, roughly this evening if the timeline holds.",
-          "source": "Space.com",
-          "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-starship-flight-15-chopsticks-double-catch-super-heavy-ship"
+          "headline": "SpaceX catches a Starship upper stage for the first time",
+          "summary": "Ship 42 flew about 14 orbits, deployed Starlink V3 satellites, then came back through re-entry and was caught by the Starbase tower's arms on Saturday evening. The booster had skipped its own catch and splashed down offshore.",
+          "source": "Interesting Engineering",
+          "url": "https://interestingengineering.com/space/spacex-starship-first-upper-stage-catch"
+        },
+        {
+          "headline": "Why the ship catch matters",
+          "summary": "Catching the upper stage, not just the booster, is the key step towards a fully reusable Starship, which SpaceX needs for cheap Starlink launches and its Moon lander plans.",
+          "source": "Teslarati",
+          "url": "https://www.teslarati.com/spacex-catches-starship-first/"
         }
       ]
     },
@@ -54,10 +47,10 @@
       "title": "Stargazing",
       "items": [
         {
-          "headline": "Tonight in Cavan: dark skies, cloud unknown",
-          "summary": "Forecast sources were unreachable this morning, so check Met Éireann before heading out. Verdict: mixed. Sunset is about 16:38 with full darkness by about 18:40, and the young crescent Moon sets early, so any clear spell gives Saturn in the south and Jupiter later; stray early Leonids are possible after midnight.",
+          "headline": "Tonight in Cavan: mixed, with a slim Moon",
+          "summary": "Sunset is around 16:35 and it's fully dark by about 18:30. A thin crescent Moon sets early in the evening, so skies will be dark if cloud breaks, but there's no confirmed clear-sky forecast yet. Verdict: mixed. Check Met Éireann's evening update. The Leonids peak Tuesday-Wednesday night.",
           "source": "Met Éireann",
-          "url": "https://www.met.ie/weather-forecast/cavan"
+          "url": "https://www.met.ie/forecasts/national-forecast"
         }
       ]
     },
@@ -65,10 +58,10 @@
       "title": "Gaming",
       "items": [
         {
-          "headline": "GTA 6 countdown: five days to go",
-          "summary": "Rockstar's long-delayed GTA 6 lands on PS5 and Xbox Series X/S on Thursday. A quiet day otherwise: nothing new on the Witcher 4, Cyberpunk 2, Witcher 3 or Borderlands watchlist since yesterday.",
-          "source": "GamesRadar",
-          "url": "https://www.gamesradar.com/gta-6-release-date-news-trailers-map-gameplay-rumours/"
+          "headline": "GTA 6 countdown: four days to go",
+          "summary": "Rockstar's game is still locked for Thursday 19 November on PS5 and Xbox Series X/S. No PC date yet. Nothing new on the Witcher, Cyberpunk or Borderlands watchlist overnight.",
+          "source": "Fox10 / Gray News",
+          "url": "https://www.fox10tv.com/2026/10/16/gta-6-locks-nov-19-release-date-after-delays/?outputType=amp"
         }
       ]
     },
@@ -76,16 +69,10 @@
       "title": "BJJ & Grappling",
       "items": [
         {
-          "headline": "Helena Crevar to defend Polaris lightweight title",
-          "summary": "Crevar is set to put her Polaris belt on the line against Amanda Pamela Nicole, adding to a stacked late-November Polaris schedule in the UK.",
-          "source": "BJJ Eastern Europe",
-          "url": "https://www.bjjee.com/"
-        },
-        {
-          "headline": "ADCC US Open in Austin today",
-          "summary": "ADCC's open circuit hits Austin, Texas this Saturday. Quiet news day otherwise; results to follow tomorrow.",
-          "source": "Let's Roll",
-          "url": "https://letsroll.co/tournaments/adcc-us-open-austin-tx-2026-11"
+          "headline": "Garry Tonon added to Polaris 40",
+          "summary": "The ONE featherweight veteran returns to jiu-jitsu competition at Polaris 40 in Southampton next Saturday. ADCC US Open results from Austin haven't been published yet.",
+          "source": "FloGrappling",
+          "url": "https://www.flograppling.com/articles/16275000-garry-tonon-to-compete-in-jiu-jitsu-at-polaris-40"
         }
       ]
     },
@@ -93,10 +80,16 @@
       "title": "MMA",
       "items": [
         {
-          "headline": "UFC 334 title fights official, two miss weight",
-          "summary": "Gane and Hokit both made the heavyweight limit, and Harrison vs Nunes is also set, so both belts are on the line at Madison Square Garden tonight. Two fighters on the undercard came in heavy, one by more than four pounds. Main card lands in the early hours of Sunday Irish time.",
-          "source": "CBS Sports",
-          "url": "https://www.cbssports.com/ufc/news/ufc-334-weigh-in-results-ciryl-gane-josh-hokit-kayla-harrison-amanda-nunes/"
+          "headline": "Harrison submits Nunes in round four to retain her title",
+          "summary": "Kayla Harrison ended Amanda Nunes' comeback with a rear-naked choke early in the fourth round at Madison Square Garden. It's Nunes' first fight since retiring, and a big boost to Harrison's case as one of the all-time greats.",
+          "source": "Yahoo Sports",
+          "url": "https://sports.yahoo.com/mma/article/ufc-334-kayla-harrison-spoils-amanda-nunes-comeback-with-legacy-changing-fourth-round-submission-050114094.html"
+        },
+        {
+          "headline": "Gane edges Hokit on the scorecards to keep heavyweight gold",
+          "summary": "Ciryl Gane survived a five-round war with Josh Hokit to win a unanimous decision, 48-47 on all three cards, handing Hokit his first pro loss. No Irish or UK fighters were on the main card.",
+          "source": "Heavy",
+          "url": "https://heavy.com/sports/ufc/ciryl-gane-retains-title-josh-hokit/"
         }
       ]
     },
@@ -104,22 +97,16 @@
       "title": "Motorsport",
       "items": [
         {
-          "headline": "F1 boss 'at wit's end' over reliability",
-          "summary": "One team principal admits chronic reliability failures have wrecked his team's 2026 season, with only Las Vegas and the final rounds left to salvage it.",
-          "source": "RacingNews365",
-          "url": "https://racingnews365.com/f1-boss-at-wits-end-over-chronic-reliability-issues-which-have-wrecked-season"
+          "headline": "FIA bans Daily Mail F1 journalist after Ferrari row",
+          "summary": "The FIA has confirmed a paddock ban for Jonathan McEvoy following a dispute with Ferrari, and some media have announced a boycott in response.",
+          "source": "PlanetF1",
+          "url": "https://www.planetf1.com/news/jonathan-mcevoy-fia-ban-ferrari"
         },
         {
-          "headline": "Drivers push back after a major test, despite Russell's optimism",
-          "summary": "Several drivers voiced reservations after a big test session, contrasting with George Russell's upbeat read.",
-          "source": "RacingNews365",
-          "url": "https://racingnews365.com/f1-drivers-voice-dissent-after-major-test-despite-george-russell-optimism"
-        },
-        {
-          "headline": "Bottas on what Cadillac has told him about his future",
-          "summary": "Valtteri Bottas shared what he has heard from Cadillac about his place in their F1 plans.",
-          "source": "RacingNews365",
-          "url": "https://racingnews365.com/valtteri-bottas-shares-what-hes-heard-from-cadillac-regarding-f1-future"
+          "headline": "Las Vegas next: why the long straights are deceptive",
+          "summary": "Before next weekend's night race, a look at why low grip, cold temperatures and tyre warm-up make Vegas much harder than its simple layout suggests.",
+          "source": "GPFans",
+          "url": "https://www.gpfans.com/en/f1-news/1092063/why-the-las-vegas-grand-prix-is-harder-than-its-long-straights-suggest/"
         }
       ]
     }

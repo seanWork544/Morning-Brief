@@ -1,0 +1,114 @@
+{
+  "date": "2026-11-15",
+  "generated": "2026-11-15T06:10:30+00:00",
+  "headline": "SpaceX finally catches a Starship out of orbit, Gane and Harrison both hold their belts at MSG, and GTA 6 is four days out.",
+  "upcoming": [
+    {"when": "Tue 17-Wed 18 Nov", "what": "Leonid meteor shower peak; the crescent Moon sets early, so skies are dark after midnight"},
+    {"when": "Thu 19 Nov", "what": "GTA 6 launches on PS5 and Xbox Series X/S; Anthropic shares due to start trading the same day"},
+    {"when": "Sat 21 Nov", "what": "Polaris 40, Southampton (Garry Tonon on the card); UFC Doha: Prochazka vs Stirling"},
+    {"when": "Sun 22 Nov", "what": "F1 Las Vegas GP, lights out in the early hours Irish time (Sat night local)"}
+  ],
+  "sections": [
+    {
+      "title": "Tech",
+      "items": [
+        {
+          "headline": "Anthropic IPO set to start trading on Thursday",
+          "summary": "Anthropic's listing is priced at $70-78 a share, a valuation of up to about $1.4 trillion, with trading expected to begin on 19 November. A quiet weekend otherwise for tech news.",
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/2026/11/10/anthropic-sets-price-range-of-70-to-78-in-upcoming-ipo.html"
+        },
+        {
+          "headline": "Nvidia still hasn't hired a search firm to replace Huang",
+          "summary": "Days after Jensen Huang's resignation, Nvidia's board says it has yet to pick a search firm, even as names such as Arm's Rene Haas are floated in reports.",
+          "source": "Bloomberg",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-12/nvidia-drama-triggers-difficult-search-for-huang-s-successor"
+        }
+      ]
+    },
+    {
+      "title": "Science & Space",
+      "items": [
+        {
+          "headline": "SpaceX catches a Starship upper stage for the first time",
+          "summary": "Ship 42 flew about 14 orbits, deployed Starlink V3 satellites, then came back through re-entry and was caught by the Starbase tower's arms on Saturday evening. The booster had skipped its own catch and splashed down offshore.",
+          "source": "Interesting Engineering",
+          "url": "https://interestingengineering.com/space/spacex-starship-first-upper-stage-catch"
+        },
+        {
+          "headline": "Why the ship catch matters",
+          "summary": "Catching the upper stage, not just the booster, is the key step towards a fully reusable Starship, which SpaceX needs for cheap Starlink launches and its Moon lander plans.",
+          "source": "Teslarati",
+          "url": "https://www.teslarati.com/spacex-catches-starship-first/"
+        }
+      ]
+    },
+    {
+      "title": "Stargazing",
+      "items": [
+        {
+          "headline": "Tonight in Cavan: mixed, with a slim Moon",
+          "summary": "Sunset is around 16:35 and it's fully dark by about 18:30. A thin crescent Moon sets early in the evening, so skies will be dark if cloud breaks, but there's no confirmed clear-sky forecast yet. Verdict: mixed. Check Met Éireann's evening update. The Leonids peak Tuesday-Wednesday night.",
+          "source": "Met Éireann",
+          "url": "https://www.met.ie/forecasts/national-forecast"
+        }
+      ]
+    },
+    {
+      "title": "Gaming",
+      "items": [
+        {
+          "headline": "GTA 6 countdown: four days to go",
+          "summary": "Rockstar's game is still locked for Thursday 19 November on PS5 and Xbox Series X/S. No PC date yet. Nothing new on the Witcher, Cyberpunk or Borderlands watchlist overnight.",
+          "source": "Fox10 / Gray News",
+          "url": "https://www.fox10tv.com/2026/10/16/gta-6-locks-nov-19-release-date-after-delays/?outputType=amp"
+        }
+      ]
+    },
+    {
+      "title": "BJJ & Grappling",
+      "items": [
+        {
+          "headline": "Garry Tonon added to Polaris 40",
+          "summary": "The ONE featherweight veteran returns to jiu-jitsu competition at Polaris 40 in Southampton next Saturday. ADCC US Open results from Austin haven't been published yet.",
+          "source": "FloGrappling",
+          "url": "https://www.flograppling.com/articles/16275000-garry-tonon-to-compete-in-jiu-jitsu-at-polaris-40"
+        }
+      ]
+    },
+    {
+      "title": "MMA",
+      "items": [
+        {
+          "headline": "Harrison submits Nunes in round four to retain her title",
+          "summary": "Kayla Harrison ended Amanda Nunes' comeback with a rear-naked choke early in the fourth round at Madison Square Garden. It's Nunes' first fight since retiring, and a big boost to Harrison's case as one of the all-time greats.",
+          "source": "Yahoo Sports",
+          "url": "https://sports.yahoo.com/mma/article/ufc-334-kayla-harrison-spoils-amanda-nunes-comeback-with-legacy-changing-fourth-round-submission-050114094.html"
+        },
+        {
+          "headline": "Gane edges Hokit on the scorecards to keep heavyweight gold",
+          "summary": "Ciryl Gane survived a five-round war with Josh Hokit to win a unanimous decision, 48-47 on all three cards, handing Hokit his first pro loss. No Irish or UK fighters were on the main card.",
+          "source": "Heavy",
+          "url": "https://heavy.com/sports/ufc/ciryl-gane-retains-title-josh-hokit/"
+        }
+      ]
+    },
+    {
+      "title": "Motorsport",
+      "items": [
+        {
+          "headline": "FIA bans Daily Mail F1 journalist after Ferrari row",
+          "summary": "The FIA has confirmed a paddock ban for Jonathan McEvoy following a dispute with Ferrari, and some media have announced a boycott in response.",
+          "source": "PlanetF1",
+          "url": "https://www.planetf1.com/news/jonathan-mcevoy-fia-ban-ferrari"
+        },
+        {
+          "headline": "Las Vegas next: why the long straights are deceptive",
+          "summary": "Before next weekend's night race, a look at why low grip, cold temperatures and tyre warm-up make Vegas much harder than its simple layout suggests.",
+          "source": "GPFans",
+          "url": "https://www.gpfans.com/en/f1-news/1092063/why-the-las-vegas-grand-prix-is-harder-than-its-long-straights-suggest/"
+        }
+      ]
+    }
+  ]
+}

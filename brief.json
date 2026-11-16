@@ -1,28 +1,41 @@
 {
-  "date": "2026-11-15",
-  "generated": "2026-11-15T06:10:30+00:00",
-  "headline": "SpaceX finally catches a Starship out of orbit, Gane and Harrison both hold their belts at MSG, and GTA 6 is four days out.",
+  "date": "2026-11-16",
+  "generated": "2026-11-16T06:14:00+00:00",
+  "headline": "GTA 6 is three days out and pre-sales are booming, a hard frost brings clear skies for Cavan tonight, and Vegas is next as Antonelli's champions' club piles up the points.",
   "upcoming": [
-    {"when": "Tue 17-Wed 18 Nov", "what": "Leonid meteor shower peak; the crescent Moon sets early, so skies are dark after midnight"},
-    {"when": "Thu 19 Nov", "what": "GTA 6 launches on PS5 and Xbox Series X/S; Anthropic shares due to start trading the same day"},
-    {"when": "Sat 21 Nov", "what": "Polaris 40, Southampton (Garry Tonon on the card); UFC Doha: Prochazka vs Stirling"},
-    {"when": "Sun 22 Nov", "what": "F1 Las Vegas GP, lights out in the early hours Irish time (Sat night local)"}
+    {"when": "Tue 17-Wed 18 Nov", "what": "Leonid meteor shower peak; thin Moon, best after midnight"},
+    {"when": "Thu 19 Nov", "what": "GTA 6 launches on PS5 and Xbox Series X/S; Anthropic shares due to start trading"},
+    {"when": "Sat 21 Nov", "what": "Polaris 40, Southampton; UFC Qatar: Prochazka vs Stirling in Doha"},
+    {"when": "Sat 21 Nov, 04:00", "what": "F1 Las Vegas GP qualifying (Irish time)"},
+    {"when": "Sun 22 Nov, 04:00", "what": "F1 Las Vegas GP race, 50 laps (Irish time)"}
   ],
   "sections": [
     {
       "title": "Tech",
       "items": [
         {
-          "headline": "Anthropic IPO set to start trading on Thursday",
-          "summary": "Anthropic's listing is priced at $70-78 a share, a valuation of up to about $1.4 trillion, with trading expected to begin on 19 November. A quiet weekend otherwise for tech news.",
-          "source": "CNBC",
-          "url": "https://www.cnbc.com/2026/11/10/anthropic-sets-price-range-of-70-to-78-in-upcoming-ipo.html"
+          "headline": "US takes down North Korean deepfake-call crypto scheme",
+          "summary": "US authorities seized the cloud infrastructure behind a campaign that used fake Zoom and Teams calls with deepfaked faces to steal more than $400 million in crypto.",
+          "source": "BleepingComputer",
+          "url": "https://www.bleepingcomputer.com/news/security/us-disrupts-north-korean-campaign-behind-400-million-crypto-theft/"
         },
         {
-          "headline": "Nvidia still hasn't hired a search firm to replace Huang",
-          "summary": "Days after Jensen Huang's resignation, Nvidia's board says it has yet to pick a search firm, even as names such as Arm's Rene Haas are floated in reports.",
-          "source": "Bloomberg",
-          "url": "https://www.bloomberg.com/news/articles/2026-11-12/nvidia-drama-triggers-difficult-search-for-huang-s-successor"
+          "headline": "Thousands of vibe-coded Lovable apps left databases wide open",
+          "summary": "Researchers found about 24,000 Lovable-built sites with Supabase databases readable without logging in, exposing passport scans and around 200,000 chat logs.",
+          "source": "Crissy Field",
+          "url": "https://www.crissyfield.de/research/lovable-en/"
+        },
+        {
+          "headline": "Apple launches a 200,000-person study of AI health questions",
+          "summary": "Apple and OpenEvidence opened a year-long US study app to track how iPhone users lean on AI for health advice.",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health/"
+        },
+        {
+          "headline": "Lutnick joins Trump's China trip amid Nvidia chip-export row",
+          "summary": "The Commerce Secretary is expected on the trip despite a clash with Treasury over blacklisting Megaspeed, with AI chip exports high on the agenda.",
+          "source": "Semafor",
+          "url": "https://www.semafor.com/article/11/15/2026/under-pressure-lutnick-joins-trump-in-china"
         }
       ]
     },
@@ -30,16 +43,10 @@
       "title": "Science & Space",
       "items": [
         {
-          "headline": "SpaceX catches a Starship upper stage for the first time",
-          "summary": "Ship 42 flew about 14 orbits, deployed Starlink V3 satellites, then came back through re-entry and was caught by the Starbase tower's arms on Saturday evening. The booster had skipped its own catch and splashed down offshore.",
-          "source": "Interesting Engineering",
-          "url": "https://interestingengineering.com/space/spacex-starship-first-upper-stage-catch"
-        },
-        {
-          "headline": "Why the ship catch matters",
-          "summary": "Catching the upper stage, not just the booster, is the key step towards a fully reusable Starship, which SpaceX needs for cheap Starlink launches and its Moon lander plans.",
-          "source": "Teslarati",
-          "url": "https://www.teslarati.com/spacex-catches-starship-first/"
+          "headline": "Quiet day after the Starship catch",
+          "summary": "No major new missions or discoveries since Saturday's first upper-stage catch. The next sky event worth staying up for is the Leonid meteor peak on Tuesday-Wednesday night.",
+          "source": "NPR",
+          "url": "https://www.npr.org/2026/11/14/g-s1-153786/spacex-successfully-catches-starship-and-makes-history"
         }
       ]
     },
@@ -47,10 +54,10 @@
       "title": "Stargazing",
       "items": [
         {
-          "headline": "Tonight in Cavan: mixed, with a slim Moon",
-          "summary": "Sunset is around 16:35 and it's fully dark by about 18:30. A thin crescent Moon sets early in the evening, so skies will be dark if cloud breaks, but there's no confirmed clear-sky forecast yet. Verdict: mixed. Check Met Éireann's evening update. The Leonids peak Tuesday-Wednesday night.",
-          "source": "Met Éireann",
-          "url": "https://www.met.ie/forecasts/national-forecast"
+          "headline": "Tonight in Cavan: good, but cold",
+          "summary": "Met Éireann expects most areas dry with long clear spells and a widespread frost (-3 to +1C); the rain warnings are for the west and south, not Cavan. The thin crescent Moon sets early. Dark from about 18:30, best viewing 19:00 to midnight before cloud creeps in from the southwest. Verdict: good. Wrap up.",
+          "source": "RTÉ / Met Éireann",
+          "url": "https://www.rte.ie/news/ireland/2026/1116/1599326-weather-ireland-climate/"
         }
       ]
     },
@@ -58,10 +65,16 @@
       "title": "Gaming",
       "items": [
         {
-          "headline": "GTA 6 countdown: four days to go",
-          "summary": "Rockstar's game is still locked for Thursday 19 November on PS5 and Xbox Series X/S. No PC date yet. Nothing new on the Witcher, Cyberpunk or Borderlands watchlist overnight.",
-          "source": "Fox10 / Gray News",
-          "url": "https://www.fox10tv.com/2026/10/16/gta-6-locks-nov-19-release-date-after-delays/?outputType=amp"
+          "headline": "GTA 6 pre-sales far ahead of expectations, says Take-Two",
+          "summary": "Three days before Thursday's console launch, Take-Two's boss says pre-orders are running well above forecasts. Still no PC date.",
+          "source": "Variety",
+          "url": "https://variety.com/2026/gaming/news/gta-6-preorders-expectations-launch-1236943278/"
+        },
+        {
+          "headline": "GTA 6 Online may be a year away",
+          "summary": "A Bloomberg documentary suggests the multiplayer mode will arrive roughly a year after launch; Rockstar hasn't confirmed it, so treat it as a rumour. Nothing new on the Witcher, Cyberpunk or Borderlands watchlist.",
+          "source": "Notebookcheck",
+          "url": "https://www.notebookcheck.net/GTA-6-Online-release-window-has-apparently-leaked.1449676.0.html"
         }
       ]
     },
@@ -69,8 +82,8 @@
       "title": "BJJ & Grappling",
       "items": [
         {
-          "headline": "Garry Tonon added to Polaris 40",
-          "summary": "The ONE featherweight veteran returns to jiu-jitsu competition at Polaris 40 in Southampton next Saturday. ADCC US Open results from Austin haven't been published yet.",
+          "headline": "Quiet start to the week; Polaris 40 on Saturday",
+          "summary": "No major results overnight. Next up is Polaris 40 in Southampton, with Garry Tonon back in jiu-jitsu competition.",
           "source": "FloGrappling",
           "url": "https://www.flograppling.com/articles/16275000-garry-tonon-to-compete-in-jiu-jitsu-at-polaris-40"
         }
@@ -80,16 +93,10 @@
       "title": "MMA",
       "items": [
         {
-          "headline": "Harrison submits Nunes in round four to retain her title",
-          "summary": "Kayla Harrison ended Amanda Nunes' comeback with a rear-naked choke early in the fourth round at Madison Square Garden. It's Nunes' first fight since retiring, and a big boost to Harrison's case as one of the all-time greats.",
-          "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/mma/article/ufc-334-kayla-harrison-spoils-amanda-nunes-comeback-with-legacy-changing-fourth-round-submission-050114094.html"
-        },
-        {
-          "headline": "Gane edges Hokit on the scorecards to keep heavyweight gold",
-          "summary": "Ciryl Gane survived a five-round war with Josh Hokit to win a unanimous decision, 48-47 on all three cards, handing Hokit his first pro loss. No Irish or UK fighters were on the main card.",
-          "source": "Heavy",
-          "url": "https://heavy.com/sports/ufc/ciryl-gane-retains-title-josh-hokit/"
+          "headline": "UFC Qatar fight week: Prochazka vs unbeaten Stirling",
+          "summary": "Saturday's Doha main event pits Jiri Prochazka against 11-0 Navajo Stirling, with the winner a likely next challenger for injured champion Carlos Ulberg.",
+          "source": "CBS Sports",
+          "url": "https://www.cbssports.com/ufc/news/ufc-fight-night-qatar-jiri-prochazka-vs-navajo-stirling-fight-card/"
         }
       ]
     },
@@ -97,16 +104,16 @@
       "title": "Motorsport",
       "items": [
         {
-          "headline": "FIA bans Daily Mail F1 journalist after Ferrari row",
-          "summary": "The FIA has confirmed a paddock ban for Jonathan McEvoy following a dispute with Ferrari, and some media have announced a boycott in response.",
-          "source": "PlanetF1",
-          "url": "https://www.planetf1.com/news/jonathan-mcevoy-fia-ban-ferrari"
+          "headline": "F1's five champions have scored more than half of 2026's points",
+          "summary": "Champion Kimi Antonelli (390 points), Verstappen, Hamilton, Norris and Alonso hold almost 53% of all points scored this season, with Vegas, Qatar and Abu Dhabi to go.",
+          "source": "RacingNews365",
+          "url": "https://racingnews365.com/2026-f1-drivers-champions-on-verge-of-staggering-achievement"
         },
         {
-          "headline": "Las Vegas next: why the long straights are deceptive",
-          "summary": "Before next weekend's night race, a look at why low grip, cold temperatures and tyre warm-up make Vegas much harder than its simple layout suggests.",
-          "source": "GPFans",
-          "url": "https://www.gpfans.com/en/f1-news/1092063/why-the-las-vegas-grand-prix-is-harder-than-its-long-straights-suggest/"
+          "headline": "Las Vegas schedule: another early-hours weekend",
+          "summary": "Qualifying is at 04:00 Irish time on Saturday and the 50-lap race at 04:00 on Sunday; FP1 starts at 00:30 on Friday.",
+          "source": "RacingNews365",
+          "url": "https://racingnews365.com/2026-f1-las-vegas-grand-prix-time-schedule"
         }
       ]
     }

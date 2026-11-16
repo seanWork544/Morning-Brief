@@ -1,0 +1,121 @@
+{
+  "date": "2026-11-16",
+  "generated": "2026-11-16T06:14:00+00:00",
+  "headline": "GTA 6 is three days out and pre-sales are booming, a hard frost brings clear skies for Cavan tonight, and Vegas is next as Antonelli's champions' club piles up the points.",
+  "upcoming": [
+    {"when": "Tue 17-Wed 18 Nov", "what": "Leonid meteor shower peak; thin Moon, best after midnight"},
+    {"when": "Thu 19 Nov", "what": "GTA 6 launches on PS5 and Xbox Series X/S; Anthropic shares due to start trading"},
+    {"when": "Sat 21 Nov", "what": "Polaris 40, Southampton; UFC Qatar: Prochazka vs Stirling in Doha"},
+    {"when": "Sat 21 Nov, 04:00", "what": "F1 Las Vegas GP qualifying (Irish time)"},
+    {"when": "Sun 22 Nov, 04:00", "what": "F1 Las Vegas GP race, 50 laps (Irish time)"}
+  ],
+  "sections": [
+    {
+      "title": "Tech",
+      "items": [
+        {
+          "headline": "US takes down North Korean deepfake-call crypto scheme",
+          "summary": "US authorities seized the cloud infrastructure behind a campaign that used fake Zoom and Teams calls with deepfaked faces to steal more than $400 million in crypto.",
+          "source": "BleepingComputer",
+          "url": "https://www.bleepingcomputer.com/news/security/us-disrupts-north-korean-campaign-behind-400-million-crypto-theft/"
+        },
+        {
+          "headline": "Thousands of vibe-coded Lovable apps left databases wide open",
+          "summary": "Researchers found about 24,000 Lovable-built sites with Supabase databases readable without logging in, exposing passport scans and around 200,000 chat logs.",
+          "source": "Crissy Field",
+          "url": "https://www.crissyfield.de/research/lovable-en/"
+        },
+        {
+          "headline": "Apple launches a 200,000-person study of AI health questions",
+          "summary": "Apple and OpenEvidence opened a year-long US study app to track how iPhone users lean on AI for health advice.",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health/"
+        },
+        {
+          "headline": "Lutnick joins Trump's China trip amid Nvidia chip-export row",
+          "summary": "The Commerce Secretary is expected on the trip despite a clash with Treasury over blacklisting Megaspeed, with AI chip exports high on the agenda.",
+          "source": "Semafor",
+          "url": "https://www.semafor.com/article/11/15/2026/under-pressure-lutnick-joins-trump-in-china"
+        }
+      ]
+    },
+    {
+      "title": "Science & Space",
+      "items": [
+        {
+          "headline": "Quiet day after the Starship catch",
+          "summary": "No major new missions or discoveries since Saturday's first upper-stage catch. The next sky event worth staying up for is the Leonid meteor peak on Tuesday-Wednesday night.",
+          "source": "NPR",
+          "url": "https://www.npr.org/2026/11/14/g-s1-153786/spacex-successfully-catches-starship-and-makes-history"
+        }
+      ]
+    },
+    {
+      "title": "Stargazing",
+      "items": [
+        {
+          "headline": "Tonight in Cavan: good, but cold",
+          "summary": "Met Éireann expects most areas dry with long clear spells and a widespread frost (-3 to +1C); the rain warnings are for the west and south, not Cavan. The thin crescent Moon sets early. Dark from about 18:30, best viewing 19:00 to midnight before cloud creeps in from the southwest. Verdict: good. Wrap up.",
+          "source": "RTÉ / Met Éireann",
+          "url": "https://www.rte.ie/news/ireland/2026/1116/1599326-weather-ireland-climate/"
+        }
+      ]
+    },
+    {
+      "title": "Gaming",
+      "items": [
+        {
+          "headline": "GTA 6 pre-sales far ahead of expectations, says Take-Two",
+          "summary": "Three days before Thursday's console launch, Take-Two's boss says pre-orders are running well above forecasts. Still no PC date.",
+          "source": "Variety",
+          "url": "https://variety.com/2026/gaming/news/gta-6-preorders-expectations-launch-1236943278/"
+        },
+        {
+          "headline": "GTA 6 Online may be a year away",
+          "summary": "A Bloomberg documentary suggests the multiplayer mode will arrive roughly a year after launch; Rockstar hasn't confirmed it, so treat it as a rumour. Nothing new on the Witcher, Cyberpunk or Borderlands watchlist.",
+          "source": "Notebookcheck",
+          "url": "https://www.notebookcheck.net/GTA-6-Online-release-window-has-apparently-leaked.1449676.0.html"
+        }
+      ]
+    },
+    {
+      "title": "BJJ & Grappling",
+      "items": [
+        {
+          "headline": "Quiet start to the week; Polaris 40 on Saturday",
+          "summary": "No major results overnight. Next up is Polaris 40 in Southampton, with Garry Tonon back in jiu-jitsu competition.",
+          "source": "FloGrappling",
+          "url": "https://www.flograppling.com/articles/16275000-garry-tonon-to-compete-in-jiu-jitsu-at-polaris-40"
+        }
+      ]
+    },
+    {
+      "title": "MMA",
+      "items": [
+        {
+          "headline": "UFC Qatar fight week: Prochazka vs unbeaten Stirling",
+          "summary": "Saturday's Doha main event pits Jiri Prochazka against 11-0 Navajo Stirling, with the winner a likely next challenger for injured champion Carlos Ulberg.",
+          "source": "CBS Sports",
+          "url": "https://www.cbssports.com/ufc/news/ufc-fight-night-qatar-jiri-prochazka-vs-navajo-stirling-fight-card/"
+        }
+      ]
+    },
+    {
+      "title": "Motorsport",
+      "items": [
+        {
+          "headline": "F1's five champions have scored more than half of 2026's points",
+          "summary": "Champion Kimi Antonelli (390 points), Verstappen, Hamilton, Norris and Alonso hold almost 53% of all points scored this season, with Vegas, Qatar and Abu Dhabi to go.",
+          "source": "RacingNews365",
+          "url": "https://racingnews365.com/2026-f1-drivers-champions-on-verge-of-staggering-achievement"
+        },
+        {
+          "headline": "Las Vegas schedule: another early-hours weekend",
+          "summary": "Qualifying is at 04:00 Irish time on Saturday and the 50-lap race at 04:00 on Sunday; FP1 starts at 00:30 on Friday.",
+          "source": "RacingNews365",
+          "url": "https://racingnews365.com/2026-f1-las-vegas-grand-prix-time-schedule"
+        }
+      ]
+    }
+  ]
+}

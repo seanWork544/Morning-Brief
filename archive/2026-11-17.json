@@ -1,0 +1,128 @@
+{
+  "date": "2026-11-17",
+  "generated": "2026-11-17T06:24:00+00:00",
+  "headline": "Nvidia's Vera Rubin sweeps MLPerf, the Leonids peak tonight between Cavan showers, and F1 teams roll out Vegas liveries as Hamilton's reported £50m claim stirs the paddock.",
+  "upcoming": [
+    {"when": "Tue 17-Wed 18 Nov", "what": "Leonid meteor shower peak; best after midnight in clear gaps"},
+    {"when": "Thu 19 Nov", "what": "GTA 6 launches on PS5 and Xbox Series X/S"},
+    {"when": "Sat 21 Nov", "what": "Polaris 40, Southampton; UFC Qatar: Prochazka vs Stirling in Doha"},
+    {"when": "Sat 21 Nov, 04:00", "what": "F1 Las Vegas GP qualifying (Irish time)"},
+    {"when": "Sun 22 Nov, 04:00", "what": "F1 Las Vegas GP race (Irish time)"},
+    {"when": "Fri 11 Dec", "what": "EA UFC 6 PRIDE FC expansion due"}
+  ],
+  "sections": [
+    {
+      "title": "Tech",
+      "items": [
+        {
+          "headline": "Nvidia Vera Rubin sweeps MLPerf Training",
+          "summary": "In results out on Monday, Vera Rubin NVL72 topped every MLPerf Training v6.1 benchmark, with up to twice the per-GPU speed of GB300 and near-linear scaling to 1,024 GPUs.",
+          "source": "NVIDIA Blog / DEV digest",
+          "url": "https://dev.to/hiroki-ii-ai/ai-daily-digest-november-17-2026-claude-onboards-amd-gpus-in-3-days-vera-rubin-sweeps-mlperf-482n"
+        },
+        {
+          "headline": "Anthropic: Claude ported a model to AMD GPUs in about three days",
+          "summary": "Ahead of Thursday's listing, Anthropic told investors a Claude Mythos preview did the porting work for one model on AMD's MI355X in roughly three days, against 6-12 months historically. The claim covers one model's prefill only.",
+          "source": "Tom's Hardware via DEV digest",
+          "url": "https://dev.to/hiroki-ii-ai/ai-daily-digest-november-17-2026-claude-onboards-amd-gpus-in-3-days-vera-rubin-sweeps-mlperf-482n"
+        },
+        {
+          "headline": "Microsoft puts a local coding model into GitHub Copilot",
+          "summary": "MAI-Code-1.1-Flash, a 138B-parameter mixture-of-experts model, can now run locally in Copilot on high-memory machines; Google also made Gemini in Apps Script generally available.",
+          "source": "DEV digest",
+          "url": "https://dev.to/hiroki-ii-ai/ai-daily-digest-november-17-2026-claude-onboards-amd-gpus-in-3-days-vera-rubin-sweeps-mlperf-482n"
+        }
+      ]
+    },
+    {
+      "title": "Science & Space",
+      "items": [
+        {
+          "headline": "Quiet in orbit; the Leonids are tonight's show",
+          "summary": "No major new launches or discoveries confirmed overnight after last week's Starship Flight 15. The Leonid meteor shower peaks tonight into Wednesday, with a dark sky thanks to a young Moon.",
+          "source": "Space.com",
+          "url": "https://www.space.com/space-exploration/launches-spacecraft/double-catch-drama-why-starships-flight-15-is-so-important-to-spacex"
+        }
+      ]
+    },
+    {
+      "title": "Stargazing",
+      "items": [
+        {
+          "headline": "Tonight in Cavan: mixed, chase the gaps for the Leonids",
+          "summary": "Met Éireann's Ulster forecast has clear spells and scattered showers tonight, lows of 2 to 6C and light winds, so milder than last night. The young crescent Moon sets early, leaving dark skies. Dark from about 17:30; for meteors, watch clear breaks after midnight, facing east. Verdict: mixed.",
+          "source": "Met Éireann",
+          "url": "https://www.met.ie/ulster-forecast.html"
+        }
+      ]
+    },
+    {
+      "title": "Gaming",
+      "items": [
+        {
+          "headline": "GTA 6 launch week: two days to go",
+          "summary": "Rockstar's game lands Thursday on PS5 and Xbox Series X/S, with still no PC date. Nothing new turned up on the Witcher, Cyberpunk or Borderlands watchlist.",
+          "source": "Yahoo Tech",
+          "url": "https://tech.yahoo.com/gaming/articles/gta-6-releases-week-heres-110332150.html"
+        },
+        {
+          "headline": "EA UFC 6 announces a PRIDE FC expansion for 11 December",
+          "summary": "The long-requested PRIDE content, including the classic ring, is coming to EA UFC 6 next month.",
+          "source": "MMA Mania",
+          "url": "https://mmamania.com/latest-news/487038/pride-never-die-ea-ufc-6-announces-long-awaited-pride-fc-expansion"
+        }
+      ]
+    },
+    {
+      "title": "BJJ & Grappling",
+      "items": [
+        {
+          "headline": "Quiet week so far; Polaris 40 on Saturday",
+          "summary": "No major results since The Crown. Saturday's Polaris 40 in Southampton sees Garry Tonon back in jiu-jitsu competition.",
+          "source": "FloGrappling",
+          "url": "https://www.flograppling.com/articles/16275000-garry-tonon-to-compete-in-jiu-jitsu-at-polaris-40"
+        }
+      ]
+    },
+    {
+      "title": "MMA",
+      "items": [
+        {
+          "headline": "What's next for the UFC 334 winners",
+          "summary": "After Gane retained heavyweight gold and Kayla Harrison submitted Amanda Nunes at MSG, attention turns to who each faces next; no Irish or UK fighters featured.",
+          "source": "Cageside Press",
+          "url": "https://cagesidepress.com/2026/11/16/whats-next-ufc-334-winners/"
+        },
+        {
+          "headline": "UFC Qatar on Saturday: Prochazka vs Stirling",
+          "summary": "Fight week in Doha, with unbeaten Navajo Stirling looking to leap into title contention at the former champion's expense.",
+          "source": "Heavy",
+          "url": "https://heavy.com/sports/ufc/jiri-prochazka-battles-navajo-stirling-qatar/"
+        }
+      ]
+    },
+    {
+      "title": "Motorsport",
+      "items": [
+        {
+          "headline": "Hamilton reportedly seeking £50m from F1 and the FIA",
+          "summary": "A report links the claim to a proposed major rule change; neither side has confirmed details, so treat it with some caution.",
+          "source": "RacingNews365",
+          "url": "https://racingnews365.com/lewis-hamilton-seeking-50-million-from-f1-and-fia-as-major-rule-change-proposed"
+        },
+        {
+          "headline": "Aston Martin and Williams dress up for Vegas",
+          "summary": "Aston Martin has revealed a major one-off livery change and Williams a chrome tweak for Saturday night's race on the Strip.",
+          "source": "RacingNews365",
+          "url": "https://racingnews365.com/aston-martin-unveil-major-f1-livery-change-for-las-vegas-grand-prix"
+        },
+        {
+          "headline": "Lawson still waiting on Racing Bulls decision",
+          "summary": "Liam Lawson's 2027 future remains unresolved, and the delay is drawing harsh verdicts. Quiet on the GT and endurance front.",
+          "source": "RacingNews365",
+          "url": "https://racingnews365.com/liam-lawson-handed-crushing-verdict-over-delayed-racing-bulls-decision"
+        }
+      ]
+    }
+  ]
+}

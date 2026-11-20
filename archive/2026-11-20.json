@@ -1,0 +1,41 @@
+{
+  "date": "2026-11-20",
+  "generated": "2026-11-20T06:16:16+00:00",
+  "headline": "Anthropic jumps 17% on its Nasdaq debut, GTA 6 reportedly pulls in over $2bn on day one, and Russell tops a soaking Las Vegas practice.",
+  "upcoming": [
+    {"when": "Sat 21 Nov, 04:00", "what": "F1 Las Vegas GP qualifying (Irish time); more rain possible"},
+    {"when": "Sat 21 Nov", "what": "Polaris 40, Southampton (prelims 14:30, main card 19:00): Irishman Sam McNally vs Garry Tonon for the lightweight title"},
+    {"when": "Sat 21 Nov, 18:00", "what": "UFC Qatar main card (Irish time): Prochazka vs Stirling; prelims from 15:00"},
+    {"when": "Sun 22 Nov, 04:00", "what": "F1 Las Vegas GP race (Irish time)"},
+    {"when": "Sun 29 Nov", "what": "F1 Qatar GP, the penultimate round (time TBC)"},
+    {"when": "Fri 11 Dec", "what": "EA UFC 6 PRIDE FC expansion due"}
+  ],
+  "sections": [
+    {"title": "Tech", "items": [
+      {"headline": "Anthropic closes 17% above its IPO price on day one", "summary": "After a choppy first session on Nasdaq, the Claude maker's shares finished well above the $83 offer price, a rare bright spot on a day the wider market slid.", "source": "CBS News", "url": "https://www.cbsnews.com/news/anthropic-ipo-nasdaq-debut-claude-ai/"},
+      {"headline": "Nvidia posts a $115.8bn quarter and guides higher", "summary": "Revenue roughly doubled year on year, driven by data centre sales and the first big quarter of Vera Rubin chips, with next-quarter guidance of about $130bn ahead of expectations.", "source": "DEV Community (AI Daily Digest)", "url": "https://dev.to/hiroki-ii-ai/ai-daily-digest-november-19-2026-nvidia-posts-1158b-quarter-openai-turns-gpt-6-on-physics-5emd"},
+      {"headline": "Isomorphic Labs raises $5bn for AI drug discovery", "summary": "The DeepMind spin-out's Series C takes its disclosed funding to $7.7bn, though none of its designed molecules has reached human trials yet.", "source": "DEV Community (AI Daily Digest)", "url": "https://dev.to/hiroki-ii-ai/ai-daily-digest-november-19-2026-nvidia-posts-1158b-quarter-openai-turns-gpt-6-on-physics-5emd"}
+    ]},
+    {"title": "Science & Space", "items": [
+      {"headline": "SpaceX scrubs classified Space Force launch, retries Friday", "summary": "The Falcon 9 carrying the USSF-317 national security payload from Vandenberg stood down on Thursday night and is now aiming for Friday.", "source": "Spaceflight Now", "url": "https://spaceflightnow.com/2026/11/19/live-coverage-spacex-to-launch-classified-payload-for-the-u-s-space-force-2"},
+      {"headline": "OpenAI points GPT-6 at fundamental physics", "summary": "A physicist's guest post on OpenAI's new science blog describes a model-assisted candidate lattice formulation of the Standard Model, with a long preprint and plenty of caveats; one to watch as physicists pick it apart.", "source": "DEV Community (AI Daily Digest)", "url": "https://dev.to/hiroki-ii-ai/ai-daily-digest-november-19-2026-nvidia-posts-1158b-quarter-openai-turns-gpt-6-on-physics-5emd"}
+    ]},
+    {"title": "Stargazing", "items": [
+      {"headline": "Tonight in Cavan: mixed, Moon-washed skies", "summary": "This run couldn't load a fresh Met Éireann forecast, so check before heading out. A bright waxing gibbous Moon (full on the 24th) dominates the evening and sets in the early hours; darkness from about 18:15. Verdict: mixed, best for the Moon and bright planets in any clear breaks, deep-sky only after Moonset.", "source": "Met Éireann", "url": "https://www.met.ie/national-forecast.html"}
+    ]},
+    {"title": "Gaming", "items": [
+      {"headline": "GTA 6 reportedly tops $2bn on launch day", "summary": "Industry estimates put Rockstar's first-day sales above $2bn, which would make it the biggest entertainment launch ever, with analysts saying one day may cover Take-Two's quarterly forecast.", "source": "The Statesman", "url": "https://www.thestatesman.com/entertainment/biggest-entertainment-launch-ever-gta-6-pulls-in-over-2-billion-on-day-one-industry-estimate-says-1503664665.html"},
+      {"headline": "Take-Two braced for record-shattering numbers", "summary": "The launch drew huge fanfare worldwide and Take-Two is expected to break sales records; there's still no PC release date. Nothing new on the Witcher, Cyberpunk 2 or Borderlands watchlist today.", "source": "The Star", "url": "https://www.thestar.com.my/tech/tech-news/2026/11/20/take-two-set-to-shatter-sales-records-as-039gta-vi039-launches-to-massive-fanfare"}
+    ]},
+    {"title": "BJJ & Grappling", "items": [
+      {"headline": "Polaris 40 tomorrow: McNally defends his ADCC upset", "summary": "Irish grappler Sam McNally, who beat top seed Garry Tonon at ADCC 2022, meets him again for the Polaris lightweight title in a sold-out Southampton; Tonon has never lost at Polaris and returns after nine years.", "source": "BJJ TV", "url": "https://bjj.tv/garry-tonon-returns-to-polaris-after-nine-years-for-a-lightweight-title-rematch-with-sam-mcnally-the-man-who-beat-him-at-adcc/"}
+    ]},
+    {"title": "MMA", "items": [
+      {"headline": "UFC Qatar weigh-ins today", "summary": "Fighters hit the scales in Doha ahead of Saturday's card headlined by Jiri Prochazka vs unbeaten Navajo Stirling, with Aljamain Sterling vs Kevin Vallejos and Dan Hooker vs Brian Ortega also on the main card.", "source": "Cageside Press", "url": "https://cagesidepress.com/2026/11/20/ufc-qatar-prochazka-vs-stirling-weigh-in-results/"}
+    ]},
+    {"title": "Motorsport", "items": [
+      {"headline": "Russell edges Gasly in wet Vegas FP2", "summary": "George Russell topped a rain-soaked second practice by just 0.071s from Alpine's Pierre Gasly, with Leclerc third, Hadjar fourth and Piastri fifth.", "source": "Formula1.com", "url": "https://www.formula1.com/en/latest/article/fp2-russell-beats-gasly-and-leclerc-to-top-spot-in-wet-las-vegas-gp-practice.62NwXdkf1krQs0esgViJtc"},
+      {"headline": "FP1 a washout for lap times", "summary": "The opening session was so wet that no representative times were set, leaving teams short on dry running before qualifying. Quiet on the GT and endurance front.", "source": "RACER", "url": "https://racer.com/2026/11/20/russell-tops-wet-fp2-in-las-vegas"}
+    ]}
+  ]
+}

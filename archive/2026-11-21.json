@@ -1,0 +1,44 @@
+{
+  "date": "2026-11-21",
+  "generated": "2026-11-21T06:15:11+00:00",
+  "headline": "Verstappen inherits Vegas pole after Antonelli's penalty, GTA 6 hits a record-equalling 99 on Metacritic, and Polaris 40 plus UFC Qatar fill tonight's fight card.",
+  "upcoming": [
+    {"when": "Sat 21 Nov, 15:00", "what": "UFC Qatar prelims, main card 18:00 (Irish time): Prochazka vs Stirling"},
+    {"when": "Sat 21 Nov, 19:00", "what": "Polaris 40 main card, Southampton: Irishman Sam McNally vs Garry Tonon for the lightweight title (prelims 14:30)"},
+    {"when": "Sun 22 Nov, 04:00", "what": "F1 Las Vegas GP race (Irish time), Verstappen on pole"},
+    {"when": "Sun 29 Nov", "what": "F1 Qatar GP, the penultimate round (time TBC)"},
+    {"when": "Sun 29 Nov", "what": "Cygnus CRS-25 cargo launch to the ISS"},
+    {"when": "Fri 11 Dec", "what": "EA UFC 6 PRIDE FC expansion due"}
+  ],
+  "sections": [
+    {"title": "Motorsport", "items": [
+      {"headline": "Antonelli fastest in Vegas, but Verstappen starts on pole", "summary": "Kimi Antonelli topped qualifying by a quarter of a second, but a five-place penalty for power unit changes hands pole to Max Verstappen, with Russell and Norris alongside and behind.", "source": "Formula1.com", "url": "https://www.formula1.com/en/latest/article/antonelli-quickest-in-las-vegas-gp-qualifying-as-verstappen-inherits-pole-position.6R7udh8iYMHunSOGI6zStK"},
+      {"headline": "Penalties scramble the grid; Ferrari out in Q2", "summary": "Piastri and Sainz both take 10-place engine penalties, while Leclerc and Hamilton failed to reach Q3, leaving Racing Bulls rookie Lindblad and Hadjar near the front. Race is at 04:00 Sunday Irish time.", "source": "Motorsport Week", "url": "https://www.motorsportweek.com/2026/11/21/f1-2026-las-vegas-grand-prix-qualifying-results/"}
+    ]},
+    {"title": "Tech", "items": [
+      {"headline": "Gemini can now drive your Mac", "summary": "Google launched a Gemini agent that operates Mac apps, sorts local files and fills in forms, initially for US paying subscribers in English.", "source": "TechCrunch", "url": "https://techcrunch.com/2026/11/19/google-gives-gemini-the-ability-to-use-your-mac-for-you/"},
+      {"headline": "Apple reportedly building its own computer-use agent", "summary": "Bloomberg says Apple is working on an early-stage agent that can control apps, browse the web and write code.", "source": "TechCrunch", "url": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/"},
+      {"headline": "AI-assisted cyberattack hits the European Commission", "summary": "The attack temporarily disrupted payroll and medical reimbursement systems, and officials are checking whether staff data was taken.", "source": "The Register", "url": "https://www.theregister.com/cyber-crime/2026/11/19/european-commission-scrambles-to-contain-ai-assisted-cyberattack/5311103"},
+      {"headline": "Microsoft unveils seven new in-house MAI models at Ignite", "summary": "The lineup spans coding, security, image generation and real-time speech, pitched as near-frontier performance at much lower cost.", "source": "Microsoft AI", "url": "https://microsoft.ai/news/microsoft-ignite-2026/"}
+    ]},
+    {"title": "Science & Space", "items": [
+      {"headline": "Hayabusa2 abandons its asteroid landing", "summary": "With its last working ion thruster failed, JAXA has dropped the planned touchdown on 1998 KY26 and will settle for a high-speed flyby of another near-Earth asteroid in 2028.", "source": "JAXA (via Starlust recap)", "url": "https://starlust.org/space-weekly-recap-november-14-november-20-2026-key-stories-you-may-have-missed/"},
+      {"headline": "Perseverance pauses science; Mars Odyssey offline", "summary": "Perseverance went into safe mode over a UHF radio issue and hopes to resume by month's end, while Odyssey is down after losing a reaction wheel.", "source": "NASA", "url": "https://science.nasa.gov/blogs/mars/2026/11/19/nasas-perseverance-odyssey-teams-investigate-technical-issues/"},
+      {"headline": "Google books New Glenn for orbital AI data centres", "summary": "Blue Origin will launch Google's Project Suncatcher satellites, solar-powered orbiters carrying TPU chips, with the first flight targeted for early 2029.", "source": "Blue Origin", "url": "https://www.blueorigin.com/news/google-selects-new-glenn-for-project-suncatcher"}
+    ]},
+    {"title": "Stargazing", "items": [
+      {"headline": "Tonight in Cavan: mixed, Moon-dominated", "summary": "This run couldn't load a fresh Met Éireann forecast, so check before heading out. A bright waxing gibbous Moon (full on the 24th) rules the evening and sets in the small hours; darkness from about 18:15. Verdict: mixed, good for the Moon and bright planets in any clear breaks, deep-sky only after Moonset.", "source": "Met Éireann", "url": "https://www.met.ie/national-forecast.html"}
+    ]},
+    {"title": "Gaming", "items": [
+      {"headline": "GTA 6 scores 99 on Metacritic, tying Ocarina of Time", "summary": "Rockstar's launch now shares the highest critic average ever, with user scores opening on day two.", "source": "DLCompare", "url": "https://www.dlcompare.com/gaming-news/gta-vi-reaches-gaming-s-highest-peak-with-a-99-metacritic-score-91814"},
+      {"headline": "Day-one revenue estimate climbs to $3.79bn", "summary": "A new estimate puts GTA 6's first-day takings well above yesterday's $2bn figure, cementing it as the biggest entertainment launch on record.", "source": "Shacknews", "url": "https://www.shacknews.com/article/151447/gta-6-revenue-record"},
+      {"headline": "Silent patches and a PSN wobble at launch", "summary": "Rockstar pushed two updates without patch notes, and a PSN outage hit players hours before unlock, though Rockstar's own servers held. Nothing new on the Witcher, Cyberpunk 2 or Borderlands watchlist.", "source": "DLCompare", "url": "https://www.dlcompare.com/gaming-news/gta-6-day-one-patch-two-silent-updates-and-a-psn-outage"}
+    ]},
+    {"title": "BJJ & Grappling", "items": [
+      {"headline": "Polaris 40 tonight: McNally vs Tonon II", "summary": "Irish grappler Sam McNally defends the Polaris lightweight title against Garry Tonon in Southampton, a rematch of McNally's ADCC 2022 upset; main card from 19:00. Otherwise a quiet news day.", "source": "BJJ TV", "url": "https://bjj.tv/garry-tonon-returns-to-polaris-after-nine-years-for-a-lightweight-title-rematch-with-sam-mcnally-the-man-who-beat-him-at-adcc/"}
+    ]},
+    {"title": "MMA", "items": [
+      {"headline": "UFC Qatar tonight: Prochazka vs unbeaten Stirling", "summary": "Former champion Jiri Prochazka can climb back into title contention against 11-0 Navajo Stirling in Doha, with Sterling vs Vallejos and Hooker vs Ortega on the main card (18:00 Irish).", "source": "Heavy", "url": "https://heavy.com/sports/ufc/jiri-prochazka-battles-navajo-stirling-qatar/"}
+    ]}
+  ]
+}

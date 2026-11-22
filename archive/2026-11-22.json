@@ -1,0 +1,43 @@
+{
+  "date": "2026-11-22",
+  "generated": "2026-11-22T06:10:10+00:00",
+  "headline": "Verstappen converts his Vegas pole into victory, Navajo Stirling flattens Prochazka in Doha, and an Nvidia rout drags the AI trade to its worst week in years.",
+  "upcoming": [
+    {"when": "Tue 24 Nov", "what": "Full Moon (bright skies all week)"},
+    {"when": "Sun 29 Nov", "what": "F1 Qatar GP, the penultimate round (time TBC)"},
+    {"when": "Sun 29 Nov", "what": "Cygnus CRS-25 cargo launch to the ISS"},
+    {"when": "Sun 6 Dec", "what": "F1 Abu Dhabi GP, season finale"},
+    {"when": "Fri 11 Dec", "what": "EA UFC 6 PRIDE FC expansion due"}
+  ],
+  "sections": [
+    {"title": "Motorsport", "items": [
+      {"headline": "Verstappen wins in Las Vegas, McLaren double podium", "summary": "Max Verstappen held onto his inherited pole and won, ahead of Norris and Piastri, who recovered from a 10-place grid penalty. Champion Antonelli finished fourth from his penalty-hit start, with the Alpines of Gasly and Colapinto a strong fifth and sixth.", "source": "RaceFans", "url": "https://www.racefans.net/2026/11/22/2026-las-vegas-grand-prix-race-result-and-championship-points/"},
+      {"headline": "Fight for second heats up with two rounds left", "summary": "With Antonelli already crowned, Verstappen is now clear in second on 304 points, while Hamilton (267) edges Russell and Norris, who are tied on 264, for third. Qatar is next weekend.", "source": "The Race", "url": "https://www.the-race.com/formula-1/f1-2026-las-vegas-grand-prix-race-result/"}
+    ]},
+    {"title": "MMA", "items": [
+      {"headline": "Stirling knocks out Prochazka at the end of round two", "summary": "Unbeaten Navajo Stirling stopped former champion Jiri Prochazka with a right hook at 4:58 of the second in Doha, a big statement in the light-heavyweight title picture.", "source": "theScore", "url": "https://www.thescore.com/mma/news/3658960/ufc-qatar-prochazka-vs-stirling-results-analysis"},
+      {"headline": "Vallejos beats Sterling; Ortega retires after Hooker loss", "summary": "Kevin Vallejos took a unanimous decision over Aljamain Sterling in the co-main, and Dan Hooker outpointed Brian Ortega, who announced his retirement afterwards. Horiguchi, Aliskerov and Albazi (by rear-naked choke) also won; no Irish or UK fighters on the card.", "source": "UFC.com", "url": "https://www.ufc.com/news/ufc-qatar-results-prochazka-vs-stirling"}
+    ]},
+    {"title": "Tech", "items": [
+      {"headline": "Nvidia's seven-day slide leads AI sell-off", "summary": "Nvidia fell 14% on Friday, its seventh straight loss and longest losing streak since 2008, as the Nasdaq 100 posted its worst week in over six years on fears of an AI spending slowdown. Reuters also reports the SEC is examining Nvidia's accounting.", "source": "CNBC", "url": "https://www.cnbc.com/2026/11/20/nvidias-7-week-losing-streak-is-longest-since-2008-financial-crisis.html"},
+      {"headline": "Anthropic's IPO pop nearly gone", "summary": "Anthropic's shares closed 8.5% lower on their second day of trading, leaving them only a little above the $83 IPO price as the wider AI trade unwound.", "source": "Bloomberg", "url": "https://www.bloomberg.com/news/articles/2026-11-20/anthropic-share-slump-nearly-erases-ipo-pop-as-ai-trade-unravels"},
+      {"headline": "CrowdStrike in talks to buy Zscaler", "summary": "A deal would create a cybersecurity giant worth around $265bn; Zscaler shares jumped more than 15% after hours on the report.", "source": "Bloomberg", "url": "https://www.bloomberg.com/news/articles/2026-11-20/crowdstrike-is-in-talks-to-buy-cybersecurity-firm-zscaler"},
+      {"headline": "AI routers found leaking API keys", "summary": "Researchers fed canary credentials through AI routing services and found keys being stolen and privacy promises broken, even under zero-retention settings.", "source": "Ars Technica", "url": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/"}
+    ]},
+    {"title": "Science & Space", "items": [
+      {"headline": "AI-aided proof of Navier-Stokes blowup", "summary": "NYU's Tristan Buckmaster and Anthropic's Levent Alpöge published an AI-assisted proof that fluid equations can blow up, which they say closes a gap in an earlier claimed solution. A separate, still-unverified claim of a Riemann hypothesis proof is drawing scrutiny.", "source": "Scientific American", "url": "https://www.scientificamerican.com/article/ai-just-solved-the-real-navier-stokes-problem/"},
+      {"headline": "Quiet weekend for spaceflight", "summary": "No major new mission news since Friday; the next headline event is the Cygnus CRS-25 cargo launch to the ISS on 29 November.", "source": "NASA", "url": "https://www.nasa.gov/2026/11/"}
+    ]},
+    {"title": "Stargazing", "items": [
+      {"headline": "Tonight in Cavan: mixed, Moon-dominated", "summary": "This run couldn't pull a fresh Met Éireann forecast, so check cloud before heading out. A very bright waxing gibbous Moon (full on Tuesday) dominates the evening sky; darkness from about 18:10. Verdict: mixed, fine for the Moon and bright planets in clear breaks, deep-sky only in the hours before dawn after Moonset.", "source": "Met Éireann", "url": "https://www.met.ie/national-forecast.html"}
+    ]},
+    {"title": "Gaming", "items": [
+      {"headline": "GTA 6's $3.79bn launch put in perspective", "summary": "Rockstar's opening haul is nearly five times GTA 5's launch and dwarfs Red Dead Redemption 2's, with reports of 32.5 million copies sold before release.", "source": "GamesRadar", "url": "https://www.gamesradar.com/games/grand-theft-auto/lets-put-gta-6s-usd3-79-billion-launch-into-perspective-gta-5-made-usd800-million-at-launch-and-red-dead-redemption-2-made-usd725-million/"},
+      {"headline": "Bethesda confirms a cat-themed, Fallout-inspired game", "summary": "Bethesda acknowledged the project after it leaked via an Australian Classification Board rating.", "source": "GamesRadar", "url": "https://www.gamesradar.com/games/fallout/bethesda-confirm-a-new-cat-themed-fallout-inspired-adventure-is-on-the-way-after-leaks-from-the-australian-classifications-board/"},
+      {"headline": "Atlus hints the wait after Persona 6 will be shorter", "summary": "The series lead says Persona 6 won't be the end and the studio wants to cut the gap to the next game. Nothing new on the Witcher, Cyberpunk 2 or Borderlands watchlist.", "source": "GamesRadar", "url": "https://www.gamesradar.com/games/persona/persona-6-is-not-the-end-for-the-series-lead-hints-and-atlus-is-working-to-ensure-fans-wont-have-to-wait-as-long-for-the-next-game/"}
+    ]},
+    {"title": "BJJ & Grappling", "items": [
+      {"headline": "Polaris 40: McNally vs Tonon result still to land", "summary": "Irish champion Sam McNally defended his lightweight title against Garry Tonon in Southampton last night, but no confirmed result had been published by the time of this brief. Check Polaris's socials for the outcome.", "source": "Polaris (X)", "url": "https://twitter.com/polarisproevent"}
+    ]}
+  ]
+}

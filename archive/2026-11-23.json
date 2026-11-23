@@ -1,0 +1,48 @@
+{
+  "date": "2026-11-23",
+  "generated": "2026-11-23T06:17:19+00:00",
+  "headline": "Lean's checkers back a Claude-assisted Riemann Hypothesis proof, Garry Tonon submits Sam McNally for Polaris gold, and Ferrari fume after Hamilton and Leclerc collide in Vegas.",
+  "upcoming": [
+    {"when": "Tue 24 Nov", "what": "Full 'Beaver' supermoon, the first of four in a row"},
+    {"when": "Sun 29 Nov", "what": "F1 Qatar GP, 16:00 Irish time (qualifying Sat 18:00, not a sprint weekend)"},
+    {"when": "Sun 29 Nov", "what": "Cygnus CRS-25 launch to the ISS on Falcon 9, 15:47 Irish time"},
+    {"when": "Thu 3 Dec", "what": "Rayman Legends Retold (PC, PS5, Xbox, Switch 2)"},
+    {"when": "Sat 5 Dec", "what": "UFC Riyadh: Adesanya vs Magomedov, plus Ian Machado Garry vs Amosov (main card ~18:00 Irish)"},
+    {"when": "Sun 6 Dec", "what": "F1 Abu Dhabi GP season finale, 13:00 Irish time"}
+  ],
+  "sections": [
+    {"title": "Tech", "items": [
+      {"headline": "Report: China's spy agency helped firms get banned Nvidia chips", "summary": "The New York Times reports China's Ministry of State Security ran an effort to help Chinese companies obtain restricted AI chips, while the WSJ traced a smuggling route from Southeast Asia. It adds pressure to the China-sales probes already hanging over Nvidia.", "source": "New York Times", "url": "https://www.nytimes.com/2026/11/21/world/asia/china-nvidia-spy-chips-state-security.html"},
+      {"headline": "Amazon closing in on $7.5bn Decart deal", "summary": "Amazon is reportedly near a deal for Decart, maker of real-time generative video models and efficiency software that could help run AI workloads on Amazon's Trainium chips. The price has crept up from about $7bn when talks first surfaced in October.", "source": "Financial Times", "url": "https://www.ft.com/content/dc7749dc-0f40-44a6-80bc-7f747d383616"},
+      {"headline": "AI server makers seek price rises on signed contracts", "summary": "Suppliers are asking customers to pay more even on deals already agreed, as memory and component costs keep climbing. Another sign the AI hardware squeeze is hitting prices.", "source": "Financial Times", "url": "https://www.ft.com/content/dd2a6594-6146-4ff1-ac8e-54749c1fc99f"},
+      {"headline": "Industrial: AI is shortening attack planning against control systems", "summary": "Security experts say AI tools are cutting the time needed to plan cyberattacks on industrial control systems. Separately, the chip supply chain warns new US export rules now reach consumer chips too.", "source": "Financial Times", "url": "https://www.ft.com/content/3cf882c6-0be6-43f5-b01e-b6f765686c8b"}
+    ]},
+    {"title": "Science & Space", "items": [
+      {"headline": "Claude-assisted Riemann Hypothesis proof passes formal checks", "summary": "Anthropic mathematician Levent Alpöge says he and Claude found a proof of the Riemann Hypothesis, released as roughly 175,000 Lean files. Over the weekend the Lean kernel and independent checkers reportedly accepted it, though mathematicians note an unreadable proof explains little about why it's true.", "source": "Kingy AI", "url": "https://kingy.ai/blog/levent-alpoge-claude-riemann-hypothesis-proof/"},
+      {"headline": "Cygnus CRS-25 still on for Sunday", "summary": "Northrop Grumman's Cygnus is targeting 15:47 Irish time on Sunday 29 Nov aboard a Falcon 9, carrying about 5 tonnes of science and supplies to the ISS. Otherwise a quiet weekend for spaceflight.", "source": "NASA via Space Launch Schedule", "url": "https://www.spacelaunchschedule.com/space-news/nasa-sets-coverage-for-northrop-grumman-crs-25-launch-prelaunch/"},
+      {"headline": "Why atom-based quantum computers may fix errors more easily", "summary": "A look at why neutral-atom machines, with qubits held in laser traps, could have an edge on error correction over rival designs.", "source": "New York Times", "url": "https://www.nytimes.com/2026/11/20/science/quantum-computer-neutral-atoms.html"}
+    ]},
+    {"title": "Stargazing", "items": [
+      {"headline": "Tonight in Cavan: poor, rain and a near-full Moon", "summary": "Overcast with rain likely all evening (90%+ after 18:00) and gusty south-easterlies; sunset is 16:22. Even with gaps, the almost-full supermoon near the Pleiades will wash out faint objects. Try Tuesday's full Moon instead, or check for breaks before dawn as rain clears from the northwest.", "source": "Meteoblue", "url": "https://www.meteoblue.com/en/weather/week/cavan_ireland_2965535"}
+    ]},
+    {"title": "Gaming", "items": [
+      {"headline": "Binding of Isaac update pulled AI-generated music", "summary": "A new update shipped with AI-generated tracks, which have been removed; Edmund McMillen says he's investigating how they got in.", "source": "GamesRadar+", "url": "https://www.gamesradar.com/games/roguelike/the-binding-of-isaac-removes-ai-generated-music-from-new-update-and-designer-edmund-mcmillen-is-looking-into-how-that-happened/"},
+      {"headline": "GTA 6 hits 60fps via an Xbox Series X glitch", "summary": "Players found a quirk that unlocks 60fps on Series X, with the catch that some animations run at double speed.", "source": "GamesRadar+", "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-at-60fps-is-actually-possible-thanks-to-an-xbox-series-x-glitch-but-you-might-need-to-stomach-double-speed-animations-too/"},
+      {"headline": "Désilets gives an update on witch game 1666 Amsterdam", "summary": "The Assassin's Creed creator wants to do for witches what he did for assassins. Nothing new on the watchlist (Witcher 4, Cyberpunk 2, Witcher 3, Borderlands 4) this weekend.", "source": "GamesRadar+", "url": "https://www.gamesradar.com/games/rpg/lets-do-with-witches-what-i-did-with-assassins-patrice-desilets-assassins-creed-pioneer-on-ongoing-making-of-1666-amsterdam/"}
+    ]},
+    {"title": "BJJ & Grappling", "items": [
+      {"headline": "Tonon kimuras Sam McNally to win Polaris title", "summary": "On his first Polaris appearance in nine years, Garry Tonon submitted Sam McNally in round one at Polaris 40 in Southampton, avenging his ADCC 2022 loss, then called out Ryan Hall.", "source": "BJJ TV", "url": "https://bjj.tv/garry-tonon-submits-sam-mcnally-with-a-first-round-kimura-to-win-the-polaris-lightweight-title-on-his-return-after-nine-years/"},
+      {"headline": "Rest of Polaris 40: Andrey edges Ozbek", "summary": "Fabricio Andrey beat Christian Ozbek on a decision, Espen Mathiesen heel-hooked Sam Gibson and Phil Harris triangled Vaughan Lee. Next big event: IBJJF No-Gi Worlds, 10-12 Dec.", "source": "Yahoo Sports", "url": "https://sports.yahoo.com/articles/garry-tonon-returns-polaris-first-215715825.html"}
+    ]},
+    {"title": "MMA", "items": [
+      {"headline": "Ian Machado Garry faces Amosov in Riyadh on 5 Dec", "summary": "No UFC card this weekend; next up is Adesanya vs Shara Magomedov in Riyadh, where Garry (No. 1 welterweight) meets Yaroslav Amosov. Prelims about 15:00 and main card about 18:00 Irish time.", "source": "UFC.com", "url": "https://www.ufc.com/event/ufc-fight-night-december-05-2026"},
+      {"headline": "Qatar winners make their call-outs", "summary": "Kevin Vallejos wants Alexander Volkanovski next, while Joaquin Buckley is urging Navajo Stirling to chase Carlos Ulberg on the way to a title shot.", "source": "LowKick MMA", "url": "https://www.lowkickmma.com/kevin-vallejos-wants-alexander-volkanovski-next-reveals-backup-plan-if-the-great-moves-up/"},
+      {"headline": "UFC cuts Chikadze, Gomis and Silva de Andrade", "summary": "Giga Chikadze goes after four straight losses; William Gomis's release, at 5-2 in the UFC, is the surprise.", "source": "Cageside Press", "url": "https://cagesidepress.com/2026/11/22/chikadze-gomis-among-latest-fighters-gone-from-ufc"}
+    ]},
+    {"title": "Motorsport", "items": [
+      {"headline": "Ferrari furious after Hamilton and Leclerc collide", "summary": "Fred Vasseur called the intra-team clash in Las Vegas unacceptable, and Leclerc said he was embarrassed for the team. Post-race, Hadjar was penalised for backing up Russell and Perez takes a grid drop for Qatar.", "source": "Autosport", "url": "https://www.autosport.com/f1/news/hadjar-penalised-after-backing-up-russell-in-las-vegas-gp-perez-given-grid-drop-for-qatar-gp/10876867/"},
+      {"headline": "Haas keeps Camara for the last two races", "summary": "Rafael Camara stays in the Haas for Qatar and Abu Dhabi, giving up his F2 title fight; he's already signed for 2027.", "source": "Autosport", "url": "https://www.autosport.com/f1/news/haas-keeps-rafael-camara-in-f1-ending-his-2026-f2-title-bid/10877044/"},
+      {"headline": "2030 V8 rules to cap engine customers at two teams", "summary": "More detail on F1's planned V8 return: each manufacturer would supply no more than two teams. Quiet on the GT and endurance front this weekend.", "source": "Autosport", "url": "https://www.autosport.com/f1/news/f1-set-to-reduce-customer-teams-as-key-2030-details-emerge/10877058/"}
+    ]}
+  ]
+}

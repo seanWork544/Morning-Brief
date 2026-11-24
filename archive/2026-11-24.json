@@ -1,0 +1,45 @@
+{
+  "date": "2026-11-24",
+  "generated": "2026-11-24T06:16:01+00:00",
+  "headline": "Nvidia reinstates Jensen Huang and the stock rockets, CrowdStrike swallows Zscaler for $44bn, and Cyberpunk 2's director sets pulses racing with a 'cancelled' quip.",
+  "upcoming": [
+    {"when": "Tue 24 Nov", "what": "Full 'Beaver' supermoon tonight, the first of four in a row"},
+    {"when": "Sun 29 Nov", "what": "F1 Qatar GP, 16:00 Irish time (qualifying Sat 18:00, not a sprint weekend)"},
+    {"when": "Sun 29 Nov", "what": "Cygnus CRS-25 launch to the ISS on Falcon 9, 15:47 Irish time"},
+    {"when": "Thu 3 Dec", "what": "Rayman Legends Retold (PC, PS5, Xbox, Switch 2)"},
+    {"when": "Sat 5 Dec", "what": "UFC Riyadh: Adesanya vs Magomedov, plus Ian Machado Garry vs Amosov (main card ~18:00 Irish)"},
+    {"when": "Sun 6 Dec", "what": "F1 Abu Dhabi GP season finale, 13:00 Irish time"}
+  ],
+  "sections": [
+    {"title": "Tech", "items": [
+      {"headline": "Nvidia board reinstates Jensen Huang as CEO", "summary": "After a review found no national security risk, Nvidia's board restored Huang as CEO, president and director, and the stock reportedly closed up around 31%. He is due to testify publicly before US senators on 3 December.", "source": "Nvidia Newsroom", "url": "https://nvidianews.nvidia.com/news/nvidia-board-reinstates-jensen-huang-as-president-ceo-and-board-director"},
+      {"headline": "CrowdStrike agrees ~$44bn all-stock deal for Zscaler", "summary": "One of the biggest security deals ever pairs CrowdStrike's endpoint business with Zscaler's cloud network security, a notable shake-up for enterprise networking.", "source": "Bloomberg", "url": "https://www.bloomberg.com/news/articles/2026-11-23/crowdstrike-reaches-44-billion-cybersecurity-deal-for-zscaler"},
+      {"headline": "Amazon confirms Decart deal, reportedly ~$7.5bn", "summary": "Following yesterday's reports, Amazon is taking much of Decart, including its AI optimisation stack and founding team.", "source": "Bloomberg", "url": "https://www.bloomberg.com/news/articles/2026-11-23/amazon-is-said-to-pay-7-5-billion-for-ai-startup-decart-s-tech"},
+      {"headline": "Industrial: HPE revenue up 50%, Myriota raises for satellite IoT", "summary": "HPE's Q4 revenue jumped to $14.5bn on AI servers and networking, though a cautious forecast knocked shares 6% after hours. Separately, Australia's Myriota raised about $40m for low-power satellite links for industrial sensors.", "source": "Bloomberg", "url": "https://www.bloomberg.com/news/articles/2026-11-23/hpe-gives-forecast-that-falls-short-of-most-optimistic-estimates"}
+    ]},
+    {"title": "Science & Space", "items": [
+      {"headline": "Cygnus CRS-25 on track for Sunday", "summary": "Northrop Grumman's cargo ship is still targeting 15:47 Irish time on Sunday 29 Nov on a Falcon 9 with about 5 tonnes of supplies for the ISS. A quiet start to the week otherwise.", "source": "Space Launch Schedule", "url": "https://www.spacelaunchschedule.com/space-news/nasa-sets-coverage-for-northrop-grumman-crs-25-launch-prelaunch/"},
+      {"headline": "Weekly roundup of space news", "summary": "A catch-up on the past week's launches and missions for anything you missed.", "source": "Yahoo / Florida Today", "url": "https://tech.yahoo.com/science/articles/321-launch-space-news-may-121201186.html"}
+    ]},
+    {"title": "Stargazing", "items": [
+      {"headline": "Tonight in Cavan: mixed, clearing late under a full supermoon", "summary": "Mostly cloudy with a ~25% shower risk early evening, turning partly cloudy after about 21:00 with light winds and around 5°C; sunset about 16:20. Best window is late evening onwards for the full 'Beaver' supermoon, but its glare will drown faint targets. Wednesday looks foggy.", "source": "Meteoblue", "url": "https://www.meteoblue.com/en/weather/week/cavan_ireland_2965535"}
+    ]},
+    {"title": "Gaming", "items": [
+      {"headline": "Cyberpunk 2 director posts that the game is 'cancelled'", "summary": "The sequel's director wrote it was cancelled while describing a GTA 6-induced open-world slump. The wording reads as wry rather than an announcement, and CD Projekt Red hasn't confirmed anything, so treat it with caution.", "source": "GamesRadar+", "url": "https://www.gamesradar.com/games/grand-theft-auto/cyberpunk-2-is-cancelled-says-the-rpgs-director-after-entering-a-gta-6-induced-open-world-game-dev-depression/"},
+      {"headline": "Witcher 4: Ciri is more hot-headed than Geralt", "summary": "A CD Projekt Red lead says playing as Ciri puts you closer to the story through her own perspective.", "source": "GamesRadar+", "url": "https://www.gamesradar.com/games/the-witcher/ciri-in-the-witcher-4-is-far-more-hot-headed-than-geralt-cd-projekt-red-lead-says-and-you-are-much-more-deeply-involved-in-the-story-through-her-personal-perspective/"},
+      {"headline": "Steam Awards nominate The Witcher 3 among decade's best", "summary": "This year's Steam Awards include a best-of-the-decade category, with The Witcher 3 up against Baldur's Gate 3, Elden Ring and Silksong.", "source": "GamesRadar+", "url": "https://www.gamesradar.com/games/baldurs-gate-3-silksong-elden-ring-and-more-greats-compete-in-the-2026-steam-awards-for-1-game-of-the-past-10-years/"},
+      {"headline": "Xbox Project Helix was once pitched to run Steam games", "summary": "A report says Microsoft's next console started as a PC-like box with Steam support and free online play before that design was dropped. Nothing new on Borderlands 4 today.", "source": "GamesRadar+", "url": "https://www.gamesradar.com/hardware/xbox-project-helix-was-reportedly-planned-to-run-steam-games-and-have-free-online-multiplayer-but-microsoft-scrapped-its-initial-pc-like-design/"}
+    ]},
+    {"title": "BJJ & Grappling", "items": [
+      {"headline": "Quiet after Polaris 40; No-Gi Worlds next", "summary": "Little new since Garry Tonon's Polaris title win at the weekend. Next big date is the IBJJF No-Gi Worlds, 10-12 December.", "source": "BJJ TV", "url": "https://bjj.tv/garry-tonon-submits-sam-mcnally-with-a-first-round-kimura-to-win-the-polaris-lightweight-title-on-his-return-after-nine-years/"}
+    ]},
+    {"title": "MMA", "items": [
+      {"headline": "Quiet Monday; Ian Machado Garry vs Amosov is next", "summary": "No major new announcements found overnight and no UFC card this weekend. Next up is UFC Riyadh on 5 Dec, where Garry meets Amosov on the Adesanya vs Magomedov card.", "source": "UFC.com", "url": "https://www.ufc.com/event/ufc-fight-night-december-05-2026"}
+    ]},
+    {"title": "Motorsport", "items": [
+      {"headline": "Vegas fallout: Verstappen hits out at Russell", "summary": "Verstappen's post-race comments about George Russell drew wide reaction, while Leclerc apologised for his clash with Hamilton.", "source": "RacingNews365", "url": "https://racingnews365.com/max-verstappen-destroys-george-russell-as-charles-leclerc-apologises-international-media-reacts"},
+      {"headline": "Ferrari plans changes before Qatar", "summary": "After the team-mate collision, Ferrari is reportedly reworking how it runs its drivers, with Qatar up this Sunday at 16:00 Irish time.", "source": "RacingNews365", "url": "https://racingnews365.com/ferrari-plan-changes-as-george-russell-issued-max-verstappen-warning-racingnews365-review"},
+      {"headline": "Formula E hit by Stellantis pulling Opel and Citroën", "summary": "Stellantis is withdrawing two brands from Formula E, leaving the series scrambling. Quiet on the GT and endurance front.", "source": "RacingNews365", "url": "https://racingnews365.com/formula-e-responds-after-stellantis-pulls-plug-on-opel-and-citroen"}
+    ]}
+  ]
+}

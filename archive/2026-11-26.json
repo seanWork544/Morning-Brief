@@ -1,0 +1,44 @@
+{
+  "date": "2026-11-26",
+  "generated": "2026-11-26T06:14:52+00:00",
+  "headline": "Williams and Alpine are caught breaking F1's cost cap days before Qatar, the AI chip sell-off briefly knocks 4% off the Nasdaq, and SpaceX gets the nod for data centres in orbit.",
+  "upcoming": [
+    {"when": "Sun 29 Nov", "what": "F1 Qatar GP, 16:00 Irish time (qualifying Sat 18:00)"},
+    {"when": "Sun 29 Nov", "what": "Cygnus CRS-25 launch to the ISS on Falcon 9, ~15:47 Irish time"},
+    {"when": "Thu 3 Dec", "what": "Rayman Legends Retold (PC, PS5, Xbox, Switch 2)"},
+    {"when": "Sat 5 Dec", "what": "UFC Riyadh: Adesanya vs Magomedov, plus Ian Machado Garry vs Amosov (prelims 15:00, main card 18:00 Irish)"},
+    {"when": "Sun 6 Dec", "what": "F1 Abu Dhabi GP season finale, 13:00 Irish time"},
+    {"when": "10-12 Dec", "what": "IBJJF No-Gi World Championship"}
+  ],
+  "sections": [
+    {"title": "Tech", "items": [
+      {"headline": "AI chip sell-off briefly drags Nasdaq down 4%", "summary": "Nvidia, AMD and Micron led a sharp midday rout on renewed doubts about the AI trade and sticky inflation, before markets clawed back most of the losses by the close.", "source": "The Motley Fool", "url": "https://fool.com/coverage/stock-market-today/2026/11/25/stock-market-midday-nov-25-nasdaq-plunges-4-as-ai-sell-off-deepens-and-inflation-remains-stubborn"},
+      {"headline": "SpaceX cleared to put data centres in orbit", "summary": "US regulators approved SpaceX's plan for a huge constellation of space-based data centres, a historic filing covering up to a million satellites, as the AI compute race heads skyward.", "source": "Bloomberg", "url": "https://www.bloomberg.com/news/articles/2026-11-25/spacex-receives-government-approval-to-launch-space-data-centers"},
+      {"headline": "Roundup: everything else in AI yesterday", "summary": "A quieter day for launches after the Anthropic IPO wobble; this digest rounds up the smaller model and product news from 25 November.", "source": "The Neuron", "url": "https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-november-25-2026/"}
+    ]},
+    {"title": "Science & Space", "items": [
+      {"headline": "FCC approval opens door to million-satellite SpaceX network", "summary": "The same approval is a big deal for astronomers too: a constellation on that scale would dwarf Starlink and raise fresh concerns about satellite streaks and orbital crowding.", "source": "The Motley Fool", "url": "https://www.fool.com/coverage/stock-market-today/2026/11/25/stock-market-today-nov-25-spacex-gets-historic-fcc-approval-for-1-million-satellites-is-this-its-next-growth-engine/"},
+      {"headline": "Space Force launch caps a busy day in orbit", "summary": "A US Space Force mission rounded off a packed 25 November for launches; the briefing has the full rundown.", "source": "Orbital Radar", "url": "https://orbitalradar.com/blog/orbital-briefing-2026-11-25"},
+      {"headline": "Cygnus CRS-25 still set for Sunday", "summary": "Northrop Grumman's ISS cargo run on Falcon 9 remains targeted for around 15:47 Irish time on 29 November.", "source": "Space Launch Schedule", "url": "https://www.spacelaunchschedule.com/launch/falcon-9-block-5-cygnus-crs-2-ng-25/"}
+    ]},
+    {"title": "Stargazing", "items": [
+      {"headline": "Tonight in Cavan: poor for deep-sky, moon still dominant", "summary": "Sunset is around 16:20 with full darkness by about 18:15, but a bright waning gibbous moon (roughly 90% lit) rises in the early evening and washes out faint targets. The cloud forecast couldn't be retrieved this morning, so check Met Éireann; if skies clear, the best window is roughly 18:15-19:30 before the moon climbs, with Jupiter rising in the east later.", "source": "Met Éireann", "url": "https://www.met.ie/forecasts/cavan"}
+    ]},
+    {"title": "Gaming", "items": [
+      {"headline": "Cyberpunk 2 development ramps up at CDPR", "summary": "CD Projekt says more staff are moving onto the Cyberpunk sequel, and insists GTA 6's success hasn't changed its ambitions for the project.", "source": "Kotaku", "url": "https://kotaku.com/cyberpunk-2-cd-projekt-red-the-witcher-4-sirius-gta6-rockstar-2001000233"},
+      {"headline": "Witcher 3 engagement at 'historic' highs after remaster", "summary": "CDPR's Q3 numbers show the Witcher 3 remaster driving record player engagement, even as overall revenue fell sharply with Cyberpunk 2077 sales cooling.", "source": "This Week in Video Games", "url": "https://thisweekinvideogames.com/news/cd-projekt-notes-historical-high-witcher-engagement-playstation-marketing-partnership-for-witcher-4/"}
+    ]},
+    {"title": "BJJ & Grappling", "items": [
+      {"headline": "Still quiet; No-Gi Worlds 10-12 December", "summary": "No major results or announcements in the last couple of days. The IBJJF No-Gi World Championship is the next big date.", "source": "IBJJF", "url": "https://ibjjf.com/events/world-ibjjf-jiu-jitsu-no-gi-championship-2026"}
+    ]},
+    {"title": "MMA", "items": [
+      {"headline": "Josh Thomson calls Machado Garry 'boring' ahead of Riyadh", "summary": "The former fighter turned pundit took aim at the Irishman's style before his 5 December bout with Yaroslav Amosov on the Adesanya vs Magomedov card.", "source": "MMA Sucka", "url": "https://mmasucka.com/news/hes-boring-as-fk-josh-thomson-slams-ian-machado-garrys-fighting-style-ahead-of-ufc-riyadh"},
+      {"headline": "No UFC this weekend", "summary": "The UFC is off over 28-29 November; Riyadh on 5 December is next, main card around 18:00 Irish.", "source": "UFC", "url": "https://www.ufc.com/news/ufc-returns-to-saudi-arabia-middleweight-showdown-between-israel-adesanya-shara-magomedov"}
+    ]},
+    {"title": "Motorsport", "items": [
+      {"headline": "Williams and Alpine found in breach of the F1 cost cap", "summary": "The FIA ruled both teams overspent under the budget cap and issued sanctions, landing just days before the Qatar GP.", "source": "RacingNews365", "url": "https://racingnews365.com/two-f1-teams-found-in-breach-of-fia-cost-cap"},
+      {"headline": "Alpine explains its overspend", "summary": "The team set out what caused its breach as the FIA confirmed its penalty; Williams also issued a statement on its own sanction.", "source": "RacingNews365", "url": "https://racingnews365.com/alpine-reveal-cause-of-f1-cost-cap-breach"},
+      {"headline": "Lawson sets a 'very strong' target after keeping his seat", "summary": "With his Racing Bulls future secured, Liam Lawson has laid out big goals for next season. Qatar race is Sunday at 16:00 Irish.", "source": "RacingNews365", "url": "https://racingnews365.com/liam-lawson-sets-very-strong-racing-bulls-goal-after-securing-f1-future"}
+    ]}
+  ]
+}

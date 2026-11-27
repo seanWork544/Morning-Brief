@@ -1,0 +1,176 @@
+{
+  "date": "2026-11-27",
+  "generated": "2026-11-27T06:17:01+00:00",
+  "headline": "Qatar GP practice starts today with Antonelli already crowned and a three-way scrap for P3, SAP lines up 10,000 AI-era job cuts, and CDPR promises The Witcher 4 lands on every platform at once.",
+  "upcoming": [
+    {
+      "when": "Sat 28 Nov",
+      "what": "F1 Qatar GP qualifying 18:00 Irish (FP1 today 13:30, FP2 17:00); Cage Warriors at the BEC Arena, Manchester"
+    },
+    {
+      "when": "Sun 29 Nov",
+      "what": "F1 Qatar GP, 16:00 Irish; Cygnus NG-25 to the ISS on Falcon 9, 15:47 Irish"
+    },
+    {
+      "when": "Thu 3 Dec",
+      "what": "Warhammer 40,000: Dawn of War IV (PC), Rayman Legends Retold, Thief remaster"
+    },
+    {
+      "when": "Sat 5 Dec",
+      "what": "UFC Riyadh: Adesanya vs Magomedov, plus Ian Machado Garry vs Amosov; Cage Warriors 216 Newcastle"
+    },
+    {
+      "when": "Sun 6 Dec",
+      "what": "F1 Abu Dhabi GP season finale, 13:00 Irish (qualifying Sat 14:00)"
+    },
+    {
+      "when": "10-12 Dec",
+      "what": "The Game Awards (expected Thu 10 Dec); IBJJF No-Gi Worlds, Las Vegas"
+    }
+  ],
+  "sections": [
+    {
+      "title": "Tech",
+      "items": [
+        {
+          "headline": "SAP weighs cutting at least 10,000 jobs in AI overhaul",
+          "summary": "Europe's biggest software company is reportedly preparing one of the largest tech layoffs of the year as it restructures around AI.",
+          "source": "Bloomberg",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-26/sap-weighs-cutting-at-least-10-000-positions-in-ai-restructuring"
+        },
+        {
+          "headline": "Nvidia halts server shipments to four Southeast Asian countries",
+          "summary": "After reports that top Nvidia chips reached Chinese-linked firms, the company has reportedly told partners to pause shipments to four countries in the region, adding to export-control pressure.",
+          "source": "Financial Times",
+          "url": "https://www.ft.com/content/7838a715-07d4-4605-aa60-21f5af2b2370"
+        },
+        {
+          "headline": "1Password breached via an employee's GitHub account",
+          "summary": "Attackers pushed malicious code into 1Password's backend through a compromised staff account; the company says customer vaults and passwords were not exposed.",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/25/1password-said-hackers-broke-into-its-internal-systems-but-customer-passwords-are-safe/"
+        },
+        {
+          "headline": "OpenAI fixes GPT-6.2 metering bug, so limits arrive sooner",
+          "summary": "A launch bug had been under-counting usage; now it's corrected, paying ChatGPT users could burn through their allowance up to 40% faster.",
+          "source": "TechRadar",
+          "url": "https://www.techradar.com/ai-platforms-assistants/chatgpt/weve-fixed-this-now-so-the-same-work-will-use-more-of-your-plans-usage-allowance-openai-admits-it-made-a-mistake-when-launching-gpt-6-2-and-now-paying-chatgpt-users-could-hit-their-usage-limits-up-to-40-percent-faster"
+        }
+      ]
+    },
+    {
+      "title": "Science & Space",
+      "items": [
+        {
+          "headline": "A single positron trapped and cooled near absolute zero",
+          "summary": "Northwestern physicists held one antimatter electron in a wall-free trap, setting up an ultra-precise comparison with the electron to probe why matter beat antimatter.",
+          "source": "ScienceDaily",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261124055849.htm"
+        },
+        {
+          "headline": "Possible primordial black hole caught by microlensing",
+          "summary": "A brief brightening of a star in the Large Magellanic Cloud points to an unseen object about three Moon-masses, possibly a black hole from the early universe; a rogue planet isn't ruled out and the work isn't yet peer-reviewed.",
+          "source": "ScienceDaily",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261122060346.htm"
+        },
+        {
+          "headline": "Cygnus NG-25 still go for Sunday",
+          "summary": "Northrop Grumman's ISS cargo run on Falcon 9 remains on for 15:47 Irish time on 29 November, with no scrubs so far.",
+          "source": "Space Launch Schedule",
+          "url": "https://www.spacelaunchschedule.com/launch/falcon-9-block-5-cygnus-crs-2-ng-25/"
+        }
+      ]
+    },
+    {
+      "title": "Stargazing",
+      "items": [
+        {
+          "headline": "Tonight in Cavan: mixed, clear spells but a bright Moon",
+          "summary": "A mostly dry, sunny Friday should leave clear, cold spells tonight. Sunset is around 16:15 and the waning gibbous Moon (~85% lit) rises in the early evening, so aim for roughly 17:00-18:30 for darker skies. Saturn sits low in the south; deep-sky is a washout once the Moon is up.",
+          "source": "Extra.ie (Met Éireann forecast)",
+          "url": "https://extra.ie/2026/11/26/news/wind-rain-forecast"
+        }
+      ]
+    },
+    {
+      "title": "Gaming",
+      "items": [
+        {
+          "headline": "The Witcher 4 will launch on all platforms on the same day",
+          "summary": "Despite a new PlayStation marketing deal, CDPR says PS5, Xbox and PC all get The Witcher 4 at once; no word on Switch 2.",
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/11/no-one-gets-left-behind-cdpr-on-the-witcher-4-releasing-for-all-platforms-at-the-same-time"
+        },
+        {
+          "headline": "Space Marine 2's free Decimation update is out",
+          "summary": "Adds a weekly PvP Clash mode, a new Chaos Siege sector and free cosmetics and weapons across PC, PS5 and Xbox.",
+          "source": "Simulation Daily",
+          "url": "https://simulationdaily.com/news/today-in-gaming-news-november-26-2026"
+        },
+        {
+          "headline": "Dawn of War IV painter demo lands ahead of 3 Dec launch",
+          "summary": "A free Steam demo lets you design army colour schemes for all four factions, which carry over into the full game. Black Friday sales are live today too.",
+          "source": "Simulation Daily",
+          "url": "https://simulationdaily.com/news/today-in-gaming-news-november-26-2026"
+        }
+      ]
+    },
+    {
+      "title": "BJJ & Grappling",
+      "items": [
+        {
+          "headline": "Red Bull signs its first jiu-jitsu athlete",
+          "summary": "UAE black belt Khaled Alshehi, a 21-year-old AJP Grand Slam champion at 62kg, becomes the brand's first BJJ signing. Otherwise a quiet week before No-Gi Worlds (10-12 Dec).",
+          "source": "BJJEE",
+          "url": "https://www.bjjee.com/bjj-news/red-bull-signs-its-first-brazilian-jiu-jitsu-athlete/"
+        }
+      ]
+    },
+    {
+      "title": "MMA",
+      "items": [
+        {
+          "headline": "No UFC this weekend; Riyadh then UFC 335 next",
+          "summary": "The UFC takes Thanksgiving off. Riyadh on 5 December (Adesanya vs Magomedov, Machado Garry vs Amosov) is next, then Oliveira vs Lopes for the BMF belt at UFC 335 on 12 December.",
+          "source": "Yahoo Sports",
+          "url": "https://sports.yahoo.com/mma/articles/ufc-thanksgiving-weekend-164500970.html"
+        },
+        {
+          "headline": "Cage Warriors heads to Manchester on Saturday",
+          "summary": "The weekend's main card for UK and Irish fans is at the BEC Arena, CW's third Manchester show of the year, with Newcastle following on 5 December.",
+          "source": "Cage Warriors",
+          "url": "https://cagewarriors.com/?p=24898"
+        },
+        {
+          "headline": "2026: the UFC's year of the upset",
+          "summary": "A year-end look at the biggest underdog wins, headed by Justin Gaethje's stunning win over Ilia Topuria.",
+          "source": "SB Nation via Yahoo",
+          "url": "https://sports.yahoo.com/mma/articles/2026-ufc-upset-220000087.html"
+        }
+      ]
+    },
+    {
+      "title": "Motorsport",
+      "items": [
+        {
+          "headline": "Qatar GP weekend: what we learned on media day",
+          "summary": "Russell owned his over-ambitious Vegas move, Mercedes tweaked Antonelli's software after his energy woes, Leclerc denied number-one status at Ferrari and Haas confirmed Bearman for 2027. FP1 is 13:30 Irish today.",
+          "source": "The Race",
+          "url": "https://www.the-race.com/formula-1/everything-we-learned-on-day-one-of-f1s-2026-qatar-grand-prix/"
+        },
+        {
+          "headline": "Champion decided, but P3 is a three-way fight",
+          "summary": "Antonelli has the title wrapped up on 402 points; behind Verstappen, Hamilton, Russell and Norris are split by just three points with two races left.",
+          "source": "ESPN",
+          "url": "https://www.espn.com/f1/table"
+        },
+        {
+          "headline": "Wolff expects a 'fierce' Qatar after Vegas misfire",
+          "summary": "Mercedes want to break Red Bull's three-year winning streak at Lusail after a messy Las Vegas left both cars short of what they were capable of.",
+          "source": "RacingNews365",
+          "url": "https://racingnews365.com/toto-wolff-issues-fierce-mercedes-prediction-ahead-of-unique-f1-weekend"
+        }
+      ]
+    }
+  ]
+}

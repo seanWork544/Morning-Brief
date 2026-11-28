@@ -1,0 +1,65 @@
+{
+  "date": "2026-11-28",
+  "generated": "2026-11-28T06:11:48+00:00",
+  "headline": "Mercedes lock out the top of Qatar practice ahead of tonight's qualifying, a Pakistani astronaut becomes Tiangong's first foreign visitor, and CDPR's Witcher 3 Remastered patch 5.02 fixes vanishing inventories while nerfing Sign builds.",
+  "upcoming": [
+    {"when": "Sat 28 Nov", "what": "F1 Qatar GP qualifying, 18:00 Irish; Cage Warriors double-header weekend incl. Manchester (BEC Arena)"},
+    {"when": "Sun 29 Nov", "what": "F1 Qatar GP, 16:00 Irish; Cygnus NG-25 to the ISS on Falcon 9, 15:47 Irish (backup Mon 15:24)"},
+    {"when": "Thu 3 Dec", "what": "Warhammer 40,000: Dawn of War IV (PC), Rayman Legends Retold, Thief remaster"},
+    {"when": "Sat 5 Dec", "what": "UFC Riyadh: Adesanya vs Magomedov, plus Ian Machado Garry vs Amosov; ADCC Latin America Championship"},
+    {"when": "Sun 6 Dec", "what": "F1 Abu Dhabi GP season finale, 13:00 Irish (qualifying Sat 14:00)"},
+    {"when": "10-12 Dec", "what": "IBJJF No-Gi Worlds, Las Vegas; The Game Awards (expected Thu 10 Dec); Silksong 'Sea of Sorrow' free expansion Fri 11 Dec; UFC 335 Oliveira vs Lopes Sat 12 Dec"}
+  ],
+  "sections": [
+    {
+      "title": "Tech",
+      "items": [
+        {"headline": "Chip curbs are slowing China's frontier AI labs", "summary": "Z.AI's next flagship model has reportedly slipped into 2027 and Moonshot AI dropped a planned Blackwell deal in Indonesia, as US export controls and a crackdown on model distillation bite.", "source": "Reuters", "url": "https://www.reuters.com/world/china/us-chip-curbs-distillation-crackdown-threaten-chinese-ai-model-development-2026-11-26/"},
+        {"headline": "Huawei teases its own high-bandwidth AI memory", "summary": "Huawei previewed a next-gen HBM chip aimed squarely at Samsung and SK Hynix, part of China's push to build its AI supply chain at home.", "source": "Bloomberg", "url": "https://www.bloomberg.com/news/articles/2026-11-26/huawei-teases-next-gen-ai-memory-chip-to-take-on-samsung-hynix"},
+        {"headline": "DRAM shortage has electronics makers running 'war rooms'", "summary": "Manufacturers are scouring brokers and even eBay for memory as prices spike; SK hynix warns 2027 will be the tightest year, with new fabs not arriving until 2028. Bad news for anyone planning a PC build.", "source": "Tom's Hardware", "url": "https://tomshardware.com/pc-components/dram/electronics-manufacturers-set-up-memory-war-rooms-to-find-lock-in-dram-supplies-amid-worst-shortage-in-history-employees-scour-ebay-contact-hundreds-of-brokers-and-snap-up-even-small-batches-of-just-5-to-12-units"},
+        {"headline": "Apple pulls MiniMax's Talkie chatbot app worldwide", "summary": "The AI companion app was removed from the App Store after an investigation found it sent inappropriate messages to minors; it remains on Google Play and the web for now.", "source": "Reuters", "url": "https://reuters.com/business/retail-consumer/apple-pulls-minimax-ai-chatbot-app-store-over-child-safety-concerns-2026-11-26"}
+      ]
+    },
+    {
+      "title": "Science & Space",
+      "items": [
+        {"headline": "Shenzhou-24 docks with Tiangong carrying its first foreign astronaut", "summary": "China launched two of its own astronauts plus Pakistan's Zeeshan Ali on 25 November, making him the first international visitor to the Chinese space station.", "source": "NBC News", "url": "https://www.nbcnews.com/world/china/china-shenzhou-24-spacecraft-docks-space-station-foreign-astronaut-rcna611251"},
+        {"headline": "Cygnus NG-25 polled 'go' for Sunday, weather 60% favourable", "summary": "ISS managers cleared the Falcon 9 cargo launch for 15:47 Irish time on Sunday; thick cloud is the main worry. Aboard is about 5 tonnes of kit, including NASA's first space crop-production chamber.", "source": "GSM Global News (NASA ISS blog)", "url": "https://gsmglobalnews.com/article/d20261127-gap1812-ng25go1.html"}
+      ]
+    },
+    {
+      "title": "Stargazing",
+      "items": [
+        {"headline": "Tonight in Cavan: mixed, catch the early-evening gap", "summary": "Met Éireann has the day's rain clearing east, leaving dry spells and clear patches this evening before showers (possibly with hail) push in from the west overnight. Sunset is about 16:15 and the waning gibbous Moon (~81% lit) rises around early evening, so roughly 17:00-18:30 is the window; Saturn low in the south is the easy target.", "source": "Extra.ie (Met Éireann forecast)", "url": "https://extra.ie/2026/11/27/news/black-ice-warnings-temperature"}
+      ]
+    },
+    {
+      "title": "Gaming",
+      "items": [
+        {"headline": "Witcher 3 Remastered patch 5.02: inventory fix and Sign nerfs", "summary": "CDPR's latest update fixes a mod-related bug that could wipe inventories and merchant stock, stops NG+ Aerondight damage resetting and tones down Sign-heavy builds, across PC, PS5, Xbox and Switch 2. No word yet on restoring lost items.", "source": "Player.One", "url": "https://www.player.one/witcher-3-remastered-patch-502-fixes-lost-inventories-aerondight-damage-resets-while-nerfing-164663"},
+        {"headline": "Silksong's free 'Sea of Sorrow' expansion lands 11 December", "summary": "Team Cherry dated the free add-on with new islands, underwater caverns, bosses and tools, coming to every platform including Game Pass.", "source": "Player.One", "url": "https://www.player.one/hollow-knight-silksongs-free-sea-sorrow-expansion-launches-december-11-new-islands-bosses-164669"}
+      ]
+    },
+    {
+      "title": "BJJ & Grappling",
+      "items": [
+        {"headline": "Quiet week; No-Gi Worlds is the next big date", "summary": "No major results since Polaris 40. The IBJJF Mundial No-Gi in Las Vegas (10-12 Dec) closes the IBJJF year, with ADCC Latin America on 5 Dec first.", "source": "FloGrappling", "url": "https://www.flograppling.com/articles/16459071-mundial-no-gi-2026-astros-garantem-presenca-em-las-vegas"}
+      ]
+    },
+    {
+      "title": "MMA",
+      "items": [
+        {"headline": "Du Plessis: Adesanya's Riyadh fight could be his last", "summary": "Ahead of next Saturday's main event with Shara Magomedov, Dricus du Plessis said Adesanya's legacy is safe whatever happens.", "source": "Sherdog", "url": "https://www.sherdog.com/news/news/Israel-Adesanyas-next-UFC-fight-could-be-his-last-says-Dricus-du-Plessis-203756"},
+        {"headline": "UFC 336 in Toronto adds a heavyweight bout", "summary": "Javad Mahjoub vs RJ Harris joins a card topped by Joshua Van vs Manel Kape for flyweight gold and Morales vs Prates.", "source": "MMA Junkie", "url": "https://mmajunkie.usatoday.com/story/sports/ufc/2026/11/27/ufc-336-rj-harris-vs-javad-mahjoub-toronto/92978698007/"},
+        {"headline": "Cage Warriors double-header this weekend", "summary": "No UFC tonight, but Cage Warriors runs two cards this weekend including Manchester's BEC Arena; Davies vs Vucenic is among the featured fights.", "source": "Sherdog", "url": "https://www.sherdog.com/videos/recent/Cage-Warriors-doubleheader-Davies-vs-Vucenic-betting-breakdown-23984"}
+      ]
+    },
+    {
+      "title": "Motorsport",
+      "items": [
+        {"headline": "Antonelli tops red-flagged Qatar FP2 as Mercedes go 1-2 again", "summary": "The champion led Russell by 0.127s, with Norris, Piastri and Verstappen next; Leclerc's gravel-strewing spin and Gasly beaching his Alpine brought two red flags and 13 extra minutes. Qualifying is 18:00 Irish tonight.", "source": "Formula1.com", "url": "https://www.formula1.com/en/latest/article/fp2-antonelli-tops-extended-second-practice-from-russell-and-norris-in-qatar.6jAa2kcIAVqOPHW30oipfm"},
+        {"headline": "Hamilton loses power, Alonso back after illness", "summary": "Hamilton's Ferrari stopped late in FP2, triggering a VSC, which won't help his defence of P3 over Russell and Norris. Alonso returned to his Aston after missing media day with a virus.", "source": "Speedcafe", "url": "https://speedcafe.com/f1-news-2026-qatar-grand-prix-fp2-practice-results-mercedes-kimi-antonelli-george-russell/"}
+      ]
+    }
+  ]
+}
